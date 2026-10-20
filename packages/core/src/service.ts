@@ -277,8 +277,12 @@ export class Service {
   view(attemptId: string) {
     const attempt = this.getAttempt(attemptId);
     if (!attempt) throw new Error('Attempt not found');
-    const reveal = attempt.status !== 'in_progress' || (attempt.mode !== 'exam' && attempt.config.immediateFeedback);
-    return { attempt, items: this.getItems(attemptId).map((it) => this.present(it, reveal)), responses: this.getResponses(attemptId) };
+    const responses = this.getResponses(attemptId);
+    const answered = new Set(responses.filter((r) => r.chosen).map((r) => r.position));
+    const done = attempt.status !== 'in_progress';
+    const immediate = attempt.mode !== 'exam' && attempt.config.immediateFeedback;
+    // Reveal everything once submitted; in immediate-feedback modes reveal only items already answered.
+    return { attempt, items: this.getItems(attemptId).map((it) => this.present(it, done || (immediate && answered.has(it.position)))), responses };
   }
 
   /** Record (or update) a response. In fidelity mode a chosen answer cannot change. */

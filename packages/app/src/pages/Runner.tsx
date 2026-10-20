@@ -38,7 +38,7 @@ export default function Runner() {
   const total = items.length;
   const current = items.find((i) => i.position === pos) ?? items[0];
   const curResp = current ? responses.get(current.position) : undefined;
-  const curReveal = current ? (reveals[current.position] ?? current.reveal ?? null) : null;
+  const curReveal = current && curResp?.chosen ? (reveals[current.position] ?? current.reveal ?? null) : null;
 
   const elapsed = () => { const d = Date.now() - shownAt.current; shownAt.current = Date.now(); return d; };
 

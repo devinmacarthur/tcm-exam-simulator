@@ -76,11 +76,17 @@ describe('Service attempts', () => {
   it('study mode reveals explanations immediately, keyed by presented letters', () => {
     const s = svc.createAttempt('study', { count: 5, minutes: null, fidelity: false, preferUnseen: true, immediateFeedback: true, subdomains: ['II-f'] });
     const it = s.items[0]!;
+    // Nothing is revealed before the learner answers.
+    expect(svc.view(s.attempt.id).items.every((i) => i.reveal === undefined)).toBe(true);
     const r = svc.respond(s.attempt.id, 1, { chosen: 'A' });
     expect(r.reveal).toBeDefined();
     expect(r.reveal!.correct).toBe(it.presentedCorrect);
     expect(Object.keys(r.reveal!.distractorExplanations).sort()).toEqual((['A', 'B', 'C', 'D'] as OptionKey[]).filter((k) => k !== it.presentedCorrect));
-    expect(svc.view(s.attempt.id).items.every((i) => i.subdomain === 'II-f')).toBe(true);
+    const v = svc.view(s.attempt.id);
+    expect(v.items.every((i) => i.subdomain === 'II-f')).toBe(true);
+    // Only the answered item is revealed on reload.
+    expect(v.items[0]!.reveal).toBeDefined();
+    expect(v.items.slice(1).every((i) => i.reveal === undefined)).toBe(true);
   });
 
   it('auto-submits expired timed attempts and marks them timed out', () => {

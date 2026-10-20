@@ -43,54 +43,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose B (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -147,54 +147,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose A (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -251,54 +251,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose A (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -354,54 +354,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose C (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -458,54 +458,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose A (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -562,54 +562,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose C (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -666,54 +666,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose D (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -770,54 +770,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose B (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -874,54 +874,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose D (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -978,54 +978,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose C (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -1082,54 +1082,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose C (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -1179,54 +1179,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose B (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -1283,54 +1283,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose A (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -1387,54 +1387,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose B (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -1482,54 +1482,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose A (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -1586,54 +1586,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose D (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -1689,54 +1689,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose A (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -1792,54 +1792,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose C (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -1895,54 +1895,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose D (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -1991,54 +1991,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose B (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -2087,54 +2087,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose C (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -2189,54 +2189,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose B (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -2292,54 +2292,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose A (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -2389,54 +2389,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose C (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -2486,54 +2486,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose D (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -2582,54 +2582,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose B (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -2685,54 +2685,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose B (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -2788,54 +2788,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose C (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -2891,54 +2891,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose D (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -2994,54 +2994,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose A (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -3098,54 +3098,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose C (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -3202,54 +3202,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose A (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -3306,54 +3306,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose B (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -3410,54 +3410,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose D (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -3514,54 +3514,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose B (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -3613,58 +3613,59 @@
       }
     ],
     "validation": {
-      "status": "needs_revision",
+      "status": "ai_reviewed",
       "passes": {
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
-          "note": "independent solver chose D (medium)"
+          "date": "2026-10-20T03:59:34.651Z",
+          "note": "independent solver chose D (high)"
         },
         "coherence": {
-          "ok": false,
+          "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
-          "note": "B (Dampness) is arguable: muzzy/heavy head, chest oppression, greasy coating, slippery pulse and a swollen tongue all occur in Dampness; only dizziness and finger numbness tip it to non-substantial Phlegm. Add a more Phlegm-specific sign or remove shared Damp features."
+          "date": "2026-10-20T03:59:34.651Z",
+          "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
-          "ok": false,
+          "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z",
+          "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -3721,54 +3722,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose A (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -3825,54 +3826,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose C (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -3929,54 +3930,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose A (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -4033,54 +4034,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose C (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -4137,54 +4138,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose A (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -4234,54 +4235,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose D (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -4330,54 +4331,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose B (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -4434,54 +4435,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose A (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -4538,54 +4539,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose C (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -4642,54 +4643,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose D (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -4746,54 +4747,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose C (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -4850,54 +4851,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose B (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -4954,54 +4955,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose A (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -5050,54 +5051,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose C (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   },
@@ -5154,54 +5155,54 @@
         "schema": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "uniqueness": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "distractors": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "relevance": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "difficulty": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "duplication": {
           "ok": true,
           "by": "auto",
-          "date": "2026-10-20T03:59:07.410Z"
+          "date": "2026-10-20T03:59:34.651Z"
         },
         "blindSolve": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent solver chose D (high)"
         },
         "coherence": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "no coherence concern raised by independent reviewer"
         },
         "factual": {
           "ok": true,
           "by": "ai",
-          "date": "2026-10-20T03:59:07.410Z",
+          "date": "2026-10-20T03:59:34.651Z",
           "note": "independent reviewer agreed with key and raised no concern"
         }
       }
     },
-    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "lastReviewedAt": "2026-10-20T03:59:34.651Z",
     "version": 1,
     "createdAt": "2026-10-20T03:58:21.330Z"
   }
