@@ -10,7 +10,7 @@ Continuous log. Newest entries at top.
 
 **Architecture pivot mid-build.** Operator asked to host on GitHub and drop Anthropic integration. Rebuilt the data layer so the whole app runs client-side: `@fom/core` Service over a `DbLike` SQLite interface, node:sqlite for tools/tests and sql.js + IndexedDB in the browser. Static build deploys to GitHub Pages via `.github/workflows/deploy.yml` (HashRouter, `BASE_PATH`). No API keys anywhere.
 
-**Bank.** 14 writer slices (Fable first; a Fable session rate limit cut 7 writers off mid-slice, so the gaps were re-commissioned to Opus). 500 drafts on disk. Blind review (Pass 8) by separate Opus sessions: first 393 items → 380/380 key agreement, 9 concerns → revised → re-reviewed → 2 further revisions → all clear → promoted as `ai_reviewed`. The last 107 (I-C, II-f) are structurally validated and awaiting blind review. Zero `human_approved` — the app says so wherever it matters.
+**Bank.** 14 writer slices (Fable first; a Fable session rate limit cut 7 writers off mid-slice, so the gaps were re-commissioned to Opus). 500 drafts. Blind review (Pass 8) by separate Opus sessions in six rounds: 500/500 key agreement; 14 "second option arguable" concerns, each revised and re-reviewed until clear (two Zang Fu items needed the parent-pattern distractor replaced with a clearly wrong sibling). Final audit: 500 `ai_reviewed`, 0 duplicates, 0 ambiguity warnings, 0 blueprint gaps, exam pool fills a 100-item form in every subdomain. Zero `human_approved` — the app says so wherever it matters.
 
 **Tests:** 49 passing (vitest). Browser smoke test via Playwright MCP found one real bug (study mode revealed explanations before answering) — fixed with a regression test.
 
