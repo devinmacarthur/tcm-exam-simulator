@@ -1,0 +1,5 @@
+[
+  { "id": "FOM-IC-0046", "answer": "C", "confidence": "high", "concern": "" },
+  { "id": "FOM-IIf-0043", "answer": "C", "confidence": "medium", "concern": "A (Kidney Yang deficiency) is nested inside C and arguable as the root pattern; C is best only because palpitations, breathlessness and watery sputum on lying flat show water overflowing to Heart and Lung." },
+  { "id": "FOM-IIf-0053", "answer": "D", "confidence": "medium", "concern": "B is arguable: Maciocia lists daybreak diarrhea under Kidney Yang deficiency alone, and B is nested inside D; D wins only on the added Spleen signs (poor appetite, post-prandial distension, tiredness)." }
+]
