@@ -23,15 +23,84 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["spleen-yang-deficiency", "spleen-qi-deficiency", "cold-damp-invading-spleen"],
+    "concepts": [
+      "spleen-yang-deficiency",
+      "spleen-qi-deficiency",
+      "cold-damp-invading-spleen"
+    ],
     "distinction": {
-      "between": ["spleen-yang-deficiency", "cold-damp-invading-spleen"],
+      "between": [
+        "spleen-yang-deficiency",
+        "cold-damp-invading-spleen"
+      ],
       "key": "Pain relieved by pressure with a deep, weak pulse marks deficiency Cold (warm Yang); pain worse with pressure with a full slippery pulse and thick greasy coating marks excess Cold-Damp (dispel Cold, dry Dampness)."
     },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Spleen patterns; Principles of treatment" },
-      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Zang-Fu" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Spleen patterns; Principles of treatment"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Zang-Fu"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0002",
@@ -57,15 +126,84 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "application",
     "vignette": true,
-    "concepts": ["spleen-qi-sinking", "spleen-qi-deficiency", "raise-the-yang"],
+    "concepts": [
+      "spleen-qi-sinking",
+      "spleen-qi-deficiency",
+      "raise-the-yang"
+    ],
     "distinction": {
-      "between": ["spleen-qi-sinking", "spleen-qi-deficiency"],
+      "between": [
+        "spleen-qi-sinking",
+        "spleen-qi-deficiency"
+      ],
       "key": "A bearing-down sensation or organ prolapse on top of general Spleen Qi deficiency calls for adding the principle of raising the Yang."
     },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Spleen patterns" },
-      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Zang-Fu" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Spleen patterns"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Zang-Fu"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0003",
@@ -91,15 +229,84 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["spleen-not-controlling-blood", "spleen-qi-deficiency", "blood-heat"],
+    "concepts": [
+      "spleen-not-controlling-blood",
+      "spleen-qi-deficiency",
+      "blood-heat"
+    ],
     "distinction": {
-      "between": ["spleen-not-controlling-blood", "blood-heat"],
+      "between": [
+        "spleen-not-controlling-blood",
+        "blood-heat"
+      ],
       "key": "Pale, thin, chronic bleeding with a pale tongue and weak pulse is Qi failing to hold Blood; profuse bright red bleeding with a red tongue and rapid pulse is Heat forcing Blood out."
     },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Spleen patterns" },
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Zang-Fu syndrome differentiation" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Spleen patterns"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Zang-Fu syndrome differentiation"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0004",
@@ -125,15 +332,84 @@
     "difficulty": "advanced",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["cold-damp-invading-spleen", "spleen-yang-deficiency", "damp-heat-in-spleen"],
+    "concepts": [
+      "cold-damp-invading-spleen",
+      "spleen-yang-deficiency",
+      "damp-heat-in-spleen"
+    ],
     "distinction": {
-      "between": ["cold-damp-invading-spleen", "spleen-yang-deficiency"],
+      "between": [
+        "cold-damp-invading-spleen",
+        "spleen-yang-deficiency"
+      ],
       "key": "Acute onset, pain worse with pressure, a thick greasy white coating, and a slippery (full) pulse mark excess Cold-Damp to be dispelled; chronic course, pain relieved by pressure, and a weak pulse mark Yang deficiency to be warmed and tonified."
     },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Spleen patterns" },
-      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Zang-Fu" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Spleen patterns"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Zang-Fu"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0005",
@@ -159,11 +435,76 @@
     "difficulty": "foundational",
     "cognitiveLevel": "application",
     "vignette": true,
-    "concepts": ["liver-qi-stagnation", "wiry-pulse"],
+    "concepts": [
+      "liver-qi-stagnation",
+      "wiry-pulse"
+    ],
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Liver patterns" },
-      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Zang-Fu" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Liver patterns"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Zang-Fu"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0006",
@@ -189,15 +530,84 @@
     "difficulty": "advanced",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["liver-yang-rising", "liver-kidney-yin-deficiency", "liver-fire-blazing"],
+    "concepts": [
+      "liver-yang-rising",
+      "liver-kidney-yin-deficiency",
+      "liver-fire-blazing"
+    ],
     "distinction": {
-      "between": ["liver-yang-rising", "liver-fire-blazing"],
+      "between": [
+        "liver-yang-rising",
+        "liver-fire-blazing"
+      ],
       "key": "A red tongue with little coating and a thin wiry pulse mark Yang rising from Yin deficiency (nourish Yin, subdue Yang); a red tongue with a thick yellow coating and a full rapid wiry pulse marks Liver Fire (clear Fire)."
     },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Liver patterns" },
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Zang-Fu syndrome differentiation" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Liver patterns"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Zang-Fu syndrome differentiation"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0007",
@@ -223,15 +633,84 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["liver-fire-blazing", "liver-yang-rising", "full-heat"],
+    "concepts": [
+      "liver-fire-blazing",
+      "liver-yang-rising",
+      "full-heat"
+    ],
     "distinction": {
-      "between": ["liver-fire-blazing", "liver-yang-rising"],
+      "between": [
+        "liver-fire-blazing",
+        "liver-yang-rising"
+      ],
       "key": "A thick dry yellow coating with a full rapid pulse and constipation points to Fire to be cleared; a tongue with little coating and a thin pulse points to Yang rising from Yin deficiency to be nourished and subdued."
     },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Liver patterns" },
-      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Zang-Fu" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Liver patterns"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Zang-Fu"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0008",
@@ -257,15 +736,84 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["liver-blood-deficiency", "liver-yin-deficiency", "thin-pulse"],
+    "concepts": [
+      "liver-blood-deficiency",
+      "liver-yin-deficiency",
+      "thin-pulse"
+    ],
     "distinction": {
-      "between": ["liver-blood-deficiency", "liver-yin-deficiency"],
+      "between": [
+        "liver-blood-deficiency",
+        "liver-yin-deficiency"
+      ],
       "key": "A pale tongue with no Heat signs indicates Blood deficiency (nourish Blood); a red tongue with little coating plus Empty Heat signs indicates Yin deficiency (nourish Yin, clear Empty Heat)."
     },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Liver patterns" },
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Zang-Fu syndrome differentiation" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Liver patterns"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Zang-Fu syndrome differentiation"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0009",
@@ -291,15 +839,84 @@
     "difficulty": "advanced",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["liver-wind", "liver-blood-deficiency", "extreme-heat-generating-wind"],
+    "concepts": [
+      "liver-wind",
+      "liver-blood-deficiency",
+      "extreme-heat-generating-wind"
+    ],
     "distinction": {
-      "between": ["liver-wind-from-blood-deficiency", "liver-wind-from-yang-rising"],
+      "between": [
+        "liver-wind-from-blood-deficiency",
+        "liver-wind-from-yang-rising"
+      ],
       "key": "A pale thin tongue with a thin pulse and fine tremor shows Wind from Blood deficiency (nourish Blood); a red tongue with a forceful wiry pulse and violent movement shows Wind from Yang rising (nourish Yin, subdue Yang)."
     },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Liver patterns" },
-      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Zang-Fu" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Liver patterns"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Zang-Fu"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0010",
@@ -325,15 +942,84 @@
     "difficulty": "advanced",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["liver-invading-spleen", "liver-qi-stagnation", "spleen-qi-deficiency"],
+    "concepts": [
+      "liver-invading-spleen",
+      "liver-qi-stagnation",
+      "spleen-qi-deficiency"
+    ],
     "distinction": {
-      "between": ["liver-invading-spleen", "liver-qi-stagnation"],
+      "between": [
+        "liver-invading-spleen",
+        "liver-qi-stagnation"
+      ],
       "key": "Bowel changes and digestive weakness (pale tongue, weak right pulse) added to a Liver Qi stagnation picture mean the Spleen must be strengthened alongside soothing the Liver."
     },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Combined patterns of the Internal Organs" },
-      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Zang-Fu" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Combined patterns of the Internal Organs"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Zang-Fu"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0011",
@@ -359,15 +1045,84 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["liver-gallbladder-damp-heat", "liver-fire-blazing", "greasy-yellow-coating"],
+    "concepts": [
+      "liver-gallbladder-damp-heat",
+      "liver-fire-blazing",
+      "greasy-yellow-coating"
+    ],
     "distinction": {
-      "between": ["liver-gallbladder-damp-heat", "liver-fire-blazing"],
+      "between": [
+        "liver-gallbladder-damp-heat",
+        "liver-fire-blazing"
+      ],
       "key": "A greasy yellow coating with heaviness and jaundice signals Dampness combined with Heat; a dry yellow coating with red eyes and headache signals Fire alone."
     },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Liver patterns; Gallbladder patterns" },
-      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Zang-Fu" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Liver patterns; Gallbladder patterns"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Zang-Fu"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0012",
@@ -393,15 +1148,84 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["heart-blood-deficiency", "heart-yin-deficiency", "calm-the-shen"],
+    "concepts": [
+      "heart-blood-deficiency",
+      "heart-yin-deficiency",
+      "calm-the-shen"
+    ],
     "distinction": {
-      "between": ["heart-blood-deficiency", "heart-yin-deficiency"],
+      "between": [
+        "heart-blood-deficiency",
+        "heart-yin-deficiency"
+      ],
       "key": "A pale tongue with no Empty Heat signs points to Blood deficiency; a red peeled tongue with night sweats and five-palm heat points to Yin deficiency."
     },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Heart patterns" },
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Zang-Fu syndrome differentiation" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Heart patterns"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Zang-Fu syndrome differentiation"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0013",
@@ -427,15 +1251,84 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["heart-yin-deficiency", "empty-heat", "heart-fire-blazing"],
+    "concepts": [
+      "heart-yin-deficiency",
+      "empty-heat",
+      "heart-fire-blazing"
+    ],
     "distinction": {
-      "between": ["heart-yin-deficiency", "heart-fire-blazing"],
+      "between": [
+        "heart-yin-deficiency",
+        "heart-fire-blazing"
+      ],
       "key": "A red tongue with no coating and a thin rapid pulse means Empty Heat from Yin deficiency (nourish Yin); a red tongue with a yellow coating and a full rapid pulse means Full Fire (clear Fire)."
     },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Heart patterns" },
-      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Zang-Fu" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Heart patterns"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Zang-Fu"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0014",
@@ -461,15 +1354,84 @@
     "difficulty": "advanced",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["heart-fire-blazing", "small-intestine-heat", "bladder-damp-heat"],
+    "concepts": [
+      "heart-fire-blazing",
+      "small-intestine-heat",
+      "bladder-damp-heat"
+    ],
     "distinction": {
-      "between": ["heart-fire-transmitted-to-small-intestine", "bladder-damp-heat"],
+      "between": [
+        "heart-fire-transmitted-to-small-intestine",
+        "bladder-damp-heat"
+      ],
       "key": "Tongue-tip ulcers, agitation, and an overflowing pulse preceding the urinary burning show Heat coming from the Heart; a greasy coating with urgency and turbid urine and no Heart signs shows Damp-Heat lodged in the Bladder."
     },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Heart patterns; Small Intestine patterns" },
-      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Zang-Fu" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Heart patterns; Small Intestine patterns"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Zang-Fu"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (medium)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0015",
@@ -495,15 +1457,84 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["heart-yang-deficiency", "heart-qi-deficiency", "heart-blood-stasis"],
+    "concepts": [
+      "heart-yang-deficiency",
+      "heart-qi-deficiency",
+      "heart-blood-stasis"
+    ],
     "distinction": {
-      "between": ["heart-yang-deficiency", "heart-qi-deficiency"],
+      "between": [
+        "heart-yang-deficiency",
+        "heart-qi-deficiency"
+      ],
       "key": "Cold signs (cold limbs, bright pale complexion, deep pulse) added to Heart Qi deficiency indicate Yang deficiency and call for warming."
     },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Heart patterns" },
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Zang-Fu syndrome differentiation" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Heart patterns"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Zang-Fu syndrome differentiation"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0016",
@@ -529,15 +1560,84 @@
     "difficulty": "advanced",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["phlegm-heat-harassing-heart", "phlegm-misting-heart", "heart-fire-blazing"],
+    "concepts": [
+      "phlegm-heat-harassing-heart",
+      "phlegm-misting-heart",
+      "heart-fire-blazing"
+    ],
     "distinction": {
-      "between": ["phlegm-heat-harassing-heart", "phlegm-misting-heart"],
+      "between": [
+        "phlegm-heat-harassing-heart",
+        "phlegm-misting-heart"
+      ],
       "key": "Agitation with a yellow sticky coating and a rapid pulse means Phlegm with Heat (clear Heat as well as resolve Phlegm); dullness with a white sticky coating and a non-rapid slippery pulse means Phlegm without Heat."
     },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Heart patterns" },
-      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Zang-Fu" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Heart patterns"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Zang-Fu"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0017",
@@ -563,15 +1663,84 @@
     "difficulty": "advanced",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["heart-kidney-not-harmonized", "kidney-yin-deficiency", "heart-yin-deficiency"],
+    "concepts": [
+      "heart-kidney-not-harmonized",
+      "kidney-yin-deficiency",
+      "heart-yin-deficiency"
+    ],
     "distinction": {
-      "between": ["heart-kidney-not-harmonized", "heart-fire-blazing"],
+      "between": [
+        "heart-kidney-not-harmonized",
+        "heart-fire-blazing"
+      ],
       "key": "Lower back and knee weakness, tinnitus, and a peeled tongue with weak rear pulse positions show the Heart Heat is Empty and rooted in Kidney Yin deficiency, so Yin must be nourished rather than Fire drained."
     },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Combined patterns of the Internal Organs" },
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Zang-Fu syndrome differentiation" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Combined patterns of the Internal Organs"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Zang-Fu syndrome differentiation"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0018",
@@ -597,11 +1766,77 @@
     "difficulty": "foundational",
     "cognitiveLevel": "application",
     "vignette": true,
-    "concepts": ["lung-qi-deficiency", "empty-pulse", "consolidate-the-exterior"],
+    "concepts": [
+      "lung-qi-deficiency",
+      "empty-pulse",
+      "consolidate-the-exterior"
+    ],
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Lung patterns" },
-      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Zang-Fu" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Lung patterns"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Zang-Fu"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0019",
@@ -627,15 +1862,84 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["lung-yin-deficiency", "empty-heat", "lung-dryness"],
+    "concepts": [
+      "lung-yin-deficiency",
+      "empty-heat",
+      "lung-dryness"
+    ],
     "distinction": {
-      "between": ["lung-yin-deficiency", "lung-dryness-external"],
+      "between": [
+        "lung-yin-deficiency",
+        "lung-dryness-external"
+      ],
       "key": "A chronic course with night sweats, five-palm heat, and a red peeled tongue indicates interior Yin deficiency; an acute course with mild exterior signs and a floating pulse indicates external Dryness."
     },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Lung patterns" },
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Zang-Fu syndrome differentiation" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Lung patterns"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Zang-Fu syndrome differentiation"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0020",
@@ -661,15 +1965,84 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["phlegm-heat-in-lung", "damp-phlegm-in-lung", "wind-heat-invading-lung"],
+    "concepts": [
+      "phlegm-heat-in-lung",
+      "damp-phlegm-in-lung",
+      "wind-heat-invading-lung"
+    ],
     "distinction": {
-      "between": ["phlegm-heat-in-lung", "damp-phlegm-in-lung"],
+      "between": [
+        "phlegm-heat-in-lung",
+        "damp-phlegm-in-lung"
+      ],
       "key": "Yellow sputum with a yellow sticky coating, fever, and a rapid pulse mean Heat must be cleared along with Phlegm; white sputum with a white sticky coating and no rapid pulse mean Dampness is dried and Phlegm resolved without clearing Heat."
     },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Lung patterns" },
-      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Zang-Fu" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Lung patterns"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Zang-Fu"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0021",
@@ -695,15 +2068,84 @@
     "difficulty": "advanced",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["kidney-yang-deficiency", "water-overflowing", "spleen-qi-deficiency"],
+    "concepts": [
+      "kidney-yang-deficiency",
+      "water-overflowing",
+      "spleen-qi-deficiency"
+    ],
     "distinction": {
-      "between": ["kidney-yang-deficiency-water-overflowing", "kidney-qi-not-firm"],
+      "between": [
+        "kidney-yang-deficiency-water-overflowing",
+        "kidney-qi-not-firm"
+      ],
       "key": "Scanty urine with edema shows Yang failing to transform water (warm Yang, resolve water); copious or dribbling urine shows Qi failing to hold (consolidate Kidney Qi)."
     },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Kidney patterns" },
-      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Zang-Fu" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Kidney patterns"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Zang-Fu"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0022",
@@ -729,15 +2171,84 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["kidney-yin-deficiency", "empty-heat", "kidney-yang-deficiency"],
+    "concepts": [
+      "kidney-yin-deficiency",
+      "empty-heat",
+      "kidney-yang-deficiency"
+    ],
     "distinction": {
-      "between": ["kidney-yin-deficiency", "kidney-yang-deficiency"],
+      "between": [
+        "kidney-yin-deficiency",
+        "kidney-yang-deficiency"
+      ],
       "key": "Night sweats, afternoon heat, scanty dark urine, and a red peeled tongue with a thin rapid pulse mean Yin deficiency to nourish; cold back, abundant clear urine, and a pale tongue with a deep slow pulse mean Yang deficiency to warm."
     },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Kidney patterns" },
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Zang-Fu syndrome differentiation" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Kidney patterns"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Zang-Fu syndrome differentiation"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0023",
@@ -763,15 +2274,84 @@
     "difficulty": "advanced",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["kidney-qi-not-firm", "kidney-yang-deficiency", "spleen-qi-sinking"],
+    "concepts": [
+      "kidney-qi-not-firm",
+      "kidney-yang-deficiency",
+      "spleen-qi-sinking"
+    ],
     "distinction": {
-      "between": ["kidney-qi-not-firm", "kidney-yang-deficiency"],
+      "between": [
+        "kidney-qi-not-firm",
+        "kidney-yang-deficiency"
+      ],
       "key": "Leakage of clear urine without marked Cold signs or edema calls for consolidating Kidney Qi; cold back and limbs with edema and scanty urine call for warming Kidney Yang."
     },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Kidney patterns" },
-      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Zang-Fu" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Kidney patterns"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Zang-Fu"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0024",
@@ -797,15 +2377,84 @@
     "difficulty": "advanced",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["kidney-not-receiving-qi", "lung-qi-deficiency", "kidney-yang-deficiency"],
+    "concepts": [
+      "kidney-not-receiving-qi",
+      "lung-qi-deficiency",
+      "kidney-yang-deficiency"
+    ],
     "distinction": {
-      "between": ["kidney-not-receiving-qi", "lung-qi-deficiency"],
+      "between": [
+        "kidney-not-receiving-qi",
+        "lung-qi-deficiency"
+      ],
       "key": "Difficulty on inhalation with lower back soreness, frequent clear urination, and a deep weak pulse places the root in the Kidney; a weak cough and voice with susceptibility to colds and an empty pulse places it in the Lung."
     },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Kidney patterns" },
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Zang-Fu syndrome differentiation" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Kidney patterns"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Zang-Fu syndrome differentiation"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0025",
@@ -831,15 +2480,84 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["stomach-yin-deficiency", "stomach-fire", "peeled-coating"],
+    "concepts": [
+      "stomach-yin-deficiency",
+      "stomach-fire",
+      "peeled-coating"
+    ],
     "distinction": {
-      "between": ["stomach-yin-deficiency", "stomach-fire"],
+      "between": [
+        "stomach-yin-deficiency",
+        "stomach-fire"
+      ],
       "key": "Hunger without desire to eat and a peeled red center with a thin pulse mean Yin deficiency (nourish Yin); ravenous hunger with a thick dry yellow coating and a full rapid pulse mean Full Fire (clear Fire)."
     },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Stomach patterns" },
-      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Zang-Fu" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Stomach patterns"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Zang-Fu"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0026",
@@ -865,11 +2583,77 @@
     "difficulty": "foundational",
     "cognitiveLevel": "application",
     "vignette": true,
-    "concepts": ["stomach-fire", "full-heat", "stomach-yin-deficiency"],
+    "concepts": [
+      "stomach-fire",
+      "full-heat",
+      "stomach-yin-deficiency"
+    ],
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Stomach patterns" },
-      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Zang-Fu" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Stomach patterns"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Zang-Fu"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0027",
@@ -895,11 +2679,77 @@
     "difficulty": "foundational",
     "cognitiveLevel": "application",
     "vignette": true,
-    "concepts": ["large-intestine-damp-heat", "greasy-yellow-coating", "slippery-pulse"],
+    "concepts": [
+      "large-intestine-damp-heat",
+      "greasy-yellow-coating",
+      "slippery-pulse"
+    ],
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Large Intestine patterns" },
-      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Zang-Fu" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Large Intestine patterns"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Zang-Fu"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0028",
@@ -925,15 +2775,84 @@
     "difficulty": "advanced",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["large-intestine-dryness", "blood-deficiency", "choppy-pulse"],
+    "concepts": [
+      "large-intestine-dryness",
+      "blood-deficiency",
+      "choppy-pulse"
+    ],
     "distinction": {
-      "between": ["blood-deficiency-constipation", "heat-constipation"],
+      "between": [
+        "blood-deficiency-constipation",
+        "heat-constipation"
+      ],
       "key": "Dry stools with a pale dry tongue, a thin choppy pulse, and no thirst or abdominal distension mean the Intestines lack Blood and moisture; dry stools with a red tongue, dry yellow coating, thirst, and a full pulse mean Heat is consuming Fluids."
     },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Large Intestine patterns" },
-      { "source": "Maclean, Lyttleton, Bayley, Taylor, Clinical Handbook of Internal Medicine, 2nd ed.", "locator": "Constipation" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Large Intestine patterns"
+      },
+      {
+        "source": "Maclean, Lyttleton, Bayley, Taylor, Clinical Handbook of Internal Medicine, 2nd ed.",
+        "locator": "Constipation"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0029",
@@ -959,15 +2878,84 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "application",
     "vignette": true,
-    "concepts": ["bladder-damp-heat", "kidney-yin-deficiency", "greasy-yellow-coating"],
+    "concepts": [
+      "bladder-damp-heat",
+      "kidney-yin-deficiency",
+      "greasy-yellow-coating"
+    ],
     "distinction": {
-      "between": ["bladder-damp-heat", "kidney-yin-deficiency"],
+      "between": [
+        "bladder-damp-heat",
+        "kidney-yin-deficiency"
+      ],
       "key": "Acute burning, urgent, cloudy urination with a greasy yellow root coating and a slippery pulse is Damp-Heat to be cleared; chronic scanty dark urine with a peeled tongue and a thin pulse is Yin deficiency to be nourished."
     },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Bladder patterns" },
-      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Zang-Fu" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Bladder patterns"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Zang-Fu"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0030",
@@ -993,15 +2981,84 @@
     "difficulty": "advanced",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["liver-fire-insulting-lung", "insulting-cycle", "lung-yin-deficiency"],
+    "concepts": [
+      "liver-fire-insulting-lung",
+      "insulting-cycle",
+      "lung-yin-deficiency"
+    ],
     "distinction": {
-      "between": ["liver-fire-insulting-lung", "lung-yin-deficiency"],
+      "between": [
+        "liver-fire-insulting-lung",
+        "lung-yin-deficiency"
+      ],
       "key": "A cough that flares with anger, with hypochondrial pain, red tongue sides, and a wiry rapid pulse, is driven by Liver Fire; a chronic dry cough with night sweats and a peeled tongue is Lung Yin deficiency."
     },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Combined patterns of the Internal Organs" },
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Zang-Fu syndrome differentiation" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Combined patterns of the Internal Organs"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Zang-Fu syndrome differentiation"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0031",
@@ -1027,15 +3084,84 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["qi-stagnation", "blood-stasis", "wiry-pulse"],
+    "concepts": [
+      "qi-stagnation",
+      "blood-stasis",
+      "wiry-pulse"
+    ],
     "distinction": {
-      "between": ["qi-stagnation", "blood-stasis"],
+      "between": [
+        "qi-stagnation",
+        "blood-stasis"
+      ],
       "key": "Distension that moves and fluctuates with emotion, with a normal tongue, is Qi stagnation; fixed stabbing pain with a purple tongue and choppy pulse is Blood stasis."
     },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to Qi, Blood and Body Fluids" },
-      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Qi and Blood" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to Qi, Blood and Body Fluids"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Qi and Blood"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (medium)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0032",
@@ -1061,15 +3187,84 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "application",
     "vignette": true,
-    "concepts": ["qi-rebellion", "stomach-qi-rebelling", "qi-stagnation"],
+    "concepts": [
+      "qi-rebellion",
+      "stomach-qi-rebelling",
+      "qi-stagnation"
+    ],
     "distinction": {
-      "between": ["qi-rebellion", "qi-stagnation"],
+      "between": [
+        "qi-rebellion",
+        "qi-stagnation"
+      ],
       "key": "When upward movement (hiccup, belching, nausea, vomiting) is the chief complaint, the principle adds descending Qi; when distension dominates, the principle is to move Qi."
     },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to Qi, Blood and Body Fluids" },
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Syndrome differentiation of Qi, Blood and Body Fluids" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to Qi, Blood and Body Fluids"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Syndrome differentiation of Qi, Blood and Body Fluids"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0033",
@@ -1095,11 +3290,76 @@
     "difficulty": "foundational",
     "cognitiveLevel": "comprehension",
     "vignette": false,
-    "concepts": ["blood-deficiency", "thin-pulse"],
+    "concepts": [
+      "blood-deficiency",
+      "thin-pulse"
+    ],
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to Qi, Blood and Body Fluids" },
-      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Qi and Blood" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to Qi, Blood and Body Fluids"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Qi and Blood"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0034",
@@ -1125,15 +3385,84 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["blood-stasis", "purple-tongue", "choppy-pulse"],
+    "concepts": [
+      "blood-stasis",
+      "purple-tongue",
+      "choppy-pulse"
+    ],
     "distinction": {
-      "between": ["blood-stasis", "blood-deficiency"],
+      "between": [
+        "blood-stasis",
+        "blood-deficiency"
+      ],
       "key": "Stabbing fixed pain worse with pressure, a purple tongue, and a choppy pulse mean stasis to be invigorated; dull pain relieved by pressure with a pale tongue and thin pulse means deficiency to be nourished."
     },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to Qi, Blood and Body Fluids" },
-      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Qi and Blood" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to Qi, Blood and Body Fluids"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Qi and Blood"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0035",
@@ -1159,15 +3488,84 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["blood-heat", "spleen-not-controlling-blood", "rapid-pulse"],
+    "concepts": [
+      "blood-heat",
+      "spleen-not-controlling-blood",
+      "rapid-pulse"
+    ],
     "distinction": {
-      "between": ["blood-heat", "qi-not-holding-blood"],
+      "between": [
+        "blood-heat",
+        "qi-not-holding-blood"
+      ],
       "key": "Bright red, acute bleeding with a red tongue and rapid pulse is Heat forcing Blood out (cool Blood); pale chronic bleeding with a pale tongue and weak pulse is Qi failing to hold Blood (tonify Qi)."
     },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to Qi, Blood and Body Fluids" },
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Syndrome differentiation of Qi, Blood and Body Fluids" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to Qi, Blood and Body Fluids"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Syndrome differentiation of Qi, Blood and Body Fluids"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0036",
@@ -1193,11 +3591,77 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["qi-and-blood-deficiency", "qi-deficiency", "blood-deficiency"],
+    "concepts": [
+      "qi-and-blood-deficiency",
+      "qi-deficiency",
+      "blood-deficiency"
+    ],
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to Qi, Blood and Body Fluids" },
-      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Qi and Blood" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to Qi, Blood and Body Fluids"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Qi and Blood"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0037",
@@ -1223,15 +3687,84 @@
     "difficulty": "advanced",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["qi-stagnation-blood-stasis", "qi-stagnation", "blood-stasis"],
+    "concepts": [
+      "qi-stagnation-blood-stasis",
+      "qi-stagnation",
+      "blood-stasis"
+    ],
     "distinction": {
-      "between": ["qi-stagnation-blood-stasis", "qi-stagnation"],
+      "between": [
+        "qi-stagnation-blood-stasis",
+        "qi-stagnation"
+      ],
       "key": "Fixed stabbing pain, clots, and a purple tongue with a choppy quality added to a distension-and-wiry-pulse picture mean the Blood level is involved and must be invigorated alongside moving Qi."
     },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to Qi, Blood and Body Fluids" },
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Syndrome differentiation of Qi, Blood and Body Fluids" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to Qi, Blood and Body Fluids"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Syndrome differentiation of Qi, Blood and Body Fluids"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0038",
@@ -1257,15 +3790,84 @@
     "difficulty": "advanced",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["qi-deficiency-blood-stasis", "qi-deficiency", "blood-stasis"],
+    "concepts": [
+      "qi-deficiency-blood-stasis",
+      "qi-deficiency",
+      "blood-stasis"
+    ],
     "distinction": {
-      "between": ["qi-deficiency-blood-stasis", "qi-stagnation-blood-stasis"],
+      "between": [
+        "qi-deficiency-blood-stasis",
+        "qi-stagnation-blood-stasis"
+      ],
       "key": "Stasis with a weak pulse, fatigue, and spontaneous sweating has a deficient root (tonify Qi to move Blood); stasis with a wiry pulse and distension has an excess root (move Qi to move Blood)."
     },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to Qi, Blood and Body Fluids" },
-      { "source": "Maclean, Lyttleton, Bayley, Taylor, Clinical Handbook of Internal Medicine, 2nd ed.", "locator": "Wind stroke sequelae" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to Qi, Blood and Body Fluids"
+      },
+      {
+        "source": "Maclean, Lyttleton, Bayley, Taylor, Clinical Handbook of Internal Medicine, 2nd ed.",
+        "locator": "Wind stroke sequelae"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0039",
@@ -1291,11 +3893,77 @@
     "difficulty": "foundational",
     "cognitiveLevel": "application",
     "vignette": true,
-    "concepts": ["damp-phlegm", "sticky-white-coating", "slippery-pulse"],
+    "concepts": [
+      "damp-phlegm",
+      "sticky-white-coating",
+      "slippery-pulse"
+    ],
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to Qi, Blood and Body Fluids; Phlegm" },
-      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Qi and Blood" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to Qi, Blood and Body Fluids; Phlegm"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Qi and Blood"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0040",
@@ -1321,15 +3989,84 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["body-fluid-deficiency", "yin-deficiency", "dryness"],
+    "concepts": [
+      "body-fluid-deficiency",
+      "yin-deficiency",
+      "dryness"
+    ],
     "distinction": {
-      "between": ["body-fluid-deficiency", "yin-deficiency"],
+      "between": [
+        "body-fluid-deficiency",
+        "yin-deficiency"
+      ],
       "key": "Dryness after acute fluid loss with a coated dry tongue and no Empty Heat signs is Fluid deficiency (generate Fluids); dryness with night sweats, five-palm heat, and a peeled tongue with a thin rapid pulse is Yin deficiency (nourish Yin, clear Empty Heat)."
     },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to Qi, Blood and Body Fluids" },
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Syndrome differentiation of Qi, Blood and Body Fluids" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to Qi, Blood and Body Fluids"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Syndrome differentiation of Qi, Blood and Body Fluids"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0041",
@@ -1355,15 +4092,84 @@
     "difficulty": "advanced",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["qi-and-fluid-deficiency", "qi-deficiency", "body-fluid-deficiency"],
+    "concepts": [
+      "qi-and-fluid-deficiency",
+      "qi-deficiency",
+      "body-fluid-deficiency"
+    ],
     "distinction": {
-      "between": ["qi-and-fluid-deficiency", "summer-heat-invasion"],
+      "between": [
+        "qi-and-fluid-deficiency",
+        "summer-heat-invasion"
+      ],
       "key": "After the Heat has passed, a weak pulse with sweating, fatigue, thirst, and a dry tongue shows depletion to be replenished, whereas an active invasion shows fever with a full or overflowing pulse to be cleared."
     },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to Qi, Blood and Body Fluids" },
-      { "source": "Wiseman & Ellis, Fundamentals of Chinese Medicine, revised ed.", "locator": "Qi, Blood and Fluids" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to Qi, Blood and Body Fluids"
+      },
+      {
+        "source": "Wiseman & Ellis, Fundamentals of Chinese Medicine, revised ed.",
+        "locator": "Qi, Blood and Fluids"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (medium)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0042",
@@ -1389,15 +4195,84 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["dampness-obstructing-middle", "damp-phlegm", "soggy-pulse"],
+    "concepts": [
+      "dampness-obstructing-middle",
+      "damp-phlegm",
+      "soggy-pulse"
+    ],
     "distinction": {
-      "between": ["dampness-obstructing-middle", "damp-phlegm"],
+      "between": [
+        "dampness-obstructing-middle",
+        "damp-phlegm"
+      ],
       "key": "Heaviness with a greasy coating and a soggy pulse but no sputum is diffuse Dampness to be resolved; copious sputum with a slippery pulse is condensed Phlegm to be transformed."
     },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to Qi, Blood and Body Fluids" },
-      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Qi and Blood" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to Qi, Blood and Body Fluids"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Qi and Blood"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0043",
@@ -1423,15 +4298,84 @@
     "difficulty": "foundational",
     "cognitiveLevel": "comprehension",
     "vignette": false,
-    "concepts": ["yin-deficiency", "empty-heat", "yin-yang-treatment-principles"],
+    "concepts": [
+      "yin-deficiency",
+      "empty-heat",
+      "yin-yang-treatment-principles"
+    ],
     "distinction": {
-      "between": ["empty-heat", "full-heat"],
+      "between": [
+        "empty-heat",
+        "full-heat"
+      ],
       "key": "Heat with a peeled tongue and a thin rapid pulse is relative (Yin deficient, so nourish Yin); Heat with a coated tongue and a full pulse is absolute (Yang in excess, so clear with cold)."
     },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Yin-Yang; Principles of treatment" },
-      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Yin-Yang and the Five Elements" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Yin-Yang; Principles of treatment"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Yin-Yang and the Five Elements"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0044",
@@ -1457,15 +4401,84 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["full-cold", "empty-cold", "yin-yang-treatment-principles"],
+    "concepts": [
+      "full-cold",
+      "empty-cold",
+      "yin-yang-treatment-principles"
+    ],
     "distinction": {
-      "between": ["full-cold", "empty-cold"],
+      "between": [
+        "full-cold",
+        "empty-cold"
+      ],
       "key": "Acute Cold with pain worse on pressure and a forceful tight pulse is excess Yin to be dispelled; chronic Cold with pain relieved by pressure and a weak pulse is deficient Yang to be warmed and tonified."
     },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Yin-Yang; Principles of treatment" },
-      { "source": "Wiseman & Ellis, Fundamentals of Chinese Medicine, revised ed.", "locator": "Yin and Yang" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Yin-Yang; Principles of treatment"
+      },
+      {
+        "source": "Wiseman & Ellis, Fundamentals of Chinese Medicine, revised ed.",
+        "locator": "Yin and Yang"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0045",
@@ -1491,11 +4504,77 @@
     "difficulty": "advanced",
     "cognitiveLevel": "evaluation",
     "vignette": true,
-    "concepts": ["mutual-rooting-yin-yang", "kidney-yang-deficiency", "seek-yang-within-yin"],
+    "concepts": [
+      "mutual-rooting-yin-yang",
+      "kidney-yang-deficiency",
+      "seek-yang-within-yin"
+    ],
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Yin-Yang; Kidney patterns" },
-      { "source": "Wiseman & Ellis, Fundamentals of Chinese Medicine, revised ed.", "locator": "Yin and Yang" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Yin-Yang; Kidney patterns"
+      },
+      {
+        "source": "Wiseman & Ellis, Fundamentals of Chinese Medicine, revised ed.",
+        "locator": "Yin and Yang"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0046",
@@ -1521,15 +4600,84 @@
     "difficulty": "foundational",
     "cognitiveLevel": "application",
     "vignette": true,
-    "concepts": ["full-heat", "yang-excess", "yin-yang-treatment-principles"],
+    "concepts": [
+      "full-heat",
+      "yang-excess",
+      "yin-yang-treatment-principles"
+    ],
     "distinction": {
-      "between": ["full-heat", "empty-heat"],
+      "between": [
+        "full-heat",
+        "empty-heat"
+      ],
       "key": "A dry yellow coating with an overflowing rapid pulse and high fever is excess Yang to be cleared; a peeled red tongue with a thin rapid pulse and low-grade afternoon heat is deficient Yin to be nourished."
     },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Yin-Yang; Principles of treatment" },
-      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Yin-Yang and the Five Elements" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Yin-Yang; Principles of treatment"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Yin-Yang and the Five Elements"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III1-0047",
@@ -1555,14 +4703,83 @@
     "difficulty": "foundational",
     "cognitiveLevel": "comprehension",
     "vignette": false,
-    "concepts": ["yang-deficiency", "empty-cold", "yin-yang-treatment-principles"],
+    "concepts": [
+      "yang-deficiency",
+      "empty-cold",
+      "yin-yang-treatment-principles"
+    ],
     "distinction": {
-      "between": ["empty-cold", "full-cold"],
+      "between": [
+        "empty-cold",
+        "full-cold"
+      ],
       "key": "Chronic Cold with a deep weak pulse is Yang deficiency (warm and tonify Yang); acute Cold with a forceful tight pulse is a Cold pathogen (dispel Cold)."
     },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Yin-Yang; Principles of treatment" },
-      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Yin-Yang and the Five Elements" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Yin-Yang; Principles of treatment"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Yin-Yang and the Five Elements"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   }
 ]

@@ -1,0 +1,1118 @@
+[
+  {
+    "id": "FOM-IIh-0001",
+    "domain": "II",
+    "subdomain": "II-h",
+    "task": "II-1-h",
+    "theory": "Four Levels",
+    "stem": "A patient with an acute febrile illness has fever, slight aversion to cold, mild thirst, headache, a red tongue tip and a floating rapid pulse. In Four Levels identification, these findings indicate that the pathogenic Heat is at which level?",
+    "options": {
+      "A": "Wei level",
+      "B": "Qi level",
+      "C": "Ying level",
+      "D": "Xue level"
+    },
+    "correct": "A",
+    "explanation": "The Wei (Defensive Qi) level is the most superficial. Pathogenic Heat obstructs Wei Qi on the surface, so fever is accompanied by slight aversion to cold, the pulse is floating as well as rapid, thirst is only mild, and the tongue shows Heat only at the tip and sides. Once the pathogen enters the Qi level, aversion to cold disappears and is replaced by aversion to heat.",
+    "distractorExplanations": {
+      "B": "At the Qi level there is high fever with aversion to heat, marked thirst and sweating, a yellow coating and a deep or overflowing rapid pulse; the floating pulse and residual aversion to cold show the pathogen is still on the surface.",
+      "C": "The Ying level produces fever worse at night, mental restlessness, a deep red tongue without coating and a thin rapid pulse; none of these are present.",
+      "D": "The Xue level adds bleeding, macules or convulsions to Ying-level signs. There is no sign of Blood involvement."
+    },
+    "learningObjective": "Identify the Wei level from fever with slight aversion to cold and a floating rapid pulse.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": false,
+    "concepts": [
+      "wei-level",
+      "four-levels",
+      "floating-rapid-pulse"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Four Levels, Wei level"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to wei, qi, ying and xue"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIh-0002",
+    "domain": "II",
+    "subdomain": "II-h",
+    "task": "II-1-h",
+    "theory": "Four Levels",
+    "stem": "During a week of humid, rainy weather in early autumn, a 33-year-old woman develops a low fever with slight aversion to cold that is worse in the afternoon, a heavy sensation of the head as if it were wrapped, heaviness of the limbs, a stuffy chest, nausea and little thirst. The tongue has a white sticky coating. The pulse is soggy and slightly rapid. Which Wei-level pattern is most appropriate?",
+    "options": {
+      "A": "Wind-Heat at the Wei level",
+      "B": "Summer-Heat at the Wei level",
+      "C": "Damp-Heat at the Wei level",
+      "D": "Dry-Heat at the Wei level"
+    },
+    "correct": "C",
+    "explanation": "Fever with slight aversion to cold and a superficial pulse places the pathogen at the Wei level; the quality of the accompanying signs identifies the factor. Heaviness of the head and limbs, a stuffy chest, nausea, absence of thirst, a sticky white coating and a soggy pulse are all Dampness signs, and the afternoon worsening of a low fever is typical of Damp-Heat. Late summer is the season of Dampness.",
+    "distractorExplanations": {
+      "A": "Wind-Heat at the Wei level produces sore throat, headache, slight thirst, a red tongue tip and a floating rapid pulse without heaviness, sticky coating or soggy pulse.",
+      "B": "Summer-Heat at the Wei level has a higher fever with sweating, pronounced thirst and irritability, and injures Qi and fluids quickly; the sticky coating, heaviness and lack of thirst show Dampness predominates. A learner who keys on the season alone would choose this.",
+      "D": "Dry-Heat at the Wei level is an autumn pattern with dry cough, dry nose and throat and a thin dry coating, the opposite of the sticky coating and heaviness seen here."
+    },
+    "learningObjective": "Differentiate the Damp-Heat variant of the Wei level from the Wind-Heat, Summer-Heat and Dry-Heat variants.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "wei-level",
+      "damp-heat",
+      "soggy-pulse",
+      "sticky-white-coating"
+    ],
+    "distinction": {
+      "between": [
+        "wei-level-damp-heat",
+        "wei-level-summer-heat"
+      ],
+      "key": "Heaviness, a sticky coating, a soggy pulse and little thirst mark Damp-Heat; high fever with sweating, strong thirst and Qi injury mark Summer-Heat."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Four Levels, Wei level, Damp-Heat"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIh-0003",
+    "domain": "II",
+    "subdomain": "II-h",
+    "task": "II-1-h",
+    "theory": "Four Levels",
+    "stem": "A 45-year-old man had fever and slight chills four days ago. Now the fever is high with aversion to heat and sweating, and he has a cough producing thick yellow sputum, chest pain, breathlessness and thirst. The tongue is red with a yellow coating. The pulse is rapid and slippery. Which Four Levels pattern is most appropriate?",
+    "options": {
+      "A": "Wind-Heat at the Wei level",
+      "B": "Heat in the Lung at the Qi level",
+      "C": "Heat in the Stomach at the Qi level",
+      "D": "Heat in the Pericardium at the Ying level"
+    },
+    "correct": "B",
+    "explanation": "The change from slight chills to aversion to heat with high fever, sweating, thirst and a yellow coating shows the pathogen has moved from the Wei to the Qi level. The organ localization is given by the respiratory findings: cough with thick yellow sputum, chest pain and breathlessness identify Heat in the Lung, and the slippery rapid pulse reflects Phlegm-Heat generated by Heat condensing Lung fluids.",
+    "distractorExplanations": {
+      "A": "At the Wei level there is still slight aversion to cold with a floating pulse and only mild thirst. The patient now has aversion to heat and marked thirst, so the Wei stage has passed; a learner anchored on the cough as a 'Lung exterior' sign would choose this.",
+      "C": "Heat in the Stomach at the Qi level produces the four bigs (high fever, profuse sweating, great thirst, overflowing pulse) without cough, sputum or chest pain.",
+      "D": "Heat in the Pericardium at the Ying level is marked by delirium or impaired consciousness, a deep red tongue without coating and a thin rapid pulse. This patient is lucid with a coated tongue."
+    },
+    "learningObjective": "Identify Qi-level Heat in the Lung and differentiate it from Wei-level Wind-Heat.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "qi-level",
+      "heat-in-lung",
+      "wei-level",
+      "slippery-rapid-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "qi-level-heat-in-lung",
+        "wei-level-wind-heat"
+      ],
+      "key": "Aversion to heat, marked thirst, yellow coating and thick yellow sputum show Qi-level Lung Heat; slight aversion to cold with a floating pulse would mean the Wei level."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Four Levels, Qi level, Heat in the Lungs"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Qi-level syndromes"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIh-0004",
+    "domain": "II",
+    "subdomain": "II-h",
+    "task": "II-1-h",
+    "theory": "Four Levels",
+    "stem": "A 39-year-old woman in the second week of a febrile illness has fever that fluctuates during the day, a bitter taste, dry throat, pain and fullness of the hypochondrium, nausea and thirst. The tongue is red with a yellow coating. The pulse is wiry and rapid. Which Four Levels pattern is most appropriate?",
+    "options": {
+      "A": "Heat in the Lung at the Qi level",
+      "B": "Heat in the Gallbladder at the Qi level",
+      "C": "Heat in the Intestines at the Qi level",
+      "D": "Heat in the Ying level"
+    },
+    "correct": "B",
+    "explanation": "Fever with thirst, a red tongue with a yellow coating and a rapid pulse place the Heat at the Qi level. The wiry pulse, bitter taste, dry throat and hypochondrial pain and fullness localize it to the Gallbladder. This Qi-level pattern resembles the Shao Yang stage of the Six Stages, but the pronounced Heat signs (thirst, red tongue with yellow coating, rapid pulse) show a warm disease rather than a Cold-induced one.",
+    "distractorExplanations": {
+      "A": "Heat in the Lung at the Qi level would show cough with yellow sputum, chest pain and breathlessness, with a slippery rapid pulse; there are no respiratory findings here.",
+      "C": "Heat in the Intestines at the Qi level is marked by constipation, abdominal fullness and pain, tidal fever and a deep full pulse. The hypochondrial, bitter-taste picture with a wiry pulse points to the Gallbladder.",
+      "D": "The Ying level has night fever, mental restlessness, a deep red tongue without coating and a thin pulse. A coated tongue and a wiry pulse exclude it."
+    },
+    "learningObjective": "Identify Qi-level Heat in the Gallbladder from bitter taste, hypochondrial fullness and a wiry rapid pulse.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "qi-level",
+      "heat-in-gallbladder",
+      "wiry-rapid-pulse",
+      "four-levels"
+    ],
+    "distinction": {
+      "between": [
+        "qi-level-heat-in-gallbladder",
+        "qi-level-heat-in-intestines"
+      ],
+      "key": "Hypochondrial fullness, bitter taste and a wiry pulse point to the Gallbladder; constipation with abdominal fullness and a deep full pulse point to the Intestines."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Four Levels, Qi level, Heat in the Gall-Bladder"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIh-0005",
+    "domain": "II",
+    "subdomain": "II-h",
+    "task": "II-1-h",
+    "theory": "Four Levels",
+    "stem": "The Qi-level pattern of Heat in the Stomach, characterized by high fever, profuse sweating, intense thirst and an overflowing pulse, corresponds most closely to which Six Stages pattern?",
+    "options": {
+      "A": "Tai Yang Cold-damage",
+      "B": "Shao Yang pattern",
+      "C": "Yang Ming organ pattern",
+      "D": "Yang Ming channel pattern"
+    },
+    "correct": "D",
+    "explanation": "The Four Levels and Six Stages overlap at the stage of interior Heat. Qi-level Heat in the Stomach and the Yang Ming channel pattern describe the same clinical picture: the four bigs (big fever, big sweating, big thirst, big pulse) with aversion to heat and a yellow coating. The two systems differ in origin (Heat invading in warm diseases versus Cold transforming into Heat in Cold-damage) but not in presentation at this point.",
+    "distractorExplanations": {
+      "A": "Tai Yang Cold-damage is an exterior Cold pattern with aversion to cold, no sweating and a floating tight pulse; it corresponds to nothing at the Qi level.",
+      "B": "Shao Yang has alternating chills and fever with a wiry pulse; its closest Four Levels counterpart is Qi-level Heat in the Gallbladder, not Heat in the Stomach.",
+      "C": "The Yang Ming organ pattern corresponds to Qi-level Heat in the Intestines (dry stool, abdominal fullness, deep full pulse), not to the sweating, thirsting four-bigs picture. A learner who treats Yang Ming as a single undivided stage would choose this."
+    },
+    "learningObjective": "Relate Qi-level Heat in the Stomach to the Yang Ming channel pattern of the Six Stages.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "qi-level",
+      "yang-ming-channel-pattern",
+      "four-levels",
+      "six-stages"
+    ],
+    "distinction": {
+      "between": [
+        "yang-ming-channel-pattern",
+        "yang-ming-organ-pattern"
+      ],
+      "key": "The channel pattern (four bigs) matches Qi-level Stomach Heat; the organ pattern (bound stool) matches Qi-level Intestinal Heat."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Four Levels, relationship with the Six Stages"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIh-0006",
+    "domain": "II",
+    "subdomain": "II-h",
+    "task": "II-1-h",
+    "theory": "Four Levels",
+    "stem": "A 60-year-old man in the seventh day of a febrile disease has fever that is worse at night, mental restlessness and insomnia, occasional incoherent speech, faint reddish rashes on the chest and abdomen, and a dry mouth without much desire to drink. The tongue is deep red (crimson) without coating. The pulse is thin and rapid. Which level is most appropriate?",
+    "options": {
+      "A": "Heat in the Stomach at the Qi level",
+      "B": "Heat in the Ying level",
+      "C": "Heat moving Blood at the Xue level",
+      "D": "Wind-Heat at the Wei level"
+    },
+    "correct": "B",
+    "explanation": "At the Ying (Nutritive Qi) level, Heat has penetrated deeper than the Qi level and begun to injure Yin and harass the Heart. Fever worse at night, mental restlessness, insomnia and incoherent speech reflect Heat disturbing the Spirit; faint, indistinct rashes show Heat beginning to press on the Blood but not yet forcing it out of the vessels; a dry mouth with little desire to drink is typical, because the Heat has steamed Yin fluids upward; the deep red tongue without coating and the thin rapid pulse confirm the Ying level.",
+    "distractorExplanations": {
+      "A": "Qi-level Stomach Heat has high continuous fever, profuse sweating, great thirst for cold drinks, a yellow coating and an overflowing pulse. The lack of thirst, the uncoated deep red tongue and the thin pulse place this deeper than the Qi level.",
+      "C": "The Xue level is distinguished by frank bleeding or dark purple macules, often with convulsions. Faint rashes without bleeding have not yet reached the Blood; a learner who treats any rash as Xue level would choose this.",
+      "D": "Wind-Heat at the Wei level has slight aversion to cold, a floating pulse and a tongue red only at the tip, none of which fits a seventh-day deep red tongue with night fever."
+    },
+    "learningObjective": "Identify the Ying level and differentiate it from the Qi and Xue levels.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "ying-level",
+      "xue-level",
+      "deep-red-tongue-no-coating",
+      "thin-rapid-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "ying-level",
+        "xue-level"
+      ],
+      "key": "Faint rashes with night fever and a deep red uncoated tongue are Ying level; overt bleeding or dark macules indicate the Xue level."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Four Levels, Ying level"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Ying-level syndromes"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIh-0007",
+    "domain": "II",
+    "subdomain": "II-h",
+    "task": "II-1-h",
+    "theory": "Four Levels",
+    "stem": "A 70-year-old woman with a high fever of several days has become delirious. She now drifts in and out of consciousness and answers incoherently, and her hands and feet feel cold although her trunk is burning hot. The tongue is deep red and dry with no coating. The pulse is thin and rapid. Which Four Levels pattern best explains these findings?",
+    "options": {
+      "A": "Heat in the Pericardium at the Ying level",
+      "B": "Liver Wind stirring at the Xue level",
+      "C": "Collapse of Yin at the Xue level",
+      "D": "Heat in the chest and diaphragm at the Qi level"
+    },
+    "correct": "A",
+    "explanation": "Heat has entered the Pericardium at the Ying level and clouded the Mind: delirium, impaired consciousness and incoherent speech are its defining features, with the deep red uncoated tongue and thin rapid pulse of the Ying level. The cold hands and feet are not a Cold sign; they are Heat reversal (Re Jue), in which intense Heat trapped in the interior blocks Yang Qi from reaching the extremities. The burning trunk confirms this.",
+    "distractorExplanations": {
+      "B": "Liver Wind at the Xue level produces convulsions, neck rigidity, tremor and upward-rolling eyes. Impaired consciousness without any Wind signs points to the Pericardium instead.",
+      "C": "Collapse of Yin presents late in the disease with low-grade fever, five-palm heat and a weak pulse. High fever with a burning trunk and delirium is an excess Heat picture, not Yin exhaustion.",
+      "D": "Heat in the chest and diaphragm at the Qi level causes restlessness and a sensation of heat in the chest, but the patient remains lucid with a yellow-coated tongue. A learner who interprets the cold limbs as a Cold pattern or mild condition would stay at a shallower level."
+    },
+    "learningObjective": "Identify Ying-level Heat in the Pericardium and interpret cold extremities as Heat reversal.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "ying-level",
+      "heat-in-pericardium",
+      "heat-reversal",
+      "four-levels"
+    ],
+    "distinction": {
+      "between": [
+        "ying-level-heat-in-pericardium",
+        "xue-level-liver-wind"
+      ],
+      "key": "Clouded consciousness without convulsions or tremor indicates Pericardium Heat at the Ying level; convulsions indicate Wind at the Xue level."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Four Levels, Ying level, Heat in the Pericardium"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Ying-level syndromes"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIh-0008",
+    "domain": "II",
+    "subdomain": "II-h",
+    "task": "II-1-h",
+    "theory": "Four Levels",
+    "stem": "A 28-year-old man in the second week of a severe febrile illness develops nosebleeds and blood in the stool, dark purple macules over the trunk, high fever with agitation and periods of manic behavior, and scanty dark urine. The tongue is deep red with purple spots. The pulse is rapid and wiry. Which level is most appropriate?",
+    "options": {
+      "A": "Heat in the Ying level",
+      "B": "Heat in the Intestines at the Qi level",
+      "C": "Damp-Heat at the Wei level",
+      "D": "Heat moving Blood at the Xue level"
+    },
+    "correct": "D",
+    "explanation": "At the Xue (Blood) level, Heat has entered the Blood and forces it out of the vessels. Nosebleeds, blood in the stool and dark purple macules are the defining signs of Heat moving Blood; the agitation and mania reflect Heat in the Blood harassing the Heart; the deep red tongue with purple spots shows Blood Heat with stasis, and scanty dark urine reflects the consumption of fluids by Heat.",
+    "distractorExplanations": {
+      "A": "At the Ying level rashes are faint and indistinct and there is no frank bleeding. Overt bleeding and dark macules show the pathogen has moved one level deeper; a learner who does not separate Ying from Xue would choose this.",
+      "B": "Qi-level Heat in the Intestines is marked by constipation, abdominal fullness and a deep full pulse with a yellow coating; bleeding and macules are absent.",
+      "C": "Wei-level Damp-Heat is a superficial pattern with low fever, heaviness and a sticky coating. It has none of the deep Heat signs present here."
+    },
+    "learningObjective": "Identify the Xue level from bleeding and macules and differentiate it from the Ying level.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "xue-level",
+      "heat-moving-blood",
+      "ying-level",
+      "macules"
+    ],
+    "distinction": {
+      "between": [
+        "xue-level",
+        "ying-level"
+      ],
+      "key": "Frank bleeding and dark purple macules mark the Xue level; faint rashes without bleeding mark the Ying level."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Four Levels, Blood level, Heat victorious moving Blood"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Xue-level syndromes"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIh-0009",
+    "domain": "II",
+    "subdomain": "II-h",
+    "task": "II-1-h",
+    "theory": "Four Levels",
+    "stem": "A 55-year-old woman with a febrile disease at the Ying level (night fever, mental restlessness, a deep red tongue without coating, and a thin rapid pulse) deteriorates over 24 hours. She develops stiffness of the neck and twitching of the limbs that progresses to convulsions, and her eyes roll upward. The fever remains high. Which pattern now best describes the disease?",
+    "options": {
+      "A": "Heat in the Pericardium at the Ying level",
+      "B": "Heat in the Lung at the Qi level",
+      "C": "Liver Wind stirring at the Xue level",
+      "D": "Collapse of Yin at the Xue level"
+    },
+    "correct": "C",
+    "explanation": "The appearance of neck stiffness, twitching, convulsions and upward-rolling eyes on top of Ying-level findings shows that intense Heat has entered the Blood and stirred Liver Wind: extreme Heat generates Wind. This belongs to the Xue level in the Four Levels scheme. The persisting high fever marks it as Wind from excess Heat, in contrast to the Empty Wind of late-stage Yin exhaustion.",
+    "distractorExplanations": {
+      "A": "Heat in the Pericardium clouds the Mind (delirium, coma) but does not by itself produce convulsions, neck rigidity or upward-rolling eyes; the new findings are Wind signs. A learner who treats any neurological change as Pericardium involvement would choose this.",
+      "B": "Qi-level Heat in the Lung is a shallower pattern with cough and yellow sputum; the disease has moved deeper, not back toward the Qi level.",
+      "D": "Collapse of Yin is a deficiency picture at the end of a warm disease with low-grade fever, a weak pulse and at most a fine tremor; continuing high fever with violent convulsions is Heat stirring Wind, an excess pattern."
+    },
+    "learningObjective": "Recognize progression from the Ying level to Xue-level Liver Wind when convulsions appear.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "evaluation",
+    "vignette": true,
+    "concepts": [
+      "xue-level",
+      "heat-stirring-wind",
+      "ying-level",
+      "disease-progression"
+    ],
+    "distinction": {
+      "between": [
+        "xue-level-liver-wind",
+        "ying-level-heat-in-pericardium"
+      ],
+      "key": "Convulsions, neck rigidity and upward-rolling eyes indicate Wind at the Xue level; clouded consciousness alone indicates Pericardium Heat at the Ying level."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Four Levels, Blood level, Heat victorious stirring Wind"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIh-0010",
+    "domain": "II",
+    "subdomain": "II-h",
+    "task": "II-1-h",
+    "theory": "Four Levels",
+    "stem": "Which finding best indicates that pathogenic Heat has progressed from the Ying level to the Xue level?",
+    "options": {
+      "A": "bleeding with dark purple macules",
+      "B": "faint, indistinct skin rashes",
+      "C": "night fever with restlessness",
+      "D": "a deep red tongue without coating"
+    },
+    "correct": "A",
+    "explanation": "Ying-level Heat presses on the Blood without yet forcing it out of the vessels; Xue-level Heat enters the Blood itself and drives it outward, so frank bleeding (nosebleed, blood in urine or stool, vomiting of blood) and dark purple macules are the signs that mark the transition. The other findings are already present at the Ying level and therefore cannot mark the step deeper.",
+    "distractorExplanations": {
+      "B": "Faint, indistinct rashes are a Ying-level sign showing Heat beginning to affect the Blood; they become dense and purple only at the Xue level.",
+      "C": "Night fever with mental restlessness is the characteristic Ying-level presentation and continues into the Xue level, so it does not discriminate.",
+      "D": "A deep red tongue without coating first appears at the Ying level; at the Xue level the tongue is typically deep red or purple, so the uncoated deep red body alone is not the sign of progression."
+    },
+    "learningObjective": "Identify bleeding and macules as the findings that distinguish the Xue level from the Ying level.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": false,
+    "concepts": [
+      "ying-level",
+      "xue-level",
+      "heat-moving-blood",
+      "four-levels"
+    ],
+    "distinction": {
+      "between": [
+        "xue-level",
+        "ying-level"
+      ],
+      "key": "Frank bleeding and dark purple macules are present only at the Xue level."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Four Levels, Ying and Blood levels"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to wei, qi, ying and xue"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIh-0011",
+    "domain": "II",
+    "subdomain": "II-h",
+    "task": "II-1-h",
+    "theory": "Four Levels",
+    "stem": "A 66-year-old man has been ill with a warm febrile disease for three weeks. He now has a low-grade fever that persists through the afternoon and evening, heat in the palms and soles, a dry mouth and throat, marked weight loss and listlessness. The tongue is deep red, dry and without coating. The pulse is thin, rapid and weak. Which pattern is most appropriate?",
+    "options": {
+      "A": "Heat in the Ying level",
+      "B": "Heat moving Blood at the Xue level",
+      "C": "Collapse of Yin at the Xue level",
+      "D": "Heat in the Intestines at the Qi level"
+    },
+    "correct": "C",
+    "explanation": "After three weeks of Heat the Yin of the Kidney and Liver has been consumed, leaving Empty Heat: a low-grade afternoon and evening fever, five-palm heat, dry mouth and throat, emaciation and a dry, deep red, uncoated tongue. The weak quality of the thin rapid pulse is the decisive finding that this is deficiency rather than the full Heat of the Ying level. Collapse of Yin is classified under the Xue level as the late, deficient end of a warm disease.",
+    "distractorExplanations": {
+      "A": "The Ying level is excess Heat with high fever worse at night, mental restlessness and faint rashes; the pulse is thin and rapid but forceful. Here the fever is low-grade and the pulse weak, showing the Heat is now empty. A learner who equates every deep red uncoated tongue with the Ying level would choose this.",
+      "B": "Heat moving Blood produces bleeding and macules with high fever; there is no bleeding, and the overall picture is one of exhaustion.",
+      "D": "Qi-level Heat in the Intestines has constipation, abdominal fullness, a dry yellow coating and a deep full pulse. The uncoated tongue and weak pulse rule it out."
+    },
+    "learningObjective": "Differentiate Collapse of Yin at the end of a warm disease from excess Heat at the Ying level.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "xue-level",
+      "collapse-of-yin",
+      "ying-level",
+      "empty-heat"
+    ],
+    "distinction": {
+      "between": [
+        "xue-level-collapse-of-yin",
+        "ying-level"
+      ],
+      "key": "Low-grade fever, five-palm heat, emaciation and a weak pulse mark Yin collapse; high night fever with restlessness and a forceful thin rapid pulse mark the Ying level."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Four Levels, Blood level, Collapse of Yin"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  }
+]

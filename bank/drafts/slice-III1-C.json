@@ -1,0 +1,912 @@
+[
+  {
+    "id": "FOM-III1-0085",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-i",
+    "theory": "San Jiao",
+    "stem": "A 26-year-old patient, two days into an illness that began during a humid, rainy spell, reports aversion to cold, a fever that rises in the afternoon and is barely relieved by sweating, a heavy head as if wrapped in cloth, heavy aching limbs, a feeling of oppression in the chest, and no thirst. The tongue has a thin, white, greasy coating. The pulse is soggy (soft) and slow. Using San Jiao theory, which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "induce strong sweating with pungent-warm methods",
+      "B": "open the upper burner with light aromatic methods to transform Dampness",
+      "C": "purge accumulated Heat downward with bitter-cold methods",
+      "D": "enrich Yin and moisten Dryness to relieve the afternoon fever"
+    },
+    "correct": "B",
+    "explanation": "This is early Damp-Heat (Damp-Warmth) in the upper burner, with Dampness predominating over Heat and obstructing the Lung's diffusing function and the Wei Qi. The heavy, wrapped head, heavy limbs, chest oppression, absent thirst, greasy white coating, and soggy slow pulse show Dampness; the afternoon fever that sweating does not relieve is typical of Heat steaming inside Dampness. The upper burner is treated with light, aromatic, pungent methods that open Lung Qi so that Dampness transforms. Classical San Jiao teaching warns against sweating, purging, and enriching Yin at this stage.",
+    "distractorExplanations": {
+      "A": "Chosen by a learner who reads the aversion to cold as Wind-Cold; strong sweating cannot shift a sticky Dampness pathogen and is one of the three prohibitions for Damp-Warmth, as it injures Yang and can cloud the Mind.",
+      "C": "Chosen by a learner who treats any fever as interior Heat; there is no constipation, abdominal fullness, or yellow coating, and purging here damages Spleen Yang and causes diarrhea.",
+      "D": "Chosen by a learner who equates afternoon fever with Yin deficiency; the greasy coating, absent thirst, and soggy pulse show Dampness, which cloying Yin-enriching methods would make more stubborn."
+    },
+    "learningObjective": "Formulate the treatment principle for Damp-Heat in the upper burner and recognize the methods that are contraindicated at this stage.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "san-jiao",
+      "upper-burner-damp-heat",
+      "damp-warmth",
+      "three-prohibitions-damp-warmth"
+    ],
+    "distinction": {
+      "between": [
+        "upper-burner-damp-heat",
+        "wind-cold-invading-the-lung"
+      ],
+      "key": "Heaviness, chest oppression, absent thirst, greasy coating, and a soggy pulse with an afternoon fever unrelieved by sweating mark upper-burner Damp-Heat; Wind-Cold shows marked chills, body aches, a thin non-greasy coating, and a floating tight pulse."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Three Burners"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Pattern identification by the triple burner"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III1-0086",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-i",
+    "theory": "San Jiao",
+    "stem": "A patient in the middle stage of a Damp-Heat illness has epigastric fullness, nausea, poor appetite, loose sticky stools, and a persistent fever that sweating does not relieve. The tongue has a yellow, greasy coating. Using San Jiao theory, which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "open the upper burner with aromatic, pungent methods",
+      "B": "drain Dampness from the lower burner by promoting urination",
+      "C": "warm the middle burner and dispel Cold-Damp",
+      "D": "clear Heat, transform Dampness, and harmonize the middle burner"
+    },
+    "correct": "D",
+    "explanation": "Epigastric fullness, nausea, poor appetite, and loose sticky stools locate the Damp-Heat in the middle burner, where it obstructs the Spleen's transformation and the Stomach's descending. The persistent fever unrelieved by sweating and the yellow greasy coating confirm Heat combined with Dampness. The middle burner is treated by clearing Heat, transforming Dampness, and restoring the harmony of Spleen ascending and Stomach descending.",
+    "distractorExplanations": {
+      "A": "Opening the upper burner suits early Damp-Heat with chest oppression, heaviness of the head, and aversion to cold; the findings here are digestive and point to the middle burner.",
+      "B": "Promoting urination is the main method for the lower burner, chosen when urinary difficulty dominates; this patient has no urinary findings.",
+      "C": "Warming and dispelling Cold-Damp suits a pale tongue with a white coating and no fever; the yellow coating and persistent fever show Heat, which warming methods would aggravate."
+    },
+    "learningObjective": "Identify the treatment principle for Damp-Heat in the middle burner under San Jiao theory.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": true,
+    "concepts": [
+      "san-jiao",
+      "middle-burner-damp-heat",
+      "damp-heat-in-the-spleen"
+    ],
+    "distinction": {
+      "between": [
+        "middle-burner-damp-heat",
+        "cold-damp-invading-the-spleen"
+      ],
+      "key": "A yellow greasy coating with persistent fever marks middle-burner Damp-Heat; a white greasy coating with no fever and a pale tongue marks Cold-Damp."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Three Burners"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Pattern identification by the triple burner"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III1-0087",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-i",
+    "theory": "San Jiao",
+    "stem": "A 63-year-old patient, ten days into a Damp-Heat illness, reports that the fever has eased but urination is now scanty, difficult, dark, and burning, with fullness of the lower abdomen, a heavy sensation in the body, and thirst with little desire to drink. The tongue has a thick, yellow, greasy coating on the root. The pulse is slippery and rapid. Using San Jiao theory, which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear Heat and drain Dampness by promoting urination",
+      "B": "nourish Liver and Kidney Yin and subdue internal Wind",
+      "C": "open the upper burner with aromatic, pungent methods",
+      "D": "transform Dampness and harmonize the middle burner"
+    },
+    "correct": "A",
+    "explanation": "Damp-Heat has moved down into the lower burner, where it obstructs the Bladder's Qi transformation. Scanty, difficult, dark, burning urination with lower abdominal fullness locates it there, while the heaviness, thirst with little desire to drink, thick yellow greasy coating on the root, and slippery rapid pulse confirm Damp-Heat. The lower burner principle is to clear Heat and give Dampness a way out by promoting urination.",
+    "distractorExplanations": {
+      "B": "Chosen by a learner who links the lower burner only with the late Warm-disease pattern of Liver and Kidney Yin exhaustion; that pattern shows a deep-red peeled tongue, a thin pulse, and tremors, while this patient has a thick greasy coating and a slippery pulse.",
+      "C": "Opening the upper burner suits early Damp-Heat with chest oppression and a heavy, wrapped head; this illness has progressed and the findings are urinary.",
+      "D": "Harmonizing the middle burner suits epigastric fullness, nausea, and loose stools; the dominant problem here is urinary obstruction in the lower burner."
+    },
+    "learningObjective": "Formulate the treatment principle for Damp-Heat in the lower burner and differentiate it from Liver-Kidney Yin exhaustion in the lower burner.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "san-jiao",
+      "lower-burner-damp-heat",
+      "bladder-damp-heat"
+    ],
+    "distinction": {
+      "between": [
+        "lower-burner-damp-heat",
+        "lower-burner-liver-kidney-yin-exhaustion"
+      ],
+      "key": "A thick greasy coating with difficult burning urination marks lower-burner Damp-Heat; a deep-red peeled tongue with a thin pulse and tremors marks lower-burner Yin exhaustion."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Three Burners"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Pattern identification by the triple burner"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III1-0088",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-j",
+    "theory": "Internal etiology",
+    "stem": "A 39-year-old patient describes months of resentment and frustration over a stalled promotion. The patient reports distension in the hypochondrium and chest, frequent sighing, irritability, and a sensation of a lump in the throat that comes and goes with mood. The pulse is wiry. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "settle the Heart and calm the Shen after fright",
+      "B": "strengthen the Spleen and calm the Mind",
+      "C": "course the Liver Qi and relieve constraint",
+      "D": "tonify Kidney Qi and firm the lower orifices"
+    },
+    "correct": "C",
+    "explanation": "Frustration and resentment are forms of anger, the emotion of the Liver, and when unexpressed they constrain the Liver's free flow of Qi. Hypochondriac and chest distension, sighing, irritability, a lump sensation in the throat that varies with mood, and a wiry pulse are the signs of Liver Qi stagnation. The principle that addresses this emotional cause is to course the Liver Qi and relieve constraint.",
+    "distractorExplanations": {
+      "A": "Settling the Heart addresses fright, which scatters Heart Qi and causes palpitations and startling; the stem describes a prolonged frustration rather than a sudden shock.",
+      "B": "Strengthening the Spleen addresses worry and pensiveness, which knot Spleen Qi and cause poor appetite and fatigue; distension, sighing, and a wiry pulse point to the Liver.",
+      "D": "Tonifying Kidney Qi addresses fear, which makes Qi descend and may cause incontinence; there are no Kidney findings here."
+    },
+    "learningObjective": "Match the treatment principle to anger and frustration as an internal cause of disease.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": true,
+    "concepts": [
+      "internal-etiology",
+      "anger",
+      "liver-qi-stagnation"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Internal causes of disease: anger"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion",
+        "locator": "Etiology: the seven emotional factors"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III1-0089",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-j",
+    "theory": "Internal etiology",
+    "stem": "A 22-year-old student has spent five months worrying and going over study material late into the night before qualifying examinations. The student reports poor appetite, fatigue, loose stools, palpitations, poor memory, and difficulty falling asleep. The complexion is sallow and pale. The tongue is pale and slightly swollen. The pulse is thin (thready) and weak. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "course the Liver Qi and relieve constraint",
+      "B": "strengthen the Spleen, nourish Heart Blood, and calm the Mind",
+      "C": "sedate the Heart and settle the Shen with heavy calming methods",
+      "D": "clear Heart Fire and drain Heat downward"
+    },
+    "correct": "B",
+    "explanation": "Prolonged worry and pensiveness knot Spleen Qi; a weakened Spleen fails to produce enough Blood to nourish the Heart and house the Mind. Poor appetite, fatigue, loose stools, and a swollen pale tongue show Spleen Qi deficiency, while palpitations, poor memory, difficulty falling asleep, a sallow complexion, and a thin weak pulse show Heart Blood deficiency. Treating the emotional cause and its result means strengthening the Spleen, nourishing Heart Blood, and calming the Mind.",
+    "distractorExplanations": {
+      "A": "Chosen by a learner who treats all emotional stress as Liver Qi stagnation; there is no distension, sighing, or wiry pulse, and the picture is one of deficiency.",
+      "C": "Heavy settling methods suit fright or Excess disturbance of the Shen with agitation and a full pulse; this patient is deficient, and the Mind is restless because it lacks Blood to anchor it.",
+      "D": "Chosen by a learner who links insomnia and palpitations with Heart Fire; the pale tongue and weak pulse show deficiency with no Heat."
+    },
+    "learningObjective": "Formulate the treatment principle for Heart and Spleen deficiency caused by worry and pensiveness.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "internal-etiology",
+      "pensiveness",
+      "spleen-qi-deficiency",
+      "heart-blood-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "heart-and-spleen-deficiency",
+        "liver-qi-stagnation"
+      ],
+      "key": "Poor appetite, loose stools, a pale tongue, and a thin weak pulse mark worry depleting the Spleen and Heart; distension, sighing, and a wiry pulse mark frustration constraining the Liver."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Internal causes of disease: worry and pensiveness"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion",
+        "locator": "Etiology: the seven emotional factors"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III1-0090",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-k",
+    "theory": "External etiology",
+    "stem": "A 52-year-old patient who works in a damp basement reports three months of aching and heaviness in the knees and wrists, with mild swelling and some numbness. The ache shifts somewhat between joints, and it worsens in rainy weather. The joints are neither red nor hot, and the pain is not markedly eased by heat. The tongue has a thin, white, greasy coating. The pulse is soggy (soft). Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "scatter Cold and warm the channels",
+      "B": "clear Heat and resolve Damp-Heat from the joints",
+      "C": "nourish Blood and soothe the sinews",
+      "D": "expel Wind and Dampness and remove obstruction from the channels"
+    },
+    "correct": "D",
+    "explanation": "Prolonged exposure to a damp environment has allowed Wind and Dampness to lodge in the channels and joints, producing Painful Obstruction (Bi). Heaviness, swelling, numbness, aggravation in rainy weather, a greasy coating, and a soggy pulse show Dampness, while the ache moving between joints shows a Wind component. The principle is to expel Wind and Dampness and remove the obstruction from the channels.",
+    "distractorExplanations": {
+      "A": "Scattering Cold suits Cold Bi with severe fixed pain that is clearly relieved by warmth and a tight pulse; here the pain is not markedly eased by heat and heaviness dominates.",
+      "B": "Clearing Damp-Heat suits Heat Bi with red, hot, swollen joints and a yellow coating; these joints are neither red nor hot and the coating is white.",
+      "C": "Chosen by a learner who treats chronic joint pain as Blood deficiency; that would show dull pain, a pale tongue, and a thin pulse, while this patient shows heaviness, swelling, and weather sensitivity."
+    },
+    "learningObjective": "Formulate the treatment principle for Wind-Damp Painful Obstruction and differentiate it from Cold and Heat Painful Obstruction.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "external-etiology",
+      "wind-damp-painful-obstruction",
+      "painful-obstruction-syndrome"
+    ],
+    "distinction": {
+      "between": [
+        "wind-damp-painful-obstruction",
+        "cold-painful-obstruction"
+      ],
+      "key": "Heaviness, swelling, numbness, and wandering ache worse in rainy weather mark Wind-Damp Bi; severe fixed pain clearly relieved by warmth with a tight pulse marks Cold Bi."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "External causes of disease: Wind and Dampness"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion",
+        "locator": "Bi syndromes"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III1-0091",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-k",
+    "theory": "External etiology",
+    "stem": "A 31-year-old roofer reports two days of illness that began during a hot, humid week in July. The roofer has a fever with profuse sweating, thirst, irritability, scanty dark urine, marked fatigue, shortness of breath, heavy limbs, chest oppression, and nausea. The tongue is red with a sticky, yellowish coating. The pulse is soggy (soft) and rapid. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear Summer-Heat, resolve Dampness, and tonify Qi",
+      "B": "release the exterior with pungent-warm methods to induce sweating",
+      "C": "nourish Kidney Yin and clear Empty Heat",
+      "D": "purge Heat from the Intestines downward"
+    },
+    "correct": "A",
+    "explanation": "Summer-Heat is a seasonal pathogen that easily combines with Dampness and, by forcing out sweat, damages Qi and Body Fluids. Fever, profuse sweating, thirst, irritability, scanty dark urine, and a red tongue show Summer-Heat; heavy limbs, chest oppression, nausea, and a sticky coating show the accompanying Dampness; fatigue, shortness of breath, and the soggy pulse show Qi injury. The principle is to clear Summer-Heat, resolve Dampness, and tonify Qi.",
+    "distractorExplanations": {
+      "B": "Chosen by a learner who reads any acute fever as an exterior invasion; the patient is already sweating profusely, and more sweating would further deplete Qi and fluids.",
+      "C": "Chosen by a learner who links sweating and thirst with Yin deficiency; the onset is acute and seasonal, and the sticky coating and Dampness signs point to Summer-Heat with Dampness.",
+      "D": "Purging suits Heat binding in the Intestines with constipation and abdominal fullness, which are absent here."
+    },
+    "learningObjective": "Formulate the treatment principle for Summer-Heat with Dampness and Qi injury.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "external-etiology",
+      "summer-heat",
+      "summer-heat-with-dampness",
+      "qi-deficiency"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "External causes of disease: Summer-Heat"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion",
+        "locator": "Etiology: the six exogenous factors"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III1-0092",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-k",
+    "theory": "External etiology",
+    "stem": "A 27-year-old patient became ill the day after waiting an hour outdoors in a freezing wind. The temperature is 38.4 °C, but the patient is shivering under blankets and feels chilly more than feverish. There is no sweating, an occipital headache, aching of the whole body, a congested nose with clear watery discharge, and no thirst. The tongue has a thin white coating. The pulse is floating and tight. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "release the exterior with pungent-cool methods and clear Heat",
+      "B": "clear Heat from the Qi level and generate fluids",
+      "C": "release the exterior with pungent-warm methods and scatter Cold",
+      "D": "tonify Wei Qi and consolidate the exterior"
+    },
+    "correct": "C",
+    "explanation": "Exterior patterns are differentiated by the pathogen, not by whether a fever is present. Chills predominating over fever, absent sweating, occipital headache, generalized aching, clear watery nasal discharge, absent thirst, a thin white coating, and a floating tight pulse all identify Wind-Cold at the exterior. The fever reflects the struggle between Wei Qi and the pathogen. The principle is to release the exterior with pungent-warm methods and scatter Cold.",
+    "distractorExplanations": {
+      "A": "Chosen by a learner who equates measured fever with Wind-Heat; Wind-Heat shows fever predominating over chills, sore throat, thirst, a red tip or thin yellow coating, and a floating rapid pulse.",
+      "B": "Qi-level Heat requires high fever without chills, profuse sweating, great thirst, and an overflowing pulse; this patient is chilly, dry-skinned, and has a floating pulse showing an exterior pattern.",
+      "D": "Consolidating the exterior suits Wei Qi deficiency with spontaneous sweating and frequent colds; using it during an active Wind-Cold invasion with no sweating would trap the pathogen."
+    },
+    "learningObjective": "Differentiate pungent-warm from pungent-cool exterior-releasing principles according to the pathogen when fever is present in Wind-Cold.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "external-etiology",
+      "wind-cold-invading-the-lung",
+      "wind-heat-invading-the-lung",
+      "release-the-exterior"
+    ],
+    "distinction": {
+      "between": [
+        "wind-cold-invading-the-lung",
+        "wind-heat-invading-the-lung"
+      ],
+      "key": "Chills predominating over fever with no sweating, a thin white coating, and a floating tight pulse mark Wind-Cold; fever predominating with sore throat, thirst, and a floating rapid pulse marks Wind-Heat."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "External causes of disease: Wind-Cold and Wind-Heat"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Exterior syndromes"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III1-0093",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-l",
+    "theory": "Misc etiology",
+    "stem": "A 40-year-old cyclist, otherwise in good health, fell onto the left thigh ten days ago. The patient reports a fixed, stabbing pain at the site that is worse with pressure and at night, with local swelling and dark purple bruising. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "tonify Qi and Blood to nourish the sinews",
+      "B": "invigorate Blood and eliminate stasis",
+      "C": "expel Wind-Damp and remove obstruction from the channels",
+      "D": "cool the Blood and stop bleeding"
+    },
+    "correct": "B",
+    "explanation": "Trauma is a miscellaneous cause of disease that damages the local channels and vessels so that Blood leaves its pathways and stagnates. Fixed, stabbing pain worse with pressure and at night, local swelling, and dark purple bruising are the hallmarks of local Blood stasis. The principle is to invigorate Blood and eliminate stasis.",
+    "distractorExplanations": {
+      "A": "Tonifying Qi and Blood suits dull pain from deficiency in a weakened patient; this patient is healthy, and the pain is sharp, fixed, and worse with pressure, showing Excess.",
+      "C": "Expelling Wind-Damp suits Painful Obstruction with heaviness and aggravation in damp weather; this pain began with a clear traumatic event and has no weather link.",
+      "D": "Chosen by a learner who reads bruising as bleeding from Heat in the Blood; there are no Heat signs, and the dark purple color and stabbing pain show stasis."
+    },
+    "learningObjective": "Identify the treatment principle for local Blood stasis caused by trauma.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": true,
+    "concepts": [
+      "miscellaneous-etiology",
+      "trauma",
+      "blood-stasis"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Miscellaneous causes of disease: trauma"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion",
+        "locator": "Etiology: traumatic injuries"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  }
+]

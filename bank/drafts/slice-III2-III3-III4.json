@@ -43,7 +43,63 @@
         "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
         "locator": "General Introduction to Acupuncture Treatment: principles of treatment"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III2-0002",
@@ -81,7 +137,63 @@
       {
         "source": "Wiseman & Ellis, Fundamentals of Chinese Medicine, revised ed."
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III2-0003",
@@ -128,7 +240,63 @@
         "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
         "locator": "General Introduction to Acupuncture Treatment: principles of treatment"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III2-0004",
@@ -168,7 +336,63 @@
         "source": "Maciocia, The Practice of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on Retention of Urine"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III2-0005",
@@ -210,7 +434,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on Lung patterns; Chapter on Principles of Treatment"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III2-0006",
@@ -256,7 +536,63 @@
       {
         "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III2-0007",
@@ -303,7 +639,63 @@
         "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
         "locator": "General Introduction to Acupuncture Treatment: principles of treatment"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III2-0008",
@@ -350,7 +742,63 @@
         "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
         "locator": "General Introduction to Acupuncture Treatment: strengthening body resistance and eliminating pathogenic factors"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III2-0009",
@@ -393,14 +841,70 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on Principles of Treatment; Chapter on Phlegm"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III2-0010",
     "domain": "III",
     "subdomain": "III-2",
     "task": "III-2",
-    "stem": "A 45-year-old woman reports three weeks of burning, frequent urination with cloudy urine and heaviness in the lower abdomen. For years she has had mild night sweats and a dry mouth at night. The tongue is red with a yellow greasy coating at the root. The pulse is rapid, slippery in the proximal (chi) positions, and thin overall. Which of the following sequences is most appropriate?",
+    "stem": "A 45-year-old woman reports three days of burning, urgent urination every half hour with cloudy urine and heaviness in the lower abdomen; the symptoms began abruptly and are severe. For years she has had mild night sweats and a dry mouth at night that are unchanged. The tongue is red with a yellow greasy coating at the root. The pulse is rapid, slippery in the proximal (chi) positions, and thin overall. Which of the following sequences is most appropriate?",
     "options": {
       "A": "nourish Kidney Yin first, then clear Damp-Heat once the Yin is restored",
       "B": "nourish Kidney Yin and clear Damp-Heat with equal emphasis from the outset",
@@ -408,10 +912,10 @@
       "D": "clear Empty Heat and astringe the urine from the outset"
     },
     "correct": "C",
-    "explanation": "Acute Damp-Heat in the Bladder (burning frequent urination, cloudy urine, yellow greasy coating at the root, slippery rapid pulse) sits on a chronic, mild Kidney Yin deficiency (night sweats, dry mouth at night, thin pulse). This is the classic ordering dilemma: nourishing Yin is cloying and feeds Dampness, while draining Dampness can injure Yin. Because the Damp-Heat is acute and excess, it is cleared first with care taken to protect Yin; nourishing Kidney Yin becomes the main method once the coating clears.",
+    "explanation": "An acute, severe Excess (Damp-Heat in the Bladder: burning urgent urination, cloudy urine, yellow greasy coating at the root, slippery rapid pulse) has arisen on a chronic, mild Deficiency (Kidney Yin deficiency: night sweats, dry mouth at night, thin pulse). By the rule of Root and Branch, an acute and severe branch is treated first; moreover, Yin tonics are cloying and would feed the Dampness, so the Damp-Heat is cleared before the Yin is nourished.",
     "distractorExplanations": {
       "A": "Cloying Yin tonics during active Damp-Heat aggravate the Dampness and retain the pathogen; the acute excess branch must be cleared first.",
-      "B": "Equal emphasis from the outset suits cases where both are equally pressing; here the Yin deficiency is mild and chronic while the Damp-Heat is acute, and the competing methods work against each other.",
+      "B": "Equal emphasis from the outset is used when root and branch are equally pressing; here the Deficiency is mild and unchanged while the Excess is acute and severe, and nourishing Yin during active Damp-Heat retains the Dampness.",
       "D": "Astringing the urine during Damp-Heat retains the pathogen, and the yellow greasy coating with slippery pulse indicates Full Damp-Heat rather than Empty Heat."
     },
     "learningObjective": "Resolve the Damp-Heat versus Yin deficiency ordering dilemma by clearing the acute Damp-Heat before nourishing Yin.",
@@ -440,7 +944,62 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on Principles of Treatment"
       }
-    ]
+    ],
+    "validation": {
+      "status": "needs_revision",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (medium)"
+        },
+        "coherence": {
+          "ok": false,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "B (treat both with equal emphasis) is arguable, since simultaneous root-and-branch treatment is commonly taught for Damp-Heat with Yin deficiency, and a three-week course weakens the 'acute' framing that justifies branch-first."
+        },
+        "factual": {
+          "ok": false,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III2-0011",
@@ -479,7 +1038,63 @@
       {
         "source": "Maclean & Lyttleton, Clinical Handbook of Internal Medicine, 2nd ed."
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III2-0012",
@@ -525,7 +1140,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on Principles of Treatment"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III2-0013",
@@ -572,7 +1243,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on Principles of Treatment"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III2-0014",
@@ -618,7 +1345,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on Principles of Treatment"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III2-0015",
@@ -664,7 +1447,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on Stomach patterns"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III2-0016",
@@ -699,7 +1538,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on Liver patterns; Chapter on Principles of Treatment"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III2-0017",
@@ -734,7 +1629,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on Exterior patterns; Chapter on Principles of Treatment"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III2-0018",
@@ -770,7 +1721,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on Principles of Treatment (Root and Manifestation)"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III2-0019",
@@ -813,7 +1820,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on Liver patterns (Liver Wind)"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III2-0020",
@@ -853,7 +1916,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on Principles of Treatment"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III2-0021",
@@ -891,14 +2010,70 @@
         "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
         "locator": "General Introduction to Acupuncture Treatment: principles of treatment"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III2-0022",
     "domain": "III",
     "subdomain": "III-2",
     "task": "III-2",
-    "stem": "A 40-year-old woman reports that during a stressful year she became irritable, sighs frequently, and has hypochondriac distension that worsens before her period. Over the past six months she has also developed abdominal bloating and loose stools that flare whenever she is upset. The tongue is pale with a thin white coating. The pulse is wiry on the left and weak on the right. Which of the following is the root (Ben) of this presentation?",
+    "stem": "A 40-year-old woman reports that during a stressful year she became irritable, sighs frequently, and has hypochondriac distension that worsens before her period. She had no digestive complaints before that year; over the past six months she has developed abdominal bloating and loose stools that flare whenever she is upset. The tongue is pale with a thin white coating. The pulse is wiry on the left and weak on the right. Which of the following is the root (Ben) of this presentation?",
     "options": {
       "A": "Spleen Qi deficiency",
       "B": "Dampness obstructing the Middle Burner",
@@ -934,7 +2109,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on Combined patterns (Liver Qi invading the Spleen)"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III2-0023",
@@ -976,7 +2207,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on Kidney patterns; Chapter on Principles of Treatment"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III2-0024",
@@ -1022,7 +2309,63 @@
       {
         "source": "Maclean & Lyttleton, Clinical Handbook of Internal Medicine, 2nd ed."
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III2-0025",
@@ -1062,7 +2405,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on Lung patterns"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III2-0026",
@@ -1109,7 +2508,63 @@
         "source": "Maciocia, The Practice of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on Diarrhoea"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III3-0001",
@@ -1145,7 +2600,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on Lung patterns; Chapter on Exterior patterns"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III3-0002",
@@ -1192,7 +2703,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on Stomach patterns"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III3-0003",
@@ -1235,7 +2802,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on Yin-Yang (mutual rooting); Chapter on Kidney patterns"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III3-0004",
@@ -1278,7 +2901,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on Liver patterns; Chapter on Principles of Treatment"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III3-0005",
@@ -1318,7 +2997,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on Spleen patterns"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III3-0006",
@@ -1365,7 +3100,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on Principles of Treatment"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III3-0007",
@@ -1401,7 +3192,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on Heart patterns; Chapter on Causes of disease (overwork)"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III3-0008",
@@ -1440,7 +3287,63 @@
       {
         "source": "Maclean & Lyttleton, Clinical Handbook of Internal Medicine, 2nd ed."
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III3-0009",
@@ -1476,7 +3379,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on Causes of disease (overwork, diet); Chapter on Spleen patterns"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III3-0010",
@@ -1516,7 +3475,63 @@
         "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
         "locator": "General Introduction to Acupuncture Treatment: treatment according to climatic and seasonal conditions"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III3-0011",
@@ -1559,7 +3574,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on Identification of patterns according to the Four Levels"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III3-0012",
@@ -1602,7 +3673,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on Liver patterns"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III3-0013",
@@ -1638,7 +3765,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on Spleen patterns; Chapter on Principles of Treatment"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III3-0014",
@@ -1681,7 +3864,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on Liver patterns; Chapter on Principles of Treatment"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III4-0001",
@@ -1715,7 +3954,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on the Functions of the Spleen"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III4-0002",
@@ -1751,7 +4046,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on Principles of Treatment (Root and Manifestation)"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III4-0003",
@@ -1786,7 +4137,63 @@
         "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
         "locator": "Tongue coating"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III4-0004",
@@ -1821,7 +4228,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on Kidney patterns; Chapter on Principles of Treatment"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III4-0005",
@@ -1855,7 +4318,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on the Functions of the Liver"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III4-0006",
@@ -1890,7 +4409,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on Kidney patterns"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III4-0007",
@@ -1925,7 +4500,63 @@
         "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
         "locator": "Pulse qualities (wiry pulse)"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III4-0008",
@@ -1965,6 +4596,62 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on Principles of Treatment"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   }
 ]

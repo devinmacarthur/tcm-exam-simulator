@@ -33,7 +33,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on the Five Elements"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIb-0002",
@@ -69,7 +125,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on the Five Elements"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIb-0003",
@@ -105,7 +217,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on the Five Elements"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIb-0004",
@@ -141,7 +309,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on the Five Elements; chapter on the functions of the Lungs"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIb-0005",
@@ -184,7 +408,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on the Five Elements; chapter on the causes of disease (internal causes)"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIb-0006",
@@ -220,7 +500,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on the Five Elements"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIb-0007",
@@ -263,7 +599,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on the Five Elements; identification of patterns according to the Five Elements"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIb-0008",
@@ -307,7 +699,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on the Five Elements; identification of patterns according to the Five Elements"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIb-0009",
@@ -350,7 +798,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on the Five Elements; identification of patterns according to the Five Elements"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIb-0010",
@@ -394,7 +898,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on the Five Elements"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIb-0011",
@@ -438,7 +998,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on the Five Elements; identification of patterns according to the Five Elements"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIb-0012",
@@ -478,7 +1094,63 @@
         "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
         "locator": "Section on the Five Elements"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIb-0013",
@@ -522,7 +1194,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on the Five Elements; identification of patterns according to the Five Elements"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIb-0014",
@@ -566,7 +1294,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on the Five Elements; identification of patterns according to the Five Elements"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIb-0015",
@@ -610,7 +1394,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on the Five Elements; identification of patterns according to the Five Elements"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIe-0001",
@@ -646,7 +1486,63 @@
         "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
         "locator": "Section on the Bladder Meridian of Foot-Taiyang"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIe-0002",
@@ -682,7 +1578,63 @@
         "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
         "locator": "Section on the nomenclature and distribution of the twelve regular meridians"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIe-0003",
@@ -725,7 +1677,63 @@
         "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
         "locator": "Section on the Heart Meridian of Hand-Shaoyin"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIe-0004",
@@ -761,7 +1769,63 @@
         "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
         "locator": "Section on the cyclical flow of Qi in the twelve regular meridians"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIe-0005",
@@ -796,7 +1860,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on the eight extraordinary vessels"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIe-0006",
@@ -832,7 +1952,63 @@
         "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
         "locator": "Section on the distribution and connection of the twelve regular meridians"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIe-0007",
@@ -869,7 +2045,63 @@
         "source": "Maciocia, The Practice of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on headaches (differentiation by channel)"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIe-0008",
@@ -905,7 +2137,63 @@
         "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
         "locator": "Section on the Gallbladder Meridian of Foot-Shaoyang"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIe-0009",
@@ -941,7 +2229,63 @@
         "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
         "locator": "Section on the fifteen collaterals"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIe-0010",
@@ -984,7 +2328,63 @@
         "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
         "locator": "Section on the fifteen collaterals"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIe-0011",
@@ -1027,7 +2427,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on the eight extraordinary vessels"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIe-0012",
@@ -1071,7 +2527,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on the eight extraordinary vessels"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIe-0013",
@@ -1114,7 +2626,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on the eight extraordinary vessels"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIe-0014",
@@ -1122,7 +2690,7 @@
     "subdomain": "II-e",
     "task": "II-1-e",
     "theory": "Channels",
-    "stem": "A 38-year-old woman reports headaches at the temples with pain at the outer corner of the eye, ringing in the ears, pain under the ribs on the right side, and a bitter taste on waking. During episodes she feels alternately chilly and feverish. The tongue has a thin yellow coating on the sides. The pulse is wiry. Which channel is primarily affected?",
+    "stem": "A 38-year-old woman reports headaches at the temples with pain at the outer corner of the eye, ringing in the ears, pain under the ribs on the right side, aching along the lateral side of the thigh and leg, and a bitter taste on waking. During episodes she feels alternately chilly and feverish. The tongue has a thin yellow coating on the sides. The pulse is wiry. Which channel is primarily affected?",
     "options": {
       "A": "Gallbladder (Foot Shao Yang)",
       "B": "San Jiao (Hand Shao Yang)",
@@ -1132,7 +2700,7 @@
     "correct": "A",
     "explanation": "The Gallbladder channel begins at the outer canthus, winds over the temple and around the ear, and descends through the lateral costal and hypochondriac region. Its channel symptoms include temporal headache, pain at the outer canthus, tinnitus, hypochondriac pain, bitter taste, and alternating chills and fever. The hypochondriac pain and bitter taste are the findings that place the Shao Yang disorder in the foot channel.",
     "distractorExplanations": {
-      "B": "The San Jiao channel shares the ear and outer canthus, but its pathway covers the shoulder and lateral arm, and it does not account for hypochondriac pain or bitter taste.",
+      "B": "The San Jiao channel shares the ear and outer canthus, but its pathway runs over the shoulder and lateral arm, not the lateral leg, and it does not account for hypochondriac pain or bitter taste.",
       "C": "The Liver channel produces vertex headache and hypochondriac pain but does not reach the ear or the outer canthus.",
       "D": "The Bladder channel produces occipital headache and begins at the inner canthus, the opposite corner of the eye."
     },
@@ -1151,14 +2719,70 @@
         "gallbladder-channel",
         "san-jiao-channel"
       ],
-      "key": "Hypochondriac pain and bitter taste localize the Shao Yang disorder to the Gallbladder (foot) channel; the San Jiao (hand) channel shares ear and outer canthus symptoms but adds shoulder and arm involvement."
+      "key": "Hypochondriac pain, bitter taste and pain along the lateral leg localize a Shao Yang disorder to the Gallbladder (foot) channel; the San Jiao (hand) channel shares ear and outer-canthus symptoms but involves the shoulder and arm."
     },
     "references": [
       {
         "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
         "locator": "Sections on the Gallbladder Meridian of Foot-Shaoyang and the Sanjiao Meridian of Hand-Shaoyang"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIe-0015",
@@ -1202,7 +2826,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on the eight extraordinary vessels"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIi-0001",
@@ -1238,7 +2918,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on the functions of the Triple Burner"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIi-0002",
@@ -1274,7 +3010,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on the functions of the Triple Burner"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIi-0003",
@@ -1317,7 +3109,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Identification of patterns according to the Three Burners"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIi-0004",
@@ -1360,7 +3208,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Identification of patterns according to the Three Burners"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIi-0005",
@@ -1404,7 +3308,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Identification of patterns according to the Three Burners"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIi-0006",
@@ -1441,7 +3401,63 @@
         "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
         "locator": "Chapter on the functions of the Triple Burner"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIm-0001",
@@ -1477,7 +3493,63 @@
         "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
         "locator": "Section on the cyclical flow of Qi in the twelve regular meridians"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIm-0002",
@@ -1514,7 +3586,63 @@
         "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
         "locator": "Section on the cyclical flow of Qi in the twelve regular meridians"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIm-0003",
@@ -1551,7 +3679,63 @@
         "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
         "locator": "Section on the cyclical flow of Qi in the twelve regular meridians"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIm-0004",
@@ -1599,6 +3783,62 @@
         "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
         "locator": "Section on the cyclical flow of Qi in the twelve regular meridians"
       }
-    ]
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   }
 ]

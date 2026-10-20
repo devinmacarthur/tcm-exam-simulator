@@ -1,0 +1,2238 @@
+[
+  {
+    "id": "FOM-IId-0001",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A patient catches colds easily and sweats spontaneously during the day without exertion. These findings most directly reflect weakness of which type of Qi?",
+    "options": {
+      "A": "Yuan Qi",
+      "B": "Wei Qi",
+      "C": "Ying Qi",
+      "D": "Zong Qi"
+    },
+    "correct": "B",
+    "explanation": "Wei Qi (Defensive Qi) circulates outside the vessels in the skin and muscles, warms the surface, protects against exterior pathogenic factors, and regulates the opening and closing of the pores. When it is weak, pathogens invade easily (frequent colds) and the pores fail to close, so sweat leaks out spontaneously in the daytime.",
+    "distractorExplanations": {
+      "A": "Yuan Qi (Original Qi) is rooted in the Kidney and is the motive force for all organ activity; its weakness shows as developmental, reproductive or deep constitutional weakness rather than susceptibility to colds.",
+      "C": "Ying Qi (Nutritive Qi) circulates inside the vessels with Blood and nourishes the organs; it is not responsible for defending the surface or closing the pores.",
+      "D": "Zong Qi (Gathering Qi) accumulates in the chest and governs respiration, voice and the Heart's circulation of Blood; its weakness shows as a weak voice and shortness of breath."
+    },
+    "learningObjective": "Identify frequent colds and spontaneous daytime sweating as manifestations of Wei Qi weakness.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": false,
+    "concepts": [
+      "wei-qi",
+      "types-of-qi",
+      "spontaneous-sweating"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Qi: Defensive Qi"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Qi, Blood and Body Fluid: classification and functions of Qi"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IId-0002",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "Which type of Qi accumulates in the chest, promotes respiration and the circulation of Blood by the Heart, and when deficient produces a weak voice and a feeble pulse?",
+    "options": {
+      "A": "Wei Qi",
+      "B": "Gu Qi",
+      "C": "Zong Qi",
+      "D": "Zhen Qi"
+    },
+    "correct": "C",
+    "explanation": "Zong Qi (Gathering Qi) is formed from Gu Qi and the clear Qi of air, accumulates in the chest, and controls the Lung's respiration and the Heart's propulsion of Blood. Deficiency of Zong Qi therefore produces a weak voice, shortness of breath, a feeble pulse and sometimes cold hands.",
+    "distractorExplanations": {
+      "A": "Wei Qi circulates at the surface to protect and warm the body and regulate the pores; it does not govern voice or the heartbeat.",
+      "B": "Gu Qi (Food Qi) is the first product of digestion by the Spleen and rises to the chest to form Zong Qi and Blood; it is a precursor rather than the Qi that drives respiration and circulation.",
+      "D": "Zhen Qi (True Qi) is the final form of Qi after Zong Qi is catalyzed by Yuan Qi; it divides into Ying and Wei and is not specifically localized in the chest."
+    },
+    "learningObjective": "Identify Zong Qi by its location, functions and the clinical signs of its deficiency.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "zong-qi",
+      "types-of-qi",
+      "weak-voice"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Qi: Gathering Qi"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Qi, Blood and Body Fluid: classification and functions of Qi"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IId-0003",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "Which of the following statements best describes the Ye component of the Body Fluids?",
+    "options": {
+      "A": "light and clear, circulating with Wei Qi to moisten the skin and muscles",
+      "B": "turbid and heavy, nourishing the joints, spine, brain and bone marrow",
+      "C": "transformed into sweat and urine under the control of the Lung and Bladder",
+      "D": "entering the vessels to thin the Blood and keep it flowing"
+    },
+    "correct": "B",
+    "explanation": "The Body Fluids (Jin Ye) are divided into Jin and Ye. Ye are the thicker, heavier, more Yin fluids that move slowly, lubricate the joints and spine, moisten the brain and bone marrow, and nourish the sense orifices. Pathology of Ye therefore appears as stiffness and dryness of the joints, dizziness and dryness of the orifices in chronic Yin-deficient or Fluid-deficient conditions.",
+    "distractorExplanations": {
+      "A": "Light, clear fluids that circulate with Wei Qi to moisten skin and muscles are the Jin; a learner who reverses Jin and Ye would pick this.",
+      "C": "Jin are the fluids that become sweat and urine; Ye are too thick and deep to be excreted in this way.",
+      "D": "The fluid that enters the vessels to thin the Blood is derived from Jin; Ye nourish deeper structures rather than the Blood."
+    },
+    "learningObjective": "Differentiate Jin from Ye by consistency, distribution and function.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "jin-ye",
+      "body-fluids"
+    ],
+    "distinction": {
+      "between": [
+        "jin",
+        "ye"
+      ],
+      "key": "Jin are thin, superficial and become sweat and urine; Ye are thick, deep and lubricate joints, brain and marrow."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Body Fluids: Jin and Ye"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Qi, Blood and Body Fluid: Body Fluid"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IId-0004",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 39-year-old woman reports heavy, prolonged menstrual bleeding of pale, thin blood for four cycles, with tiredness, shortness of breath, a pale complexion, and easy bruising. The tongue is pale. The pulse is weak. Which relationship between Qi and Blood best explains the bleeding?",
+    "options": {
+      "A": "Qi fails to hold the Blood within the vessels",
+      "B": "Qi fails to move the Blood, producing stasis",
+      "C": "Heat in the Blood drives the Blood out recklessly",
+      "D": "Blood fails to nourish and anchor the Qi"
+    },
+    "correct": "A",
+    "explanation": "One of the functions of Qi is to hold (contain) the Blood in the vessels; the Spleen in particular governs this. When Qi is deficient (tiredness, shortness of breath, pale complexion, weak pulse), it can no longer contain the Blood, so bleeding is chronic, pale and thin, and bruising occurs easily. The pale color of the blood and the deficiency signs are the discriminating findings against bleeding caused by Heat.",
+    "distractorExplanations": {
+      "B": "Failure to move Blood produces stasis with fixed pain, dark clotted blood and a purple tongue; this patient's bleeding is pale and thin with no stasis signs.",
+      "C": "Blood Heat causes bleeding of bright-red, profuse blood with a red tongue and a rapid pulse; here the tongue is pale and the pulse weak. A learner who assumes all heavy bleeding is Heat would pick this.",
+      "D": "Blood failing to anchor Qi describes Qi collapse after massive hemorrhage; here Qi deficiency is the cause of the bleeding, not its result."
+    },
+    "learningObjective": "Explain chronic pale bleeding with deficiency signs through the holding function of Qi.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": true,
+    "concepts": [
+      "qi-holds-blood",
+      "qi-deficiency",
+      "qi-blood-relationship"
+    ],
+    "distinction": {
+      "between": [
+        "qi-not-holding-blood",
+        "blood-heat"
+      ],
+      "key": "Pale thin bleeding with tiredness, a pale tongue and a weak pulse marks Qi failing to hold Blood; bright-red profuse bleeding with a red tongue and rapid pulse marks Blood Heat."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Blood: relationship between Qi and Blood"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Qi, Blood and Body Fluid: relationship between Qi and Blood"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IId-0005",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 31-year-old woman had a sudden, massive hemorrhage after childbirth. Within minutes she became pale and faint, drenched in cold sweat, with shallow breathing and cold limbs. The tongue is pale. The pulse is minute (faint) and barely perceptible. Which pathomechanism best explains the sudden shortness of breath, sweating, and cold limbs?",
+    "options": {
+      "A": "Blood stasis obstructs the chest and blocks the circulation of Qi",
+      "B": "Qi stagnation forces the Blood out of the vessels",
+      "C": "Qi collapses along with the lost Blood, because Blood is the mother of Qi",
+      "D": "Heat in the Blood scatters the Qi outward through the pores"
+    },
+    "correct": "C",
+    "explanation": "Blood is the mother of Qi: it provides the material basis and carrier for Qi. When a large volume of Blood is lost suddenly, the Qi that it carried escapes with it, producing collapse of Qi (and Yang): faintness, shallow breathing, cold sweat, cold limbs and a minute pulse. The sweating and cold limbs are signs of Qi and Yang collapse secondary to the hemorrhage, which is why the acute treatment priority is to rescue Qi rather than simply replenish Blood.",
+    "distractorExplanations": {
+      "A": "Blood stasis in the chest produces fixed stabbing chest pain, a purple tongue and a choppy pulse; the sudden collapse with a pale tongue and a minute pulse is a deficiency emergency, not an obstruction.",
+      "B": "Qi stagnation does not cause Blood to leave the vessels; and stagnation shows a wiry pulse and distension rather than a faint pulse and collapse.",
+      "D": "Blood Heat causes bleeding, but its signs are a red tongue, a rapid pulse and heat; the pale tongue, cold sweat and cold limbs rule out Heat."
+    },
+    "learningObjective": "Explain collapse of Qi after acute hemorrhage through the principle that Blood is the mother of Qi.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "blood-mother-of-qi",
+      "qi-collapse",
+      "minute-pulse",
+      "qi-blood-relationship"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Blood: Blood is the mother of Qi"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Qi, Blood and Body Fluid: relationship between Qi and Blood"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IId-0006",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 36-year-old landscaper sweated heavily for two weeks while working outdoors during a heat wave. He now reports palpitations, dizziness on standing, blurred vision, and poor sleep. His lips and nails are pale. The tongue is pale and slightly dry. The pulse is thin (thready). Which relationship best explains these findings?",
+    "options": {
+      "A": "Dampness generated by the humid weather has obstructed the Blood",
+      "B": "Summer-Heat has entered the Blood level and is scorching the Blood",
+      "C": "Qi has sunk after prolonged exertion and fails to carry Blood to the head",
+      "D": "Fluids and Blood share a common source, so heavy loss of sweat has depleted the Blood"
+    },
+    "correct": "D",
+    "explanation": "Sweat is a Body Fluid, and Body Fluids and Blood share the same source (both derive from Gu Qi and the fluids extracted by the Spleen; fluids enter the vessels to form part of Blood). Prolonged heavy sweating drains the fluid portion of Blood, producing Blood deficiency: palpitations (Heart Blood), dizziness and blurred vision (Blood failing to reach the head and eyes), poor sleep (Blood failing to house the Shen), pale lips and nails, a pale dry tongue and a thin pulse. The clinical corollary is that sweating methods are used cautiously in Blood-deficient patients.",
+    "distractorExplanations": {
+      "A": "Dampness would show heaviness, a greasy coating and a soggy or slippery pulse; there is no Dampness sign here and the tongue is dry rather than greasy.",
+      "B": "Summer-Heat in the Blood level produces high fever, a deep-red tongue, bleeding and a rapid pulse; this patient has a pale tongue and a thin pulse with no Heat.",
+      "C": "Qi sinking shows bearing-down sensations, prolapse or chronic diarrhea; the pale lips and nails, blurred vision and thin pulse point to Blood deficiency rather than sinking Qi."
+    },
+    "learningObjective": "Explain Blood deficiency following prolonged heavy sweating through the shared source of Fluids and Blood.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "sweat-and-blood",
+      "fluids-blood-common-source",
+      "blood-deficiency",
+      "thin-pulse"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Body Fluids: relationship between Body Fluids and Blood"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Qi, Blood and Body Fluid: relationship between Blood and Body Fluid"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IId-0007",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "The Spleen fails to turn ingested fluids into usable Body Fluids and refined essence, and the untransformed fluids gather as Dampness. This process illustrates impairment of which function of Qi?",
+    "options": {
+      "A": "holding",
+      "B": "transforming",
+      "C": "raising",
+      "D": "protecting"
+    },
+    "correct": "B",
+    "explanation": "Among the functions of Qi (transforming, transporting, holding, raising, protecting and warming), the transforming function is the one by which Qi changes food and drink into Gu Qi, Blood and Body Fluids and separates clear from turbid. When this Qi transformation of fluids is weak, fluids are neither refined nor moved on and accumulate as Dampness, Phlegm or edema. This is the mechanism summarized as 'Qi transforms Fluids'.",
+    "distractorExplanations": {
+      "A": "The holding function keeps Blood in the vessels and fluids (sweat, urine) in place; its failure produces bleeding or leakage, not accumulation of Dampness.",
+      "C": "The raising function keeps organs in place and sends clear Qi upward; its failure produces prolapse and bearing-down sensations.",
+      "D": "The protecting function belongs to Wei Qi at the surface; its failure produces susceptibility to exterior pathogens."
+    },
+    "learningObjective": "Relate the transforming function of Qi to the formation of Dampness when fluid transformation fails.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": false,
+    "concepts": [
+      "qi-transforms-fluids",
+      "functions-of-qi",
+      "dampness"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Qi: functions of Qi"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Qi, Blood and Body Fluid: functions of Qi"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IId-0008",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 42-year-old patient reports four months of tiredness that is worse in the afternoon, shortness of breath when climbing stairs, a low weak voice, sweating on mild exertion, and reduced appetite. The limbs are warm. The tongue is pale with a thin white coating. The pulse is empty (deficient). Which of the following is the most appropriate pattern?",
+    "options": {
+      "A": "Yang deficiency",
+      "B": "Qi deficiency",
+      "C": "Blood deficiency",
+      "D": "Qi sinking"
+    },
+    "correct": "B",
+    "explanation": "Tiredness, shortness of breath on exertion, a weak voice, spontaneous or exertional sweating, poor appetite, a pale tongue and an empty pulse are the general signs of Qi deficiency, reflecting weakness of the Spleen and Lung in producing and governing Qi. The warm limbs are the discriminating finding: they show that Qi, rather than Yang, is deficient, since Yang deficiency adds cold signs to the same picture.",
+    "distractorExplanations": {
+      "A": "Yang deficiency includes all Qi deficiency signs plus cold limbs, aversion to cold, a wet swollen tongue and a slow pulse; the warm limbs rule it out. A learner who treats Qi and Yang deficiency as interchangeable would pick this.",
+      "C": "Blood deficiency shows dizziness, blurred vision, pale lips, numbness and a thin pulse rather than breathlessness, weak voice and sweating.",
+      "D": "Qi sinking requires bearing-down sensations, prolapse or chronic diarrhea in addition to Qi deficiency signs; none is present."
+    },
+    "learningObjective": "Differentiate Qi deficiency from Yang deficiency using the presence or absence of cold signs.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "qi-deficiency",
+      "yang-deficiency",
+      "empty-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "qi-deficiency",
+        "yang-deficiency"
+      ],
+      "key": "Qi deficiency shows tiredness, breathlessness and a weak pulse with warm limbs; Yang deficiency adds cold limbs, aversion to cold and a slow pulse."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to Qi, Blood and Body Fluids: Qi deficiency"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of qi and blood: deficiency of qi"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IId-0009",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 61-year-old woman reports a bearing-down sensation in the lower abdomen that worsens after standing for long periods, chronic loose stools, urinary frequency with dribbling after urination, and tiredness. Examination reveals a uterine prolapse. The tongue is pale. The pulse is weak. Which of the following is the most appropriate pattern?",
+    "options": {
+      "A": "Qi deficiency",
+      "B": "Qi stagnation",
+      "C": "Qi sinking",
+      "D": "Blood deficiency"
+    },
+    "correct": "C",
+    "explanation": "Qi sinking is a variety of Qi deficiency in which the raising function of Qi (especially Spleen Qi) fails, so the organs are no longer held in place. The bearing-down sensation worse on standing, uterine prolapse, chronic loose stools and post-urination dribbling, on a background of tiredness, a pale tongue and a weak pulse, are its defining signs. The prolapse and bearing-down sensation are the discriminating findings that separate sinking from simple Qi deficiency.",
+    "distractorExplanations": {
+      "A": "Simple Qi deficiency explains the tiredness and weak pulse but not the prolapse and bearing-down sensation, which require failure of the raising function.",
+      "B": "Qi stagnation produces distension that moves and varies with emotion, with a wiry pulse; this patient's pulse is weak and the sensation is of dropping rather than distension.",
+      "D": "Blood deficiency shows dizziness, blurred vision, pale lips and a thin pulse; it does not cause organ prolapse."
+    },
+    "learningObjective": "Differentiate Qi sinking from Qi deficiency by the presence of prolapse and bearing-down sensations.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "qi-sinking",
+      "qi-deficiency",
+      "prolapse"
+    ],
+    "distinction": {
+      "between": [
+        "qi-sinking",
+        "qi-deficiency"
+      ],
+      "key": "Prolapse and a bearing-down sensation on a Qi-deficient background mark Qi sinking."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to Qi, Blood and Body Fluids: Qi sinking"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of qi and blood: sinking of qi"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IId-0010",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 34-year-old patient reports abdominal and hypochondrial distension and pain that moves from place to place, comes and goes with emotional upset, and eases after belching or passing gas. Appetite fluctuates. The tongue is normal in color. The pulse is wiry. Which of the following is the most appropriate pattern?",
+    "options": {
+      "A": "Blood stasis",
+      "B": "Qi rebellion",
+      "C": "Retention of Food in the Stomach",
+      "D": "Qi stagnation"
+    },
+    "correct": "D",
+    "explanation": "Qi stagnation produces distension more than pain, in a location that moves and changes with emotional state, relieved when Qi moves (belching, passing gas, sighing), with a wiry pulse and a tongue that is often unchanged in color because the Blood is not yet affected. The moving quality of the discomfort and the normal tongue color are the discriminating findings against Blood stasis.",
+    "distractorExplanations": {
+      "A": "Blood stasis causes fixed, stabbing pain that is worse at night and worse with pressure, with a purple tongue and a choppy pulse; this pain moves and the tongue is normal. A learner who hears 'pain' and jumps to stasis would pick this.",
+      "B": "Qi rebellion produces symptoms of Qi moving in the wrong direction, such as vomiting, hiccup, cough or wheezing, rather than distension that moves around.",
+      "C": "Retention of Food produces fixed epigastric fullness after overeating, sour regurgitation, foul belching and a thick greasy coating; here the distension varies with emotion and the tongue is normal."
+    },
+    "learningObjective": "Differentiate Qi stagnation from Blood stasis by the moving, emotion-linked character of distension and the normal tongue color.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "qi-stagnation",
+      "blood-stasis",
+      "wiry-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "qi-stagnation",
+        "blood-stasis"
+      ],
+      "key": "Distension that moves and varies with emotion, with a wiry pulse and normal tongue, marks Qi stagnation; fixed stabbing pain with a purple tongue and choppy pulse marks Blood stasis."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to Qi, Blood and Body Fluids: Qi stagnation"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of qi and blood: stagnation of qi"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IId-0011",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "Which pair of symptoms most directly reflects rebellious Qi?",
+    "options": {
+      "A": "cough and hiccup",
+      "B": "prolapse and chronic diarrhea",
+      "C": "distension and frequent sighing",
+      "D": "tiredness and spontaneous sweating"
+    },
+    "correct": "A",
+    "explanation": "Rebellious Qi is Qi flowing counter to its normal direction. Lung Qi should descend; when it rebels upward it produces cough and wheezing. Stomach Qi should descend; when it rebels upward it produces hiccup, belching, nausea and vomiting. Cough and hiccup together are therefore the pair that directly expresses Qi rebellion.",
+    "distractorExplanations": {
+      "B": "Prolapse and chronic diarrhea reflect Qi sinking, the failure of the raising function.",
+      "C": "Distension and sighing reflect Qi stagnation, in which Qi fails to move smoothly rather than moving in the wrong direction.",
+      "D": "Tiredness and spontaneous sweating reflect Qi deficiency, a lack of Qi rather than a disorder of its direction."
+    },
+    "learningObjective": "Identify the clinical expressions of Qi rebellion and distinguish them from Qi deficiency, sinking and stagnation.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": false,
+    "concepts": [
+      "qi-rebellion",
+      "qi-pathology",
+      "qi-sinking"
+    ],
+    "distinction": {
+      "between": [
+        "qi-rebellion",
+        "qi-stagnation"
+      ],
+      "key": "Rebellion is Qi moving in the wrong direction (cough, vomiting, hiccup); stagnation is Qi failing to move (distension, sighing)."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to Qi, Blood and Body Fluids: rebellious Qi"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of qi and blood: perversion of qi"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IId-0012",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 27-year-old woman reports dizziness, blurred vision, numbness of the hands, difficulty falling asleep, and scanty, light-colored periods. Her complexion is pale and dull and her lips are pale. She has no thirst and no night sweats. The tongue is pale and thin. The pulse is thin (thready). Which of the following is the most appropriate pattern?",
+    "options": {
+      "A": "Yin deficiency",
+      "B": "Qi deficiency",
+      "C": "Blood deficiency",
+      "D": "Blood stasis"
+    },
+    "correct": "C",
+    "explanation": "Blood deficiency produces failure of nourishment: dizziness and blurred vision (Blood failing to reach the head and eyes), numbness (Blood failing to nourish the channels), difficulty falling asleep (Blood failing to root the Shen), scanty pale periods, a pale dull complexion, pale lips, a pale thin tongue and a thin pulse. The absence of thirst, night sweats and other heat signs, together with the pale rather than red tongue, is the discriminating finding against Yin deficiency.",
+    "distractorExplanations": {
+      "A": "Yin deficiency shares the dizziness and insomnia but adds Empty Heat signs: night sweats, five-palm heat, a dry mouth, a red peeled tongue and a thin-rapid pulse. A learner who reads 'thin pulse' as automatic Yin deficiency would pick this.",
+      "B": "Qi deficiency shows tiredness, breathlessness, a weak voice and sweating with an empty pulse; it does not produce the pale lips, numbness and blurred vision of failed nourishment.",
+      "D": "Blood stasis shows fixed stabbing pain, dark clotted periods and a purple tongue with a choppy pulse; the periods here are scanty and pale and the tongue pale."
+    },
+    "learningObjective": "Differentiate Blood deficiency from Yin deficiency by the absence of Empty Heat signs and the pale tongue.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "blood-deficiency",
+      "yin-deficiency",
+      "thin-pulse",
+      "pale-tongue"
+    ],
+    "distinction": {
+      "between": [
+        "blood-deficiency",
+        "yin-deficiency"
+      ],
+      "key": "A pale tongue with no heat signs marks Blood deficiency; a red peeled tongue with night sweats and five-palm heat marks Yin deficiency."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to Qi, Blood and Body Fluids: Blood deficiency"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of qi and blood: deficiency of blood"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IId-0013",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 48-year-old patient reports a stabbing pain in a fixed location in the lower abdomen for several months, worse at night and worse with pressure, with dark menstrual blood containing clots and a dusky complexion. The tongue is purple with dark spots and distended sublingual veins. The pulse is choppy. Which of the following is the most appropriate pattern?",
+    "options": {
+      "A": "Blood stasis",
+      "B": "Qi stagnation",
+      "C": "Blood Cold",
+      "D": "Blood deficiency"
+    },
+    "correct": "A",
+    "explanation": "Blood stasis produces pain that is stabbing, fixed, worse at night (when Blood returns to the interior and moves less) and worse with pressure, with dark clotted menstrual blood, a dusky complexion, a purple tongue with stasis spots and distended sublingual veins, and a choppy pulse. The purple tongue with distended sublingual veins and the fixed stabbing quality of the pain are the discriminating findings.",
+    "distractorExplanations": {
+      "B": "Qi stagnation causes distension rather than stabbing pain, moving rather than fixed, with a wiry pulse and a tongue of normal color.",
+      "C": "Blood Cold also produces clots and pain, but the pain is cramping, relieved by warmth, with cold limbs, a pale tongue and a deep tight pulse; nothing here points to Cold. A learner who associates clots only with Cold would pick this.",
+      "D": "Blood deficiency shows dizziness, scanty pale periods, a pale thin tongue and a thin pulse, with no pain of a stabbing character."
+    },
+    "learningObjective": "Identify Blood stasis from fixed stabbing pain, dark clotted blood, a purple tongue and a choppy pulse.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "blood-stasis",
+      "purple-tongue",
+      "choppy-pulse",
+      "sublingual-veins"
+    ],
+    "distinction": {
+      "between": [
+        "blood-stasis",
+        "qi-stagnation"
+      ],
+      "key": "Fixed stabbing pain with a purple tongue and choppy pulse marks Blood stasis; moving distension with a normal tongue and wiry pulse marks Qi stagnation."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to Qi, Blood and Body Fluids: Blood stasis"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of qi and blood: stagnation of blood"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IId-0014",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 22-year-old patient reports recurrent nosebleeds of bright-red blood, itchy red skin eruptions, heavy periods, a subjective feeling of heat, mental restlessness, and thirst. The tongue is red. The pulse is rapid. Which of the following is the most appropriate pattern?",
+    "options": {
+      "A": "Blood deficiency",
+      "B": "Blood Heat",
+      "C": "Blood stasis",
+      "D": "Blood Cold"
+    },
+    "correct": "B",
+    "explanation": "Heat in the Blood accelerates and agitates the Blood, forcing it out of the vessels (bright-red nosebleeds, heavy periods), erupting at the skin (red itchy eruptions) and disturbing the Shen (restlessness), with a feeling of heat, thirst, a red tongue and a rapid pulse. The bright-red color of the bleeding together with the red tongue and rapid pulse is the discriminating finding.",
+    "distractorExplanations": {
+      "A": "Blood deficiency shows a pale tongue, pale lips and a thin pulse, and bleeding from deficiency (Qi failing to hold Blood) is pale and thin rather than bright red.",
+      "C": "Blood stasis causes dark, clotted bleeding with fixed pain and a purple tongue; the bright-red bleeding and red tongue show Heat rather than stasis.",
+      "D": "Blood Cold produces cramping pain relieved by warmth, scanty dark menses, cold limbs, a pale tongue and a slow or tight pulse, the opposite of every finding here."
+    },
+    "learningObjective": "Identify Blood Heat from bright-red bleeding, red skin eruptions, restlessness, a red tongue and a rapid pulse.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "blood-heat",
+      "bleeding",
+      "red-tongue",
+      "rapid-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "blood-heat",
+        "blood-stasis"
+      ],
+      "key": "Bright-red bleeding with a red tongue and rapid pulse marks Blood Heat; dark clotted bleeding with a purple tongue and choppy pulse marks Blood stasis."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to Qi, Blood and Body Fluids: Blood Heat"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of qi and blood: heat in the blood"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IId-0015",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 25-year-old woman reports painful periods with a cramping, cold sensation in the lower abdomen that is markedly relieved by a hot-water bottle, scanty dark menstrual flow with small clots, cold hands and feet, and a preference for warm drinks. The tongue is pale with a bluish-purple tinge. The pulse is deep and tight. Which of the following is the most appropriate pattern?",
+    "options": {
+      "A": "Blood stasis from Qi stagnation",
+      "B": "Blood deficiency",
+      "C": "Blood Heat",
+      "D": "Blood Cold"
+    },
+    "correct": "D",
+    "explanation": "Cold in the Blood (Cold in the Uterus) congeals the Blood and contracts the vessels: cramping cold pain that is relieved by warmth, scanty dark menses with small clots, cold limbs, a preference for warm drinks, a pale tongue with a bluish tinge and a deep tight pulse. The marked relief by warmth together with the tight pulse and pale-bluish tongue is the discriminating finding against Blood stasis, in which clots and pain are present but without the Cold signs.",
+    "distractorExplanations": {
+      "A": "Stasis driven by Qi stagnation presents with distending, stabbing pain that is not relieved by warmth, premenstrual irritability and a wiry or choppy pulse; the cold sensation, relief by warmth, cold limbs and tight pulse identify Cold as the cause of the congealing. A learner who stops at clots would pick this.",
+      "B": "Blood deficiency produces scanty pale periods with dull pain after the period, dizziness and a thin pulse; cramping pain with clots and a tight pulse is an Excess finding.",
+      "C": "Blood Heat produces heavy bright-red periods, a feeling of heat, a red tongue and a rapid pulse; every finding here is Cold."
+    },
+    "learningObjective": "Differentiate Blood Cold from Blood stasis by the cold sensation, relief with warmth, bluish-pale tongue and tight pulse.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "blood-cold",
+      "blood-stasis",
+      "tight-pulse",
+      "dysmenorrhea"
+    ],
+    "distinction": {
+      "between": [
+        "blood-cold",
+        "blood-stasis"
+      ],
+      "key": "Cramping pain relieved by warmth with cold limbs, a pale-bluish tongue and a tight pulse marks Blood Cold; stabbing pain unrelieved by warmth with a purple tongue and a choppy or wiry pulse marks stasis from Qi stagnation."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to Qi, Blood and Body Fluids: Blood Cold"
+      },
+      {
+        "source": "Maciocia, The Practice of Chinese Medicine, 3rd ed.",
+        "locator": "Painful periods: Cold in the Uterus"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IId-0016",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 54-year-old man has had four days of vomiting and watery diarrhea. He now reports a dry mouth and throat, dry lips and skin, scanty dark urine, and thirst. Before this episode he was in good health, and he reports no night sweats and no heat in the palms. The tongue is dry with a thin coating. The pulse is thin and slightly rapid. Which of the following is the most appropriate pattern?",
+    "options": {
+      "A": "Yin deficiency",
+      "B": "Body Fluid deficiency",
+      "C": "Blood deficiency",
+      "D": "exterior Dryness"
+    },
+    "correct": "B",
+    "explanation": "Acute loss of fluids through vomiting and diarrhea injures the Body Fluids (Jin Ye) directly. The result is dryness of the mouth, throat, lips and skin, thirst, scanty dark urine and a dry tongue, with a thin pulse that may be slightly rapid from the relative excess of Yang. The acute onset in a previously healthy patient, with dryness but without the chronic Empty Heat signs of Yin deficiency, is the discriminating finding; untreated, prolonged Fluid injury can progress to Yin deficiency.",
+    "distractorExplanations": {
+      "A": "Yin deficiency is chronic and includes Empty Heat signs (night sweats, five-palm heat, malar flush, a red peeled tongue); this patient's dryness is acute and he has none of those signs. A learner who equates all dryness with Yin deficiency would pick this.",
+      "C": "Blood deficiency shows dizziness, pale lips, a pale tongue and numbness; it does not produce thirst, dry skin and scanty urine after fluid loss.",
+      "D": "Exterior Dryness is a seasonal pathogen producing a dry cough, dry nose and throat with mild fever and aversion to cold; this dryness follows internal fluid loss with no exterior signs."
+    },
+    "learningObjective": "Differentiate acute Body Fluid deficiency from chronic Yin deficiency by onset, cause and the absence of Empty Heat signs.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "body-fluid-deficiency",
+      "yin-deficiency",
+      "dry-tongue",
+      "jin-ye"
+    ],
+    "distinction": {
+      "between": [
+        "body-fluid-deficiency",
+        "yin-deficiency"
+      ],
+      "key": "Acute dryness following fluid loss without night sweats, five-palm heat or a peeled tongue marks Body Fluid deficiency; chronic dryness with those Empty Heat signs marks Yin deficiency."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to Qi, Blood and Body Fluids: deficiency of Body Fluids"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Qi, Blood and Body Fluid: Body Fluid"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IId-0018",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 37-year-old woman reports heaviness of the limbs and head, a feeling of fullness in the epigastrium, poor appetite, a sticky taste, sticky loose stools, and a white vaginal discharge, all worse in humid weather. The tongue has a sticky (greasy) white coating. The pulse is soggy (soft). Which of the following is the most appropriate pattern?",
+    "options": {
+      "A": "Dampness",
+      "B": "Phlegm",
+      "C": "Qi deficiency",
+      "D": "Qi stagnation"
+    },
+    "correct": "A",
+    "explanation": "Dampness is heavy, sticky, turbid and lingering, tends to sink, and obstructs the movement of Qi. Heaviness of limbs and head, epigastric fullness, poor appetite, a sticky taste, sticky stools, a white vaginal discharge (Dampness sinking to the lower burner), aggravation in humid weather, a greasy white coating and a soggy pulse together define the pattern. Diffuse heaviness and fullness with a soggy pulse, rather than sputum, lumps or a slippery pulse, is the discriminating finding against Phlegm.",
+    "distractorExplanations": {
+      "B": "Phlegm is a thicker, condensed form of Dampness that produces sputum, lumps or nodules, dizziness or mental clouding, with a slippery pulse; this patient has diffuse heaviness and discharge with a soggy pulse.",
+      "C": "Qi deficiency explains tiredness and poor appetite but not heaviness, fullness, sticky taste and discharge, which are signs of an accumulated pathogenic factor; the greasy coating is an Excess sign.",
+      "D": "Qi stagnation produces distension that moves and varies with emotion, with a wiry pulse and a normal coating; here the coating is greasy and the sensations are heavy and sticky."
+    },
+    "learningObjective": "Identify Dampness from heaviness, fullness, sticky secretions, a greasy coating and a soggy pulse, and distinguish it from Phlegm.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "dampness",
+      "phlegm",
+      "soggy-pulse",
+      "greasy-white-coating"
+    ],
+    "distinction": {
+      "between": [
+        "dampness",
+        "phlegm"
+      ],
+      "key": "Diffuse heaviness and sticky secretions with a soggy pulse mark Dampness; sputum, nodules or mental clouding with a slippery pulse mark Phlegm."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to Qi, Blood and Body Fluids: Dampness"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Etiology: six exogenous factors, damp"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IId-0019",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 19-year-old develops sudden swelling of the eyelids and face that spreads to the arms within two days, with aversion to wind, fever, a sore throat, and reduced urination. The tongue has a thin white coating. The pulse is floating and rapid. Which pathomechanism best explains the edema?",
+    "options": {
+      "A": "Spleen Qi fails to transform and transport the Fluids",
+      "B": "Kidney Yang fails to steam and excrete the Fluids",
+      "C": "Lung Qi fails to disperse and descend the Fluids after invasion of Wind",
+      "D": "Blood stasis obstructs the water passages"
+    },
+    "correct": "C",
+    "explanation": "The Lung governs the dispersing and descending of Body Fluids and regulates the water passages down to the Bladder. When Wind invades the Lung (aversion to wind, fever, sore throat, floating pulse), the Lung can no longer disperse Fluids to the skin or send them down to the Bladder, so Fluids overflow under the skin of the upper body and urination falls. Sudden onset, swelling beginning in the face and eyelids, and concurrent exterior signs are the discriminating findings for this Yang-type edema; Spleen and Kidney edema is chronic and begins in the lower body.",
+    "distractorExplanations": {
+      "A": "Spleen edema develops gradually, affects the abdomen and legs, and is accompanied by tiredness, loose stools and a swollen pale tongue; it does not start suddenly in the face with fever.",
+      "B": "Kidney Yang edema is chronic, pitting, worst in the legs and ankles, with cold, backache, nocturia and a deep weak pulse; the floating rapid pulse and acute facial onset exclude it. A learner who assigns all edema to the Kidney would pick this.",
+      "D": "Blood stasis is not a usual mechanism of acute generalized edema; it shows fixed pain, a purple tongue and a choppy pulse, none of which is present."
+    },
+    "learningObjective": "Attribute acute upper-body edema with exterior signs to the Lung's failure to disperse and descend Fluids.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "edema",
+      "lung-regulates-water-passages",
+      "qi-transforms-fluids",
+      "wind-invasion"
+    ],
+    "distinction": {
+      "between": [
+        "yang-edema",
+        "yin-edema"
+      ],
+      "key": "Sudden facial and upper-body edema with exterior signs is Yang edema from the Lung; gradual lower-body edema with cold and deficiency signs is Yin edema from the Spleen and Kidney."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Practice of Chinese Medicine, 3rd ed.",
+        "locator": "Oedema: Wind-Water invading the Lung"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Edema: yang edema and yin edema"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IId-0020",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 72-year-old man reports a year of chest pain that is fixed and stabbing, brought on by exertion, with tiredness, shortness of breath, and spontaneous sweating. His complexion is pale with a dull, dark hue around the lips. The tongue is pale and slightly purple. The pulse is weak and choppy. Which of the following is the most appropriate pattern?",
+    "options": {
+      "A": "Qi deficiency with Blood stasis",
+      "B": "Qi stagnation with Blood stasis",
+      "C": "Qi and Blood deficiency",
+      "D": "Blood Cold with stasis"
+    },
+    "correct": "A",
+    "explanation": "Qi commands the Blood: when Qi is deficient (tiredness, shortness of breath, spontaneous sweating, pale complexion, pale tongue, weak pulse) it lacks the strength to move the Blood, and stasis develops (fixed stabbing chest pain, dark hue around the lips, purplish tongue, choppy pulse). Pain triggered by exertion is characteristic: effort further depletes Qi and the Blood moves even less. The combination of deficiency signs with stasis signs, and the weak rather than wiry pulse, is the discriminating finding.",
+    "distractorExplanations": {
+      "B": "Qi stagnation with Blood stasis shows distension, irritability, aggravation by emotion and a wiry-choppy pulse, with no deficiency signs; this patient is tired, sweats spontaneously and has a weak pulse. A learner who assumes stasis is always preceded by stagnation would pick this.",
+      "C": "Qi and Blood deficiency would show dizziness, pale lips and a thin weak pulse with no stasis signs; the stabbing pain, purplish tongue and choppy pulse show Blood stasis.",
+      "D": "Blood Cold would require a cold sensation, relief by warmth, cold limbs and a tight pulse; none is present."
+    },
+    "learningObjective": "Identify Qi deficiency with Blood stasis and explain it through the principle that Qi commands and moves the Blood.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "qi-deficiency-with-blood-stasis",
+      "qi-commands-blood",
+      "choppy-pulse",
+      "chest-pain"
+    ],
+    "distinction": {
+      "between": [
+        "qi-deficiency-with-blood-stasis",
+        "qi-stagnation-with-blood-stasis"
+      ],
+      "key": "Stasis signs on a background of tiredness, sweating and a weak pulse mark Qi deficiency with stasis; stasis with distension, emotional aggravation and a wiry pulse marks Qi stagnation with stasis."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to Qi, Blood and Body Fluids: combined Qi and Blood patterns"
+      },
+      {
+        "source": "Maclean and Lyttleton, Clinical Handbook of Internal Medicine, 2nd ed.",
+        "locator": "Chest pain: Qi deficiency and Blood stasis"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IId-0021",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 40-year-old woman who has been dieting severely for a year reports tiredness, shortness of breath on exertion, palpitations, dizziness, difficulty sleeping, and scanty pale periods. Her complexion and lips are pale. The tongue is pale and thin. The pulse is thin and weak. Which of the following is the most appropriate pattern?",
+    "options": {
+      "A": "Qi deficiency",
+      "B": "Blood deficiency",
+      "C": "Qi and Blood deficiency",
+      "D": "Qi deficiency with Blood stasis"
+    },
+    "correct": "C",
+    "explanation": "Both Qi and Blood derive from Gu Qi, which the Spleen extracts from food; a year of severe dieting starves their common source. Tiredness, shortness of breath and a weak pulse are Qi deficiency; palpitations, dizziness, insomnia, scanty pale periods, pale lips, a pale thin tongue and a thin pulse are Blood deficiency. Because Qi generates Blood and Blood is the mother of Qi, deficiency of one readily leads to deficiency of the other, and the full set of findings from both groups identifies the combined pattern.",
+    "distractorExplanations": {
+      "A": "Qi deficiency alone accounts for the tiredness, breathlessness and weak pulse but not for the palpitations, dizziness, insomnia, pale lips and scanty periods, which show the Blood is also deficient.",
+      "B": "Blood deficiency alone accounts for the pale findings, dizziness and thin pulse but not for the breathlessness on exertion and the weakness of the pulse, which show Qi deficiency. A learner who stops at the first matching pattern would pick this.",
+      "D": "Blood stasis would require fixed stabbing pain, a purple tongue and a choppy pulse; this patient's tongue is pale and her pulse thin and weak without any stasis sign."
+    },
+    "learningObjective": "Identify combined Qi and Blood deficiency and relate it to the shared dietary source of Qi and Blood.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "qi-and-blood-deficiency",
+      "gu-qi",
+      "qi-generates-blood",
+      "thin-weak-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "qi-and-blood-deficiency",
+        "blood-deficiency"
+      ],
+      "key": "Blood deficiency signs plus breathlessness, tiredness and a weak pulse mark combined Qi and Blood deficiency."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to Qi, Blood and Body Fluids: combined Qi and Blood patterns"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of qi and blood: deficiency of both qi and blood"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IId-0022",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 44-year-old woman has had premenstrual breast distension and irritability for many years. Over the last year her period pain has changed from a distending ache to sharp, stabbing, fixed pain in the lower abdomen, with dark clots. The tongue is slightly purple with dark spots on the sides. The pulse is wiry and choppy. Which of the following best describes the pathomechanism?",
+    "options": {
+      "A": "Qi stagnation has progressed to Blood stasis",
+      "B": "Blood deficiency has failed to nourish the Qi",
+      "C": "Cold has congealed the Blood",
+      "D": "Blood stasis has obstructed the movement of Qi"
+    },
+    "correct": "A",
+    "explanation": "Qi is the commander of Blood: when Qi moves, Blood moves, and when Qi stagnates for a long time, Blood eventually stagnates too. The history shows years of pure Qi stagnation (premenstrual breast distension, irritability, distending pain) followed by the appearance of stasis signs (fixed stabbing pain, dark clots, purple tongue with stasis spots, choppy pulse) while the wiry pulse of stagnation persists. The order in which the findings appeared establishes the direction of the mechanism.",
+    "distractorExplanations": {
+      "B": "Blood deficiency would show a pale tongue, pale lips, scanty pale periods and a thin pulse; the purple tongue, clots and wiry-choppy pulse are Excess findings.",
+      "C": "Cold congealing the Blood produces cramping pain relieved by warmth with cold limbs, a pale-bluish tongue and a tight pulse; there is no Cold sign and the long emotional history points to stagnation.",
+      "D": "Blood stasis can obstruct Qi, but here the Qi stagnation (breast distension, irritability, wiry pulse) preceded the stasis signs by years, so the mechanism runs from Qi to Blood. A learner who ignores the sequence in the history would pick this."
+    },
+    "learningObjective": "Explain the progression from Qi stagnation to Blood stasis using the history and the principle that Qi moves the Blood.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "qi-stagnation-with-blood-stasis",
+      "qi-commands-blood",
+      "wiry-choppy-pulse",
+      "dysmenorrhea"
+    ],
+    "distinction": {
+      "between": [
+        "qi-stagnation",
+        "blood-stasis"
+      ],
+      "key": "Distending pain with a wiry pulse marks Qi stagnation; the later appearance of fixed stabbing pain, clots, a purple tongue and a choppy pulse marks progression to Blood stasis."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Blood: Qi is the commander of Blood"
+      },
+      {
+        "source": "Maciocia, The Practice of Chinese Medicine, 3rd ed.",
+        "locator": "Painful periods: Qi stagnation and Blood stasis"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IId-0023",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 5-year-old child shows delayed walking and speech, late eruption of the teeth, soft bones, and a fontanelle that closed late. Growth is below that of other children of the same age. Deficiency of which substance most directly explains these findings?",
+    "options": {
+      "A": "Gu Qi",
+      "B": "Wei Qi",
+      "C": "Jin Ye",
+      "D": "Jing"
+    },
+    "correct": "D",
+    "explanation": "Jing (Essence), stored in the Kidney, governs birth, growth, development, maturation and reproduction, and produces Marrow, which fills the bones, brain and spinal cord. When Pre-Heaven Jing is weak, a child shows the 'five delays': late standing, walking, hair growth, teeth and speech, with soft bones and a late-closing fontanelle. These are developmental failures of the deepest Yin substance rather than disorders of Qi or Fluids.",
+    "distractorExplanations": {
+      "A": "Gu Qi is the Qi extracted from food by the Spleen; its deficiency produces tiredness, poor appetite and loose stools in a child, not failure of bone and brain development. A learner who attributes every childhood weakness to digestion would pick this.",
+      "B": "Wei Qi protects the surface; its weakness shows as frequent colds and sweating, not developmental delay.",
+      "C": "Jin Ye (Body Fluids) moisten and lubricate; their deficiency produces dryness of skin, mouth and stools rather than soft bones and delayed milestones."
+    },
+    "learningObjective": "Identify developmental delay with soft bones and late fontanelle closure as a manifestation of Jing deficiency.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "jing-deficiency",
+      "essence",
+      "kidney-governs-bones",
+      "five-delays"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Essence: functions of Essence"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Zang Fu: the Kidney stores essence and dominates development"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  }
+]

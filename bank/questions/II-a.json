@@ -1,0 +1,922 @@
+[
+  {
+    "id": "FOM-IIa-0001",
+    "domain": "II",
+    "subdomain": "II-a",
+    "task": "II-1-a",
+    "theory": "Yin/Yang",
+    "stem": "According to Yin/Yang theory, Empty Heat arises from which of the following?",
+    "options": {
+      "A": "excess of Yang",
+      "B": "deficiency of Yin",
+      "C": "excess of Yin",
+      "D": "deficiency of Yang"
+    },
+    "correct": "B",
+    "explanation": "Yin and Yang control each other. When Yin is deficient it can no longer restrain Yang, so Yang appears relatively excessive and produces Heat signs that are mild, intermittent and worse at the Yin time of day (afternoon, night). Because the Heat comes from a deficiency rather than from a real surplus of Yang, it is called Empty Heat. The four-pattern grid is: Yang excess produces Full Heat, Yin excess produces Full Cold, Yin deficiency produces Empty Heat, Yang deficiency produces Empty Cold.",
+    "distractorExplanations": {
+      "A": "A true excess of Yang produces Full Heat, with high fever, intense thirst, a thick yellow coating and a full rapid pulse. A learner who conflates relative and absolute excess of Yang would pick this.",
+      "C": "Excess of Yin produces Full Cold, from invasion of a Cold pathogen.",
+      "D": "Deficiency of Yang produces Empty Cold, because Yang fails to warm the body."
+    },
+    "learningObjective": "Identify Yin deficiency as the origin of Empty Heat within the four-pattern Yin/Yang grid.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "yin-deficiency",
+      "empty-heat",
+      "yin-yang-four-patterns"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Yin-Yang: application of Yin-Yang to medicine, pathology"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Yin-Yang and the Five Elements: application in pathology"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIa-0002",
+    "domain": "II",
+    "subdomain": "II-a",
+    "task": "II-1-a",
+    "theory": "Yin/Yang",
+    "stem": "A 63-year-old patient reports a chronic feeling of cold, cold limbs, a bright-pale complexion, tiredness, loose stools, and frequent pale urine; the symptoms have developed slowly over several years. The tongue is pale, swollen, and wet. The pulse is deep, slow, and weak. In Yin/Yang terms, the Cold in this patient arises from which of the following?",
+    "options": {
+      "A": "deficiency of Yang",
+      "B": "excess of Yin",
+      "C": "deficiency of Yin",
+      "D": "excess of Yang"
+    },
+    "correct": "A",
+    "explanation": "This is Empty Cold from Yang deficiency. Yang warms, moves and transforms; when it is deficient the body cannot warm itself (feeling of cold, cold limbs, pale face), cannot transform fluids (loose stools, pale frequent urine, wet swollen tongue) and lacks drive (tiredness, weak pulse). The slow insidious onset, the weakness of the pulse and the deficiency signs are the discriminating findings against Full Cold from an excess of Yin, which is acute and forceful.",
+    "distractorExplanations": {
+      "B": "Excess of Yin is Full Cold from a Cold pathogen: acute onset, severe pain worse with pressure and a tight, forceful pulse. A learner who equates all Cold with 'excess Yin' would pick this.",
+      "C": "Deficiency of Yin produces Empty Heat (night sweats, five-palm heat, red peeled tongue, thin rapid pulse), the opposite of this picture.",
+      "D": "Excess of Yang produces Full Heat with fever, thirst and a rapid full pulse."
+    },
+    "learningObjective": "Attribute chronic Empty Cold to deficiency of Yang rather than excess of Yin.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "yang-deficiency",
+      "empty-cold",
+      "yin-yang-four-patterns",
+      "deep-slow-weak-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "yang-deficiency",
+        "yin-excess"
+      ],
+      "key": "Chronic Cold with deficiency signs and a weak pulse arises from Yang deficiency; acute Cold with forceful pain and a tight pulse arises from Yin excess."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Yin-Yang: application of Yin-Yang to medicine, pathology"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Yin-Yang and the Five Elements: application in pathology"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIa-0003",
+    "domain": "II",
+    "subdomain": "II-a",
+    "task": "II-1-a",
+    "theory": "Yin/Yang",
+    "stem": "A 36-year-old patient develops severe, fixed pain in the right knee after wading in a cold river. The pain is intense, worse with exposure to cold, relieved by warmth, and limits movement; the patient otherwise feels well, with normal energy and appetite. The tongue has a thin white coating. The pulse is tight. In Yin/Yang terms, the Cold in this patient arises from which of the following?",
+    "options": {
+      "A": "deficiency of Yang",
+      "B": "deficiency of Yin",
+      "C": "excess of Yin",
+      "D": "excess of Yang"
+    },
+    "correct": "C",
+    "explanation": "An external Cold pathogen has invaded the channel of the knee. Cold is Yin in nature, so this is an excess of Yin producing Full Cold: acute onset after cold exposure, severe fixed contracting pain that worsens with cold and eases with warmth, and a tight pulse, in a patient with otherwise intact Qi and Yang. The preserved general health and the forceful tight pulse are the discriminating findings against Cold from Yang deficiency.",
+    "distractorExplanations": {
+      "A": "Yang deficiency produces chronic, dull, generalized cold with tiredness, a pale swollen tongue and a weak pulse; this patient is otherwise well with a tight pulse and an acute local complaint. A learner who assumes all Cold is deficiency would pick this.",
+      "B": "Yin deficiency produces Empty Heat, not Cold.",
+      "D": "Excess of Yang produces Full Heat with redness, warmth and a rapid pulse; this joint is cold, pain eases with warmth and the pulse is tight."
+    },
+    "learningObjective": "Attribute acute local Cold pain after cold exposure to excess of Yin (Full Cold).",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "yin-excess",
+      "full-cold",
+      "yin-yang-four-patterns",
+      "tight-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "yin-excess",
+        "yang-deficiency"
+      ],
+      "key": "Acute, forceful, localized Cold pain with a tight pulse and intact general health is excess of Yin; chronic generalized cold with weakness is Yang deficiency."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Yin-Yang: application of Yin-Yang to medicine, pathology"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Etiology: six exogenous factors, cold"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIa-0004",
+    "domain": "II",
+    "subdomain": "II-a",
+    "task": "II-1-a",
+    "theory": "Yin/Yang",
+    "stem": "A 28-year-old patient has had a high fever with sweating and a full, rapid pulse for five days. She now also reports a dry mouth, cracked lips, scanty dark urine, and dry stools. Which Yin/Yang relationship best explains the new findings?",
+    "options": {
+      "A": "opposition",
+      "B": "interdependence",
+      "C": "inter-transformation",
+      "D": "mutual consumption"
+    },
+    "correct": "D",
+    "explanation": "Yin and Yang consume each other: an excess of one depletes the other. Five days of Full Heat (excess Yang) with sweating has burned and drained the Yin fluids, producing dryness of the mouth, lips, stools and urine. This is the mutual-consumption relationship, in which excess Yang consumes Yin; the pattern is an excess of Yang beginning to injure Yin, which is why clearing Heat is combined with protecting the fluids.",
+    "distractorExplanations": {
+      "A": "Opposition (control) describes the normal restraint of each by the other; it explains why a Heat pattern shows the opposite signs to a Cold pattern, but not why dryness appears after prolonged fever.",
+      "B": "Interdependence states that neither Yin nor Yang can exist without the other; it explains how deficiency of one eventually leads to deficiency of the other, but here the mechanism is an excess actively depleting its opposite.",
+      "C": "Inter-transformation describes Yin changing into Yang or Yang into Yin at an extreme (for example, Full Heat collapsing into Yang collapse); here the Yang excess is still present and the Yin is being consumed, not transformed. A learner who treats every change in a pattern as transformation would pick this."
+    },
+    "learningObjective": "Recognize excess Yang injuring Yin fluids as an instance of the mutual consumption of Yin and Yang.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "comprehension",
+    "vignette": true,
+    "concepts": [
+      "mutual-consumption",
+      "yang-excess",
+      "yin-yang-relationships",
+      "fluid-injury"
+    ],
+    "distinction": {
+      "between": [
+        "mutual-consumption",
+        "inter-transformation"
+      ],
+      "key": "An excess of one depleting the other is mutual consumption; one turning into the other at an extreme is inter-transformation."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Yin-Yang: mutual consumption of Yin and Yang"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Yin-Yang and the Five Elements: the waning and waxing of yin and yang"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIa-0005",
+    "domain": "II",
+    "subdomain": "II-a",
+    "task": "II-1-a",
+    "theory": "Yin/Yang",
+    "stem": "A 6-year-old child with a febrile illness has had a high fever, a red face, and a full, rapid pulse for three days. This morning the child suddenly became pale and limp, with cold limbs, cold sweat, and a minute (faint) pulse, and the fever has subsided. Which Yin/Yang relationship best explains this change?",
+    "options": {
+      "A": "opposition, with Yin restraining the excessive Yang",
+      "B": "mutual consumption, with excess Yang consuming Yin",
+      "C": "inter-transformation, with extreme Yang turning into Yin",
+      "D": "interdependence, with Yin providing the material basis for Yang"
+    },
+    "correct": "C",
+    "explanation": "When Yang reaches an extreme it can transform into its opposite. Three days of intense Full Heat (extreme Yang) have exhausted the child's Yang Qi, so the Heat pattern abruptly turns into a Cold, deficient collapse: pallor, limpness, cold limbs, cold sweat and a minute pulse with the fever gone. This is the classic clinical illustration of inter-transformation ('extreme Heat generates Cold'), and it is a collapse of Yang that requires urgent rescue of Yang.",
+    "distractorExplanations": {
+      "A": "Opposition is the normal mutual restraint of Yin and Yang; it does not describe a sudden reversal of a Heat pattern into a Cold one.",
+      "B": "Mutual consumption would show the Heat persisting while Yin fluids dry out (thirst, cracked lips, dark urine); here the Heat has vanished and been replaced by Cold and collapse. A learner who sees 'sweat' and assumes fluid consumption would pick this.",
+      "D": "Interdependence explains why chronic deficiency of one aspect leads to deficiency of the other over time; it does not account for an abrupt qualitative reversal from extreme Heat to Cold."
+    },
+    "learningObjective": "Recognize the abrupt reversal of extreme Heat into Yang collapse as inter-transformation of Yin and Yang.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "inter-transformation",
+      "collapse-of-yang",
+      "yin-yang-relationships",
+      "minute-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "inter-transformation",
+        "true-heat-false-cold"
+      ],
+      "key": "In inter-transformation the Heat signs disappear and the pulse becomes minute; in true Heat with false Cold the fever, red tongue and forceful pulse persist alongside cold limbs."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Yin-Yang: inter-transformation of Yin and Yang"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Yin-Yang and the Five Elements: the inter-transformation of yin and yang"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIa-0006",
+    "domain": "II",
+    "subdomain": "II-a",
+    "task": "II-1-a",
+    "theory": "Yin/Yang",
+    "stem": "A 58-year-old man has had cold lower back and knees, cold limbs, reduced libido, and nocturia for many years. Over the past six months he has also developed night sweats, a dry throat at night, and heat in the palms, while the cold symptoms persist. The tongue is pale with a scanty coating. The pulse is deep, thin, and weak. Which Yin/Yang relationship best explains the new symptoms?",
+    "options": {
+      "A": "opposition, with Cold restraining Heat",
+      "B": "interdependence, with Yang deficiency leading to Yin deficiency",
+      "C": "mutual consumption, with excess Yin consuming Yang",
+      "D": "inter-transformation, with Cold transforming into Heat"
+    },
+    "correct": "B",
+    "explanation": "Yin and Yang are interdependent (mutually rooted): Yang is the activity that generates Yin substance, and Yin is the material basis of Yang. Long-standing Kidney Yang deficiency (cold back and knees, cold limbs, low libido, nocturia, pale tongue, deep weak pulse) eventually fails to generate Yin, so Yin-deficient signs (night sweats, dry throat at night, heat in the palms, scanty coating, thin pulse) appear while the cold persists. The coexistence of both sets of findings, with the Yang-deficient history coming first, identifies Yang deficiency leading to Yin deficiency.",
+    "distractorExplanations": {
+      "A": "Opposition would predict that strong Cold suppresses Heat signs; here Heat signs have appeared on top of the Cold, which opposition cannot explain.",
+      "C": "There is no excess of Yin here; the Cold is from Yang deficiency, and the new signs are Yin deficiency rather than further loss of Yang.",
+      "D": "Inter-transformation would mean the Cold pattern has become a Heat pattern; here the Cold symptoms persist alongside the new Yin-deficient signs, so nothing has transformed. A learner who hears 'now also has heat' and assumes transformation would pick this."
+    },
+    "learningObjective": "Explain the development of Yin deficiency on a background of chronic Yang deficiency through the interdependence of Yin and Yang.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "interdependence",
+      "yang-deficiency",
+      "yin-deficiency",
+      "yin-and-yang-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "interdependence",
+        "inter-transformation"
+      ],
+      "key": "When the original deficiency persists and the opposite deficiency is added, it is interdependence; when one pattern is replaced by its opposite, it is inter-transformation."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Yin-Yang: interdependence of Yin and Yang"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Kidney patterns: Kidney Yin and Yang deficiency"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIa-0007",
+    "domain": "II",
+    "subdomain": "II-a",
+    "task": "II-1-a",
+    "theory": "Yin/Yang",
+    "stem": "A 75-year-old patient near the end of a prolonged febrile illness becomes restless and agitated, with profuse hot, sticky sweat, hot limbs, a flushed face, extreme thirst for cold drinks, and rapid shallow breathing. The tongue is red, dry, and peeled. The pulse is floating, empty, and rapid. Which of the following is the most appropriate pattern?",
+    "options": {
+      "A": "collapse of Yin",
+      "B": "collapse of Yang",
+      "C": "excess of Yang producing Full Heat",
+      "D": "true Cold with false Heat"
+    },
+    "correct": "A",
+    "explanation": "Collapse of Yin is the extreme exhaustion of Yin fluids at the end of a febrile disease, when Yang is left unanchored and floats outward. Its signs are profuse hot sticky sweat, hot limbs, a flushed face, agitation, extreme thirst for cold drinks, rapid breathing, a red dry peeled tongue and a floating-empty rapid pulse. The hot quality of the sweat, the hot limbs and the red peeled tongue are the discriminating findings against collapse of Yang; both are emergencies in which Yin and Yang are about to separate.",
+    "distractorExplanations": {
+      "B": "Collapse of Yang shows profuse cold, oily sweat, cold limbs, a pale face, a pale tongue and a minute pulse; the hot sweat, hot limbs and red tongue here are the opposite. A learner who attributes every collapse with sweating to Yang would pick this.",
+      "C": "Full Heat shows a thick yellow coating and a full forceful pulse in a patient with intact Qi; here the tongue is peeled and the pulse empty, showing exhaustion rather than excess.",
+      "D": "True Cold with false Heat shows a pale moist tongue, clear urine, a desire for warmth and a rootless pulse without heat in the limbs; the red peeled tongue and thirst for cold drinks show true Heat."
+    },
+    "learningObjective": "Differentiate collapse of Yin from collapse of Yang by the quality of the sweat, limb temperature, tongue and pulse.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "collapse-of-yin",
+      "collapse-of-yang",
+      "yin-yang-separation",
+      "floating-empty-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "collapse-of-yin",
+        "collapse-of-yang"
+      ],
+      "key": "Hot sticky sweat, hot limbs and a red peeled tongue mark collapse of Yin; cold oily sweat, cold limbs and a pale tongue with a minute pulse mark collapse of Yang."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles: Collapse of Yin and Collapse of Yang"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Differentiation according to the Eight Principles: yin and yang"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIa-0008",
+    "domain": "II",
+    "subdomain": "II-a",
+    "task": "II-1-a",
+    "theory": "Yin/Yang",
+    "stem": "Which of the following clinical findings belongs to the Yin category?",
+    "options": {
+      "A": "a loud voice",
+      "B": "a red complexion",
+      "C": "a preference for lying curled up",
+      "D": "a rapid pulse"
+    },
+    "correct": "C",
+    "explanation": "Yin corresponds to stillness, cold, contraction, inward movement and reduced activity. A patient who prefers to lie curled up, withdrawn and still, displays a Yin finding, typical of Cold and Deficiency patterns. A loud voice, red complexion and rapid pulse all express activity, heat and outward movement, which belong to Yang.",
+    "distractorExplanations": {
+      "A": "A loud voice expresses abundant Qi and activity and is a Yang finding.",
+      "B": "A red complexion expresses Heat and outward movement of Yang and is a Yang finding.",
+      "D": "A rapid pulse expresses Heat and acceleration and is a Yang finding."
+    },
+    "learningObjective": "Classify individual clinical findings as Yin or Yang according to their quality of activity, temperature and direction.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "yin-yang-classification",
+      "yin-pattern",
+      "observation"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Yin-Yang: application of Yin-Yang to medicine, clinical manifestations"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Yin-Yang and the Five Elements: application in diagnosis"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIa-0009",
+    "domain": "II",
+    "subdomain": "II-a",
+    "task": "II-1-a",
+    "theory": "Yin/Yang",
+    "stem": "According to Yin/Yang theory, a fever that intensifies at night and eases during the day most suggests Heat located in which aspect of the body?",
+    "options": {
+      "A": "the exterior, where Wei Qi circulates by day",
+      "B": "the Qi level, where Heat peaks in the afternoon",
+      "C": "the Yang organs, with Heat accumulating in the Stomach",
+      "D": "the Yin portion, at the level of Blood and Yin"
+    },
+    "correct": "D",
+    "explanation": "Day is Yang and night is Yin. A fever that worsens at night, the Yin time, indicates that the Heat is in the Yin portion of the body, that is, at the level of Blood and Yin (as in Yin deficiency with Empty Heat, or Heat in the Ying and Blood levels of a febrile disease). Heat in the Yang portion (exterior, Qi level) is worse during the day or in the afternoon when Yang is at its peak.",
+    "distractorExplanations": {
+      "A": "Exterior Heat produces fever with aversion to wind during the day, when Wei Qi circulates on the surface; it does not characteristically rise at night.",
+      "B": "Qi-level Heat produces a high fever that peaks in the afternoon (the Yang Ming tidal fever), not at night. A learner who confuses afternoon with night fever would pick this.",
+      "C": "Heat in the Stomach, a Yang organ, is Qi-level Full Heat with daytime fever, thirst and constipation rather than night fever."
+    },
+    "learningObjective": "Use the Yin/Yang division of day and night to locate Heat that intensifies at night in the Yin portion of the body.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": false,
+    "concepts": [
+      "yin-yang-classification",
+      "night-fever",
+      "heat-in-blood-level",
+      "empty-heat"
+    ],
+    "distinction": {
+      "between": [
+        "heat-in-yin-portion",
+        "heat-in-yang-portion"
+      ],
+      "key": "Night fever places Heat in the Yin portion (Blood and Yin); afternoon or daytime fever places Heat in the Yang portion (exterior or Qi level)."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Yin-Yang: application of Yin-Yang to medicine, pathology"
+      },
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Interrogation: feeling of heat, fever at night"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  }
+]

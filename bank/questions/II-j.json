@@ -1,0 +1,783 @@
+[
+  {
+    "id": "FOM-IIj-0001",
+    "domain": "II",
+    "subdomain": "II-j",
+    "task": "II-1-j",
+    "theory": "Internal etiology",
+    "stem": "According to the classical theory of the seven emotions, which effect on the movement of Qi is attributed to fear (Kong)?",
+    "options": {
+      "A": "Qi rises",
+      "B": "Qi knots",
+      "C": "Qi descends",
+      "D": "Qi scatters"
+    },
+    "correct": "C",
+    "explanation": "Fear causes Qi to descend. It affects the Kidney, and the downward movement of Qi explains the classical presentations of fear: loss of urinary control, bed-wetting in children, and diarrhea at moments of intense fear, together with weakness of the lower back and knees when fear is prolonged.",
+    "distractorExplanations": {
+      "A": "Qi rising is the effect of anger, which affects the Liver and sends Qi and Yang upward to the head.",
+      "B": "Qi knotting (stagnating) is the effect of worry and pensiveness, which affect the Spleen and Lung.",
+      "D": "Qi scattering is the effect of sudden fright or shock, which affects the Heart and, in the longer term, the Kidney. A learner who conflates fear with fright would choose this."
+    },
+    "learningObjective": "Identify the effect of fear on the movement of Qi.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "seven-emotions",
+      "fear",
+      "qi-descends",
+      "kidney"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The causes of disease, internal causes, fear"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Etiology, the seven emotional factors"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIj-0002",
+    "domain": "II",
+    "subdomain": "II-j",
+    "task": "II-1-j",
+    "theory": "Internal etiology",
+    "stem": "Excessive pensiveness and prolonged mental overwork (Si) most directly injure which organ?",
+    "options": {
+      "A": "Liver",
+      "B": "Spleen",
+      "C": "Lung",
+      "D": "Kidney"
+    },
+    "correct": "B",
+    "explanation": "Pensiveness (overthinking, excessive mental work, worry about a problem) is the emotion of the Earth element and injures the Spleen. It knots Qi, so the Spleen fails to transform and transport: poor appetite, abdominal distension after eating, fatigue and loose stools follow, and in the longer term the Spleen fails to generate Blood, which in turn affects the Heart.",
+    "distractorExplanations": {
+      "A": "The Liver is injured by anger and frustration, which cause Qi to rise or stagnate.",
+      "C": "The Lung is injured by sadness and grief, which dissolve Qi; worry also affects the Lung, but pensiveness proper is assigned to the Spleen.",
+      "D": "The Kidney is injured by fear and by prolonged fright, which cause Qi to descend. A learner who reasons from 'mental work' to 'Essence and the brain' would choose this."
+    },
+    "learningObjective": "Identify the Spleen as the organ injured by pensiveness.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "seven-emotions",
+      "pensiveness",
+      "spleen",
+      "qi-knots"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The causes of disease, internal causes, pensiveness"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Etiology, the seven emotional factors"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIj-0003",
+    "domain": "II",
+    "subdomain": "II-j",
+    "task": "II-1-j",
+    "theory": "Internal etiology",
+    "stem": "A 52-year-old man developed a throbbing headache at the vertex and temples within an hour of a heated argument with a colleague. His face is red, he is dizzy with ringing in the ears, and he describes a surge of heat to the head. The tongue is red on the sides. The pulse is wiry and forceful. Which description of the pathomechanism is most appropriate?",
+    "options": {
+      "A": "anger causes Liver Qi to rise, carrying Yang upward to the head",
+      "B": "sadness dissolves Lung Qi, leaving the head unnourished",
+      "C": "pensiveness knots Spleen Qi, generating Phlegm that clouds the head",
+      "D": "fear causes Kidney Qi to descend, depriving the head of Essence"
+    },
+    "correct": "A",
+    "explanation": "Anger makes Qi rise. It affects the Liver, and the sudden upward surge of Liver Qi and Yang produces a throbbing headache along the Liver channel distribution (vertex and temples), red face, dizziness, tinnitus and a sensation of heat rushing to the head. The red tongue sides (the Liver area) and the wiry forceful pulse confirm the Liver mechanism and the acute onset after the argument confirms the emotional trigger.",
+    "distractorExplanations": {
+      "B": "Sadness dissolving Lung Qi gives weak voice, shortness of breath, fatigue and a weak pulse, a deficiency picture that does not produce a red face or a forceful wiry pulse.",
+      "C": "Pensiveness knotting Spleen Qi leads to poor appetite, distension and loose stools; Phlegm-related headache would be dull and heavy with a slippery pulse and a greasy coating, not throbbing with a wiry pulse.",
+      "D": "Fear causing Kidney Qi to descend produces urinary symptoms and weak knees. Deficiency of Essence would give a chronic empty headache with a weak pulse, not an acute full headache after an argument. A learner who assumes any headache with dizziness and tinnitus is Kidney-based would choose this."
+    },
+    "learningObjective": "Trace an acute headache after anger to Liver Qi rising.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "seven-emotions",
+      "anger",
+      "qi-rises",
+      "liver-yang-rising"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The causes of disease, internal causes, anger"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIj-0004",
+    "domain": "II",
+    "subdomain": "II-j",
+    "task": "II-1-j",
+    "theory": "Internal etiology",
+    "stem": "A 34-year-old woman reports that since her home was burgled while she was alone four months ago, she has woken at night to find she has wet the bed, and she has frequent, urgent urination during the day. She also has weak knees and a sore lower back. The tongue is pale. The pulse is deep and weak, particularly at the Chi (rear) positions. Which pathomechanism best explains these findings?",
+    "options": {
+      "A": "fright scatters Heart Qi, disturbing the Spirit",
+      "B": "worry knots Spleen Qi, impairing the transformation of fluids",
+      "C": "anger causes Liver Qi to rise and stagnate",
+      "D": "fear causes Kidney Qi to descend and weakens Bladder control"
+    },
+    "correct": "D",
+    "explanation": "Fear causes Qi to descend and injures the Kidney. Persisting fear after the burglary has weakened Kidney Qi, so the Bladder loses its ability to hold urine: nocturnal enuresis and urgent, frequent urination result. Soreness of the lower back and weak knees, a pale tongue and a deep weak pulse at the Chi positions (the Kidney positions) all point to Kidney deficiency produced by the descending movement of Qi.",
+    "distractorExplanations": {
+      "A": "Fright scattering Heart Qi would produce palpitations, insomnia, being easily startled and a moving or irregular pulse; this patient's symptoms are urinary and lumbar, pointing to the Kidney.",
+      "B": "Worry knotting Spleen Qi impairs digestion and may cause edema, but it does not produce loss of urinary control with lumbar weakness and a deep weak Chi pulse.",
+      "C": "Anger causing Liver Qi to rise or stagnate produces headache, irritability and hypochondrial distension with a wiry pulse; it does not fit the deficiency picture here. A learner who reads the burglary as a trigger for anger rather than fear would choose this."
+    },
+    "learningObjective": "Trace urinary incontinence after a frightening event to fear causing Kidney Qi to descend.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "seven-emotions",
+      "fear",
+      "qi-descends",
+      "kidney-qi-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "fear",
+        "fright"
+      ],
+      "key": "Fear is sustained, affects the Kidney and sends Qi downward (urinary loss); fright is sudden, affects the Heart and scatters Qi (palpitations, startling)."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The causes of disease, internal causes, fear"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIj-0005",
+    "domain": "II",
+    "subdomain": "II-j",
+    "task": "II-1-j",
+    "theory": "Internal etiology",
+    "stem": "A 61-year-old woman has felt exhausted since her husband died eight months ago. She cries easily, speaks in a weak voice, is short of breath on exertion, sweats spontaneously during the day and has caught four colds this winter. The tongue is pale. The pulse is weak, especially at the right Cun (front) position. Which pathomechanism is most consistent with these findings?",
+    "options": {
+      "A": "fear causing Kidney Qi to descend",
+      "B": "sadness and grief dissolving Lung Qi",
+      "C": "pensiveness knotting Spleen Qi",
+      "D": "fright scattering Heart Qi"
+    },
+    "correct": "B",
+    "explanation": "Sadness and grief dissolve (deplete) Qi and injure the Lung. Prolonged grief has weakened Lung Qi, producing the weak voice, breathlessness on exertion and fatigue; Lung Qi fails to control the pores and defend the surface, so there is spontaneous sweating and repeated colds. The weak pulse at the right Cun position, the Lung position, and the pale tongue confirm Lung Qi deficiency, and crying is the sound of the Lung.",
+    "distractorExplanations": {
+      "A": "Fear causing Kidney Qi to descend produces urinary symptoms, weak knees and a weak pulse at the Chi positions, not breathlessness, weak voice and frequent colds.",
+      "C": "Pensiveness knotting Spleen Qi gives digestive symptoms (poor appetite, distension, loose stools). Spleen deficiency can contribute to fatigue, but the voice, breathing, sweating and Cun pulse point to the Lung. A learner who attributes all fatigue to the Spleen would choose this.",
+      "D": "Fright scattering Heart Qi causes palpitations, being easily startled and insomnia with a moving or irregular pulse, which are absent."
+    },
+    "learningObjective": "Trace Lung Qi deficiency to prolonged grief dissolving Qi.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "seven-emotions",
+      "sadness",
+      "qi-dissolves",
+      "lung-qi-deficiency"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The causes of disease, internal causes, sadness"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Etiology, the seven emotional factors"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIj-0006",
+    "domain": "II",
+    "subdomain": "II-j",
+    "task": "II-1-j",
+    "theory": "Internal etiology",
+    "stem": "A 24-year-old graduate student spends long hours studying and worrying about examinations. Over the past three months she has lost her appetite, feels distended after eating even small amounts, is tired after meals and passes loose stools. The tongue is pale with teeth marks. The pulse is weak. Which pathomechanism best explains these symptoms?",
+    "options": {
+      "A": "anger causing Liver Qi to invade the Stomach",
+      "B": "joy slowing Heart Qi and weakening digestion",
+      "C": "sadness dissolving Lung Qi and the Spleen with it",
+      "D": "pensiveness knotting Qi and injuring the Spleen"
+    },
+    "correct": "D",
+    "explanation": "Pensiveness, including prolonged study and worrying about a problem, knots Qi and injures the Spleen. When Spleen Qi is knotted its transformation and transportation fail: appetite falls, food is not moved so there is distension after eating, Qi is not generated so there is fatigue after meals, and Dampness and unseparated fluids descend as loose stools. The pale, teeth-marked tongue and weak pulse confirm Spleen Qi deficiency.",
+    "distractorExplanations": {
+      "A": "Liver Qi invading the Stomach from anger gives epigastric pain, belching and nausea with a wiry pulse and symptoms tied to episodes of frustration; the pattern here is deficiency with a weak pulse.",
+      "B": "Excess joy slows and loosens Heart Qi, producing palpitations, over-excitement and insomnia; it does not act on the Spleen's transformation.",
+      "C": "Sadness dissolves Lung Qi, giving weak voice, breathlessness and crying. The Lung and Spleen are related, but the symptom set here is entirely digestive, and the stated emotional context is overthinking rather than grief. A learner who reasons only from 'Qi deficiency' to the Lung would choose this."
+    },
+    "learningObjective": "Trace Spleen Qi deficiency with digestive symptoms to pensiveness knotting Qi.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "seven-emotions",
+      "pensiveness",
+      "qi-knots",
+      "spleen-qi-deficiency"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The causes of disease, internal causes, pensiveness"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIj-0007",
+    "domain": "II",
+    "subdomain": "II-j",
+    "task": "II-1-j",
+    "theory": "Internal etiology",
+    "stem": "A 44-year-old manager under continuous work stress for two years reports irritability, distension of the hypochondrium and frequent sighing. Over the past six months he has developed epigastric fullness and belching after meals, abdominal distension, and stools that alternate between loose and constipated, all worse during stressful weeks. The tongue is slightly pale with a thin white coating. The pulse is wiry on the left and weak on the right. Which pathomechanism best accounts for this progression?",
+    "options": {
+      "A": "Liver Qi stagnation from stress overacting on the Spleen",
+      "B": "Spleen Qi deficiency insulting the Liver",
+      "C": "Liver Fire blazing and scorching Stomach fluids",
+      "D": "Heart Qi scattered by fright disturbing the Spleen"
+    },
+    "correct": "A",
+    "explanation": "Chronic stress and frustration cause Liver Qi to stagnate: irritability, hypochondrial distension and sighing with a wiry left pulse. When stagnation persists, Wood overacts on Earth and the Liver invades the Spleen and Stomach, adding epigastric fullness, belching, abdominal distension and stools that alternate between loose and constipated. The worsening during stressful weeks shows the emotional driver; the weak right pulse and slightly pale tongue show the Spleen is now weakened as the consequence, not the cause.",
+    "distractorExplanations": {
+      "B": "In the insulting sequence Earth would counter-act on Wood, but the history shows Liver symptoms came first and the digestive symptoms followed and fluctuate with stress; the Spleen weakness is the result. A learner who reads the right-sided weak pulse as the primary problem would choose this.",
+      "C": "Liver Fire would produce red face and eyes, bitter taste, thirst, a red tongue with a yellow coating and a wiry rapid pulse; a slightly pale tongue with a thin white coating rules out Fire.",
+      "D": "Fright scattering Heart Qi gives palpitations, being easily startled and insomnia; the history is of sustained stress, and the symptoms are Liver and digestive."
+    },
+    "learningObjective": "Analyze how chronic stress produces Liver Qi stagnation that invades the Spleen.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "chronic-stress",
+      "liver-qi-stagnation",
+      "liver-invading-spleen",
+      "overacting-cycle"
+    ],
+    "distinction": {
+      "between": [
+        "liver-invading-spleen",
+        "spleen-insulting-liver"
+      ],
+      "key": "Liver symptoms preceded the digestive symptoms and both worsen with stress, so the Liver stagnation is primary and the Spleen weakness secondary."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The causes of disease, internal causes, anger; Liver patterns, Liver Qi stagnation"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Etiology, the seven emotional factors"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIj-0008",
+    "domain": "II",
+    "subdomain": "II-j",
+    "task": "II-1-j",
+    "theory": "Internal etiology",
+    "stem": "A 58-year-old woman describes years of suppressed resentment toward a family member. For most of that time she had hypochondrial distension and irritability; in the past year she has developed dry eyes, blurred vision, dizziness, night sweats and a hot feeling in the evenings. The tongue is red with scanty coating. The pulse is wiry, thin and rapid. Which pathomechanism best explains this evolution?",
+    "options": {
+      "A": "Liver Qi stagnation progressing to Liver Blood stasis",
+      "B": "fear descending Kidney Qi, leading to Kidney Yang deficiency",
+      "C": "prolonged Liver Qi stagnation transforming into Fire and consuming Liver Yin",
+      "D": "sadness dissolving Lung Qi, leading to Lung Yin deficiency"
+    },
+    "correct": "C",
+    "explanation": "Suppressed anger and resentment stagnate Liver Qi (the earlier hypochondrial distension and irritability). Long-standing stagnation generates Heat and transforms into Fire, and Fire consumes Yin: the result is Liver Yin deficiency with Empty Heat, seen as dry eyes, blurred vision and dizziness (Liver Yin failing to nourish the eyes and head), night sweats and evening heat (Empty Heat), a red tongue with scanty coating, and a pulse that is wiry (Liver), thin (Yin deficiency) and rapid (Heat).",
+    "distractorExplanations": {
+      "A": "Stagnation of Qi can progress to Blood stasis, but that would show fixed stabbing pain, a purple tongue and a choppy pulse. The dryness, night sweats and red uncoated tongue are Yin deficiency with Empty Heat, not stasis. A learner who knows only the Qi-to-Blood progression would choose this.",
+      "B": "Fear injures the Kidney, and Kidney Yang deficiency gives cold signs with a pale tongue and deep weak pulse; the emotional history is anger, and the findings are Heat.",
+      "D": "Sadness injures the Lung and Lung Yin deficiency would present with dry cough and dry throat; the history and the eye, hypochondrial and wiry-pulse findings point to the Liver."
+    },
+    "learningObjective": "Trace a chronic emotional cause through Qi stagnation and Fire to Yin deficiency.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "seven-emotions",
+      "anger",
+      "qi-stagnation-transforming-to-fire",
+      "liver-yin-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "liver-yin-deficiency",
+        "liver-blood-stasis"
+      ],
+      "key": "Dryness, night sweats and a red uncoated tongue with a thin rapid pulse indicate Yin consumed by Fire; fixed pain with a purple tongue and choppy pulse would indicate stasis."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The causes of disease, internal causes, anger; Liver patterns, Liver Yin deficiency"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  }
+]

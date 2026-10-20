@@ -1,0 +1,24 @@
+[
+  {
+    "id": "FOM-IId-0017",
+    "subdomain": "II-d",
+    "stem": "A 50-year-old patient reports a heavy, muzzy sensation in the head with dizziness, numbness of the fingers, and a sensation of something lodged in the throat that can be neither swallowed nor coughed up. He produces no sputum and there are no lumps or masses. The tongue is swollen with a greasy white coating. The pulse is slippery. Which concept best explains these findings?",
+    "options": {
+      "A": "Blood stasis",
+      "B": "Dampness",
+      "C": "substantial Phlegm",
+      "D": "non-substantial Phlegm"
+    }
+  },
+  {
+    "id": "FOM-III2-0010",
+    "subdomain": "III-2",
+    "stem": "A 45-year-old woman reports three days of burning, urgent urination every half hour with cloudy urine and heaviness in the lower abdomen; the symptoms began abruptly and are severe. For years she has had mild night sweats and a dry mouth at night that are unchanged. The tongue is red with a yellow greasy coating at the root. The pulse is rapid, slippery in the proximal (chi) positions, and thin overall. Which of the following sequences is most appropriate?",
+    "options": {
+      "A": "nourish Kidney Yin first, then clear Damp-Heat once the Yin is restored",
+      "B": "nourish Kidney Yin and clear Damp-Heat with equal emphasis from the outset",
+      "C": "clear Damp-Heat from the Lower Burner first, then nourish Kidney Yin",
+      "D": "clear Empty Heat and astringe the urine from the outset"
+    }
+  }
+]

@@ -1,0 +1,406 @@
+[
+  {
+    "id": "FOM-IIl-0001",
+    "domain": "II",
+    "subdomain": "II-l",
+    "task": "II-1-l",
+    "theory": "Misc etiology",
+    "stem": "A 35-year-old patient switched a year ago to a diet of raw salads, iced smoothies, and chilled drinks taken throughout the day. The patient now reports a cold, dull ache in the epigastrium relieved by warmth, loose stools containing undigested food, poor appetite, tiredness, and cold hands. The tongue is pale and swollen with a white coating. The pulse is deep and slow. Which of the following best explains the pathomechanism?",
+    "options": {
+      "A": "greasy, sweet foods have generated Damp-Heat in the Spleen",
+      "B": "overeating has caused Retention of Food in the Stomach",
+      "C": "cold and raw foods have injured Spleen Yang and impaired transformation",
+      "D": "irregular eating has depleted Stomach Yin"
+    },
+    "correct": "C",
+    "explanation": "The Spleen prefers warmth, and a diet dominated by cold and raw foods and iced drinks weakens Spleen Yang so that it cannot transform and transport food. The cold epigastric ache relieved by warmth, loose stools with undigested food, poor appetite, tiredness, and cold hands follow from this, and the pale swollen tongue, white coating, and deep slow pulse confirm deficient Yang with internal Cold.",
+    "distractorExplanations": {
+      "A": "Greasy and sweet foods generate Damp-Heat, which would show a yellow greasy coating, a slippery rapid pulse, and foul-smelling stools; this patient's diet is cold and the signs are all Cold.",
+      "B": "Retention of Food follows overeating and shows acute epigastric fullness, sour regurgitation, and a thick coating with a full slippery pulse; this picture is chronic and deficient.",
+      "D": "Stomach Yin deficiency from irregular eating shows a dry mouth, a red peeled tongue, and a thin rapid pulse; this patient has a pale, swollen, moist tongue."
+    },
+    "learningObjective": "Trace a cold, raw diet to Spleen Yang injury and differentiate it from other dietary causes.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "miscellaneous-etiology",
+      "diet",
+      "spleen-yang-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "spleen-yang-deficiency",
+        "damp-heat-in-the-spleen"
+      ],
+      "key": "Cold epigastric ache relieved by warmth with a pale swollen tongue and a deep slow pulse traces to cold, raw food; a yellow greasy coating with a slippery rapid pulse traces to greasy, sweet food."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Miscellaneous causes of disease: diet"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion",
+        "locator": "Etiology: improper diet"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIl-0002",
+    "domain": "II",
+    "subdomain": "II-l",
+    "task": "II-1-l",
+    "theory": "Misc etiology",
+    "stem": "A 47-year-old patient has worked 70-hour weeks for ten years, often skipping rest days and sleeping about five hours a night. The patient reports a sore, weak lower back, tinnitus, dizziness, night sweats, a dry throat at night, and heat in the palms and soles. The tongue is red with no coating. The pulse is floating-empty and rapid. Which of the following best explains the pathomechanism?",
+    "options": {
+      "A": "prolonged overwork without adequate rest has depleted Kidney Yin",
+      "B": "lack of exercise has caused stagnation of Qi and Blood",
+      "C": "excessive physical lifting has injured the sinews and Spleen Qi",
+      "D": "consumption of cold and raw foods has weakened Kidney Yang"
+    },
+    "correct": "A",
+    "explanation": "Working long hours for years without adequate rest or sleep consumes Yin, and the Kidneys, as the root of Yin, are depleted over time. A sore weak lower back, tinnitus, and dizziness locate the deficiency in the Kidneys, while night sweats, a dry throat at night, heat in the palms and soles, a red uncoated tongue, and a floating-empty rapid pulse show Yin deficiency with Empty Heat.",
+    "distractorExplanations": {
+      "B": "Chosen by a learner who links sedentary office work with stagnation; stagnation shows distending or stabbing pain and a wiry or choppy pulse, whereas this patient shows Yin deficiency.",
+      "C": "Excessive physical lifting weakens Spleen Qi and the lower back muscles and would show fatigue, a pale tongue, and a weak pulse; the Heat signs and uncoated red tongue point to Yin depletion from overwork.",
+      "D": "Kidney Yang deficiency shows cold limbs, pale urine, a pale tongue, and a deep slow pulse; this patient has Heat signs, and no dietary history supports this cause."
+    },
+    "learningObjective": "Trace chronic overwork without rest to Kidney Yin deficiency.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "miscellaneous-etiology",
+      "overwork",
+      "kidney-yin-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "kidney-yin-deficiency",
+        "kidney-yang-deficiency"
+      ],
+      "key": "Night sweats, heat in the palms and soles, and a red uncoated tongue mark Kidney Yin depletion; cold limbs, pale urine, and a pale tongue mark Kidney Yang deficiency."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Miscellaneous causes of disease: overwork"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIl-0003",
+    "domain": "II",
+    "subdomain": "II-l",
+    "task": "II-1-l",
+    "theory": "Misc etiology",
+    "stem": "A 29-year-old patient sprained the right ankle playing basketball three months ago. The ankle still has a fixed, stabbing pain that is worse at night and with pressure, and the skin over the joint remains dark and purplish. The pain is unaffected by the weather. Which of the following best explains why the pain has persisted?",
+    "options": {
+      "A": "Wind-Damp has invaded the joint and obstructed the channels",
+      "B": "Blood deficiency is failing to nourish the sinews",
+      "C": "Qi stagnation is causing distending, moving pain",
+      "D": "the injury caused local Blood stasis that still obstructs the channel"
+    },
+    "correct": "D",
+    "explanation": "Trauma damages the local channels and vessels so that Blood spills out and stagnates; if the stasis is not resolved, it continues to block the flow of Qi and Blood. Fixed, stabbing pain worse at night and with pressure, and persistent dark purplish discoloration over the joint, are the hallmarks of Blood stasis.",
+    "distractorExplanations": {
+      "A": "Wind-Damp in the joint shows heaviness, swelling, and aggravation in damp weather; this pain is unaffected by the weather and began with a clear injury.",
+      "B": "Blood deficiency causes a dull ache with numbness and a pale complexion and tongue; this pain is sharp, fixed, and worse with pressure, showing Excess.",
+      "C": "Qi stagnation causes distending pain that comes and goes and moves around; this pain is fixed and stabbing with purple discoloration, which shows Blood rather than Qi."
+    },
+    "learningObjective": "Identify Blood stasis as the pathomechanism of persistent pain after trauma.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": true,
+    "concepts": [
+      "miscellaneous-etiology",
+      "trauma",
+      "blood-stasis"
+    ],
+    "distinction": {
+      "between": [
+        "blood-stasis",
+        "qi-stagnation"
+      ],
+      "key": "Fixed, stabbing pain with purple discoloration marks Blood stasis; distending pain that moves and fluctuates marks Qi stagnation."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Miscellaneous causes of disease: trauma"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion",
+        "locator": "Etiology: traumatic injuries"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIl-0004",
+    "domain": "II",
+    "subdomain": "II-l",
+    "task": "II-1-l",
+    "theory": "Misc etiology",
+    "stem": "A 34-year-old patient with facial acne drank a strong bitter-cold herbal 'detox' tea three times daily for ten months; the acne has since cleared. The patient eats warm, cooked meals and reports no unusual stress. The patient now has loose stools, poor appetite, abdominal distension after eating, fatigue, and cold hands and feet. The tongue is pale and swollen with a moist white coating. The pulse is deep and weak. Which of the following best explains the pathomechanism?",
+    "options": {
+      "A": "unresolved Heat from the acne has consumed Stomach Yin",
+      "B": "prolonged use of bitter-cold substances has injured Spleen Yang",
+      "C": "Liver Qi stagnation is overacting on the Spleen",
+      "D": "Damp-Heat from the original condition has sunk into the Intestines"
+    },
+    "correct": "B",
+    "explanation": "Incorrect or excessive treatment is a recognized miscellaneous cause of disease. Bitter-cold substances clear Heat but, taken for many months after the Heat has gone, they damage Spleen Yang. Loose stools, poor appetite, post-prandial distension, fatigue, and cold extremities with a pale swollen moist tongue and a deep weak pulse show Spleen Yang deficiency. The warm diet and absence of stress exclude the competing dietary and emotional causes, leaving the prolonged treatment as the cause.",
+    "distractorExplanations": {
+      "A": "Chosen by a learner who assumes the original Heat persists; Stomach Yin deficiency would show a dry mouth, a red peeled tongue, and a thin rapid pulse, while this patient's signs are all Cold and deficient.",
+      "C": "Liver overacting on the Spleen shows distension tied to emotions, irritability, and a wiry pulse; the patient reports no stress and the pulse is deep and weak.",
+      "D": "Damp-Heat in the Intestines shows foul-smelling stools with burning, a yellow greasy coating, and a slippery rapid pulse; the white moist coating and cold extremities show Cold, not Heat."
+    },
+    "learningObjective": "Trace a Spleen Yang deficiency pattern to prolonged bitter-cold treatment as an iatrogenic miscellaneous cause.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "miscellaneous-etiology",
+      "incorrect-treatment",
+      "spleen-yang-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "spleen-yang-deficiency",
+        "stomach-yin-deficiency"
+      ],
+      "key": "A pale, swollen, moist tongue with cold extremities after long bitter-cold use marks Spleen Yang injury; a red peeled tongue with dry mouth marks Stomach Yin deficiency."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Miscellaneous causes of disease: wrong treatment"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  }
+]

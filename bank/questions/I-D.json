@@ -1,0 +1,4359 @@
+[
+  {
+    "id": "FOM-ID-0001",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-1",
+    "stem": "A practitioner notes that the pulse is wiry and forceful only at the guan (middle) position of the patient's right wrist, while all other positions are normal. Under the standard position-organ correspondence, this finding most directly reflects which organ?",
+    "options": {
+      "A": "Spleen and Stomach",
+      "B": "Liver and Gallbladder",
+      "C": "Lung and Large Intestine",
+      "D": "Kidney and Bladder"
+    },
+    "correct": "A",
+    "explanation": "In the standard correspondence used by Cheng Xinnong and Maciocia, the right wrist reads Lung (cun), Spleen/Stomach (guan), and Kidney (chi), while the left wrist reads Heart (cun), Liver/Gallbladder (guan), and Kidney (chi). A change confined to the right guan therefore points to the Middle Burner, Spleen and Stomach.",
+    "distractorExplanations": {
+      "B": "Liver and Gallbladder are read at the guan position of the left wrist, not the right. The learner has confused the two sides.",
+      "C": "Lung and Large Intestine are read at the right cun (distal) position, not the guan.",
+      "D": "Kidney and Bladder are read at the chi (proximal) position on both wrists."
+    },
+    "learningObjective": "Identify the organ correspondence of each radial pulse position on the left and right wrists.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "pulse-positions",
+      "spleen-stomach"
+    ],
+    "references": [
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Diagnostic methods, Palpation (pulse positions)"
+      },
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Pulse diagnosis, pulse positions"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-ID-0002",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-1",
+    "stem": "A 55-year-old patient reports palpitations and poor sleep. The practitioner wishes to palpate the position that most directly reflects the Heart. Which position is most appropriate?",
+    "options": {
+      "A": "Right cun (distal) position",
+      "B": "Left guan (middle) position",
+      "C": "Left cun (distal) position",
+      "D": "Right chi (proximal) position"
+    },
+    "correct": "C",
+    "explanation": "The Heart (with the Small Intestine) is read at the cun position of the left wrist. Cun positions reflect the Upper Burner organs, with the left side assigned to the Heart and the right side to the Lung.",
+    "distractorExplanations": {
+      "A": "The right cun reflects the Lung, the other Upper Burner organ. The learner has confused the two cun positions.",
+      "B": "The left guan reflects the Liver and Gallbladder, the Middle Burner organs on the left.",
+      "D": "The right chi reflects the Kidney (often described as Kidney Yang or Ming Men), a Lower Burner position."
+    },
+    "learningObjective": "Identify the pulse position corresponding to the Heart.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "pulse-positions",
+      "heart"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Diagnosis, Palpation (pulse positions)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-ID-0003",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-1",
+    "stem": "A normal pulse is said to have Stomach Qi, Spirit (Shen), and root. Which palpatory finding best demonstrates that a pulse has root?",
+    "options": {
+      "A": "The beat is regular and even in rhythm at all three positions",
+      "B": "The beat remains perceptible at the chi positions on deep pressure",
+      "C": "The beat is gentle, calm, and of moderate rate at the middle level",
+      "D": "The beat arrives and departs smoothly with a soft, relaxed quality"
+    },
+    "correct": "B",
+    "explanation": "Root refers to the Kidney and Yuan Qi as the foundation of the pulse. It is demonstrated when the pulse can still be felt at the chi (proximal) positions under heavy pressure. Stomach Qi is shown by a gentle, moderate, relaxed quality, and Spirit by softness with regular rhythm.",
+    "distractorExplanations": {
+      "A": "Regular, even rhythm is a feature of Spirit (Shen) in the pulse, not root.",
+      "C": "A gentle, calm, moderate pulse at the middle level describes Stomach Qi, not root.",
+      "D": "Smooth arrival and departure with softness describes Stomach Qi and Spirit, not the Kidney root felt at the chi position."
+    },
+    "learningObjective": "Identify the three qualities of a normal pulse and the finding that demonstrates root.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": false,
+    "concepts": [
+      "normal-pulse",
+      "pulse-root",
+      "stomach-qi"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Pulse diagnosis, the normal pulse"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Palpation, the normal pulse"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-ID-0004",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-1",
+    "stem": "When pulse rate is measured against the practitioner's own breathing, a pulse that is classified as slow is best defined as one that beats how many times per complete breath?",
+    "options": {
+      "A": "Seven or more beats per breath",
+      "B": "Six beats per breath",
+      "C": "Four to five beats per breath",
+      "D": "Fewer than four beats per breath"
+    },
+    "correct": "D",
+    "explanation": "The normal pulse is four to five beats per practitioner breath (roughly 60-90 per minute). A slow pulse is fewer than four beats per breath (under about 60 per minute); a rapid pulse is more than five beats per breath (over about 90 per minute).",
+    "distractorExplanations": {
+      "A": "Seven or more beats per breath describes an extremely rapid (racing) pulse, not a slow one.",
+      "B": "Six beats per breath is a rapid pulse.",
+      "C": "Four to five beats per breath is the normal rate, and a relaxed four-beat pulse is the slowed-down (moderate) pulse rather than the slow pulse."
+    },
+    "learningObjective": "Define slow, normal, and rapid pulse rates in beats per practitioner breath.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "pulse-rate",
+      "slow-pulse"
+    ],
+    "references": [
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Diagnostic methods, Palpation (slow and rapid pulses)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-ID-0005",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-1",
+    "stem": "A healthy 28-year-old patient is examined in early spring. The pulse is slightly wiry at all positions but soft, regular, and of normal rate, and the patient has no symptoms. Which interpretation of this pulse is most appropriate?",
+    "options": {
+      "A": "A normal seasonal variation reflecting the rising Qi of spring",
+      "B": "An early sign of Liver Qi stagnation requiring treatment",
+      "C": "A sign of Cold obstructing the channels",
+      "D": "A sign of Phlegm accumulating in the Middle Burner"
+    },
+    "correct": "A",
+    "explanation": "The classics describe seasonal pulse variations in a healthy person: slightly wiry in spring, slightly overflowing in summer, slightly floating in autumn, and slightly deep in winter. A mildly wiry pulse that retains softness, regularity, and Stomach Qi in a symptom-free patient in spring is normal, reflecting the Liver and the rising Wood Qi of the season.",
+    "distractorExplanations": {
+      "B": "Liver Qi stagnation would be accompanied by symptoms such as hypochondrial distension, irritability, or sighing, and the wiry quality would be more pronounced and harder, lacking softness.",
+      "C": "Cold produces a tight pulse (taut and twisted like a rope), and the patient would show cold signs; a soft, slightly wiry pulse in a healthy person is seasonal.",
+      "D": "Phlegm gives a slippery pulse, not a wiry one, and would be accompanied by symptoms such as chest oppression or a greasy coating."
+    },
+    "learningObjective": "Recognize normal seasonal variations of the pulse in a healthy patient.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": true,
+    "concepts": [
+      "normal-pulse",
+      "seasonal-pulse",
+      "wiry-pulse"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Pulse diagnosis, physiological variations of the pulse"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-ID-0006",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-1",
+    "stem": "A pulse is felt clearly with light finger pressure at the superficial level and becomes weaker when the fingers press toward the bone. In a patient who has just developed chills, sneezing, and a headache, this pulse most commonly indicates which of the following?",
+    "options": {
+      "A": "An interior pattern of Excess",
+      "B": "Yin deficiency with floating of Yang",
+      "C": "An exterior pattern from invasion of a pathogenic factor",
+      "D": "Retention of Phlegm in the chest"
+    },
+    "correct": "C",
+    "explanation": "A pulse that is strongest at the superficial level and weakens on pressure is the floating pulse. In the setting of acute chills, sneezing, and headache, it reflects Wei Qi rising to the surface to fight an exterior pathogenic factor, so it indicates an exterior pattern.",
+    "distractorExplanations": {
+      "A": "Interior patterns of Excess produce a deep and forceful pulse, because the pathogenic factor is in the interior rather than drawing Qi to the surface.",
+      "B": "A floating pulse can occur in Yin deficiency, but it is then floating and empty in a chronic patient without acute exterior symptoms; the acute presentation here identifies an exterior invasion.",
+      "D": "Phlegm in the chest gives a slippery pulse, and the symptoms would include chest oppression and sputum rather than acute chills and sneezing."
+    },
+    "learningObjective": "Identify the floating pulse and its primary clinical significance.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "floating-pulse",
+      "exterior-pattern"
+    ],
+    "references": [
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Diagnostic methods, Palpation (floating pulse)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-ID-0007",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-1",
+    "stem": "A 31-year-old woman is seen two days after a delivery complicated by heavy bleeding. She is pale, dizzy, and faint. The pulse is felt at the superficial level, is large and soft, and feels empty in the center, like pressing the stalk of a scallion. Which pulse quality best describes this finding?",
+    "options": {
+      "A": "Scattered pulse",
+      "B": "Hollow pulse",
+      "C": "Floating pulse",
+      "D": "Soggy pulse"
+    },
+    "correct": "B",
+    "explanation": "The hollow (kong) pulse is floating, large, and soft, with an empty center like a scallion stalk, firm at the edges and absent in the middle. It classically appears after severe loss of Blood, when the vessels are suddenly under-filled while Yang has not yet collapsed. The recent hemorrhage, pallor, and dizziness confirm it.",
+    "distractorExplanations": {
+      "A": "The scattered pulse is floating and large but has no distinct boundaries, disappears on slight pressure, and is irregular; it indicates collapse of Yuan Qi, not simply acute Blood loss, and lacks the scallion-stalk emptiness in the center.",
+      "C": "A simple floating pulse is felt superficially and weakens on pressure but does not have the large, hollow-centered feel; it chiefly indicates an exterior pattern, which this patient does not have.",
+      "D": "The soggy pulse is floating but thin and soft, like cotton on water; it is small rather than large and hollow, and indicates Dampness or deficiency rather than acute hemorrhage."
+    },
+    "learningObjective": "Differentiate the hollow pulse from the floating, scattered, and soggy pulses.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "hollow-pulse",
+      "floating-pulse",
+      "scattered-pulse",
+      "soggy-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "hollow-pulse",
+        "scattered-pulse"
+      ],
+      "key": "The hollow pulse is large with an empty center but clear edges after Blood loss; the scattered pulse has no boundaries, vanishes on light pressure, and is irregular in Yuan Qi collapse."
+    },
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Pulse diagnosis, hollow pulse"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Palpation, the 28 pulses"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-ID-0008",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-1",
+    "stem": "An 84-year-old patient with a long-standing chronic illness is examined during an acute deterioration. The pulse is superficial, large, and without distinct edges; it vanishes with slight pressure and its beats are irregular in strength and rhythm. Which interpretation is most appropriate?",
+    "options": {
+      "A": "Acute loss of Blood with under-filling of the vessels",
+      "B": "Exterior invasion of Wind-Heat in a deficient patient",
+      "C": "Interior Heat driving Qi and Blood outward",
+      "D": "Dissipation of Yuan Qi with Yang about to collapse"
+    },
+    "correct": "D",
+    "explanation": "This is the scattered (san) pulse: floating, large, rootless, with blurred boundaries, disappearing on light pressure and irregular in rhythm. It signifies that Yuan Qi is scattering and Yang is on the verge of collapse, a critical sign in the elderly or in late-stage chronic illness.",
+    "distractorExplanations": {
+      "A": "Acute Blood loss gives the hollow pulse, which is large but keeps distinct edges with an empty center; there is no bleeding history here, and the irregular rootless quality points to Qi collapse.",
+      "B": "Exterior Wind-Heat gives a floating and rapid pulse with definite edges, together with fever, sore throat, and aversion to wind; a pulse that vanishes on slight pressure with irregularity is a sign of collapse, not invasion.",
+      "C": "Interior Heat produces a pulse that is forceful and often overflowing or full; a forceless pulse with no root is the opposite of an Excess Heat pulse."
+    },
+    "learningObjective": "Identify the scattered pulse and recognize it as a sign of critical Yuan Qi collapse.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "scattered-pulse",
+      "yang-collapse",
+      "floating-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "scattered-pulse",
+        "hollow-pulse"
+      ],
+      "key": "A scattered pulse has no boundaries, no root, and irregular rhythm; a hollow pulse is large with clear edges and an empty center after Blood loss."
+    },
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Pulse diagnosis, scattered pulse"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-ID-0009",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-1",
+    "stem": "A 47-year-old patient presents with sudden severe, cramping abdominal pain, cold limbs, and a pale complexion. The pulse can be found only by pressing to the bone and pushing the tendon aside; it is completely absent at the superficial and middle levels. Which pulse quality best describes this finding?",
+    "options": {
+      "A": "Hidden pulse",
+      "B": "Deep pulse",
+      "C": "Firm pulse",
+      "D": "Weak pulse"
+    },
+    "correct": "A",
+    "explanation": "The hidden (fu) pulse lies deeper than the deep pulse: it is felt only by pressing to the bone and moving the tendon aside. It indicates severe Cold or pathogenic obstruction closing off Yang Qi in the interior, typically with violent pain or syncope, and may also signal collapse of Yang. The acute severe pain and cold limbs fit this picture.",
+    "distractorExplanations": {
+      "B": "The deep pulse is felt at the deep level with heavy pressure but is still obtainable at that level without pushing the tendon aside; the hidden pulse is a further degree of depth reserved for severe obstruction or collapse.",
+      "C": "The firm pulse is deep but also large, wiry, long, and forceful, and is felt firmly at the deep level rather than being nearly absent; it indicates interior Cold with accumulation such as masses.",
+      "D": "The weak pulse is deep, thin, and soft, but is readily felt at the deep level; it indicates chronic Qi and Blood or Yang deficiency rather than an acute closed-off state."
+    },
+    "learningObjective": "Differentiate the hidden pulse from the deep, firm, and weak pulses.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "hidden-pulse",
+      "deep-pulse",
+      "firm-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "hidden-pulse",
+        "deep-pulse"
+      ],
+      "key": "A deep pulse is felt at the deep level with heavy pressure; a hidden pulse requires pressing to the bone and displacing the tendon, and signals severe Cold obstruction or collapse."
+    },
+    "references": [
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Diagnostic methods, Palpation (deep and hidden pulses)"
+      },
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Pulse diagnosis, hidden pulse"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-ID-0010",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-1",
+    "stem": "A 58-year-old man reports a long-standing fixed lower abdominal mass with cold, dull pain that improves with warmth. His pulse is deep, large, long, wiry, and forceful, and keeps its force under heavy pressure. Which pulse quality best describes this finding?",
+    "options": {
+      "A": "Hidden pulse",
+      "B": "Deep pulse",
+      "C": "Firm pulse",
+      "D": "Tight pulse"
+    },
+    "correct": "C",
+    "explanation": "The firm (lao) pulse is deep, large, long, wiry, and forceful; it is immovable under pressure and is found only at the deep level. It indicates interior Cold with accumulation of Excess, such as abdominal masses or hernial pain. The chronic fixed mass with cold pain matches this significance.",
+    "distractorExplanations": {
+      "A": "The hidden pulse is nearly absent, obtainable only by pushing the tendon aside at the bone; a large, forceful pulse at the deep level is the opposite in strength.",
+      "B": "A deep pulse is defined by depth alone; it may be forceful or forceless. The combination of deep with large, long, wiry, and forceful has its own name, the firm pulse.",
+      "D": "The tight pulse feels like a twisted rope and is defined by tension rather than depth; it is found at any level and indicates Cold with pain, but lacks the deep, large, long, immovable quality."
+    },
+    "learningObjective": "Identify the firm pulse and differentiate it from the deep, hidden, and tight pulses.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "firm-pulse",
+      "deep-pulse",
+      "interior-cold"
+    ],
+    "distinction": {
+      "between": [
+        "firm-pulse",
+        "hidden-pulse"
+      ],
+      "key": "Both lie at the deep level, but the firm pulse is large, long, wiry, and forceful under pressure, while the hidden pulse is barely obtainable even at the bone."
+    },
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Pulse diagnosis, firm pulse"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Palpation, the 28 pulses"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-ID-0011",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-1",
+    "stem": "A 39-year-old patient reports a heavy sensation in the body and limbs, loose stools, and a feeling of fullness after meals. The tongue has a greasy white coating. The pulse beats about four times per practitioner breath and feels relaxed and loose, with a slightly slippery quality. Which pulse quality best describes the rate and feel of this pulse?",
+    "options": {
+      "A": "Slow pulse",
+      "B": "Slowed-down (moderate) pulse",
+      "C": "Soggy pulse",
+      "D": "Weak pulse"
+    },
+    "correct": "B",
+    "explanation": "The slowed-down or moderate (huan) pulse beats about four times per breath, slower than normal but faster than the slow pulse, with a loose, relaxed quality. When pathological, it indicates Dampness or Spleen deficiency, which the heaviness, loose stools, and greasy coating support.",
+    "distractorExplanations": {
+      "A": "The slow pulse is fewer than four beats per breath (below about 60 per minute) and indicates Cold; a four-beat relaxed pulse is slowed-down, not slow.",
+      "C": "The soggy pulse is defined by depth and width (floating, thin, soft), not by rate; the stem describes a relaxed four-beat pulse, which is a rate category.",
+      "D": "The weak pulse is deep, thin, and forceless; the stem does not describe a deep or forceless pulse but a relaxed, moderately slow one."
+    },
+    "learningObjective": "Differentiate the slowed-down (moderate) pulse from the slow pulse and state its significance.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "slowed-down-pulse",
+      "slow-pulse",
+      "dampness"
+    ],
+    "distinction": {
+      "between": [
+        "slowed-down-pulse",
+        "slow-pulse"
+      ],
+      "key": "The slowed-down pulse is about four beats per breath and relaxed (Dampness or Spleen deficiency); the slow pulse is fewer than four beats per breath and indicates Cold."
+    },
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Pulse diagnosis, slowed-down pulse"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (medium)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-ID-0012",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-1",
+    "stem": "A 42-year-old patient develops severe, cramping lower abdominal pain after eating a large quantity of ice cream on a cold day. The pain is worse with pressure and better with a hot pack. The pulse is slow and forceful. Which interpretation of the pulse is most appropriate?",
+    "options": {
+      "A": "Cold from Yang deficiency in the interior",
+      "B": "Heat obstructing the flow of Qi",
+      "C": "Dampness slowing the circulation of Qi",
+      "D": "Full Cold obstructing the interior"
+    },
+    "correct": "D",
+    "explanation": "A slow pulse indicates Cold. Its strength differentiates the type: slow and forceful indicates Full (Excess) Cold, in which a Cold pathogenic factor obstructs Yang Qi, whereas slow and forceless indicates Empty Cold from Yang deficiency. The acute onset after cold food, pain worse with pressure, and the forceful quality all confirm Full Cold.",
+    "distractorExplanations": {
+      "A": "Yang deficiency produces a slow but forceless pulse and chronic, dull pain that likes pressure; the forceful pulse and pain worse with pressure identify Excess.",
+      "B": "Heat produces a rapid pulse, not a slow one, and pain from Heat would be relieved by cold rather than a hot pack.",
+      "C": "Dampness gives a slowed-down or soggy pulse, often with slipperiness, together with heaviness and a greasy coating; it does not produce a forceful slow pulse with acute cramping pain after cold food."
+    },
+    "learningObjective": "Interpret the strength of a slow pulse to differentiate Full Cold from Empty Cold.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "slow-pulse",
+      "full-cold",
+      "empty-cold"
+    ],
+    "distinction": {
+      "between": [
+        "full-cold",
+        "empty-cold"
+      ],
+      "key": "Slow and forceful is Full Cold; slow and forceless is Empty Cold from Yang deficiency."
+    },
+    "references": [
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Diagnostic methods, Palpation (slow pulse)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-ID-0013",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-1",
+    "stem": "A pulse is rapid, beating more than five times per practitioner breath, and periodically misses a beat at irregular intervals. Which pulse quality best describes this finding?",
+    "options": {
+      "A": "Hasty pulse",
+      "B": "Knotted pulse",
+      "C": "Intermittent pulse",
+      "D": "Moving pulse"
+    },
+    "correct": "A",
+    "explanation": "The hasty (cu) pulse is rapid with irregularly missed beats. It indicates Heat with stagnation of Qi, Blood, Phlegm, or Food, or in deficient patients an exhaustion of Zang Qi with Heat. The two defining features are rapid rate and irregular pauses.",
+    "distractorExplanations": {
+      "B": "The knotted pulse also has irregularly missed beats, but it is slow rather than rapid, and indicates Cold with stagnation or Yin Excess.",
+      "C": "The intermittent pulse misses beats at regular intervals with a longer pause and is not defined by rapidity; it indicates exhaustion of the Zang organs, especially the Heart.",
+      "D": "The moving pulse is rapid but has no missed beats; it is short, slippery, and bean-like, most evident at the guan position, and indicates fright or pain."
+    },
+    "learningObjective": "Differentiate the hasty pulse from the knotted, intermittent, and moving pulses.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "comprehension",
+    "vignette": false,
+    "concepts": [
+      "hasty-pulse",
+      "knotted-pulse",
+      "intermittent-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "hasty-pulse",
+        "knotted-pulse"
+      ],
+      "key": "Both miss beats irregularly; hasty is rapid (Heat with stagnation), knotted is slow (Cold with stagnation)."
+    },
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Pulse diagnosis, hasty pulse"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Palpation, the 28 pulses"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-ID-0014",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-1",
+    "stem": "A 26-year-old woman is seen the morning after a frightening car accident in which she was uninjured. She is anxious with palpitations. Her pulse is rapid, slippery, and short, beating like a rolling bean, most clearly at the guan positions. Which pulse quality best describes this finding?",
+    "options": {
+      "A": "Slippery pulse",
+      "B": "Hasty pulse",
+      "C": "Moving pulse",
+      "D": "Short pulse"
+    },
+    "correct": "C",
+    "explanation": "The moving (dong) pulse is short, slippery, rapid, and forceful, felt like a bean rolling under the finger, typically most evident at the guan position. It indicates fright, severe pain, or (in women) pregnancy. The acute fright with palpitations matches it.",
+    "distractorExplanations": {
+      "A": "The slippery pulse is smooth and rolling like pearls but is felt across all positions and is not short or confined to the guan; it indicates Phlegm, Dampness, Food retention, or pregnancy.",
+      "B": "The hasty pulse is rapid with irregularly missed beats; the stem describes no missed beats.",
+      "D": "The short pulse is defined only by its reduced length (felt mainly at the guan), and indicates Qi deficiency or stagnation; the combination of short with slippery, rapid, and bean-like is the moving pulse."
+    },
+    "learningObjective": "Identify the moving pulse and differentiate it from the slippery, hasty, and short pulses.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "moving-pulse",
+      "slippery-pulse",
+      "short-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "moving-pulse",
+        "slippery-pulse"
+      ],
+      "key": "The moving pulse is short, rapid, and bean-like at the guan (fright, pain); the slippery pulse rolls smoothly across all positions (Phlegm, Damp, Food, pregnancy)."
+    },
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Pulse diagnosis, moving pulse"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-ID-0015",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-1",
+    "stem": "A 52-year-old woman reports night sweats, a feeling of heat in the palms and soles in the evening, dry mouth at night, and a slight afternoon flush. The tongue is red with a peeled coating. The pulse is rapid and thin. Which interpretation of the pulse is most appropriate?",
+    "options": {
+      "A": "Full Heat in the Qi level injuring Body Fluids",
+      "B": "Empty Heat arising from Yin deficiency",
+      "C": "Phlegm-Heat obstructing the vessels",
+      "D": "Blood deficiency with Blood failing to nourish the vessels"
+    },
+    "correct": "B",
+    "explanation": "A rapid pulse indicates Heat; its width and strength tell the type. Rapid and forceful (often overflowing or full) indicates Full Heat, while rapid and thin indicates Empty Heat from Yin deficiency, because deficient Yin fails to fill the vessels while deficiency Heat speeds the rate. Night sweats, five-palm heat, and a red peeled tongue confirm Yin deficiency.",
+    "distractorExplanations": {
+      "A": "Full Heat in the Qi level gives a rapid and overflowing or full pulse with high fever, great thirst, and a yellow coating, not a thin pulse with a peeled tongue.",
+      "C": "Phlegm-Heat gives a rapid and slippery pulse with a greasy yellow coating, not a thin pulse with a peeled coating.",
+      "D": "Blood deficiency alone gives a thin or choppy pulse without rapidity, with a pale tongue; the rapid rate and red tongue indicate Heat from Yin deficiency."
+    },
+    "learningObjective": "Interpret the combination of rapid and thin pulse as Empty Heat from Yin deficiency.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "rapid-pulse",
+      "thin-pulse",
+      "yin-deficiency",
+      "empty-heat"
+    ],
+    "distinction": {
+      "between": [
+        "full-heat",
+        "empty-heat"
+      ],
+      "key": "Rapid and forceful (overflowing or full) is Full Heat; rapid and thin is Empty Heat from Yin deficiency."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Diagnosis, Palpation (rapid pulse)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-ID-0016",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-1",
+    "stem": "A 76-year-old patient with advanced chronic illness has cold limbs, profuse cold sweat, and a barely audible voice. The pulse is extremely fine and soft, so faint that it is almost imperceptible and seems about to disappear under the fingers. Which pulse quality best describes this finding?",
+    "options": {
+      "A": "Thin pulse",
+      "B": "Weak pulse",
+      "C": "Soggy pulse",
+      "D": "Minute pulse"
+    },
+    "correct": "D",
+    "explanation": "The minute (wei, faint) pulse is extremely thin and soft, so indistinct that it seems on the verge of vanishing. It indicates severe deficiency of Yang Qi, or collapse of Yang, with Qi and Blood exhausted; the cold sweat, cold limbs, and feeble voice confirm Yang collapse.",
+    "distractorExplanations": {
+      "A": "The thin (thready) pulse is fine like a thread but remains distinct and clearly felt; it indicates Blood or Yin deficiency, or Dampness, and is not a sign of collapse.",
+      "B": "The weak pulse is deep, thin, and forceless but is still clearly obtainable at the deep level; it indicates chronic Qi and Blood or Yang deficiency rather than an imminent collapse.",
+      "C": "The soggy pulse is floating, thin, and soft, like cotton on water; it is clearly perceptible at the superficial level and indicates Dampness or deficiency, not collapse."
+    },
+    "learningObjective": "Differentiate the minute pulse from the thin, weak, and soggy pulses.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "minute-pulse",
+      "thin-pulse",
+      "weak-pulse",
+      "yang-collapse"
+    ],
+    "distinction": {
+      "between": [
+        "minute-pulse",
+        "thin-pulse"
+      ],
+      "key": "A thin pulse is fine but distinct; a minute pulse is so faint it seems about to vanish, signalling Yang collapse."
+    },
+    "references": [
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Diagnostic methods, Palpation (thready and minute pulses)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-ID-0017",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-1",
+    "stem": "A pulse is felt at the superficial level, is somewhat large, but is forceless, and it becomes empty and indistinct when the fingers press to the deep level. Which pulse quality best describes this finding, and what does it most commonly indicate?",
+    "options": {
+      "A": "Empty pulse; deficiency of Qi and Blood",
+      "B": "Weak pulse; deficiency of Yang",
+      "C": "Hollow pulse; acute loss of Blood",
+      "D": "Floating pulse; invasion of an exterior pathogenic factor"
+    },
+    "correct": "A",
+    "explanation": "The empty (xu, deficient) pulse is felt at the superficial level, is large and soft, forceless, and empties on deep pressure. It indicates deficiency of Qi and Blood: Qi is insufficient to drive the pulse and Blood insufficient to fill the vessels. Its defining features are superficial location and lack of force.",
+    "distractorExplanations": {
+      "B": "The weak pulse is deep, thin, and soft; it is the forceless pulse found at the deep level, whereas the empty pulse is found at the superficial level. The learner has confused the levels at which forceless pulses are felt.",
+      "C": "The hollow pulse is also superficial and large, but it keeps firm edges around an empty center like a scallion stalk, and follows acute hemorrhage; the plain empty pulse is uniformly soft and forceless.",
+      "D": "The floating pulse of an exterior invasion is superficial but is usually forceful, because Wei Qi is contending with the pathogenic factor; forcelessness is the sign of deficiency."
+    },
+    "learningObjective": "Define the empty pulse and differentiate it from the weak, hollow, and floating pulses.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "comprehension",
+    "vignette": false,
+    "concepts": [
+      "empty-pulse",
+      "weak-pulse",
+      "qi-and-blood-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "empty-pulse",
+        "weak-pulse"
+      ],
+      "key": "Both are forceless, but the empty pulse is felt at the superficial level and the weak pulse at the deep level."
+    },
+    "references": [
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Diagnostic methods, Palpation (deficient and weak pulses)"
+      },
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Pulse diagnosis, empty pulse"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-ID-0018",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-1",
+    "stem": "A 68-year-old man reports years of fatigue, cold hands and feet, a bright-pale face, and loose stools in the early morning. The tongue is pale and swollen with a thin white coating. The pulse is found only at the deep level, where it is thin, soft, and forceless. Which pulse quality best describes this finding?",
+    "options": {
+      "A": "Empty pulse",
+      "B": "Minute pulse",
+      "C": "Weak pulse",
+      "D": "Hidden pulse"
+    },
+    "correct": "C",
+    "explanation": "The weak (ruo) pulse is deep, thin, and soft, lacking force at the deep level. It indicates chronic deficiency of Qi and Blood, and especially of Yang. The long history of fatigue, cold limbs, pale face, early-morning diarrhea, and pale swollen tongue indicate Spleen and Kidney Yang deficiency, for which the weak pulse is characteristic.",
+    "distractorExplanations": {
+      "A": "The empty pulse is forceless but is felt at the superficial level and is large; this pulse is found only at the deep level.",
+      "B": "The minute pulse is so faint it is almost imperceptible and indicates collapse of Yang; this patient's pulse is clearly obtainable at the deep level and his condition is chronic, not critical.",
+      "D": "The hidden pulse is obtainable only by pressing to the bone and displacing the tendon, in acute severe Cold obstruction or collapse; it is not a chronic deficiency pulse found at the usual deep level."
+    },
+    "learningObjective": "Identify the weak pulse and link it to chronic Yang deficiency.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "weak-pulse",
+      "kidney-yang-deficiency",
+      "spleen-yang-deficiency"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Pulse diagnosis, weak pulse"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-ID-0019",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-1",
+    "stem": "A 35-year-old man develops severe epigastric pain and chills after working outdoors in freezing rain. The pain is intense and unrelieved by position. The pulse is forceful and taut, with a side-to-side tension that feels like a twisted rope under the fingers. Which pulse quality best describes this finding?",
+    "options": {
+      "A": "Wiry pulse",
+      "B": "Tight pulse",
+      "C": "Long pulse",
+      "D": "Full pulse"
+    },
+    "correct": "B",
+    "explanation": "The tight (jin) pulse is forceful and taut, with a twisting, rope-like tension that shifts under the fingers. It indicates Cold, either exterior or interior, and pain. Exposure to cold with severe pain and chills matches the tight pulse exactly.",
+    "distractorExplanations": {
+      "A": "The wiry pulse is taut and straight like a guitar string, without the twisted side-to-side tension of a rope, and chiefly indicates Liver disharmony, pain, or Phlegm; the Cold exposure and rope-like quality identify the tight pulse.",
+      "C": "The long pulse is defined by extending beyond the cun and chi positions; it does not describe tension or twisting and, when soft, is a normal pulse.",
+      "D": "The full pulse is large and forceful at all three levels and indicates Excess, commonly with Heat; it lacks the taut, rope-like quality specific to Cold."
+    },
+    "learningObjective": "Differentiate the tight pulse from the wiry, long, and full pulses.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "tight-pulse",
+      "wiry-pulse",
+      "cold"
+    ],
+    "distinction": {
+      "between": [
+        "tight-pulse",
+        "wiry-pulse"
+      ],
+      "key": "Tight feels like a twisted rope with side-to-side tension (Cold, pain); wiry feels like a straight guitar string (Liver, pain, Phlegm)."
+    },
+    "references": [
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Diagnostic methods, Palpation (wiry and tight pulses)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-ID-0020",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-1",
+    "stem": "A pulse is felt at the superficial level, is thin, and is soft, like a wisp of cotton floating on water; it fades with heavier pressure. Which pulse quality best describes this finding, and what does it most commonly indicate?",
+    "options": {
+      "A": "Soggy pulse; Dampness or deficiency of Blood and Yin",
+      "B": "Slippery pulse; Phlegm or retention of Food",
+      "C": "Floating pulse; invasion of an exterior pathogenic factor",
+      "D": "Thin pulse; deficiency of Blood"
+    },
+    "correct": "A",
+    "explanation": "The soggy (ru, soft) pulse combines three features: floating, thin, and soft, like cotton floating on water. It indicates Dampness (which prevents the pulse from sinking while weakening it) or deficiency of Blood, Yin, or Essence. All three features together define it.",
+    "distractorExplanations": {
+      "B": "The slippery pulse rolls smoothly under the fingers like pearls on a plate and is usually felt at all levels; it is not thin or soft. Both are associated with Dampness, which is the source of the confusion, but the feel is entirely different.",
+      "C": "A plain floating pulse is defined by level only and in exterior invasions is usually forceful and of normal width; a floating pulse that is also thin and soft is the soggy pulse.",
+      "D": "The thin pulse is fine but can be felt at any level and is distinct; the soggy pulse adds the superficial level and softness."
+    },
+    "learningObjective": "Define the soggy pulse and differentiate it from the slippery, floating, and thin pulses.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": false,
+    "concepts": [
+      "soggy-pulse",
+      "slippery-pulse",
+      "dampness"
+    ],
+    "distinction": {
+      "between": [
+        "soggy-pulse",
+        "slippery-pulse"
+      ],
+      "key": "Soggy is floating, thin, and soft like cotton on water; slippery is smooth and rolling like pearls, of normal width, felt at all levels."
+    },
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Pulse diagnosis, soggy pulse"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-ID-0021",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-1",
+    "stem": "A healthy 29-year-old woman reports eight weeks of amenorrhea with mild nausea in the mornings. She has no digestive complaints otherwise, no cough, and a tongue with a thin white coating. Her pulse is slippery and slightly rapid at all positions, rolling smoothly like pearls under the fingers. Which interpretation of the pulse is most appropriate?",
+    "options": {
+      "A": "Phlegm-Damp accumulating in the Middle Burner",
+      "B": "Retention of Food in the Stomach",
+      "C": "A physiological pulse consistent with pregnancy",
+      "D": "Damp-Heat in the Lower Burner"
+    },
+    "correct": "C",
+    "explanation": "The slippery pulse indicates Phlegm, Dampness, or retention of Food when pathological, but a slippery and slightly rapid pulse in a healthy woman of childbearing age is also the classical sign of pregnancy, reflecting the abundance of Qi and Blood nourishing the fetus. Eight weeks of amenorrhea with morning nausea, a normal coating, and no other symptoms make pregnancy the most appropriate reading.",
+    "distractorExplanations": {
+      "A": "Phlegm-Damp would be accompanied by a greasy coating, chest or epigastric oppression, and heaviness; the thin white coating and absence of digestive symptoms rule it out.",
+      "B": "Retention of Food produces a slippery pulse with epigastric fullness, foul belching, and a thick greasy coating; none of these are present.",
+      "D": "Damp-Heat in the Lower Burner gives a slippery and rapid pulse with a yellow greasy coating and symptoms such as burning urination or leukorrhea, which are absent."
+    },
+    "learningObjective": "Recognize the slippery pulse as a physiological finding in pregnancy and distinguish it from pathological slippery pulses.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "slippery-pulse",
+      "normal-pulse",
+      "pregnancy-pulse"
+    ],
+    "references": [
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Diagnostic methods, Palpation (slippery pulse)"
+      },
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Pulse diagnosis, slippery pulse"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-ID-0022",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-1",
+    "stem": "A 61-year-old patient with chronic chest oppression and a purplish tongue has a pulse that is slow, fewer than four beats per practitioner breath, and misses a beat at irregular intervals. Which pulse quality best describes this finding?",
+    "options": {
+      "A": "Choppy pulse",
+      "B": "Intermittent pulse",
+      "C": "Hasty pulse",
+      "D": "Knotted pulse"
+    },
+    "correct": "D",
+    "explanation": "The knotted (jie) pulse is slow with irregularly missed beats. It indicates Cold with obstruction, such as Qi or Blood stagnation, Phlegm, or accumulated Yin Cold; when forceless it indicates deficiency of Qi and Blood with stasis. The chronic chest oppression and purplish tongue fit Cold and Blood stasis obstructing the Heart.",
+    "distractorExplanations": {
+      "A": "The choppy pulse is rough and uneven in flow, like a knife scraping bamboo, but does not miss beats; its irregularity is in smoothness, not rhythm.",
+      "B": "The intermittent pulse misses beats at regular intervals with a prolonged pause and is a sign of exhausted Zang Qi; the irregular pauses here define the knotted pulse.",
+      "C": "The hasty pulse misses beats irregularly but is rapid, indicating Heat with stagnation; this pulse is slow."
+    },
+    "learningObjective": "Differentiate the knotted pulse from the choppy, intermittent, and hasty pulses.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "knotted-pulse",
+      "choppy-pulse",
+      "intermittent-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "knotted-pulse",
+        "choppy-pulse"
+      ],
+      "key": "Knotted misses beats irregularly and is slow; choppy is rough and uneven in flow but keeps its rhythm."
+    },
+    "references": [
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Diagnostic methods, Palpation (knotted and intermittent pulses)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-ID-0023",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-1",
+    "stem": "A 72-year-old woman reports palpitations, shortness of breath on slight exertion, and exhaustion. Her pulse is of moderate rate but stops at regular intervals, every fifth beat, with a pause that is noticeably prolonged before the rhythm resumes. Which interpretation is most appropriate?",
+    "options": {
+      "A": "Heat agitating the Heart with stagnation of Qi and Blood",
+      "B": "Exhaustion of Zang organ Qi, particularly of the Heart",
+      "C": "Cold accumulating with obstruction of Qi and Blood",
+      "D": "Wind stirring internally from Liver Yang rising"
+    },
+    "correct": "B",
+    "explanation": "The intermittent (dai) pulse misses beats at regular intervals with a longer pause, and the rate is not necessarily rapid or slow. It indicates exhaustion of the Qi of the Zang organs, especially the Heart, and is regarded as serious. The palpitations, breathlessness, and exhaustion in an elderly patient support a deficiency of Heart Qi and Yang.",
+    "distractorExplanations": {
+      "A": "Heat with stagnation produces the hasty pulse, which is rapid with irregular pauses; this pulse is of moderate rate with regular pauses.",
+      "C": "Cold with obstruction produces the knotted pulse, which is slow with irregular pauses; regular pauses with a long interval identify the intermittent pulse.",
+      "D": "Liver Yang rising with internal Wind gives a wiry, often rapid pulse with dizziness, headache, or tremor, not a regularly pausing pulse with exhaustion."
+    },
+    "learningObjective": "Identify the intermittent pulse and its significance of Zang Qi exhaustion.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "intermittent-pulse",
+      "heart-qi-deficiency",
+      "knotted-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "intermittent-pulse",
+        "knotted-pulse"
+      ],
+      "key": "Intermittent pauses at regular intervals with a long pause (Zang Qi exhaustion); knotted pauses irregularly and is slow (Cold with stagnation)."
+    },
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Pulse diagnosis, intermittent pulse"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Palpation, the 28 pulses"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-ID-0024",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-1",
+    "stem": "A 44-year-old woman reports stabbing, fixed lower abdominal pain that is worse during menstruation, with dark menstrual blood containing clots. The tongue is purple with distended sublingual veins. The pulse is choppy and forceful, uneven like a knife scraping bamboo. Which interpretation of the choppy pulse is most appropriate?",
+    "options": {
+      "A": "Blood stasis obstructing the vessels",
+      "B": "Blood deficiency failing to fill the vessels",
+      "C": "Essence deficiency failing to nourish the vessels",
+      "D": "Dampness slowing the flow in the vessels"
+    },
+    "correct": "A",
+    "explanation": "The choppy (se) pulse is rough and uneven, like a knife scraping bamboo. Its strength decides its meaning: choppy and forceful indicates Blood stasis (or stagnation of Qi, Phlegm, or Food) obstructing the vessels, whereas choppy and forceless indicates deficiency of Blood or Essence. Fixed stabbing pain, clotted dark menses, and a purple tongue with distended sublingual veins confirm Blood stasis.",
+    "distractorExplanations": {
+      "B": "Blood deficiency gives a choppy but forceless pulse with a pale tongue, scanty pale menses, and dull pain; the forceful pulse, purple tongue, and clots indicate stasis.",
+      "C": "Essence deficiency also gives a forceless choppy pulse, with findings such as weak knees, poor memory, or infertility, not a forceful pulse with stabbing pain and clots.",
+      "D": "Dampness produces a soggy, slippery, or slowed-down pulse with heaviness and a greasy coating, not a forceful choppy pulse with a purple tongue."
+    },
+    "learningObjective": "Interpret the strength of a choppy pulse to differentiate Blood stasis from Blood or Essence deficiency.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "choppy-pulse",
+      "blood-stasis",
+      "blood-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "blood-stasis",
+        "blood-deficiency"
+      ],
+      "key": "A choppy and forceful pulse indicates Blood stasis; a choppy and forceless pulse indicates Blood or Essence deficiency."
+    },
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Pulse diagnosis, choppy pulse"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-ID-0025",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-1",
+    "stem": "A 33-year-old man has had a high fever for two days with profuse sweating, great thirst for cold drinks, a red face, and a red tongue with a dry yellow coating. The pulse is large and forceful, arriving like a surging wave and then departing with less strength. Which pulse quality best describes this finding?",
+    "options": {
+      "A": "Full pulse",
+      "B": "Wiry pulse",
+      "C": "Overflowing pulse",
+      "D": "Long pulse"
+    },
+    "correct": "C",
+    "explanation": "The overflowing (hong, flooding) pulse is large and forceful, arriving with a surge and departing with diminished force, like a wave. It indicates exuberant Heat, classically Heat in the Qi level or Yang Ming, with the four big signs of high fever, profuse sweating, great thirst, and a big pulse. This patient shows exactly that picture.",
+    "distractorExplanations": {
+      "A": "The full pulse is also large and forceful but is equally forceful on arrival and departure and at all three levels, lacking the wave-like surge and fade that define the overflowing pulse; it indicates Excess in general rather than specifically Qi-level Heat.",
+      "B": "The wiry pulse is taut like a guitar string and indicates Liver disharmony or pain; it is not large and wave-like.",
+      "D": "The long pulse extends beyond the normal positions and may be normal when soft; it is defined by length, not by surging force."
+    },
+    "learningObjective": "Differentiate the overflowing pulse from the full, wiry, and long pulses.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "overflowing-pulse",
+      "full-pulse",
+      "qi-level-heat"
+    ],
+    "distinction": {
+      "between": [
+        "overflowing-pulse",
+        "full-pulse"
+      ],
+      "key": "Overflowing surges on arrival and fades on departure like a wave; full is uniformly forceful on arrival and departure at all three levels."
+    },
+    "references": [
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Diagnostic methods, Palpation (surging pulse)"
+      },
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Pulse diagnosis, overflowing pulse"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-ID-0026",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-1",
+    "stem": "A 50-year-old man reports four days of constipation with abdominal fullness and pain that is worse with pressure, foul breath, and irritability. The tongue is red with a thick, dry yellow coating. The pulse is large, long, and equally forceful at the superficial, middle, and deep levels, both on arrival and departure. Which pulse quality best describes this finding?",
+    "options": {
+      "A": "Overflowing pulse",
+      "B": "Full pulse",
+      "C": "Firm pulse",
+      "D": "Tight pulse"
+    },
+    "correct": "B",
+    "explanation": "The full (shi, excess) pulse is large, long, and forceful at all three levels, with equal force on arrival and departure. It indicates an Excess pattern, here Heat accumulating in the Intestines with obstruction. The constipation, abdominal fullness worse with pressure, and thick dry yellow coating confirm Excess Heat.",
+    "distractorExplanations": {
+      "A": "The overflowing pulse is large and forceful but surges on arrival and fades on departure; the stem specifies equal force on arrival and departure at all levels.",
+      "C": "The firm pulse is forceful but confined to the deep level and indicates interior Cold with accumulation; this pulse is forceful at all three levels and the pattern is Heat.",
+      "D": "The tight pulse is taut like a twisted rope and indicates Cold with pain; the Heat signs and the large, uniformly forceful quality identify the full pulse."
+    },
+    "learningObjective": "Identify the full pulse and differentiate it from the overflowing, firm, and tight pulses.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "full-pulse",
+      "overflowing-pulse",
+      "excess-pattern"
+    ],
+    "references": [
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Diagnostic methods, Palpation (excess pulse)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-ID-0027",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-1",
+    "stem": "A 24-year-old patient presents with one day of chills, mild fever, absence of sweating, occipital headache, and generalized body aches. The tongue has a thin white coating. The pulse is floating and tight. Which interpretation of this pulse combination is most appropriate?",
+    "options": {
+      "A": "Exterior Wind-Heat",
+      "B": "Exterior deficiency with Wei Qi failing to consolidate",
+      "C": "Interior Cold with pain",
+      "D": "Exterior Wind-Cold"
+    },
+    "correct": "D",
+    "explanation": "A floating pulse indicates the exterior; a tight pulse indicates Cold. Floating and tight together therefore indicate exterior Wind-Cold. Chills predominating over fever, absence of sweating, occipital headache, body aches, and a thin white coating are the classic Wind-Cold signs that fit this pulse.",
+    "distractorExplanations": {
+      "A": "Exterior Wind-Heat gives a floating and rapid pulse, with fever predominating, sore throat, slight sweating, and a thin yellow coating or red tongue tip.",
+      "B": "Exterior deficiency with Wei Qi failing to consolidate gives a floating but forceless (empty) pulse with spontaneous sweating and aversion to wind; the tight quality and absence of sweating indicate Cold constraining the exterior.",
+      "C": "Interior Cold gives a deep and tight pulse; the floating level places the pathogenic factor in the exterior."
+    },
+    "learningObjective": "Interpret the floating-tight pulse combination as exterior Wind-Cold.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "floating-pulse",
+      "tight-pulse",
+      "wind-cold"
+    ],
+    "distinction": {
+      "between": [
+        "wind-cold",
+        "wind-heat"
+      ],
+      "key": "Floating-tight with no sweating and chills is Wind-Cold; floating-rapid with fever and sore throat is Wind-Heat."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Diagnosis, Palpation (pulse combinations)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-ID-0028",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-1",
+    "stem": "A 63-year-old woman reports chronic low back coldness and pain that improves with warmth, frequent pale urination, cold feet, and a lack of energy. The tongue is pale, swollen, and wet. The pulse is deep, slow, and weak. Which interpretation of this pulse combination is most appropriate?",
+    "options": {
+      "A": "Interior Empty Cold from Yang deficiency",
+      "B": "Interior Full Cold from invasion of Cold",
+      "C": "Interior Dampness obstructing the Yang",
+      "D": "Interior Blood stasis from Cold congealing"
+    },
+    "correct": "A",
+    "explanation": "Deep indicates the interior, slow indicates Cold, and weak (forceless) indicates deficiency. Together they indicate interior Empty Cold, that is Yang deficiency failing to warm the body. Chronic cold low back pain relieved by warmth, pale frequent urination, cold feet, and a pale wet swollen tongue point to Kidney Yang deficiency.",
+    "distractorExplanations": {
+      "B": "Full Cold from invasion gives a deep, slow, but forceful (often tight) pulse with acute severe pain worse with pressure; the forceless pulse and chronic course indicate deficiency.",
+      "C": "Dampness gives a slippery, soggy, or slowed-down pulse with heaviness and a greasy coating; a slow and weak pulse with cold signs indicates Yang deficiency.",
+      "D": "Blood stasis gives a choppy or wiry pulse with fixed stabbing pain and a purple tongue; the pale tongue and forceless pulse rule it out."
+    },
+    "learningObjective": "Interpret the deep-slow-weak pulse combination as interior Empty Cold.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "deep-pulse",
+      "slow-pulse",
+      "weak-pulse",
+      "kidney-yang-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "empty-cold",
+        "full-cold"
+      ],
+      "key": "Deep-slow-weak is Empty Cold (Yang deficiency); deep-slow-forceful or tight is Full Cold."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Diagnosis, Palpation (pulse combinations)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-ID-0029",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-1",
+    "stem": "A 46-year-old man reports dizziness with a heavy head, a bitter taste, chest oppression with sticky yellow sputum, irritability, and restless sleep. The tongue is red with a greasy yellow coating. The pulse is wiry, slippery, and rapid. Which interpretation of this pulse combination is most appropriate?",
+    "options": {
+      "A": "Liver Blood deficiency with internal Wind",
+      "B": "Cold-Phlegm obstructing the chest",
+      "C": "Phlegm-Heat with Liver involvement",
+      "D": "Liver Yin deficiency with Empty Heat"
+    },
+    "correct": "C",
+    "explanation": "Wiry indicates the Liver (or Phlegm and pain), slippery indicates Phlegm, and rapid indicates Heat. The combination indicates Phlegm-Heat with disharmony of the Liver, such as Liver Fire with Phlegm-Heat harassing upward. Dizziness with a heavy head, bitter taste, sticky yellow sputum, irritability, and a greasy yellow coating on a red tongue match this.",
+    "distractorExplanations": {
+      "A": "Liver Blood deficiency gives a thin or choppy pulse with a pale tongue; a slippery and rapid pulse with a greasy yellow coating indicates Phlegm-Heat, not deficiency.",
+      "B": "Cold-Phlegm gives a slippery but slow or slowed-down pulse with a greasy white coating and white sputum; the rapid pulse, yellow coating, and bitter taste indicate Heat.",
+      "D": "Liver Yin deficiency with Empty Heat gives a wiry and thin, rapid pulse with a red peeled tongue; the slippery quality and greasy coating indicate Phlegm, an Excess."
+    },
+    "learningObjective": "Interpret the wiry-slippery-rapid pulse combination as Phlegm-Heat with Liver disharmony.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "wiry-pulse",
+      "slippery-pulse",
+      "rapid-pulse",
+      "phlegm-heat"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Pulse diagnosis, combined pulse qualities"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-ID-0030",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-1",
+    "stem": "A 37-year-old woman reports spontaneous daytime sweating, aversion to wind, frequent colds, fatigue, and shortness of breath on exertion. The tongue is pale with a thin white coating. The pulse is floating and empty, forceless at the superficial level and vanishing on deeper pressure. Which interpretation of this pulse combination is most appropriate?",
+    "options": {
+      "A": "Exterior Wind-Cold constraining the surface",
+      "B": "Lung Qi deficiency with Wei Qi failing to consolidate the exterior",
+      "C": "Yin deficiency with Yang floating upward",
+      "D": "Heat in the Lung injuring the Body Fluids"
+    },
+    "correct": "B",
+    "explanation": "A floating pulse ordinarily suggests the exterior, but when it is also empty (forceless and vanishing on pressure) it indicates deficiency rather than invasion: Qi is too weak to hold the pulse in and the Yang floats. With spontaneous sweating, aversion to wind, frequent colds, fatigue, and a pale tongue, this is Lung Qi deficiency with Wei Qi failing to consolidate the exterior.",
+    "distractorExplanations": {
+      "A": "Exterior Wind-Cold gives a floating and tight (forceful) pulse with acute chills, no sweating, and body aches; chronic spontaneous sweating with a forceless pulse indicates deficiency.",
+      "C": "Yin deficiency with floating Yang gives a floating-empty pulse that is also rapid or thin, with a red peeled tongue, night sweats, and heat sensations; the pale tongue and daytime sweating point to Qi deficiency.",
+      "D": "Lung Heat gives a rapid and forceful pulse with cough, yellow sputum, and a red tongue, none of which are present."
+    },
+    "learningObjective": "Interpret the floating-empty pulse combination as Qi deficiency with failure to consolidate the exterior.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "floating-pulse",
+      "empty-pulse",
+      "lung-qi-deficiency",
+      "wei-qi"
+    ],
+    "distinction": {
+      "between": [
+        "lung-qi-deficiency",
+        "wind-cold"
+      ],
+      "key": "Floating-empty with spontaneous sweating is exterior deficiency (Lung Qi); floating-tight with no sweating is exterior Excess (Wind-Cold)."
+    },
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Pulse diagnosis, combined pulse qualities"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-ID-0031",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-1",
+    "stem": "A 70-year-old man with a long chronic illness presents with a flushed red face, a sensation of heat, thirst, and agitation. However, he wants only small sips of warm drinks, his limbs are cold, and he prefers to be covered. The tongue is pale. The pulse is deep, slow, and forceless. Which approach to the conflicting findings is most appropriate?",
+    "options": {
+      "A": "Follow the symptoms and treat Full Heat, because the red face and thirst are the chief complaints",
+      "B": "Treat Heat and Cold simultaneously, because the findings indicate a mixed pattern",
+      "C": "Follow the symptoms and treat Empty Heat from Yin deficiency",
+      "D": "Follow the pulse and treat interior Cold, because the heat signs are deceptive"
+    },
+    "correct": "D",
+    "explanation": "When the pulse and symptoms conflict, the practitioner must decide which reflects the true nature of the disease. Here the heat signs are false: the thirst is for small sips of warm drinks, the limbs are cold, the patient seeks covering, and the tongue is pale. The deep, slow, forceless pulse reveals the true condition, Yang deficiency with Cold in the interior driving deficient Yang to the surface (True Cold with False Heat). The pulse is followed and the symptoms disregarded.",
+    "distractorExplanations": {
+      "A": "Treating Full Heat would further damage Yang. The red face and thirst are the false exterior appearance of True Cold; Full Heat would show a rapid, forceful pulse and a red tongue with desire for cold drinks.",
+      "B": "This is a true-false presentation produced by a single mechanism, not a genuine mixed Heat-Cold pattern; treating both would still clear a Heat that does not exist.",
+      "C": "Empty Heat from Yin deficiency would show a thin, rapid pulse and a red peeled tongue; the slow forceless pulse and pale tongue exclude it."
+    },
+    "learningObjective": "Decide when to follow the pulse rather than the symptoms in a True Cold with False Heat presentation.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "evaluation",
+    "vignette": true,
+    "concepts": [
+      "pulse-symptom-contradiction",
+      "true-cold-false-heat",
+      "deep-pulse",
+      "slow-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "true-cold-false-heat",
+        "full-heat"
+      ],
+      "key": "A forceless slow pulse with a pale tongue and thirst for warm sips reveals that the red face and heat sensation are false; the pulse is followed."
+    },
+    "references": [
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Palpation, following the pulse or the symptoms"
+      },
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Pulse diagnosis, pulse and symptoms in contradiction"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-ID-0032",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-1",
+    "stem": "A 40-year-old man presents one day after a large, heavy meal with marked epigastric and abdominal distension, pain that is worse with pressure, sour foul belching, and no bowel movement. The tongue has a thick greasy coating. Unexpectedly, the pulse is deep and thin rather than forceful. Which approach is most appropriate?",
+    "options": {
+      "A": "Follow the symptoms and treat the Excess, because the obstruction is suppressing the pulse",
+      "B": "Follow the pulse and treat deficiency of Qi and Blood",
+      "C": "Follow the pulse and treat Yang deficiency with Cold accumulation",
+      "D": "Treat deficiency first and the obstruction afterward"
+    },
+    "correct": "A",
+    "explanation": "When severe accumulation of Food or stagnation of Qi obstructs the interior, Qi and Blood cannot reach the vessels freely and the pulse may appear deep and thin despite an Excess condition. The acute onset after overeating, distension and pain worse with pressure, foul belching, constipation, and a thick greasy coating all identify Retention of Food. In this case the symptoms are followed and the pulse disregarded.",
+    "distractorExplanations": {
+      "B": "Qi and Blood deficiency would show a chronic course, pain relieved by pressure, fatigue, and a pale tongue with a thin coating; the acute Excess findings exclude it.",
+      "C": "Yang deficiency with Cold would present with chronic cold signs, dull pain liking warmth and pressure, and a pale wet tongue, not acute distension after a heavy meal with a thick greasy coating.",
+      "D": "There is no deficiency to treat first; the pulse is suppressed by obstruction, and treating a supposed deficiency would aggravate the Food retention."
+    },
+    "learningObjective": "Decide when to follow the symptoms rather than the pulse when Excess obstruction masks the pulse.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "evaluation",
+    "vignette": true,
+    "concepts": [
+      "pulse-symptom-contradiction",
+      "retention-of-food",
+      "deep-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "retention-of-food",
+        "qi-and-blood-deficiency"
+      ],
+      "key": "Acute Excess findings (pain worse with pressure, foul belching, thick greasy coating) override a deep thin pulse that is suppressed by obstruction."
+    },
+    "references": [
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Palpation, following the pulse or the symptoms"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (medium)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-ID-0033",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-1",
+    "stem": "A 59-year-old woman reports several years of dull low back ache, weak knees, nocturia, and tinnitus. The pulse is of normal rate and is adequate at both cun and both guan positions, but at both chi positions it is deep and forceless and nearly disappears on heavy pressure. Which interpretation of the pulse is most appropriate?",
+    "options": {
+      "A": "Heat in the Lower Burner consuming the Body Fluids",
+      "B": "Kidney deficiency with weakening of the root of the pulse",
+      "C": "Spleen Qi deficiency failing to generate Blood",
+      "D": "Liver Qi stagnation obstructing the Lower Burner"
+    },
+    "correct": "B",
+    "explanation": "The chi positions on both wrists correspond to the Kidney, and a pulse with root remains perceptible at the chi positions under heavy pressure. A pulse that is deep, forceless, and nearly absent at both chi positions while the other positions are adequate indicates Kidney deficiency with a weakening root. Chronic low back ache, weak knees, nocturia, and tinnitus are Kidney deficiency symptoms that confirm the reading.",
+    "distractorExplanations": {
+      "A": "Heat in the Lower Burner gives a rapid, often slippery or forceful pulse at the chi positions with burning urination or dark urine; a forceless chi pulse indicates deficiency.",
+      "C": "Spleen Qi deficiency would be reflected at the right guan position with digestive symptoms, fatigue, and loose stools; the finding is confined to the chi positions.",
+      "D": "Liver Qi stagnation gives a wiry pulse, chiefly at the left guan, with distension and irritability; a forceless chi pulse is a deficiency, not a stagnation, sign."
+    },
+    "learningObjective": "Interpret a forceless chi position as Kidney deficiency and loss of root.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "pulse-positions",
+      "pulse-root",
+      "kidney-deficiency"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Pulse diagnosis, pulse positions and the normal pulse"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-ID-0034",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-2",
+    "stem": "A 48-year-old patient reports chronic abdominal distension and dull pain. On palpation the abdomen is soft, and the patient says the discomfort feels better when the practitioner presses on it and when a warm hand rests on the area. Which interpretation of these palpation findings is most appropriate?",
+    "options": {
+      "A": "A deficiency pattern with Cold in the Middle Burner",
+      "B": "An Excess pattern with accumulation of Food",
+      "C": "A Heat pattern in the Intestines",
+      "D": "A pattern of Qi stagnation in the Liver and Stomach"
+    },
+    "correct": "A",
+    "explanation": "Abdominal pain or distension that is relieved by pressure indicates deficiency, whereas pain aggravated by pressure indicates Excess. A soft abdomen whose discomfort also improves with warmth indicates Cold of the deficiency type. Together these palpation findings point to deficiency Cold of the Middle Burner, such as Spleen Yang deficiency.",
+    "distractorExplanations": {
+      "B": "Accumulation of Food is an Excess pattern in which the abdomen is hard and distended and pressure aggravates the pain; the relief with pressure excludes Excess.",
+      "C": "Heat in the Intestines produces a hot abdomen that resists and resents pressure, with constipation or burning diarrhea; the preference for warmth excludes Heat.",
+      "D": "Qi stagnation produces distension that moves about and is worse with pressure, often relieved by belching or passing gas rather than by pressing and warming the area."
+    },
+    "learningObjective": "Interpret the response of abdominal pain to pressure and warmth as deficiency or Excess, Cold or Heat.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": true,
+    "concepts": [
+      "abdominal-palpation",
+      "deficiency-cold",
+      "spleen-yang-deficiency"
+    ],
+    "references": [
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Diagnostic methods, Palpation (palpation of the epigastrium and abdomen)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-ID-0035",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-2",
+    "stem": "During abdominal palpation of a 54-year-old man, the whole abdomen feels distinctly cold to the practitioner's hand, especially below the umbilicus, and the patient reports that he habitually uses a hot water bottle on his belly. Which interpretation is most appropriate?",
+    "options": {
+      "A": "Heat accumulating in the Stomach and Intestines",
+      "B": "Dampness obstructing the Middle Burner",
+      "C": "Yang deficiency with interior Cold",
+      "D": "Blood stasis in the Lower Burner"
+    },
+    "correct": "C",
+    "explanation": "The temperature of the abdomen reflects the state of Yang. An abdomen that feels cold on palpation, with the patient seeking warmth, indicates interior Cold, most commonly from deficiency of Yang; coldness below the umbilicus points particularly to Kidney Yang (Ming Men). A hot abdomen, by contrast, indicates interior Heat.",
+    "distractorExplanations": {
+      "A": "Heat in the Stomach and Intestines makes the abdomen feel hot on palpation and the patient avoids warmth; a cold abdomen excludes Heat.",
+      "B": "Dampness is shown by heaviness, a greasy coating, and an abdomen that may feel full or doughy, but Dampness does not itself produce a markedly cold abdomen with a craving for heat; that is the sign of Yang deficiency.",
+      "D": "Blood stasis in the Lower Burner is shown by a fixed, hard, tender mass or stabbing pain with a purple tongue; temperature is not its distinguishing sign."
+    },
+    "learningObjective": "Interpret abdominal temperature on palpation as a sign of interior Cold or Heat.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": true,
+    "concepts": [
+      "abdominal-palpation",
+      "kidney-yang-deficiency",
+      "interior-cold"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Palpation of the abdomen"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-ID-0036",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-2",
+    "stem": "A 51-year-old woman reports lower abdominal pain. On palpation, a soft mass is found that moves when pushed, is sometimes present and sometimes absent, and is associated with pain that shifts in location and improves after passing gas. Which interpretation of this mass is most appropriate?",
+    "options": {
+      "A": "Blood stasis forming a fixed accumulation",
+      "B": "Qi stagnation forming a movable gathering",
+      "C": "Phlegm congealing into a hard nodule",
+      "D": "Cold congealing into a firm accumulation"
+    },
+    "correct": "B",
+    "explanation": "Abdominal masses are differentiated by palpation. A mass that is soft, movable, comes and goes, and is accompanied by pain of shifting location belongs to the Qi level and indicates Qi stagnation (traditionally a jia or ju gathering). A mass that is hard, fixed, immovable, and constantly present with fixed pain belongs to the Blood level and indicates Blood stasis (zheng or ji accumulation).",
+    "distractorExplanations": {
+      "A": "Blood stasis produces a hard, fixed, immovable mass with constant stabbing pain of fixed location; a movable, intermittent mass with shifting pain is a Qi-level sign.",
+      "C": "Phlegm nodules are typically firm, rubbery lumps under the skin or in the neck and do not come and go with the passage of gas; the shifting pain identifies Qi stagnation.",
+      "D": "Cold congealing produces a firm accumulation with cold pain relieved by warmth and a deep, tight, or firm pulse; the soft, movable, intermittent mass is characteristic of Qi stagnation."
+    },
+    "learningObjective": "Differentiate abdominal masses of Qi stagnation from those of Blood stasis by palpation.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "abdominal-palpation",
+      "qi-stagnation",
+      "blood-stasis",
+      "abdominal-masses"
+    ],
+    "distinction": {
+      "between": [
+        "qi-stagnation",
+        "blood-stasis"
+      ],
+      "key": "A soft, movable, intermittent mass with shifting pain is Qi stagnation; a hard, fixed, constant mass with fixed pain is Blood stasis."
+    },
+    "references": [
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Diagnostic methods, Palpation (palpation of the epigastrium and abdomen)"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Palpation of the abdomen"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-ID-0037",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-2",
+    "stem": "A 36-year-old man reports epigastric fullness and nausea since a late, heavy dinner. On palpation the epigastrium is firm and distended, and pressing it causes pain and triggers foul, sour belching. Which interpretation of these palpation findings is most appropriate?",
+    "options": {
+      "A": "Stomach Qi deficiency with failure of descending",
+      "B": "Stomach Yin deficiency with dryness",
+      "C": "Cold invading the Stomach",
+      "D": "Retention of Food in the Stomach"
+    },
+    "correct": "D",
+    "explanation": "Epigastric palpation differentiates Excess from deficiency. A firm, distended epigastrium that is painful on pressure indicates Excess; when combined with foul sour belching after a heavy meal, it indicates Retention of Food in the Stomach. A soft epigastrium with a subjective sense of fullness but comfort on pressure would instead indicate deficiency.",
+    "distractorExplanations": {
+      "A": "Stomach Qi deficiency gives a soft epigastrium that feels better with pressure, with dull discomfort, poor appetite, and fatigue; a firm epigastrium painful on pressure is Excess.",
+      "B": "Stomach Yin deficiency gives dry mouth, a red peeled tongue, and a mild hunger without desire to eat, with no firmness or tenderness on palpation.",
+      "C": "Cold invading the Stomach gives acute cold epigastric pain relieved by warmth, with vomiting of clear fluid; sour foul belching after overeating points to Food retention."
+    },
+    "learningObjective": "Interpret epigastric firmness and tenderness with foul belching as Retention of Food.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "epigastric-palpation",
+      "retention-of-food",
+      "stomach-qi-deficiency"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Palpation of the epigastrium"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-ID-0038",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-2",
+    "stem": "A 43-year-old woman reports distension and discomfort under the ribs on both sides, worse with emotional stress, with frequent sighing and a wiry pulse. On palpation there is resistance and tenderness under the costal margins, with no mass. Which interpretation of the subcostal finding is most appropriate?",
+    "options": {
+      "A": "Liver Qi stagnation obstructing the hypochondrium",
+      "B": "Liver Blood deficiency failing to nourish the sinews",
+      "C": "Phlegm-Fluids accumulating in the chest",
+      "D": "Spleen Qi deficiency with sinking of Qi"
+    },
+    "correct": "A",
+    "explanation": "The hypochondriac region beneath the costal margins is traversed by the Liver and Gallbladder channels. Subcostal resistance and tenderness on palpation, with distension that worsens with stress, sighing, and a wiry pulse, indicate Liver Qi stagnation; the same finding appears in Shao Yang patterns. A mass in this region would raise Blood stasis instead.",
+    "distractorExplanations": {
+      "B": "Liver Blood deficiency gives dizziness, blurred vision, numbness, and a thin pulse with a pale tongue, and does not produce subcostal resistance or distension worsened by stress.",
+      "C": "Phlegm-Fluids in the chest give cough with thin sputum, chest oppression, and a slippery or wiry pulse, with fullness in the chest rather than tender resistance under the ribs that varies with emotion.",
+      "D": "Spleen Qi sinking gives a bearing-down sensation, prolapse, and fatigue with a weak pulse; it does not produce hypochondrial resistance or a wiry pulse."
+    },
+    "learningObjective": "Interpret subcostal resistance and tenderness as a sign of Liver Qi stagnation.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "abdominal-palpation",
+      "liver-qi-stagnation",
+      "hypochondrium"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Palpation of the hypochondrium and abdomen"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-ID-0039",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-2",
+    "stem": "On palpation of a 62-year-old man's abdomen, the area below the umbilicus is soft, lacks tone and resilience, and feels empty, almost sinking under light pressure, while the upper abdomen has normal tone. Which interpretation is most appropriate?",
+    "options": {
+      "A": "Excess in the Lower Burner from Damp-Heat",
+      "B": "Deficiency of the Kidney and the Lower Burner",
+      "C": "Stagnation of Qi in the Lower Burner",
+      "D": "Accumulation of Cold in the Lower Burner"
+    },
+    "correct": "B",
+    "explanation": "The area below the umbilicus is the seat of the Kidney, Yuan Qi, and the lower Dan Tian. A lower abdomen that is soft, weak, and lacking resilience on palpation indicates deficiency of the Kidney and Lower Burner, often with deficient Yuan Qi. A firm, full, or tender lower abdomen would indicate Excess.",
+    "distractorExplanations": {
+      "A": "Damp-Heat in the Lower Burner is an Excess pattern that gives a full, tender, or hot lower abdomen with urinary or gynecological symptoms, not a weak, empty abdomen.",
+      "C": "Qi stagnation produces distension and resistance that may move with pressure or passing gas; a soft, sunken, toneless lower abdomen is a deficiency sign.",
+      "D": "Cold accumulation produces a cold, tight, or firm lower abdomen with pain relieved by warmth; lack of tone and resilience indicates deficiency rather than accumulation."
+    },
+    "learningObjective": "Interpret weakness of the lower abdomen below the umbilicus as Kidney and Lower Burner deficiency.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": true,
+    "concepts": [
+      "abdominal-palpation",
+      "kidney-deficiency",
+      "lower-burner"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Palpation of the abdomen"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-ID-0040",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-2",
+    "stem": "A 57-year-old man reports a chronic cough. On palpation, the practitioner finds marked tenderness at the Back-Shu (Transporting) point area of the Lung on both sides and at the Front-Mu (Alarm) point area of the Lung on the chest, with no tenderness at the other Back-Shu points. Which interpretation of this finding is most appropriate?",
+    "options": {
+      "A": "A local channel obstruction confined to the back and chest muscles",
+      "B": "A disorder of the Heart, since the chest is involved",
+      "C": "A disorder of the Lung reflected at its Back-Shu and Front-Mu points",
+      "D": "A disorder of the Bladder, since the Back-Shu points lie on its channel"
+    },
+    "correct": "C",
+    "explanation": "The Back-Shu points on the back and the Front-Mu points on the chest and abdomen are where the Qi of each Zang Fu organ gathers, so tenderness, nodules, or changes in tissue at these points on palpation signal disorder of the corresponding organ. Tenderness at both the Back-Shu and Front-Mu of the Lung in a patient with chronic cough indicates a Lung disorder.",
+    "distractorExplanations": {
+      "A": "Tenderness confined precisely to the Lung Back-Shu and Front-Mu areas, in a patient with a Lung symptom, is an organ reflection rather than a purely local muscular problem; local obstruction would not select both the back and chest points of the same organ.",
+      "B": "The Heart has its own Back-Shu and Front-Mu points; tenderness at the Lung points reflects the Lung, even though both organs lie in the chest.",
+      "D": "Although the Back-Shu points lie on the Bladder channel, each one reflects the organ for which it is named; tenderness there is a diagnostic sign for that organ, not for the Bladder."
+    },
+    "learningObjective": "Interpret tenderness at Back-Shu and Front-Mu point areas as a diagnostic sign of the corresponding organ.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": true,
+    "concepts": [
+      "channel-palpation",
+      "back-shu-points",
+      "front-mu-points",
+      "lung"
+    ],
+    "references": [
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Diagnostic methods, Palpation (palpation of acupuncture points)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-ID-0041",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-2",
+    "stem": "A 66-year-old woman reports weakness and aching along the front of the lower leg for several months. On palpation along the Stomach channel on the leg, the skin feels cool, the muscle is flaccid and the tissue seems sunken and lacking in tone, with no nodules or sharp tenderness. Which interpretation is most appropriate?",
+    "options": {
+      "A": "Heat in the channel from Wind-Heat invasion",
+      "B": "Blood stasis obstructing the channel",
+      "C": "Damp-Heat pouring downward into the channel",
+      "D": "Deficiency of Qi and Blood in the channel"
+    },
+    "correct": "D",
+    "explanation": "Channel palpation assesses temperature, texture, and tissue quality. Coolness, flaccidity, and sunken, toneless tissue along the course of a channel indicate deficiency of Qi and Blood (or Yang) in that channel, with insufficient Qi to warm and fill the tissues. Excess conditions show the opposite: heat, swelling, hardness, nodules, or sharp tenderness.",
+    "distractorExplanations": {
+      "A": "Heat in a channel makes the skin warm or hot to touch, often with redness or swelling; coolness excludes Heat.",
+      "B": "Blood stasis in a channel is shown by fixed sharp tenderness, nodules, cord-like thickening, or dark discoloration; the absence of nodules and tenderness with soft, sunken tissue indicates deficiency.",
+      "C": "Damp-Heat pouring downward produces swelling, heaviness, and heat in the leg with a yellow greasy coating; cool, flaccid tissue is the opposite finding."
+    },
+    "learningObjective": "Interpret coolness and flaccid, sunken tissue along a channel as deficiency of the channel.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "channel-palpation",
+      "channel-deficiency",
+      "qi-and-blood-deficiency"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Palpation of the channels"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-ID-0042",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-2",
+    "stem": "A 64-year-old woman has swelling of both lower legs. When the practitioner presses a thumb into the swelling over the shin for several seconds, a depression remains after the thumb is removed and only slowly fills in. Which interpretation of this finding is most appropriate?",
+    "options": {
+      "A": "Water edema from Yang deficiency failing to transform fluids",
+      "B": "Qi edema from stagnation of Qi",
+      "C": "Phlegm accumulating in the muscles",
+      "D": "Wind-Water with Lung Qi failing to disperse"
+    },
+    "correct": "A",
+    "explanation": "Pitting edema, in which a depression remains after pressure and refills slowly, indicates accumulation of water in the tissues (water edema, shui zhong), most commonly from Spleen and Kidney Yang deficiency failing to transform and transport fluids, especially when it affects the lower legs in a chronic course. Non-pitting swelling that springs back at once indicates Qi edema (qi zhong) from Qi stagnation, or Phlegm.",
+    "distractorExplanations": {
+      "B": "Qi edema from Qi stagnation is non-pitting: the swelling rebounds immediately when pressure is released and often varies with emotion or time of day.",
+      "C": "Phlegm in the muscles forms localized firm, non-pitting swellings or nodules rather than diffuse pitting edema of both legs.",
+      "D": "Wind-Water is an acute pattern beginning in the face and eyelids with exterior symptoms; chronic bilateral pitting edema of the lower legs indicates Yang deficiency rather than Wind invasion."
+    },
+    "learningObjective": "Differentiate pitting edema (water edema) from non-pitting edema (Qi edema) on palpation.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": true,
+    "concepts": [
+      "skin-palpation",
+      "pitting-edema",
+      "yang-deficiency",
+      "qi-edema"
+    ],
+    "distinction": {
+      "between": [
+        "water-edema",
+        "qi-edema"
+      ],
+      "key": "Pitting that slowly refills is water edema (Yang deficiency); immediate rebound is Qi edema (Qi stagnation)."
+    },
+    "references": [
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Palpation of the skin"
+      },
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Palpation of the skin"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-ID-0043",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-2",
+    "stem": "A 45-year-old patient with a six-week history of afternoon fever has skin that feels warm on first touch. When the practitioner's hand rests on the skin for a longer period, the heat becomes more pronounced rather than fading, and the patient has night sweats and a red tongue with little coating. Which interpretation is most appropriate?",
+    "options": {
+      "A": "Heat in the exterior from Wind-Heat invasion",
+      "B": "Heat in the Qi level from Yang Ming Excess",
+      "C": "Dampness trapping Heat in the muscles",
+      "D": "Heat in the interior from Yin deficiency steaming outward"
+    },
+    "correct": "D",
+    "explanation": "Palpation of skin temperature distinguishes the depth of Heat. Heat that is strongest on initial touch and lessens with sustained pressure is in the exterior, whereas heat that increases the longer the hand stays on the skin comes from the interior, the Heat steaming out from the deep level. Combined with a six-week afternoon fever, night sweats, and a red tongue with little coating, this indicates Empty Heat from Yin deficiency (bone-steaming heat).",
+    "distractorExplanations": {
+      "A": "Exterior Wind-Heat gives acute fever with aversion to wind, and the skin heat is strongest on first touch and diminishes with sustained pressure; a six-week course with increasing heat on sustained touch indicates interior Heat.",
+      "B": "Yang Ming Excess Heat gives high fever, profuse sweating, great thirst, and a dry yellow coating with an overflowing pulse; a red tongue with little coating and night sweats indicate deficiency Heat.",
+      "C": "Dampness trapping Heat gives a lingering low fever with heaviness, a greasy coating, and skin that may feel warm but moist and sticky; the peeled red tongue and night sweats point to Yin deficiency."
+    },
+    "learningObjective": "Interpret the change in skin heat with sustained palpation to localize Heat to the exterior or interior.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "skin-palpation",
+      "yin-deficiency",
+      "empty-heat",
+      "exterior-interior"
+    ],
+    "distinction": {
+      "between": [
+        "interior-heat",
+        "exterior-heat"
+      ],
+      "key": "Skin heat that intensifies with sustained touch is interior Heat; heat that fades with sustained touch is exterior Heat."
+    },
+    "references": [
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Palpation of the skin"
+      },
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Palpation of the skin"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-ID-0044",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-2",
+    "stem": "A 30-year-old man is seen on the fourth day of a febrile illness. His hands and feet are cold to the touch up to the wrists and ankles, yet his chest and abdomen feel hot, he is thirsty for cold drinks, restless, constipated, with scanty dark urine. The tongue is red with a dry yellow coating. The pulse is deep, rapid, and forceful. Which interpretation of the cold limbs is most appropriate?",
+    "options": {
+      "A": "Yang deficiency failing to warm the extremities",
+      "B": "Exterior Cold constricting the channels of the limbs",
+      "C": "Interior Heat trapping Yang so that it fails to reach the limbs",
+      "D": "Blood deficiency failing to fill the vessels of the limbs"
+    },
+    "correct": "C",
+    "explanation": "Cold limbs with a warm or hot trunk is a key palpatory distinction. When Yang is deficient, the whole body including the trunk is cold. When the limbs are cold but the chest and abdomen are hot, with thirst for cold drinks, constipation, dark urine, a red dry tongue, and a deep, rapid, forceful pulse, interior Heat has trapped the Yang inside so it cannot reach the extremities (True Heat with False Cold, a Heat jue). The trunk temperature and the pulse reveal the true nature.",
+    "distractorExplanations": {
+      "A": "Yang deficiency produces coldness of the whole body including the trunk, with a pale tongue and a slow, forceless pulse; the hot trunk, red tongue, and forceful rapid pulse exclude it.",
+      "B": "Exterior Cold gives chills over the whole body with a floating tight pulse and a thin white coating; the deep pulse and interior Heat signs exclude an exterior pattern.",
+      "D": "Blood deficiency gives cold hands with a pale complexion, pale tongue, and thin pulse; the Heat signs and forceful rapid pulse rule it out."
+    },
+    "learningObjective": "Differentiate cold limbs from Yang deficiency from cold limbs due to interior Heat trapping Yang by palpating the trunk and limbs.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "limb-palpation",
+      "true-heat-false-cold",
+      "cold-limbs",
+      "yang-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "true-heat-false-cold",
+        "yang-deficiency"
+      ],
+      "key": "Cold limbs with a hot trunk and a forceful rapid pulse is Heat trapping Yang; cold limbs with a cold trunk and a forceless slow pulse is Yang deficiency."
+    },
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Palpation of the limbs"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Diagnostic methods, Palpation (palpation of the skin and limbs)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-ID-0045",
+    "domain": "I",
+    "subdomain": "I-D",
+    "task": "I-D-2",
+    "stem": "A practitioner compares the temperature of a feverish patient's forehead with that of the palms by touch. The forehead is distinctly hotter than the palms. According to the classical palpation rule, this finding most commonly indicates which of the following?",
+    "options": {
+      "A": "Heat in the interior from Yin deficiency",
+      "B": "Heat in the Blood level",
+      "C": "Heat from retention of Food in the Stomach",
+      "D": "Heat in the exterior from invasion of a pathogenic factor"
+    },
+    "correct": "D",
+    "explanation": "Comparing the forehead with the palms helps distinguish exterior from interior Heat. When the forehead is hotter than the palms, the Heat is in the exterior, as in Wind-Heat invasion. When the palms are hotter than the forehead, the Heat is in the interior, typically from Yin deficiency (five-palm heat). The forehead reflects the exterior and the palms the interior.",
+    "distractorExplanations": {
+      "A": "Interior Heat from Yin deficiency shows palms hotter than the forehead, with five-palm heat worse in the evening.",
+      "B": "Heat in the Blood level shows high fever at night, bleeding, a deep-red tongue, and a rapid pulse; the forehead-versus-palm comparison is a rule for exterior versus interior Heat, and it points to the exterior here.",
+      "C": "Retention of Food gives a hot, distended epigastrium with foul belching and a thick greasy coating; it is an interior condition and would not make the forehead hotter than the palms."
+    },
+    "learningObjective": "Apply the forehead-versus-palm temperature comparison to differentiate exterior from interior Heat.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "skin-palpation",
+      "exterior-heat",
+      "interior-heat",
+      "forehead-palm-comparison"
+    ],
+    "distinction": {
+      "between": [
+        "exterior-heat",
+        "interior-heat"
+      ],
+      "key": "Forehead hotter than palms is exterior Heat; palms hotter than forehead is interior Heat."
+    },
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Palpation of the skin (forehead and palms)"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Palpation of the skin"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  }
+]

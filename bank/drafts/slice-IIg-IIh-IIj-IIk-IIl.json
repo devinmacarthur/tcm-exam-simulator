@@ -6,7 +6,12 @@
     "task": "II-1-g",
     "theory": "Six Stages",
     "stem": "In Six Stages (Liu Jing) identification, which stage is described as a half-exterior, half-interior pattern in which the pathogenic factor is lodged between the exterior and the interior?",
-    "options": { "A": "Tai Yang", "B": "Yang Ming", "C": "Shao Yang", "D": "Tai Yin" },
+    "options": {
+      "A": "Tai Yang",
+      "B": "Yang Ming",
+      "C": "Shao Yang",
+      "D": "Tai Yin"
+    },
     "correct": "C",
     "explanation": "Shao Yang is the pivot (Shu) between the exterior and the interior. The pathogenic factor is neither fully on the surface nor fully in the interior, which produces the characteristic alternation of chills (pathogen prevailing) and fever (upright Qi prevailing), together with bitter taste, dry throat, hypochondrial fullness and a wiry pulse.",
     "distractorExplanations": {
@@ -18,11 +23,77 @@
     "difficulty": "foundational",
     "cognitiveLevel": "recall",
     "vignette": false,
-    "concepts": ["six-stages", "shao-yang-stage", "half-exterior-half-interior"],
+    "concepts": [
+      "six-stages",
+      "shao-yang-stage",
+      "half-exterior-half-interior"
+    ],
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to the Six Stages" },
-      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of the six meridians" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Six Stages"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of the six meridians"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIg-0002",
@@ -48,12 +119,85 @@
     "difficulty": "foundational",
     "cognitiveLevel": "comprehension",
     "vignette": false,
-    "concepts": ["tai-yang-cold-damage", "tai-yang-wind-strike", "six-stages", "tight-pulse"],
-    "distinction": { "between": ["tai-yang-cold-damage", "tai-yang-wind-strike"], "key": "Cold-damage has no sweating with a floating-tight pulse; Wind-strike has spontaneous sweating with a floating-moderate pulse." },
+    "concepts": [
+      "tai-yang-cold-damage",
+      "tai-yang-wind-strike",
+      "six-stages",
+      "tight-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "tai-yang-cold-damage",
+        "tai-yang-wind-strike"
+      ],
+      "key": "Cold-damage has no sweating with a floating-tight pulse; Wind-strike has spontaneous sweating with a floating-moderate pulse."
+    },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to the Six Stages, Tai Yang stage" },
-      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Taiyang syndromes" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Six Stages, Tai Yang stage"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Taiyang syndromes"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIg-0003",
@@ -62,7 +206,12 @@
     "task": "II-1-g",
     "theory": "Six Stages",
     "stem": "A 29-year-old woman has had fever and aversion to cold for three days after being caught in cold weather. She is thirsty but vomits water soon after drinking, her urination is scanty and difficult, and she feels fullness below the umbilicus. The tongue has a thin white coating. The pulse is floating. Which of the following is the most appropriate Six Stages diagnosis?",
-    "options": { "A": "Tai Yang channel pattern", "B": "Yang Ming organ pattern", "C": "Tai Yin pattern", "D": "Tai Yang organ pattern" },
+    "options": {
+      "A": "Tai Yang channel pattern",
+      "B": "Yang Ming organ pattern",
+      "C": "Tai Yin pattern",
+      "D": "Tai Yang organ pattern"
+    },
     "correct": "D",
     "explanation": "This is the Tai Yang organ (Fu) pattern of water retention. The exterior Cold has followed the channel into the Bladder, the Fu of Tai Yang, and impaired its Qi transformation, so water accumulates: difficult, scanty urination and fullness below the umbilicus. Thirst with vomiting as soon as water is drunk (water rebellion) is the hallmark, because the fluids cannot be transformed. The persisting fever, aversion to cold and floating pulse show the exterior has not yet been cleared.",
     "distractorExplanations": {
@@ -74,12 +223,85 @@
     "difficulty": "advanced",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["tai-yang-organ-pattern", "tai-yang-channel-pattern", "six-stages", "water-retention"],
-    "distinction": { "between": ["tai-yang-organ-pattern", "tai-yang-channel-pattern"], "key": "Difficult urination, lower abdominal fullness and thirst with vomiting of water on top of exterior signs indicate the Bladder (Fu) is involved." },
+    "concepts": [
+      "tai-yang-organ-pattern",
+      "tai-yang-channel-pattern",
+      "six-stages",
+      "water-retention"
+    ],
+    "distinction": {
+      "between": [
+        "tai-yang-organ-pattern",
+        "tai-yang-channel-pattern"
+      ],
+      "key": "Difficult urination, lower abdominal fullness and thirst with vomiting of water on top of exterior signs indicate the Bladder (Fu) is involved."
+    },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to the Six Stages, Tai Yang organ pattern" },
-      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Taiyang fu-organ syndrome" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Six Stages, Tai Yang organ pattern"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Taiyang fu-organ syndrome"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIg-0004",
@@ -88,7 +310,12 @@
     "task": "II-1-g",
     "theory": "Six Stages",
     "stem": "A 41-year-old man developed fever and chills four days ago. He now has a high fever with aversion to heat, profuse sweating, intense thirst for cold drinks, a red face, and irritability. There is no abdominal pain and his bowels move daily. The tongue is red with a dry yellow coating. The pulse is overflowing (flooding) and rapid. Which Six Stages pattern is most consistent with these findings?",
-    "options": { "A": "Tai Yang Wind-strike", "B": "Yang Ming channel pattern", "C": "Yang Ming organ pattern", "D": "Shao Yang pattern" },
+    "options": {
+      "A": "Tai Yang Wind-strike",
+      "B": "Yang Ming channel pattern",
+      "C": "Yang Ming organ pattern",
+      "D": "Shao Yang pattern"
+    },
     "correct": "B",
     "explanation": "The 'four bigs' of the Yang Ming channel pattern are present: big fever, big sweating, big thirst and a big (overflowing) pulse. Heat has moved fully into the interior, so aversion to cold has been replaced by aversion to heat, the face is red and the tongue is red with a dry yellow coating. The absence of constipation, abdominal pain or fullness keeps this at the channel (Jing) rather than the organ (Fu) level.",
     "distractorExplanations": {
@@ -100,12 +327,85 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["yang-ming-channel-pattern", "yang-ming-organ-pattern", "four-bigs", "overflowing-pulse"],
-    "distinction": { "between": ["yang-ming-channel-pattern", "yang-ming-organ-pattern"], "key": "The channel pattern has the four bigs without constipation or abdominal fullness; the organ pattern adds dry stool and abdominal fullness that resists pressure." },
+    "concepts": [
+      "yang-ming-channel-pattern",
+      "yang-ming-organ-pattern",
+      "four-bigs",
+      "overflowing-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "yang-ming-channel-pattern",
+        "yang-ming-organ-pattern"
+      ],
+      "key": "The channel pattern has the four bigs without constipation or abdominal fullness; the organ pattern adds dry stool and abdominal fullness that resists pressure."
+    },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to the Six Stages, Yang Ming stage" },
-      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Yangming channel syndrome" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Six Stages, Yang Ming stage"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Yangming channel syndrome"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIg-0005",
@@ -114,7 +414,12 @@
     "task": "II-1-g",
     "theory": "Six Stages",
     "stem": "A 57-year-old woman in the sixth day of a febrile illness reports fever that peaks in the late afternoon, no bowel movement for four days, abdominal fullness with pain that is worse with pressure, and episodes of delirious speech at night. Sweating is confined to the hands and feet. The tongue has a dry yellow coating with prickles. The pulse is deep, full and forceful. Which of the following is the most appropriate Six Stages diagnosis?",
-    "options": { "A": "Yang Ming channel pattern", "B": "Shao Yang pattern", "C": "Yang Ming organ pattern", "D": "Tai Yin pattern" },
+    "options": {
+      "A": "Yang Ming channel pattern",
+      "B": "Shao Yang pattern",
+      "C": "Yang Ming organ pattern",
+      "D": "Tai Yin pattern"
+    },
     "correct": "C",
     "explanation": "This is the Yang Ming organ (Fu) pattern: interior Heat has dried the Intestines and bound with the stool. Constipation, abdominal fullness and pain that resist pressure show the excess accumulation; tidal fever in the late afternoon and delirium reflect Heat flaring at the time Yang Ming is strongest and harassing the Spirit; sweating of the hands and feet, a dry yellow prickled coating and a deep full pulse all confirm interior excess Heat.",
     "distractorExplanations": {
@@ -126,12 +431,85 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["yang-ming-organ-pattern", "yang-ming-channel-pattern", "tidal-fever", "six-stages"],
-    "distinction": { "between": ["yang-ming-organ-pattern", "yang-ming-channel-pattern"], "key": "Constipation with abdominal fullness and pain that resists pressure, with tidal fever and a deep full pulse, marks the organ pattern." },
+    "concepts": [
+      "yang-ming-organ-pattern",
+      "yang-ming-channel-pattern",
+      "tidal-fever",
+      "six-stages"
+    ],
+    "distinction": {
+      "between": [
+        "yang-ming-organ-pattern",
+        "yang-ming-channel-pattern"
+      ],
+      "key": "Constipation with abdominal fullness and pain that resists pressure, with tidal fever and a deep full pulse, marks the organ pattern."
+    },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to the Six Stages, Yang Ming organ pattern" },
-      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Yangming fu-organ syndrome" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Six Stages, Yang Ming organ pattern"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Yangming fu-organ syndrome"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIg-0006",
@@ -140,7 +518,12 @@
     "task": "II-1-g",
     "theory": "Six Stages",
     "stem": "A 35-year-old man has felt unwell for five days following a cold. He now has chills that alternate with episodes of fever several times a day, a bitter taste in the mouth, a dry throat, dizziness, fullness in the hypochondrial region, poor appetite and nausea. The tongue has a thin white coating. The pulse is wiry. Which Six Stages pattern best explains these findings?",
-    "options": { "A": "Shao Yang pattern", "B": "Tai Yang Wind-strike", "C": "Yang Ming channel pattern", "D": "Jue Yin pattern" },
+    "options": {
+      "A": "Shao Yang pattern",
+      "B": "Tai Yang Wind-strike",
+      "C": "Yang Ming channel pattern",
+      "D": "Jue Yin pattern"
+    },
     "correct": "A",
     "explanation": "Alternating chills and fever is the pathognomonic sign of Shao Yang: the pathogenic factor is lodged half-way between exterior and interior, and chills or fever predominate as pathogen and upright Qi alternately gain the upper hand. Bitter taste, dry throat and dizziness reflect Gallbladder Heat rising; hypochondrial fullness, poor appetite and nausea reflect obstruction of the Shao Yang channel and its effect on the Stomach; the wiry pulse confirms the channel involved.",
     "distractorExplanations": {
@@ -152,12 +535,85 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["shao-yang-stage", "alternating-chills-and-fever", "wiry-pulse", "six-stages"],
-    "distinction": { "between": ["shao-yang-stage", "tai-yang-wind-strike"], "key": "Alternating chills and fever with a wiry pulse indicates Shao Yang; simultaneous fever and aversion to wind with a floating pulse indicates Tai Yang." },
+    "concepts": [
+      "shao-yang-stage",
+      "alternating-chills-and-fever",
+      "wiry-pulse",
+      "six-stages"
+    ],
+    "distinction": {
+      "between": [
+        "shao-yang-stage",
+        "tai-yang-wind-strike"
+      ],
+      "key": "Alternating chills and fever with a wiry pulse indicates Shao Yang; simultaneous fever and aversion to wind with a floating pulse indicates Tai Yang."
+    },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to the Six Stages, Shao Yang stage" },
-      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Shaoyang syndrome" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Six Stages, Shao Yang stage"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Shaoyang syndrome"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIg-0007",
@@ -166,7 +622,12 @@
     "task": "II-1-g",
     "theory": "Six Stages",
     "stem": "A 48-year-old woman with a lingering illness complains of abdominal fullness and distension, poor appetite, intermittent vomiting and loose stools. The abdominal discomfort is dull and is relieved by warmth and by pressure. She has no thirst. The tongue is pale and swollen with a white greasy coating. The pulse is deep, slow and weak. Which of the following is the most appropriate Six Stages diagnosis?",
-    "options": { "A": "Yang Ming organ pattern", "B": "Shao Yin Cold transformation", "C": "Jue Yin pattern", "D": "Tai Yin pattern" },
+    "options": {
+      "A": "Yang Ming organ pattern",
+      "B": "Shao Yin Cold transformation",
+      "C": "Jue Yin pattern",
+      "D": "Tai Yin pattern"
+    },
     "correct": "D",
     "explanation": "Tai Yin is the pattern of Cold-Damp in the Spleen with deficient Yang. Failure of Spleen transformation produces abdominal fullness, poor appetite, vomiting and loose stools; the dull pain relieved by warmth and pressure and the absence of thirst identify it as deficient Cold; the pale swollen tongue with white greasy coating shows Cold-Damp, and the deep, slow, weak pulse confirms interior deficient Cold.",
     "distractorExplanations": {
@@ -178,12 +639,85 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["tai-yin-stage", "spleen-cold-damp", "shao-yin-cold-transformation", "six-stages"],
-    "distinction": { "between": ["tai-yin-stage", "shao-yin-cold-transformation"], "key": "Tai Yin is Spleen Cold-Damp with abdominal fullness and a deep weak pulse; Shao Yin Cold adds Kidney and Heart Yang collapse with cold limbs, lethargy and a minute pulse." },
+    "concepts": [
+      "tai-yin-stage",
+      "spleen-cold-damp",
+      "shao-yin-cold-transformation",
+      "six-stages"
+    ],
+    "distinction": {
+      "between": [
+        "tai-yin-stage",
+        "shao-yin-cold-transformation"
+      ],
+      "key": "Tai Yin is Spleen Cold-Damp with abdominal fullness and a deep weak pulse; Shao Yin Cold adds Kidney and Heart Yang collapse with cold limbs, lethargy and a minute pulse."
+    },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to the Six Stages, Tai Yin stage" },
-      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Taiyin syndrome" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Six Stages, Tai Yin stage"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Taiyin syndrome"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIg-0008",
@@ -192,7 +726,12 @@
     "task": "II-1-g",
     "theory": "Six Stages",
     "stem": "A 74-year-old man became ill with chills and fever five days ago. He now has a marked aversion to cold, lies curled up, is drowsy and listless, has cold hands and feet, and passes watery diarrhea containing undigested food. His urine is clear and copious. The tongue is pale with a white moist coating. The pulse is deep and minute (faint). Which of the following is the most appropriate Six Stages diagnosis?",
-    "options": { "A": "Tai Yin pattern", "B": "Shao Yin Cold transformation", "C": "Shao Yin Heat transformation", "D": "Jue Yin pattern" },
+    "options": {
+      "A": "Tai Yin pattern",
+      "B": "Shao Yin Cold transformation",
+      "C": "Shao Yin Heat transformation",
+      "D": "Jue Yin pattern"
+    },
     "correct": "B",
     "explanation": "Shao Yin Cold transformation reflects decline of Heart and Kidney Yang. The patient's marked aversion to cold, curled posture, cold limbs and lethargy with a desire to sleep show collapse of Yang; diarrhea with undigested food and clear copious urine show Kidney Yang failing to warm and transform; the deep, minute pulse is the characteristic Shao Yin pulse, and the pale tongue with moist coating confirms interior Cold.",
     "distractorExplanations": {
@@ -204,12 +743,85 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["shao-yin-cold-transformation", "tai-yin-stage", "minute-pulse", "six-stages"],
-    "distinction": { "between": ["shao-yin-cold-transformation", "tai-yin-stage"], "key": "Lethargy with desire to sleep, cold limbs and a deep minute pulse indicate Shao Yin Yang collapse rather than Tai Yin Spleen Cold." },
+    "concepts": [
+      "shao-yin-cold-transformation",
+      "tai-yin-stage",
+      "minute-pulse",
+      "six-stages"
+    ],
+    "distinction": {
+      "between": [
+        "shao-yin-cold-transformation",
+        "tai-yin-stage"
+      ],
+      "key": "Lethargy with desire to sleep, cold limbs and a deep minute pulse indicate Shao Yin Yang collapse rather than Tai Yin Spleen Cold."
+    },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to the Six Stages, Shao Yin stage" },
-      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Shaoyin syndrome, cold transformation" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Six Stages, Shao Yin stage"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Shaoyin syndrome, cold transformation"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIg-0009",
@@ -235,12 +847,84 @@
     "difficulty": "foundational",
     "cognitiveLevel": "comprehension",
     "vignette": false,
-    "concepts": ["shao-yin-heat-transformation", "shao-yin-cold-transformation", "six-stages"],
-    "distinction": { "between": ["shao-yin-heat-transformation", "shao-yin-cold-transformation"], "key": "Restlessness, insomnia and a red tongue tip mark Heat transformation; drowsiness, cold limbs and a minute pulse mark Cold transformation." },
+    "concepts": [
+      "shao-yin-heat-transformation",
+      "shao-yin-cold-transformation",
+      "six-stages"
+    ],
+    "distinction": {
+      "between": [
+        "shao-yin-heat-transformation",
+        "shao-yin-cold-transformation"
+      ],
+      "key": "Restlessness, insomnia and a red tongue tip mark Heat transformation; drowsiness, cold limbs and a minute pulse mark Cold transformation."
+    },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to the Six Stages, Shao Yin stage" },
-      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Shaoyin syndrome, heat transformation" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Six Stages, Shao Yin stage"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Shaoyin syndrome, heat transformation"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIg-0010",
@@ -249,7 +933,12 @@
     "task": "II-1-g",
     "theory": "Six Stages",
     "stem": "A 52-year-old woman, ill for over a week, reports persistent thirst with a sensation of Qi surging upward to the chest, a burning pain in the chest and epigastrium, and hunger without any desire to eat; when she does eat she vomits. At the same time her hands and feet are cold and her stools are loose. The tongue is red at the front with a white coating at the root. The pulse is wiry. Which of the following is the most appropriate Six Stages diagnosis?",
-    "options": { "A": "Shao Yang pattern", "B": "Tai Yin pattern", "C": "Jue Yin pattern", "D": "Shao Yin Cold transformation" },
+    "options": {
+      "A": "Shao Yang pattern",
+      "B": "Tai Yin pattern",
+      "C": "Jue Yin pattern",
+      "D": "Shao Yin Cold transformation"
+    },
     "correct": "C",
     "explanation": "Jue Yin is the stage of upper Heat with lower Cold, in which Yin and Yang are at their extremes and fail to communicate. Persistent thirst, Qi surging up to the chest, burning chest pain and hunger without desire to eat reflect Heat above (Liver and Pericardium); cold limbs and loose stools reflect Cold below; vomiting after eating reflects the failure of upper and lower to harmonize. The tongue red at the front with a white coating at the root mirrors the same split.",
     "distractorExplanations": {
@@ -261,12 +950,85 @@
     "difficulty": "advanced",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["jue-yin-stage", "upper-heat-lower-cold", "shao-yang-stage", "six-stages"],
-    "distinction": { "between": ["jue-yin-stage", "shao-yang-stage"], "key": "Jue Yin shows simultaneous Heat above (thirst, burning chest) and Cold below (cold limbs, diarrhea); Shao Yang shows alternation of chills and fever." },
+    "concepts": [
+      "jue-yin-stage",
+      "upper-heat-lower-cold",
+      "shao-yang-stage",
+      "six-stages"
+    ],
+    "distinction": {
+      "between": [
+        "jue-yin-stage",
+        "shao-yang-stage"
+      ],
+      "key": "Jue Yin shows simultaneous Heat above (thirst, burning chest) and Cold below (cold limbs, diarrhea); Shao Yang shows alternation of chills and fever."
+    },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to the Six Stages, Jue Yin stage" },
-      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Jueyin syndrome" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Six Stages, Jue Yin stage"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Jueyin syndrome"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIg-0011",
@@ -275,7 +1037,12 @@
     "task": "II-1-g",
     "theory": "Six Stages",
     "stem": "A 30-year-old man presented two days ago with fever, pronounced aversion to cold, body aches, no sweating and a floating tight pulse. He was treated with strong sweating methods and sweated profusely. Today he has no fever, feels extremely cold, is drowsy and lies curled up, his limbs are cold, and his pulse is deep and faint. Which Six Stages pattern best describes his current condition?",
-    "options": { "A": "Tai Yang Cold-damage", "B": "Tai Yin pattern", "C": "Yang Ming channel pattern", "D": "Shao Yin Cold transformation" },
+    "options": {
+      "A": "Tai Yang Cold-damage",
+      "B": "Tai Yin pattern",
+      "C": "Yang Ming channel pattern",
+      "D": "Shao Yin Cold transformation"
+    },
     "correct": "D",
     "explanation": "The initial picture was Tai Yang Cold-damage. Excessive sweating damaged the Yang and the pathogen passed directly to Shao Yin, the interior-exterior partner of Tai Yang, producing Heart and Kidney Yang collapse: extreme aversion to cold, drowsiness, curled posture, cold limbs and a deep faint pulse. This is a transmission caused by incorrect treatment rather than by orderly progression through the stages.",
     "distractorExplanations": {
@@ -287,12 +1054,85 @@
     "difficulty": "advanced",
     "cognitiveLevel": "evaluation",
     "vignette": true,
-    "concepts": ["six-stages-transmission", "shao-yin-cold-transformation", "tai-yang-cold-damage", "incorrect-treatment"],
-    "distinction": { "between": ["shao-yin-cold-transformation", "tai-yang-cold-damage"], "key": "Loss of fever with extreme cold, drowsiness and a deep faint pulse after over-sweating shows Yang collapse in Shao Yin, not persisting Tai Yang." },
+    "concepts": [
+      "six-stages-transmission",
+      "shao-yin-cold-transformation",
+      "tai-yang-cold-damage",
+      "incorrect-treatment"
+    ],
+    "distinction": {
+      "between": [
+        "shao-yin-cold-transformation",
+        "tai-yang-cold-damage"
+      ],
+      "key": "Loss of fever with extreme cold, drowsiness and a deep faint pulse after over-sweating shows Yang collapse in Shao Yin, not persisting Tai Yang."
+    },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to the Six Stages, transmission between stages" },
-      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Transmission and transformation of the six-meridian syndromes" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Six Stages, transmission between stages"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Transmission and transformation of the six-meridian syndromes"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIh-0001",
@@ -301,7 +1141,12 @@
     "task": "II-1-h",
     "theory": "Four Levels",
     "stem": "A patient with an acute febrile illness has fever, slight aversion to cold, mild thirst, headache, a red tongue tip and a floating rapid pulse. In Four Levels identification, these findings indicate that the pathogenic Heat is at which level?",
-    "options": { "A": "Wei level", "B": "Qi level", "C": "Ying level", "D": "Xue level" },
+    "options": {
+      "A": "Wei level",
+      "B": "Qi level",
+      "C": "Ying level",
+      "D": "Xue level"
+    },
     "correct": "A",
     "explanation": "The Wei (Defensive Qi) level is the most superficial. Pathogenic Heat obstructs Wei Qi on the surface, so fever is accompanied by slight aversion to cold, the pulse is floating as well as rapid, thirst is only mild, and the tongue shows Heat only at the tip and sides. Once the pathogen enters the Qi level, aversion to cold disappears and is replaced by aversion to heat.",
     "distractorExplanations": {
@@ -313,11 +1158,77 @@
     "difficulty": "foundational",
     "cognitiveLevel": "comprehension",
     "vignette": false,
-    "concepts": ["wei-level", "four-levels", "floating-rapid-pulse"],
+    "concepts": [
+      "wei-level",
+      "four-levels",
+      "floating-rapid-pulse"
+    ],
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to the Four Levels, Wei level" },
-      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to wei, qi, ying and xue" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Four Levels, Wei level"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to wei, qi, ying and xue"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIh-0002",
@@ -325,8 +1236,13 @@
     "subdomain": "II-h",
     "task": "II-1-h",
     "theory": "Four Levels",
-    "stem": "In late summer, a 33-year-old woman develops a low fever with slight aversion to cold that is worse in the afternoon, a heavy sensation of the head as if it were wrapped, heaviness of the limbs, a stuffy chest, nausea and little thirst. The tongue has a white sticky coating. The pulse is soggy and slightly rapid. Which Wei-level pattern is most appropriate?",
-    "options": { "A": "Wind-Heat at the Wei level", "B": "Summer-Heat at the Wei level", "C": "Damp-Heat at the Wei level", "D": "Dry-Heat at the Wei level" },
+    "stem": "During a week of humid, rainy weather in early autumn, a 33-year-old woman develops a low fever with slight aversion to cold that is worse in the afternoon, a heavy sensation of the head as if it were wrapped, heaviness of the limbs, a stuffy chest, nausea and little thirst. The tongue has a white sticky coating. The pulse is soggy and slightly rapid. Which Wei-level pattern is most appropriate?",
+    "options": {
+      "A": "Wind-Heat at the Wei level",
+      "B": "Summer-Heat at the Wei level",
+      "C": "Damp-Heat at the Wei level",
+      "D": "Dry-Heat at the Wei level"
+    },
     "correct": "C",
     "explanation": "Fever with slight aversion to cold and a superficial pulse places the pathogen at the Wei level; the quality of the accompanying signs identifies the factor. Heaviness of the head and limbs, a stuffy chest, nausea, absence of thirst, a sticky white coating and a soggy pulse are all Dampness signs, and the afternoon worsening of a low fever is typical of Damp-Heat. Late summer is the season of Dampness.",
     "distractorExplanations": {
@@ -338,11 +1254,81 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["wei-level", "damp-heat", "soggy-pulse", "sticky-white-coating"],
-    "distinction": { "between": ["wei-level-damp-heat", "wei-level-summer-heat"], "key": "Heaviness, a sticky coating, a soggy pulse and little thirst mark Damp-Heat; high fever with sweating, strong thirst and Qi injury mark Summer-Heat." },
+    "concepts": [
+      "wei-level",
+      "damp-heat",
+      "soggy-pulse",
+      "sticky-white-coating"
+    ],
+    "distinction": {
+      "between": [
+        "wei-level-damp-heat",
+        "wei-level-summer-heat"
+      ],
+      "key": "Heaviness, a sticky coating, a soggy pulse and little thirst mark Damp-Heat; high fever with sweating, strong thirst and Qi injury mark Summer-Heat."
+    },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to the Four Levels, Wei level, Damp-Heat" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Four Levels, Wei level, Damp-Heat"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIh-0003",
@@ -351,7 +1337,12 @@
     "task": "II-1-h",
     "theory": "Four Levels",
     "stem": "A 45-year-old man had fever and slight chills four days ago. Now the fever is high with aversion to heat and sweating, and he has a cough producing thick yellow sputum, chest pain, breathlessness and thirst. The tongue is red with a yellow coating. The pulse is rapid and slippery. Which Four Levels pattern is most appropriate?",
-    "options": { "A": "Wind-Heat at the Wei level", "B": "Heat in the Lung at the Qi level", "C": "Heat in the Stomach at the Qi level", "D": "Heat in the Pericardium at the Ying level" },
+    "options": {
+      "A": "Wind-Heat at the Wei level",
+      "B": "Heat in the Lung at the Qi level",
+      "C": "Heat in the Stomach at the Qi level",
+      "D": "Heat in the Pericardium at the Ying level"
+    },
     "correct": "B",
     "explanation": "The change from slight chills to aversion to heat with high fever, sweating, thirst and a yellow coating shows the pathogen has moved from the Wei to the Qi level. The organ localization is given by the respiratory findings: cough with thick yellow sputum, chest pain and breathlessness identify Heat in the Lung, and the slippery rapid pulse reflects Phlegm-Heat generated by Heat condensing Lung fluids.",
     "distractorExplanations": {
@@ -363,12 +1354,85 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["qi-level", "heat-in-lung", "wei-level", "slippery-rapid-pulse"],
-    "distinction": { "between": ["qi-level-heat-in-lung", "wei-level-wind-heat"], "key": "Aversion to heat, marked thirst, yellow coating and thick yellow sputum show Qi-level Lung Heat; slight aversion to cold with a floating pulse would mean the Wei level." },
+    "concepts": [
+      "qi-level",
+      "heat-in-lung",
+      "wei-level",
+      "slippery-rapid-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "qi-level-heat-in-lung",
+        "wei-level-wind-heat"
+      ],
+      "key": "Aversion to heat, marked thirst, yellow coating and thick yellow sputum show Qi-level Lung Heat; slight aversion to cold with a floating pulse would mean the Wei level."
+    },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to the Four Levels, Qi level, Heat in the Lungs" },
-      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Qi-level syndromes" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Four Levels, Qi level, Heat in the Lungs"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Qi-level syndromes"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIh-0004",
@@ -377,7 +1441,12 @@
     "task": "II-1-h",
     "theory": "Four Levels",
     "stem": "A 39-year-old woman in the second week of a febrile illness has fever that fluctuates during the day, a bitter taste, dry throat, pain and fullness of the hypochondrium, nausea and thirst. The tongue is red with a yellow coating. The pulse is wiry and rapid. Which Four Levels pattern is most appropriate?",
-    "options": { "A": "Heat in the Lung at the Qi level", "B": "Heat in the Gallbladder at the Qi level", "C": "Heat in the Intestines at the Qi level", "D": "Heat in the Ying level" },
+    "options": {
+      "A": "Heat in the Lung at the Qi level",
+      "B": "Heat in the Gallbladder at the Qi level",
+      "C": "Heat in the Intestines at the Qi level",
+      "D": "Heat in the Ying level"
+    },
     "correct": "B",
     "explanation": "Fever with thirst, a red tongue with a yellow coating and a rapid pulse place the Heat at the Qi level. The wiry pulse, bitter taste, dry throat and hypochondrial pain and fullness localize it to the Gallbladder. This Qi-level pattern resembles the Shao Yang stage of the Six Stages, but the pronounced Heat signs (thirst, red tongue with yellow coating, rapid pulse) show a warm disease rather than a Cold-induced one.",
     "distractorExplanations": {
@@ -389,11 +1458,81 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["qi-level", "heat-in-gallbladder", "wiry-rapid-pulse", "four-levels"],
-    "distinction": { "between": ["qi-level-heat-in-gallbladder", "qi-level-heat-in-intestines"], "key": "Hypochondrial fullness, bitter taste and a wiry pulse point to the Gallbladder; constipation with abdominal fullness and a deep full pulse point to the Intestines." },
+    "concepts": [
+      "qi-level",
+      "heat-in-gallbladder",
+      "wiry-rapid-pulse",
+      "four-levels"
+    ],
+    "distinction": {
+      "between": [
+        "qi-level-heat-in-gallbladder",
+        "qi-level-heat-in-intestines"
+      ],
+      "key": "Hypochondrial fullness, bitter taste and a wiry pulse point to the Gallbladder; constipation with abdominal fullness and a deep full pulse point to the Intestines."
+    },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to the Four Levels, Qi level, Heat in the Gall-Bladder" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Four Levels, Qi level, Heat in the Gall-Bladder"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIh-0005",
@@ -402,7 +1541,12 @@
     "task": "II-1-h",
     "theory": "Four Levels",
     "stem": "The Qi-level pattern of Heat in the Stomach, characterized by high fever, profuse sweating, intense thirst and an overflowing pulse, corresponds most closely to which Six Stages pattern?",
-    "options": { "A": "Tai Yang Cold-damage", "B": "Shao Yang pattern", "C": "Yang Ming organ pattern", "D": "Yang Ming channel pattern" },
+    "options": {
+      "A": "Tai Yang Cold-damage",
+      "B": "Shao Yang pattern",
+      "C": "Yang Ming organ pattern",
+      "D": "Yang Ming channel pattern"
+    },
     "correct": "D",
     "explanation": "The Four Levels and Six Stages overlap at the stage of interior Heat. Qi-level Heat in the Stomach and the Yang Ming channel pattern describe the same clinical picture: the four bigs (big fever, big sweating, big thirst, big pulse) with aversion to heat and a yellow coating. The two systems differ in origin (Heat invading in warm diseases versus Cold transforming into Heat in Cold-damage) but not in presentation at this point.",
     "distractorExplanations": {
@@ -414,11 +1558,81 @@
     "difficulty": "foundational",
     "cognitiveLevel": "recall",
     "vignette": false,
-    "concepts": ["qi-level", "yang-ming-channel-pattern", "four-levels", "six-stages"],
-    "distinction": { "between": ["yang-ming-channel-pattern", "yang-ming-organ-pattern"], "key": "The channel pattern (four bigs) matches Qi-level Stomach Heat; the organ pattern (bound stool) matches Qi-level Intestinal Heat." },
+    "concepts": [
+      "qi-level",
+      "yang-ming-channel-pattern",
+      "four-levels",
+      "six-stages"
+    ],
+    "distinction": {
+      "between": [
+        "yang-ming-channel-pattern",
+        "yang-ming-organ-pattern"
+      ],
+      "key": "The channel pattern (four bigs) matches Qi-level Stomach Heat; the organ pattern (bound stool) matches Qi-level Intestinal Heat."
+    },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to the Four Levels, relationship with the Six Stages" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Four Levels, relationship with the Six Stages"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIh-0006",
@@ -427,7 +1641,12 @@
     "task": "II-1-h",
     "theory": "Four Levels",
     "stem": "A 60-year-old man in the seventh day of a febrile disease has fever that is worse at night, mental restlessness and insomnia, occasional incoherent speech, faint reddish rashes on the chest and abdomen, and a dry mouth without much desire to drink. The tongue is deep red (crimson) without coating. The pulse is thin and rapid. Which level is most appropriate?",
-    "options": { "A": "Heat in the Stomach at the Qi level", "B": "Heat in the Ying level", "C": "Heat moving Blood at the Xue level", "D": "Wind-Heat at the Wei level" },
+    "options": {
+      "A": "Heat in the Stomach at the Qi level",
+      "B": "Heat in the Ying level",
+      "C": "Heat moving Blood at the Xue level",
+      "D": "Wind-Heat at the Wei level"
+    },
     "correct": "B",
     "explanation": "At the Ying (Nutritive Qi) level, Heat has penetrated deeper than the Qi level and begun to injure Yin and harass the Heart. Fever worse at night, mental restlessness, insomnia and incoherent speech reflect Heat disturbing the Spirit; faint, indistinct rashes show Heat beginning to press on the Blood but not yet forcing it out of the vessels; a dry mouth with little desire to drink is typical, because the Heat has steamed Yin fluids upward; the deep red tongue without coating and the thin rapid pulse confirm the Ying level.",
     "distractorExplanations": {
@@ -439,12 +1658,85 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["ying-level", "xue-level", "deep-red-tongue-no-coating", "thin-rapid-pulse"],
-    "distinction": { "between": ["ying-level", "xue-level"], "key": "Faint rashes with night fever and a deep red uncoated tongue are Ying level; overt bleeding or dark macules indicate the Xue level." },
+    "concepts": [
+      "ying-level",
+      "xue-level",
+      "deep-red-tongue-no-coating",
+      "thin-rapid-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "ying-level",
+        "xue-level"
+      ],
+      "key": "Faint rashes with night fever and a deep red uncoated tongue are Ying level; overt bleeding or dark macules indicate the Xue level."
+    },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to the Four Levels, Ying level" },
-      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Ying-level syndromes" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Four Levels, Ying level"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Ying-level syndromes"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIh-0007",
@@ -453,7 +1745,12 @@
     "task": "II-1-h",
     "theory": "Four Levels",
     "stem": "A 70-year-old woman with a high fever of several days has become delirious. She now drifts in and out of consciousness and answers incoherently, and her hands and feet feel cold although her trunk is burning hot. The tongue is deep red and dry with no coating. The pulse is thin and rapid. Which Four Levels pattern best explains these findings?",
-    "options": { "A": "Heat in the Pericardium at the Ying level", "B": "Liver Wind stirring at the Xue level", "C": "Collapse of Yin at the Xue level", "D": "Heat in the chest and diaphragm at the Qi level" },
+    "options": {
+      "A": "Heat in the Pericardium at the Ying level",
+      "B": "Liver Wind stirring at the Xue level",
+      "C": "Collapse of Yin at the Xue level",
+      "D": "Heat in the chest and diaphragm at the Qi level"
+    },
     "correct": "A",
     "explanation": "Heat has entered the Pericardium at the Ying level and clouded the Mind: delirium, impaired consciousness and incoherent speech are its defining features, with the deep red uncoated tongue and thin rapid pulse of the Ying level. The cold hands and feet are not a Cold sign; they are Heat reversal (Re Jue), in which intense Heat trapped in the interior blocks Yang Qi from reaching the extremities. The burning trunk confirms this.",
     "distractorExplanations": {
@@ -465,12 +1762,85 @@
     "difficulty": "advanced",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["ying-level", "heat-in-pericardium", "heat-reversal", "four-levels"],
-    "distinction": { "between": ["ying-level-heat-in-pericardium", "xue-level-liver-wind"], "key": "Clouded consciousness without convulsions or tremor indicates Pericardium Heat at the Ying level; convulsions indicate Wind at the Xue level." },
+    "concepts": [
+      "ying-level",
+      "heat-in-pericardium",
+      "heat-reversal",
+      "four-levels"
+    ],
+    "distinction": {
+      "between": [
+        "ying-level-heat-in-pericardium",
+        "xue-level-liver-wind"
+      ],
+      "key": "Clouded consciousness without convulsions or tremor indicates Pericardium Heat at the Ying level; convulsions indicate Wind at the Xue level."
+    },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to the Four Levels, Ying level, Heat in the Pericardium" },
-      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Ying-level syndromes" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Four Levels, Ying level, Heat in the Pericardium"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Ying-level syndromes"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIh-0008",
@@ -479,7 +1849,12 @@
     "task": "II-1-h",
     "theory": "Four Levels",
     "stem": "A 28-year-old man in the second week of a severe febrile illness develops nosebleeds and blood in the stool, dark purple macules over the trunk, high fever with agitation and periods of manic behavior, and scanty dark urine. The tongue is deep red with purple spots. The pulse is rapid and wiry. Which level is most appropriate?",
-    "options": { "A": "Heat in the Ying level", "B": "Heat in the Intestines at the Qi level", "C": "Damp-Heat at the Wei level", "D": "Heat moving Blood at the Xue level" },
+    "options": {
+      "A": "Heat in the Ying level",
+      "B": "Heat in the Intestines at the Qi level",
+      "C": "Damp-Heat at the Wei level",
+      "D": "Heat moving Blood at the Xue level"
+    },
     "correct": "D",
     "explanation": "At the Xue (Blood) level, Heat has entered the Blood and forces it out of the vessels. Nosebleeds, blood in the stool and dark purple macules are the defining signs of Heat moving Blood; the agitation and mania reflect Heat in the Blood harassing the Heart; the deep red tongue with purple spots shows Blood Heat with stasis, and scanty dark urine reflects the consumption of fluids by Heat.",
     "distractorExplanations": {
@@ -491,12 +1866,85 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["xue-level", "heat-moving-blood", "ying-level", "macules"],
-    "distinction": { "between": ["xue-level", "ying-level"], "key": "Frank bleeding and dark purple macules mark the Xue level; faint rashes without bleeding mark the Ying level." },
+    "concepts": [
+      "xue-level",
+      "heat-moving-blood",
+      "ying-level",
+      "macules"
+    ],
+    "distinction": {
+      "between": [
+        "xue-level",
+        "ying-level"
+      ],
+      "key": "Frank bleeding and dark purple macules mark the Xue level; faint rashes without bleeding mark the Ying level."
+    },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to the Four Levels, Blood level, Heat victorious moving Blood" },
-      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Xue-level syndromes" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Four Levels, Blood level, Heat victorious moving Blood"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Xue-level syndromes"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIh-0009",
@@ -505,7 +1953,12 @@
     "task": "II-1-h",
     "theory": "Four Levels",
     "stem": "A 55-year-old woman with a febrile disease at the Ying level (night fever, mental restlessness, a deep red tongue without coating, and a thin rapid pulse) deteriorates over 24 hours. She develops stiffness of the neck and twitching of the limbs that progresses to convulsions, and her eyes roll upward. The fever remains high. Which pattern now best describes the disease?",
-    "options": { "A": "Heat in the Pericardium at the Ying level", "B": "Heat in the Lung at the Qi level", "C": "Liver Wind stirring at the Xue level", "D": "Collapse of Yin at the Xue level" },
+    "options": {
+      "A": "Heat in the Pericardium at the Ying level",
+      "B": "Heat in the Lung at the Qi level",
+      "C": "Liver Wind stirring at the Xue level",
+      "D": "Collapse of Yin at the Xue level"
+    },
     "correct": "C",
     "explanation": "The appearance of neck stiffness, twitching, convulsions and upward-rolling eyes on top of Ying-level findings shows that intense Heat has entered the Blood and stirred Liver Wind: extreme Heat generates Wind. This belongs to the Xue level in the Four Levels scheme. The persisting high fever marks it as Wind from excess Heat, in contrast to the Empty Wind of late-stage Yin exhaustion.",
     "distractorExplanations": {
@@ -517,11 +1970,81 @@
     "difficulty": "advanced",
     "cognitiveLevel": "evaluation",
     "vignette": true,
-    "concepts": ["xue-level", "heat-stirring-wind", "ying-level", "disease-progression"],
-    "distinction": { "between": ["xue-level-liver-wind", "ying-level-heat-in-pericardium"], "key": "Convulsions, neck rigidity and upward-rolling eyes indicate Wind at the Xue level; clouded consciousness alone indicates Pericardium Heat at the Ying level." },
+    "concepts": [
+      "xue-level",
+      "heat-stirring-wind",
+      "ying-level",
+      "disease-progression"
+    ],
+    "distinction": {
+      "between": [
+        "xue-level-liver-wind",
+        "ying-level-heat-in-pericardium"
+      ],
+      "key": "Convulsions, neck rigidity and upward-rolling eyes indicate Wind at the Xue level; clouded consciousness alone indicates Pericardium Heat at the Ying level."
+    },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to the Four Levels, Blood level, Heat victorious stirring Wind" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Four Levels, Blood level, Heat victorious stirring Wind"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIh-0010",
@@ -547,12 +2070,85 @@
     "difficulty": "foundational",
     "cognitiveLevel": "comprehension",
     "vignette": false,
-    "concepts": ["ying-level", "xue-level", "heat-moving-blood", "four-levels"],
-    "distinction": { "between": ["xue-level", "ying-level"], "key": "Frank bleeding and dark purple macules are present only at the Xue level." },
+    "concepts": [
+      "ying-level",
+      "xue-level",
+      "heat-moving-blood",
+      "four-levels"
+    ],
+    "distinction": {
+      "between": [
+        "xue-level",
+        "ying-level"
+      ],
+      "key": "Frank bleeding and dark purple macules are present only at the Xue level."
+    },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to the Four Levels, Ying and Blood levels" },
-      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to wei, qi, ying and xue" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Four Levels, Ying and Blood levels"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to wei, qi, ying and xue"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIh-0011",
@@ -561,7 +2157,12 @@
     "task": "II-1-h",
     "theory": "Four Levels",
     "stem": "A 66-year-old man has been ill with a warm febrile disease for three weeks. He now has a low-grade fever that persists through the afternoon and evening, heat in the palms and soles, a dry mouth and throat, marked weight loss and listlessness. The tongue is deep red, dry and without coating. The pulse is thin, rapid and weak. Which pattern is most appropriate?",
-    "options": { "A": "Heat in the Ying level", "B": "Heat moving Blood at the Xue level", "C": "Collapse of Yin at the Xue level", "D": "Heat in the Intestines at the Qi level" },
+    "options": {
+      "A": "Heat in the Ying level",
+      "B": "Heat moving Blood at the Xue level",
+      "C": "Collapse of Yin at the Xue level",
+      "D": "Heat in the Intestines at the Qi level"
+    },
     "correct": "C",
     "explanation": "After three weeks of Heat the Yin of the Kidney and Liver has been consumed, leaving Empty Heat: a low-grade afternoon and evening fever, five-palm heat, dry mouth and throat, emaciation and a dry, deep red, uncoated tongue. The weak quality of the thin rapid pulse is the decisive finding that this is deficiency rather than the full Heat of the Ying level. Collapse of Yin is classified under the Xue level as the late, deficient end of a warm disease.",
     "distractorExplanations": {
@@ -573,11 +2174,81 @@
     "difficulty": "advanced",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["xue-level", "collapse-of-yin", "ying-level", "empty-heat"],
-    "distinction": { "between": ["xue-level-collapse-of-yin", "ying-level"], "key": "Low-grade fever, five-palm heat, emaciation and a weak pulse mark Yin collapse; high night fever with restlessness and a forceful thin rapid pulse mark the Ying level." },
+    "concepts": [
+      "xue-level",
+      "collapse-of-yin",
+      "ying-level",
+      "empty-heat"
+    ],
+    "distinction": {
+      "between": [
+        "xue-level-collapse-of-yin",
+        "ying-level"
+      ],
+      "key": "Low-grade fever, five-palm heat, emaciation and a weak pulse mark Yin collapse; high night fever with restlessness and a forceful thin rapid pulse mark the Ying level."
+    },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to the Four Levels, Blood level, Collapse of Yin" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Four Levels, Blood level, Collapse of Yin"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIj-0001",
@@ -586,7 +2257,12 @@
     "task": "II-1-j",
     "theory": "Internal etiology",
     "stem": "According to the classical theory of the seven emotions, which effect on the movement of Qi is attributed to fear (Kong)?",
-    "options": { "A": "Qi rises", "B": "Qi knots", "C": "Qi descends", "D": "Qi scatters" },
+    "options": {
+      "A": "Qi rises",
+      "B": "Qi knots",
+      "C": "Qi descends",
+      "D": "Qi scatters"
+    },
     "correct": "C",
     "explanation": "Fear causes Qi to descend. It affects the Kidney, and the downward movement of Qi explains the classical presentations of fear: loss of urinary control, bed-wetting in children, and diarrhea at moments of intense fear, together with weakness of the lower back and knees when fear is prolonged.",
     "distractorExplanations": {
@@ -598,11 +2274,78 @@
     "difficulty": "foundational",
     "cognitiveLevel": "recall",
     "vignette": false,
-    "concepts": ["seven-emotions", "fear", "qi-descends", "kidney"],
+    "concepts": [
+      "seven-emotions",
+      "fear",
+      "qi-descends",
+      "kidney"
+    ],
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "The causes of disease, internal causes, fear" },
-      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Etiology, the seven emotional factors" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The causes of disease, internal causes, fear"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Etiology, the seven emotional factors"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIj-0002",
@@ -611,7 +2354,12 @@
     "task": "II-1-j",
     "theory": "Internal etiology",
     "stem": "Excessive pensiveness and prolonged mental overwork (Si) most directly injure which organ?",
-    "options": { "A": "Liver", "B": "Spleen", "C": "Lung", "D": "Kidney" },
+    "options": {
+      "A": "Liver",
+      "B": "Spleen",
+      "C": "Lung",
+      "D": "Kidney"
+    },
     "correct": "B",
     "explanation": "Pensiveness (overthinking, excessive mental work, worry about a problem) is the emotion of the Earth element and injures the Spleen. It knots Qi, so the Spleen fails to transform and transport: poor appetite, abdominal distension after eating, fatigue and loose stools follow, and in the longer term the Spleen fails to generate Blood, which in turn affects the Heart.",
     "distractorExplanations": {
@@ -623,11 +2371,78 @@
     "difficulty": "foundational",
     "cognitiveLevel": "recall",
     "vignette": false,
-    "concepts": ["seven-emotions", "pensiveness", "spleen", "qi-knots"],
+    "concepts": [
+      "seven-emotions",
+      "pensiveness",
+      "spleen",
+      "qi-knots"
+    ],
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "The causes of disease, internal causes, pensiveness" },
-      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Etiology, the seven emotional factors" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The causes of disease, internal causes, pensiveness"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Etiology, the seven emotional factors"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIj-0003",
@@ -653,10 +2468,74 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "application",
     "vignette": true,
-    "concepts": ["seven-emotions", "anger", "qi-rises", "liver-yang-rising"],
+    "concepts": [
+      "seven-emotions",
+      "anger",
+      "qi-rises",
+      "liver-yang-rising"
+    ],
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "The causes of disease, internal causes, anger" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The causes of disease, internal causes, anger"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIj-0004",
@@ -682,11 +2561,81 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "application",
     "vignette": true,
-    "concepts": ["seven-emotions", "fear", "qi-descends", "kidney-qi-deficiency"],
-    "distinction": { "between": ["fear", "fright"], "key": "Fear is sustained, affects the Kidney and sends Qi downward (urinary loss); fright is sudden, affects the Heart and scatters Qi (palpitations, startling)." },
+    "concepts": [
+      "seven-emotions",
+      "fear",
+      "qi-descends",
+      "kidney-qi-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "fear",
+        "fright"
+      ],
+      "key": "Fear is sustained, affects the Kidney and sends Qi downward (urinary loss); fright is sudden, affects the Heart and scatters Qi (palpitations, startling)."
+    },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "The causes of disease, internal causes, fear" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The causes of disease, internal causes, fear"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIj-0005",
@@ -712,11 +2661,78 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["seven-emotions", "sadness", "qi-dissolves", "lung-qi-deficiency"],
+    "concepts": [
+      "seven-emotions",
+      "sadness",
+      "qi-dissolves",
+      "lung-qi-deficiency"
+    ],
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "The causes of disease, internal causes, sadness" },
-      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Etiology, the seven emotional factors" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The causes of disease, internal causes, sadness"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Etiology, the seven emotional factors"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIj-0006",
@@ -742,10 +2758,74 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["seven-emotions", "pensiveness", "qi-knots", "spleen-qi-deficiency"],
+    "concepts": [
+      "seven-emotions",
+      "pensiveness",
+      "qi-knots",
+      "spleen-qi-deficiency"
+    ],
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "The causes of disease, internal causes, pensiveness" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The causes of disease, internal causes, pensiveness"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIj-0007",
@@ -771,12 +2851,85 @@
     "difficulty": "advanced",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["chronic-stress", "liver-qi-stagnation", "liver-invading-spleen", "overacting-cycle"],
-    "distinction": { "between": ["liver-invading-spleen", "spleen-insulting-liver"], "key": "Liver symptoms preceded the digestive symptoms and both worsen with stress, so the Liver stagnation is primary and the Spleen weakness secondary." },
+    "concepts": [
+      "chronic-stress",
+      "liver-qi-stagnation",
+      "liver-invading-spleen",
+      "overacting-cycle"
+    ],
+    "distinction": {
+      "between": [
+        "liver-invading-spleen",
+        "spleen-insulting-liver"
+      ],
+      "key": "Liver symptoms preceded the digestive symptoms and both worsen with stress, so the Liver stagnation is primary and the Spleen weakness secondary."
+    },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "The causes of disease, internal causes, anger; Liver patterns, Liver Qi stagnation" },
-      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Etiology, the seven emotional factors" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The causes of disease, internal causes, anger; Liver patterns, Liver Qi stagnation"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Etiology, the seven emotional factors"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIj-0008",
@@ -802,11 +2955,81 @@
     "difficulty": "advanced",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["seven-emotions", "anger", "qi-stagnation-transforming-to-fire", "liver-yin-deficiency"],
-    "distinction": { "between": ["liver-yin-deficiency", "liver-blood-stasis"], "key": "Dryness, night sweats and a red uncoated tongue with a thin rapid pulse indicate Yin consumed by Fire; fixed pain with a purple tongue and choppy pulse would indicate stasis." },
+    "concepts": [
+      "seven-emotions",
+      "anger",
+      "qi-stagnation-transforming-to-fire",
+      "liver-yin-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "liver-yin-deficiency",
+        "liver-blood-stasis"
+      ],
+      "key": "Dryness, night sweats and a red uncoated tongue with a thin rapid pulse indicate Yin consumed by Fire; fixed pain with a purple tongue and choppy pulse would indicate stasis."
+    },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "The causes of disease, internal causes, anger; Liver patterns, Liver Yin deficiency" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The causes of disease, internal causes, anger; Liver patterns, Liver Yin deficiency"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIk-0001",
@@ -815,7 +3038,12 @@
     "task": "II-1-k",
     "theory": "External etiology",
     "stem": "A pathogenic factor that produces a sensation of heaviness of the body and limbs, turbid or sticky discharges, and a lingering course that is slow to resolve is best described as which of the following?",
-    "options": { "A": "Wind", "B": "Cold", "C": "Dampness", "D": "Dryness" },
+    "options": {
+      "A": "Wind",
+      "B": "Cold",
+      "C": "Dampness",
+      "D": "Dryness"
+    },
     "correct": "C",
     "explanation": "Dampness is heavy, turbid, sticky and stagnant by nature. It produces heaviness of the body, head and limbs, turbid and sticky discharges (vaginal discharge, cloudy urine, sticky stools, greasy coating), and a tendency to settle in the lower body. Because it is sticky and difficult to resolve, Damp diseases are prolonged and recurrent.",
     "distractorExplanations": {
@@ -827,11 +3055,77 @@
     "difficulty": "foundational",
     "cognitiveLevel": "recall",
     "vignette": false,
-    "concepts": ["six-pathogenic-factors", "dampness", "external-etiology"],
+    "concepts": [
+      "six-pathogenic-factors",
+      "dampness",
+      "external-etiology"
+    ],
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "The causes of disease, external causes, Dampness" },
-      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Etiology, the six exogenous factors" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The causes of disease, external causes, Dampness"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Etiology, the six exogenous factors"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIk-0002",
@@ -840,7 +3134,12 @@
     "task": "II-1-k",
     "theory": "External etiology",
     "stem": "Which external pathogenic factor occurs only in its own season, is characterized by high fever with sweating and thirst, injures both Qi and Body Fluids, and commonly combines with Dampness?",
-    "options": { "A": "Fire", "B": "Summer-Heat", "C": "Dryness", "D": "Wind" },
+    "options": {
+      "A": "Fire",
+      "B": "Summer-Heat",
+      "C": "Dryness",
+      "D": "Wind"
+    },
     "correct": "B",
     "explanation": "Summer-Heat is the only one of the six factors that is strictly seasonal, since it arises from exposure to summer heat. It is a Yang factor that rises and disperses: it causes high fever, profuse sweating and thirst, and the sweating consumes Body Fluids while the Heat consumes Qi, giving fatigue and shortness of breath. Because summer is also humid, it frequently combines with Dampness, adding heaviness, nausea and a sticky coating.",
     "distractorExplanations": {
@@ -852,11 +3151,77 @@
     "difficulty": "foundational",
     "cognitiveLevel": "recall",
     "vignette": false,
-    "concepts": ["six-pathogenic-factors", "summer-heat", "seasonal-associations"],
+    "concepts": [
+      "six-pathogenic-factors",
+      "summer-heat",
+      "seasonal-associations"
+    ],
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "The causes of disease, external causes, Summer-Heat" },
-      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Etiology, the six exogenous factors, summer heat" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The causes of disease, external causes, Summer-Heat"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Etiology, the six exogenous factors, summer heat"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIk-0003",
@@ -865,7 +3230,12 @@
     "task": "II-1-k",
     "theory": "External etiology",
     "stem": "A 38-year-old man was caught in freezing rain while hiking. The next day he has severe cramping pain in the lower abdomen and in both knees that is fixed in location and eased by a hot water bottle, aversion to cold, cold hands and feet, and a clear, watery nasal discharge. The tongue is pale with a thin white moist coating. The pulse is tight. Which pathogenic factor best explains the character of these findings?",
-    "options": { "A": "Wind", "B": "Dampness", "C": "Dryness", "D": "Cold" },
+    "options": {
+      "A": "Wind",
+      "B": "Dampness",
+      "C": "Dryness",
+      "D": "Cold"
+    },
     "correct": "D",
     "explanation": "Cold is a Yin factor that contracts and congeals. Contraction of the channels and sinews produces severe cramping pain that is fixed in place and relieved by warmth; obstruction of Yang gives aversion to cold and cold limbs; discharges under Cold are clear and watery rather than turbid or yellow; the pale tongue with a white moist coating and the tight pulse are the classic findings of Cold. The exposure to freezing rain supplies the external cause.",
     "distractorExplanations": {
@@ -877,11 +3247,81 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "application",
     "vignette": true,
-    "concepts": ["six-pathogenic-factors", "cold", "tight-pulse", "external-etiology"],
-    "distinction": { "between": ["cold", "wind"], "key": "Cold pain is fixed, cramping and relieved by warmth with a tight pulse; Wind pain wanders and changes." },
+    "concepts": [
+      "six-pathogenic-factors",
+      "cold",
+      "tight-pulse",
+      "external-etiology"
+    ],
+    "distinction": {
+      "between": [
+        "cold",
+        "wind"
+      ],
+      "key": "Cold pain is fixed, cramping and relieved by warmth with a tight pulse; Wind pain wanders and changes."
+    },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "The causes of disease, external causes, Cold" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The causes of disease, external causes, Cold"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIk-0004",
@@ -890,7 +3330,12 @@
     "task": "II-1-k",
     "theory": "External etiology",
     "stem": "A 46-year-old woman develops fever with aversion to wind and slight sweating. Her joints ache, and the pain has moved from the shoulders to the wrists and then to the knees over three days. She feels heavy and lethargic, and her head feels muzzy. The tongue has a thin white sticky coating. The pulse is floating and soggy. Which exterior pattern is most appropriate?",
-    "options": { "A": "Wind-Damp", "B": "Wind-Cold", "C": "Wind-Heat", "D": "Cold-Damp" },
+    "options": {
+      "A": "Wind-Damp",
+      "B": "Wind-Cold",
+      "C": "Wind-Heat",
+      "D": "Cold-Damp"
+    },
     "correct": "A",
     "explanation": "Fever with aversion to wind and a floating pulse show an exterior invasion, and Wind is identified by the sudden onset and the pain that wanders from joint to joint. Dampness is identified by the heaviness, lethargy, muzzy head, sticky coating and soggy pulse. The combination is exterior Wind-Damp: Wind carries Dampness into the surface and the joints.",
     "distractorExplanations": {
@@ -902,12 +3347,85 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["wind-damp", "wind-cold", "wind-heat", "combined-pathogenic-factors"],
-    "distinction": { "between": ["wind-damp", "wind-cold"], "key": "Wandering joint pain with heaviness, a sticky coating and a soggy pulse indicate Wind-Damp; fixed aches with no sweating and a tight pulse indicate Wind-Cold." },
+    "concepts": [
+      "wind-damp",
+      "wind-cold",
+      "wind-heat",
+      "combined-pathogenic-factors"
+    ],
+    "distinction": {
+      "between": [
+        "wind-damp",
+        "wind-cold"
+      ],
+      "key": "Wandering joint pain with heaviness, a sticky coating and a soggy pulse indicate Wind-Damp; fixed aches with no sweating and a tight pulse indicate Wind-Cold."
+    },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "The causes of disease, external causes, Wind and Dampness" },
-      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Etiology, the six exogenous factors, wind and damp" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The causes of disease, external causes, Wind and Dampness"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Etiology, the six exogenous factors, wind and damp"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIk-0005",
@@ -933,12 +3451,85 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["six-pathogenic-factors", "dryness", "external-vs-internal-dryness", "lung-yin-deficiency"],
-    "distinction": { "between": ["exterior-dryness", "lung-yin-deficiency"], "key": "Acute onset with slight fever, aversion to cold and a floating pulse indicates exterior Dryness; a chronic course without exterior signs indicates internal Dryness from Yin deficiency." },
+    "concepts": [
+      "six-pathogenic-factors",
+      "dryness",
+      "external-vs-internal-dryness",
+      "lung-yin-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "exterior-dryness",
+        "lung-yin-deficiency"
+      ],
+      "key": "Acute onset with slight fever, aversion to cold and a floating pulse indicates exterior Dryness; a chronic course without exterior signs indicates internal Dryness from Yin deficiency."
+    },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "The causes of disease, external causes, Dryness" },
-      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Etiology, the six exogenous factors, dryness" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The causes of disease, external causes, Dryness"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Etiology, the six exogenous factors, dryness"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIk-0006",
@@ -964,12 +3555,85 @@
     "difficulty": "advanced",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["internal-wind", "exterior-wind", "liver-yang-rising", "liver-wind"],
-    "distinction": { "between": ["internal-wind", "exterior-wind"], "key": "Absence of exterior signs plus a chronic Liver Yang history with a red tongue and wiry pulse indicates internal Wind; exposure with aversion to wind and a floating pulse indicates exterior Wind." },
+    "concepts": [
+      "internal-wind",
+      "exterior-wind",
+      "liver-yang-rising",
+      "liver-wind"
+    ],
+    "distinction": {
+      "between": [
+        "internal-wind",
+        "exterior-wind"
+      ],
+      "key": "Absence of exterior signs plus a chronic Liver Yang history with a red tongue and wiry pulse indicates internal Wind; exposure with aversion to wind and a floating pulse indicates exterior Wind."
+    },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "The causes of disease, external causes, Wind (exterior and interior Wind)" },
-      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Etiology, the six exogenous factors, wind" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The causes of disease, external causes, Wind (exterior and interior Wind)"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Etiology, the six exogenous factors, wind"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIk-0007",
@@ -995,12 +3659,85 @@
     "difficulty": "advanced",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["summer-heat", "dampness", "qi-injury", "combined-pathogenic-factors"],
-    "distinction": { "between": ["summer-heat-with-dampness", "spleen-damp-heat"], "key": "Acute onset after seasonal heat exposure with high fever, profuse sweating and Qi injury marks Summer-Heat; gradual digestive onset marks internal Damp-Heat." },
+    "concepts": [
+      "summer-heat",
+      "dampness",
+      "qi-injury",
+      "combined-pathogenic-factors"
+    ],
+    "distinction": {
+      "between": [
+        "summer-heat-with-dampness",
+        "spleen-damp-heat"
+      ],
+      "key": "Acute onset after seasonal heat exposure with high fever, profuse sweating and Qi injury marks Summer-Heat; gradual digestive onset marks internal Damp-Heat."
+    },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "The causes of disease, external causes, Summer-Heat" },
-      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Etiology, the six exogenous factors, summer heat" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The causes of disease, external causes, Summer-Heat"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Etiology, the six exogenous factors, summer heat"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IIk-0008",
@@ -1026,10 +3763,76 @@
     "difficulty": "foundational",
     "cognitiveLevel": "recall",
     "vignette": false,
-    "concepts": ["pestilential-qi", "six-pathogenic-factors", "external-etiology"],
+    "concepts": [
+      "pestilential-qi",
+      "six-pathogenic-factors",
+      "external-etiology"
+    ],
     "references": [
-      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Etiology, pestilential factors" },
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "The causes of disease, external causes" }
-    ]
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Etiology, pestilential factors"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The causes of disease, external causes"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   }
 ]

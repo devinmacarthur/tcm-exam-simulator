@@ -1,0 +1,1481 @@
+[
+  {
+    "id": "FOM-IB-0001",
+    "domain": "I",
+    "subdomain": "I-B",
+    "task": "I-B-1",
+    "stem": "A low, weak voice with reluctance to speak most commonly indicates which of the following?",
+    "options": {
+      "A": "Full Heat in the Lung",
+      "B": "Liver Qi stagnation",
+      "C": "Phlegm obstructing the Lung",
+      "D": "Lung Qi deficiency"
+    },
+    "correct": "D",
+    "explanation": "The voice is produced by Lung Qi, and its strength reflects the state of Qi. A low, feeble voice with disinclination to speak indicates deficiency, especially of Lung Qi (and Spleen Qi). A loud, coarse, forceful voice indicates an excess pattern.",
+    "distractorExplanations": {
+      "A": "Full Heat in the Lung produces a loud, coarse voice, often with a barking cough and thick yellow sputum.",
+      "B": "Liver Qi stagnation shows in frequent sighing and an irritable or moody tone, not in a feeble voice.",
+      "C": "Phlegm obstructing the Lung produces a muffled, heavy, or gurgling voice with rattling in the throat; a learner who reads any voice change as Phlegm would pick this."
+    },
+    "learningObjective": "Interpret voice strength in terms of Qi deficiency and excess.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "voice-observation",
+      "lung-qi-deficiency"
+    ],
+    "references": [
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Diagnostic methods: auscultation and olfaction"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Auscultation and olfaction: the voice"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IB-0002",
+    "domain": "I",
+    "subdomain": "I-B",
+    "task": "I-B-1",
+    "stem": "A patient with a high fever speaks loudly and incoherently and is agitated. Which of the following best describes this speech and its mechanism?",
+    "options": {
+      "A": "Muttering (Zheng Sheng) from Heart Qi deficiency",
+      "B": "Soliloquy from Phlegm misting the Heart",
+      "C": "Delirious speech (Zhan Yu) from Heat harassing the Heart",
+      "D": "Stuttering from Wind-Phlegm obstructing the channels"
+    },
+    "correct": "C",
+    "explanation": "Loud, forceful, incoherent speech with agitation during a high fever is delirious speech (Zhan Yu), an excess sign in which Heat has entered the Pericardium or Ying level and disturbs the Spirit. The loudness and force distinguish it from the feeble, repetitive muttering (Zheng Sheng) of deficiency, which occurs in a weak patient with a low voice.",
+    "distractorExplanations": {
+      "A": "Muttering is low, feeble, repetitive, and fragmented speech in a severely weakened patient, reflecting exhaustion of Heart Qi; the loudness and agitation here rule out deficiency. A learner who groups all confused speech together would pick this.",
+      "B": "Soliloquy (talking to oneself and stopping when others approach) occurs in chronic depressive-type disorders from Phlegm obstruction or Heart Qi deficiency, not in an acute high fever.",
+      "D": "Stuttering or slurred speech with facial deviation indicates Wind-Phlegm obstructing the channels of the tongue, as in Wind-stroke; the speech is impaired in articulation, not incoherent in content."
+    },
+    "learningObjective": "Differentiate delirious speech from muttering by its force and clinical context.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": false,
+    "concepts": [
+      "delirious-speech",
+      "muttering",
+      "heat-harassing-the-heart"
+    ],
+    "distinction": {
+      "between": [
+        "delirious-speech",
+        "muttering"
+      ],
+      "key": "Delirious speech is loud and forceful in a febrile, agitated patient (excess Heat); muttering is feeble and repetitive in an exhausted patient (deficiency)."
+    },
+    "references": [
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Auscultation and olfaction: speech"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Diagnostic methods: auscultation and olfaction"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IB-0003",
+    "domain": "I",
+    "subdomain": "I-B",
+    "task": "I-B-1",
+    "stem": "A 44-year-old singer has had a hoarse, weak voice for 8 months that is worse in the evening, with a dry throat and night sweats. Which pattern is most consistent with these findings?",
+    "options": {
+      "A": "Lung and Kidney Yin deficiency",
+      "B": "Wind-Cold invading the Lung",
+      "C": "Phlegm-Heat obstructing the Lung",
+      "D": "Lung Qi deficiency"
+    },
+    "correct": "A",
+    "explanation": "Hoarseness is interpreted by its onset and course. A chronic, gradually developing hoarseness with dryness, evening aggravation, and night sweats indicates Lung and Kidney Yin deficiency failing to moisten the throat and vocal cords (traditionally, the broken bell cannot sound). Prolonged use of the voice depletes Lung Yin and is a common cause.",
+    "distractorExplanations": {
+      "B": "Wind-Cold causes a sudden hoarseness or loss of voice with chills, nasal congestion, and a thin white coating lasting days (the blocked bell), not months.",
+      "C": "Phlegm-Heat produces a thick, muffled voice with a productive cough of yellow sputum, not a dry hoarseness with night sweats.",
+      "D": "Lung Qi deficiency also weakens the voice, but it is a feeble voice worse with exertion, with spontaneous daytime sweating rather than night sweats and no dryness or evening aggravation. A learner who stops at the weak voice without weighing the Yin signs would pick this."
+    },
+    "learningObjective": "Differentiate chronic hoarseness of Yin deficiency from acute aphonia of exterior invasion and from Qi deficiency.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "hoarseness",
+      "lung-yin-deficiency",
+      "kidney-yin-deficiency",
+      "lung-qi-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "lung-and-kidney-yin-deficiency",
+        "lung-qi-deficiency"
+      ],
+      "key": "Hoarseness with dryness, night sweats, and evening aggravation indicates Yin deficiency; a feeble voice with daytime spontaneous sweating and exertional worsening indicates Qi deficiency."
+    },
+    "references": [
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Auscultation and olfaction: hoarseness and loss of voice"
+      },
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Hearing: the voice"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IB-0004",
+    "domain": "I",
+    "subdomain": "I-B",
+    "task": "I-B-1",
+    "stem": "A 68-year-old patient suddenly develops slurred, stuttering speech together with deviation of the mouth and numbness of one arm. The speech finding most strongly indicates which of the following?",
+    "options": {
+      "A": "Heart Qi deficiency",
+      "B": "Wind-Phlegm obstructing the channels",
+      "C": "Liver Qi stagnation",
+      "D": "Kidney Essence deficiency"
+    },
+    "correct": "B",
+    "explanation": "Sudden stuttering or slurred speech appearing together with deviation of the mouth and one-sided numbness is a sign of Wind-stroke: Wind carrying Phlegm obstructs the channels and collaterals of the tongue and face so that articulation fails. The abruptness and the accompanying facial and limb signs identify Wind as the pathogen.",
+    "distractorExplanations": {
+      "A": "Heart Qi deficiency produces a feeble voice, palpitations, and possibly muttering in a weak patient, with a gradual course and no facial deviation.",
+      "C": "Liver Qi stagnation produces sighing, moodiness, and distension, not sudden loss of articulation; a learner who links any Liver-related sign to stagnation rather than to Wind would choose this.",
+      "D": "Kidney Essence deficiency produces slow speech development in children or gradual decline of memory and hearing in the elderly, not an abrupt onset."
+    },
+    "learningObjective": "Recognize speech changes that indicate Wind-Phlegm obstruction of the channels.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "stuttering",
+      "wind-phlegm",
+      "wind-stroke"
+    ],
+    "references": [
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Auscultation and olfaction: speech"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to pathogenic factors: Wind"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IB-0005",
+    "domain": "I",
+    "subdomain": "I-B",
+    "task": "I-B-1",
+    "stem": "Which of the following cough qualities most strongly indicates a deficiency pattern?",
+    "options": {
+      "A": "Loud, coarse cough with copious sputum",
+      "B": "Heavy, muffled cough with nasal obstruction",
+      "C": "Paroxysmal cough with loud rattling of Phlegm",
+      "D": "Low, feeble cough with shortness of breath on exertion"
+    },
+    "correct": "D",
+    "explanation": "The sound of a cough reflects the strength of Lung Qi against the pathogen. A low, feeble cough accompanied by shortness of breath that worsens with exertion shows that Lung Qi is too weak to expel pathogens forcefully, which is a deficiency pattern. Loud, coarse, forceful coughs indicate excess patterns in which Lung Qi is obstructed but not depleted.",
+    "distractorExplanations": {
+      "A": "A loud, coarse cough with copious sputum is an excess pattern of Phlegm obstructing the Lung.",
+      "B": "A heavy, muffled cough with nasal obstruction indicates exterior Wind-Cold impairing the Lung's diffusing function, an excess pattern.",
+      "C": "A paroxysmal cough with loud rattling indicates Phlegm obstruction, an excess pattern; a learner who equates paroxysmal (intermittent) with weak would pick this."
+    },
+    "learningObjective": "Differentiate deficiency from excess cough by its sound.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": false,
+    "concepts": [
+      "cough-quality",
+      "lung-qi-deficiency",
+      "excess-versus-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "deficiency-cough",
+        "excess-cough"
+      ],
+      "key": "A low, feeble cough worse with exertion indicates deficiency; a loud, coarse, forceful cough indicates excess."
+    },
+    "references": [
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Auscultation and olfaction: cough"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Diagnostic methods: auscultation and olfaction"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IB-0006",
+    "domain": "I",
+    "subdomain": "I-B",
+    "task": "I-B-1",
+    "stem": "A dry, hacking cough with little or no sputum, where any sputum is scanty and difficult to expectorate, together with a dry throat, most commonly indicates which of the following?",
+    "options": {
+      "A": "Phlegm-Damp obstructing the Lung",
+      "B": "Wind-Cold impairing the Lung's diffusing function",
+      "C": "Insufficient Lung fluids from Dryness or Yin deficiency",
+      "D": "Lung Qi deficiency with weak diffusing"
+    },
+    "correct": "C",
+    "explanation": "A dry, hacking cough with scanty sticky sputum and a dry throat shows that the Lung lacks moisture: either external Dryness has injured Lung fluids or Lung Yin is deficient. Without fluids there is nothing to form loose sputum, so the cough is unproductive and the small amount of sputum is sticky and hard to bring up.",
+    "distractorExplanations": {
+      "A": "Phlegm-Damp produces a cough with copious, easily expectorated white sputum and a sticky coating, the opposite of a dry cough.",
+      "B": "Wind-Cold produces a muffled cough with thin white sputum, nasal congestion, and chills; the cough is not dry and hacking.",
+      "D": "Lung Qi deficiency produces a weak cough with shortness of breath and spontaneous sweating; the sputum, when present, is thin and watery rather than scanty and sticky. A learner who attributes every chronic cough to Qi deficiency would pick this."
+    },
+    "learningObjective": "Interpret a dry, unproductive cough in terms of Lung fluids.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": false,
+    "concepts": [
+      "dry-cough",
+      "lung-yin-deficiency",
+      "dryness"
+    ],
+    "references": [
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Auscultation and olfaction: cough"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Lung patterns: Lung Yin deficiency; Dryness invading the Lung"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IB-0007",
+    "domain": "I",
+    "subdomain": "I-B",
+    "task": "I-B-1",
+    "stem": "A 71-year-old patient has had breathlessness for 3 years that worsens with slight exertion. Breathing is shallow and weak, inhalation is more difficult than exhalation, and the patient feels relief after a long, deep breath in. Which mechanism best explains this breathing pattern?",
+    "options": {
+      "A": "Kidney failing to receive Qi",
+      "B": "Phlegm-Heat obstructing the Lung",
+      "C": "Lung Qi deficiency with weak diffusing",
+      "D": "Liver Qi stagnation with Qi counterflow"
+    },
+    "correct": "A",
+    "explanation": "Dyspnea is classified by its force and by which phase of breathing is impaired. Chronic, weak, shallow breathing that worsens with exertion is deficient dyspnea; difficulty with inhalation specifically, relieved by a long inspiration, shows that the Kidney is failing to receive (grasp) the Qi sent down by the Lung. The Lung governs exhalation and the Kidney governs inhalation, so impaired inhalation localizes the deficiency to the Kidney.",
+    "distractorExplanations": {
+      "B": "Phlegm-Heat produces excess dyspnea: loud, coarse, rapid breathing with rattling, relief on exhalation, and an acute or paroxysmal course.",
+      "C": "Lung Qi deficiency produces shortness of breath with a weak voice and spontaneous sweating, but exhalation rather than inhalation is affected and the patient does not gain relief from deep inspiration. A learner who stops at the deficiency signs without locating the phase would pick this.",
+      "D": "Liver Qi stagnation produces a sensation of chest oppression relieved by sighing, related to emotional state, without exertional weakness or a 3-year chronic decline."
+    },
+    "learningObjective": "Differentiate deficient dyspnea of the Kidney from that of the Lung and from excess dyspnea.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "dyspnea",
+      "kidney-failing-to-receive-qi",
+      "lung-qi-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "kidney-failing-to-receive-qi",
+        "lung-qi-deficiency"
+      ],
+      "key": "Difficulty with inhalation relieved by deep inspiration points to the Kidney; shortness of breath with weak exhalation and feeble voice points to the Lung."
+    },
+    "references": [
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Auscultation and olfaction: breathing (dyspnea)"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Kidney patterns: Kidney failing to receive Qi"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IB-0008",
+    "domain": "I",
+    "subdomain": "I-B",
+    "task": "I-B-1",
+    "stem": "Breathing accompanied by a whistling or rattling sound in the throat (wheezing, Xiao) most commonly indicates which of the following?",
+    "options": {
+      "A": "Lung Qi deficiency",
+      "B": "Phlegm obstructing the Lung and airways",
+      "C": "Lung Yin deficiency",
+      "D": "Blood stasis in the chest"
+    },
+    "correct": "B",
+    "explanation": "Wheezing is a sound produced when the airways are narrowed by Phlegm; Qi forced through the obstructed passages creates the whistling or rattling. Wheezing therefore always indicates retained Phlegm in the Lung, whether triggered by Cold, Heat, or exterior Wind. It is distinguished from dyspnea (Chuan), which is difficult breathing without necessarily any sound.",
+    "distractorExplanations": {
+      "A": "Lung Qi deficiency produces quiet, shallow, weak breathing with shortness of breath; there is no obstruction to generate a sound.",
+      "C": "Lung Yin deficiency produces a dry cough and dry throat; without Phlegm there is no wheezing. A learner who associates throat sounds with throat dryness would pick this.",
+      "D": "Blood stasis in the chest produces fixed stabbing chest pain and a purple tongue, not an audible airway sound."
+    },
+    "learningObjective": "Identify the pathogenic factor indicated by wheezing.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "wheezing",
+      "phlegm-obstructing-the-lung"
+    ],
+    "references": [
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Auscultation and olfaction: breathing (wheezing)"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Diagnostic methods: auscultation and olfaction"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IB-0009",
+    "domain": "I",
+    "subdomain": "I-B",
+    "task": "I-B-1",
+    "stem": "A patient who has been severely ill for many months, emaciated and very weak, begins to have hiccups that are low, feeble, and intermittent. Which of the following is the most appropriate interpretation?",
+    "options": {
+      "A": "Stomach Heat causing Qi to rebel upward",
+      "B": "Cold in the Stomach from ingestion of raw food",
+      "C": "Liver Qi invading the Stomach",
+      "D": "Exhaustion of Stomach Qi, an unfavorable prognostic sign"
+    },
+    "correct": "D",
+    "explanation": "Hiccup is rebellious Stomach Qi, and its sound and context show its origin. In a chronically ill, emaciated, weak patient, hiccups that are low, feeble, and intermittent indicate that Stomach Qi is nearly exhausted and rebelling as it fails. In this setting hiccup is a sign of critical decline, traditionally regarded as an unfavorable prognostic sign.",
+    "distractorExplanations": {
+      "A": "Stomach Heat produces loud, forceful, frequent hiccups with thirst and bad breath, typically in a robust patient.",
+      "B": "Cold in the Stomach from cold or raw food produces hiccups that are loud, slow, and prolonged, relieved by warmth, with an acute onset after eating; a learner who treats every hiccup as a dietary Stomach disorder would pick this.",
+      "C": "Liver Qi invading the Stomach produces hiccups or belching provoked by emotional upset, with distension and irritability, not feeble hiccups in a terminally weak patient."
+    },
+    "learningObjective": "Evaluate the prognostic significance of hiccup according to its sound and the patient's condition.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "evaluation",
+    "vignette": false,
+    "concepts": [
+      "hiccup",
+      "stomach-qi-exhaustion",
+      "prognosis"
+    ],
+    "references": [
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Auscultation and olfaction: hiccup"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Diagnostic methods: auscultation and olfaction"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IB-0010",
+    "domain": "I",
+    "subdomain": "I-B",
+    "task": "I-B-1",
+    "stem": "Frequent sighing is most commonly a manifestation of which of the following?",
+    "options": {
+      "A": "Lung Qi deficiency",
+      "B": "Heart Blood deficiency",
+      "C": "Liver Qi stagnation",
+      "D": "Phlegm obstructing the chest"
+    },
+    "correct": "C",
+    "explanation": "Sighing is the body's attempt to release constrained Qi in the chest and hypochondrium. Frequent sighing, often with a feeling of oppression that is relieved by the sigh, indicates Liver Qi stagnation, usually from emotional constraint.",
+    "distractorExplanations": {
+      "A": "Lung Qi deficiency produces shortness of breath and a weak voice, with no sense of relief from sighing; a learner who treats sighing as a breathing problem of the Lung would pick this.",
+      "B": "Heart Blood deficiency produces palpitations, poor memory, and insomnia, not sighing.",
+      "D": "Phlegm obstructing the chest produces oppression with a heavy sensation, rattling, and a sticky coating; the oppression is not relieved by sighing."
+    },
+    "learningObjective": "Identify the pattern indicated by frequent sighing.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "sighing",
+      "liver-qi-stagnation"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Liver patterns: Liver Qi stagnation"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Auscultation and olfaction: sighing"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IB-0011",
+    "domain": "I",
+    "subdomain": "I-B",
+    "task": "I-B-2",
+    "stem": "In olfaction, an odor from the body, breath, or excretions that is strong, foul, or putrid generally indicates which of the following?",
+    "options": {
+      "A": "Heat of an excess nature",
+      "B": "Cold of a deficient nature",
+      "C": "Dampness without Heat",
+      "D": "Qi stagnation without Heat"
+    },
+    "correct": "A",
+    "explanation": "The general rule of olfaction is that strong, foul, putrid, or rotten odors indicate Heat and excess, because Heat putrefies substances in the body. Odors that are slight, fishy, raw, or bland indicate Cold and deficiency, because without Heat there is no putrefaction.",
+    "distractorExplanations": {
+      "B": "Cold and deficiency produce faint, fishy, or raw odors, or no odor at all; a learner who has the rule reversed would pick this.",
+      "C": "Dampness without Heat gives bland, fishy, or raw-smelling excretions; a strong foul smell appears only when Heat combines with the Dampness.",
+      "D": "Qi stagnation alone produces no characteristic odor; odors arise when stagnation generates Heat or when food is retained."
+    },
+    "learningObjective": "State the general rule for interpreting odors as Heat or Cold.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "olfaction",
+      "foul-odor-heat",
+      "fishy-odor-cold"
+    ],
+    "references": [
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Auscultation and olfaction: smelling odors"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Diagnostic methods: auscultation and olfaction"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IB-0012",
+    "domain": "I",
+    "subdomain": "I-B",
+    "task": "I-B-2",
+    "stem": "A patient's breath is foul-smelling. The gums are swollen and painful, the patient is thirsty, and the tongue has a yellow coating. Which pattern is most consistent with these findings?",
+    "options": {
+      "A": "Retention of Food in the Stomach",
+      "B": "Stomach Heat",
+      "C": "Spleen Qi deficiency",
+      "D": "Lung Heat with Phlegm"
+    },
+    "correct": "B",
+    "explanation": "Foul breath (halitosis) accompanied by swollen, painful gums, thirst, and a yellow coating indicates Stomach Heat. The Stomach channel passes through the gums, so Heat in the Stomach rises along the channel to inflame them, and the Heat putrefies Stomach contents to produce the foul odor.",
+    "distractorExplanations": {
+      "A": "Retention of Food produces breath that smells sour and of rotten food, with belching, distension, and a thick, dirty coating, but without gum swelling; a learner who ascribes all bad breath to undigested food would pick this.",
+      "C": "Spleen Qi deficiency produces little or no breath odor; there is no Heat to putrefy.",
+      "D": "Lung Heat with Phlegm produces foul sputum and a cough with chest symptoms, not gum swelling and thirst."
+    },
+    "learningObjective": "Differentiate the breath odor of Stomach Heat from that of Food retention.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": false,
+    "concepts": [
+      "breath-odor",
+      "stomach-heat",
+      "retention-of-food"
+    ],
+    "distinction": {
+      "between": [
+        "stomach-heat",
+        "retention-of-food"
+      ],
+      "key": "Foul breath with swollen painful gums and thirst indicates Stomach Heat; sour, rotten breath with belching and distension indicates Food retention."
+    },
+    "references": [
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Auscultation and olfaction: odor of the breath"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Stomach patterns: Stomach Heat"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IB-0013",
+    "domain": "I",
+    "subdomain": "I-B",
+    "task": "I-B-2",
+    "stem": "A 40-year-old patient has had diarrhea for 2 days. The stools are yellow and loose, extremely foul-smelling, and passed with a burning sensation of the anus. Which pattern is most consistent with the stool odor and these findings?",
+    "options": {
+      "A": "Spleen Yang deficiency",
+      "B": "Kidney Yang deficiency",
+      "C": "Cold-Damp invading the Spleen",
+      "D": "Large Intestine Damp-Heat"
+    },
+    "correct": "D",
+    "explanation": "An extremely foul stool odor indicates Heat, and yellow loose stools with a burning sensation of the anus in an acute diarrhea localize that Heat, combined with Dampness, to the Large Intestine. The strong smell is the discriminating olfactory finding: Cold-type diarrhea produces stools with little odor.",
+    "distractorExplanations": {
+      "A": "Spleen Yang deficiency produces chronic, watery, odorless stools with undigested food and cold limbs.",
+      "B": "Kidney Yang deficiency produces early-morning (cock-crow) diarrhea with cold back and knees and no foul smell.",
+      "C": "Cold-Damp invading the Spleen produces acute watery diarrhea that is pale and not foul, with abdominal cold pain; a learner who keys on the acute onset alone and overlooks the Heat signs would pick this."
+    },
+    "learningObjective": "Use stool odor to differentiate Heat-type from Cold-type diarrhea.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "stool-odor",
+      "large-intestine-damp-heat",
+      "cold-damp"
+    ],
+    "distinction": {
+      "between": [
+        "large-intestine-damp-heat",
+        "cold-damp-invading-the-spleen"
+      ],
+      "key": "Foul-smelling yellow stools with anal burning indicate Damp-Heat; pale, odorless watery stools with cold pain indicate Cold-Damp."
+    },
+    "references": [
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Auscultation and olfaction: odor of excretions"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Large Intestine patterns: Damp-Heat in the Large Intestine"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IB-0014",
+    "domain": "I",
+    "subdomain": "I-B",
+    "task": "I-B-2",
+    "stem": "A patient reports a vaginal discharge that is thin and white with a fishy odor. The odor and appearance of this discharge most commonly indicate which of the following?",
+    "options": {
+      "A": "Damp-Heat pouring downward",
+      "B": "Heat toxin accumulating in the Lower Burner",
+      "C": "Cold-Damp pouring downward",
+      "D": "Kidney Yin deficiency with Empty Heat"
+    },
+    "correct": "C",
+    "explanation": "A fishy or raw odor is a Cold sign in olfaction, and a thin, white, watery discharge is a Cold-Damp sign in observation. Together they indicate Cold-Damp pouring downward into the Lower Burner, most often from Spleen deficiency failing to transform Dampness. Damp-Heat, by contrast, produces a discharge that is yellow, thick, and foul.",
+    "distractorExplanations": {
+      "A": "Damp-Heat produces a yellow or greenish, thick, foul-smelling discharge with itching; a learner who associates any discharge odor with Damp-Heat would pick this.",
+      "B": "Heat toxin produces a discharge that is purulent, often blood-tinged, and strongly putrid, with fever and lower abdominal pain.",
+      "D": "Kidney Yin deficiency with Empty Heat produces a scanty, sometimes yellowish or blood-tinged discharge with dryness and night sweats, not a copious thin white discharge."
+    },
+    "learningObjective": "Interpret the odor and appearance of vaginal discharge as Cold-Damp or Damp-Heat.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": false,
+    "concepts": [
+      "discharge-odor",
+      "cold-damp",
+      "damp-heat"
+    ],
+    "distinction": {
+      "between": [
+        "cold-damp",
+        "damp-heat"
+      ],
+      "key": "A thin, white, fishy discharge indicates Cold-Damp; a thick, yellow, foul discharge indicates Damp-Heat."
+    },
+    "references": [
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Auscultation and olfaction: odor of secretions (leukorrhea)"
+      },
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Smelling: odor of discharges"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IB-0015",
+    "domain": "I",
+    "subdomain": "I-B",
+    "task": "I-B-2",
+    "stem": "A patient belches frequently after meals, and the belches carry a sour, rotten odor. There is epigastric fullness that is worse after eating. Which pattern is most consistent with these findings?",
+    "options": {
+      "A": "Retention of Food in the Stomach",
+      "B": "Liver Qi invading the Stomach",
+      "C": "Stomach Qi deficiency",
+      "D": "Cold in the Stomach"
+    },
+    "correct": "A",
+    "explanation": "Belching is rebellious Stomach Qi, and the odor of the belch identifies its cause. A sour, rotten smell with epigastric fullness worse after eating indicates Retention of Food in the Stomach: undigested food ferments and putrefies, and Stomach Qi rebels upward carrying the odor.",
+    "distractorExplanations": {
+      "B": "Liver Qi invading the Stomach produces loud belching provoked by emotional upset, without a sour or rotten odor, and relief after the belch; a learner who treats all belching as Liver-related would choose this.",
+      "C": "Stomach Qi deficiency produces weak, infrequent belching without odor, with poor appetite and fatigue.",
+      "D": "Cold in the Stomach produces belching or hiccup with clear, odorless fluid regurgitation and epigastric cold pain relieved by warmth."
+    },
+    "learningObjective": "Use the odor of belching to identify Food retention.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": false,
+    "concepts": [
+      "belching",
+      "retention-of-food",
+      "liver-qi-invading-the-stomach"
+    ],
+    "distinction": {
+      "between": [
+        "retention-of-food",
+        "liver-qi-invading-the-stomach"
+      ],
+      "key": "Belching with a sour, rotten odor worse after meals indicates Food retention; loud odorless belching tied to emotional upset indicates Liver Qi invading the Stomach."
+    },
+    "references": [
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Auscultation and olfaction: belching"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Stomach patterns: Retention of Food in the Stomach"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  }
+]

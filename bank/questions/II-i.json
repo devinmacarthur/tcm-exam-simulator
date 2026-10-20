@@ -1,0 +1,577 @@
+[
+  {
+    "id": "FOM-IIi-0001",
+    "domain": "II",
+    "subdomain": "II-i",
+    "task": "II-1-i",
+    "theory": "San Jiao",
+    "stem": "In the classical description of the Triple Burner (San Jiao), the Lower Burner is likened to which of the following?",
+    "options": {
+      "A": "a mist",
+      "B": "a maceration chamber",
+      "C": "a drainage ditch",
+      "D": "a bellows"
+    },
+    "correct": "C",
+    "explanation": "The Upper Burner is like a mist, because the Lung and Heart diffuse Qi and fluids over the body; the Middle Burner is like a maceration chamber (froth or foam), because the Spleen and Stomach rot and ripen food; the Lower Burner is like a drainage ditch, because the Kidney, Bladder, and Intestines separate the clear from the turbid and excrete the turbid.",
+    "distractorExplanations": {
+      "A": "A mist describes the Upper Burner's diffusion of Qi and fluids.",
+      "B": "A maceration chamber (froth) describes the Middle Burner's rotting and ripening of food.",
+      "D": "A bellows is not one of the classical images for the burners; a learner guessing from the idea of breath picks this."
+    },
+    "learningObjective": "Identify the classical image for the Lower Burner.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "san-jiao",
+      "three-burners",
+      "lower-burner"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on the functions of the Triple Burner"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIi-0002",
+    "domain": "II",
+    "subdomain": "II-i",
+    "task": "II-1-i",
+    "theory": "San Jiao",
+    "stem": "The San Jiao is described as the avenue of Original Qi (Yuan Qi). Which statement best explains the meaning of this description?",
+    "options": {
+      "A": "it distributes Kidney-rooted Yuan Qi to all the organs and channels",
+      "B": "it produces Yuan Qi in the Middle Burner from food and drink",
+      "C": "it gathers Yuan Qi in the chest from inhaled air",
+      "D": "it stores Yuan Qi on behalf of the Pericardium"
+    },
+    "correct": "A",
+    "explanation": "Yuan Qi arises from Prenatal Essence stored in the Kidney. The San Jiao is the passage through which this Qi emerges from between the Kidneys and is conveyed to the five Zang and six Fu and into the channels, where it serves as the motive force for all transformations.",
+    "distractorExplanations": {
+      "B": "Qi produced in the Middle Burner from food and drink is Gu Qi; Yuan Qi is prenatal and rooted in the Kidney.",
+      "C": "Qi gathered in the chest from air and food is Zong Qi (Gathering Qi), a Lung function.",
+      "D": "Yuan Qi is stored in the Kidney; the Pericardium is the San Jiao's interior-exterior partner but stores no Qi for it."
+    },
+    "learningObjective": "Explain the San Jiao's role as the passage for Yuan Qi.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": false,
+    "concepts": [
+      "san-jiao",
+      "yuan-qi",
+      "passage-of-yuan-qi"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on the functions of the Triple Burner"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIi-0003",
+    "domain": "II",
+    "subdomain": "II-i",
+    "task": "II-1-i",
+    "theory": "San Jiao",
+    "stem": "A 36-year-old woman in a humid summer reports two days of a heavy head 'as if wrapped in cloth', aching heaviness of the limbs, a stifling sensation in the chest, mild aversion to cold, and a low fever that rises in the afternoon. She has little thirst. The tongue has a white, sticky coating. The pulse is soggy. According to Three Burner differentiation, which pattern is most appropriate?",
+    "options": {
+      "A": "Damp-Heat in the Middle Burner",
+      "B": "Damp-Heat in the Lower Burner",
+      "C": "Wind-Cold invading the Lung",
+      "D": "Damp-Heat in the Upper Burner"
+    },
+    "correct": "D",
+    "explanation": "This is the initial stage of a Damp-Heat disorder lodged in the Upper Burner, with Dampness predominating over Heat. The heavy head and limbs, chest oppression, aversion to cold, afternoon fever, absence of thirst, white sticky coating, and soggy pulse are the classic presentation before the pathogen settles in the Middle Burner.",
+    "distractorExplanations": {
+      "A": "Damp-Heat in the Middle Burner centers on epigastric fullness, nausea, poor appetite, and loose stools with a yellow greasy coating; those features have not appeared.",
+      "B": "Damp-Heat in the Lower Burner presents with urinary symptoms or vaginal discharge.",
+      "C": "Wind-Cold invading the Lung produces a floating tight pulse and thin white coating with sneezing and clear discharge; heaviness, afternoon fever, and a sticky coating indicate Dampness."
+    },
+    "learningObjective": "Recognize the Upper Burner stage of a Damp-Heat disorder.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "san-jiao-pattern-identification",
+      "damp-heat-upper-burner",
+      "soggy-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "damp-heat-upper-burner",
+        "damp-heat-middle-burner"
+      ],
+      "key": "Aversion to cold with heavy head and chest oppression and a white sticky coating mark the Upper Burner stage; epigastric fullness and nausea with a yellow greasy coating mark the Middle Burner."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Three Burners"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIi-0004",
+    "domain": "II",
+    "subdomain": "II-i",
+    "task": "II-1-i",
+    "theory": "San Jiao",
+    "stem": "A 44-year-old man reports burning, frequent, difficult urination with dark scanty urine, a dull ache in the lower abdomen, and loose stools with a burning sensation at the anus. He feels heavy and is thirsty with little desire to drink. The tongue has a yellow, greasy coating, thicker at the root. The pulse is slippery and rapid. Which pattern is most appropriate?",
+    "options": {
+      "A": "Damp-Heat in the Middle Burner",
+      "B": "Damp-Heat in the Lower Burner",
+      "C": "Damp-Heat in the Upper Burner",
+      "D": "Kidney Yin deficiency with Empty Heat"
+    },
+    "correct": "B",
+    "explanation": "Damp-Heat in the Lower Burner affects the Bladder and Intestines: burning difficult urination with dark scanty urine, lower abdominal ache, and loose stools with anal burning. Thirst with little desire to drink and body heaviness reflect Dampness; the greasy yellow coating thicker at the root localizes the Damp-Heat to the lower body, and the slippery rapid pulse confirms Damp-Heat.",
+    "distractorExplanations": {
+      "A": "Damp-Heat in the Middle Burner centers on epigastric fullness, nausea, and poor appetite; here the urinary and intestinal symptoms dominate.",
+      "C": "Damp-Heat in the Upper Burner presents with heavy head, chest oppression, and aversion to cold at the onset of the disorder.",
+      "D": "Kidney Yin deficiency can give scanty dark urine, but it shows a red tongue with little coating, a thin rapid pulse, and night sweats; the greasy coating rules it out."
+    },
+    "learningObjective": "Differentiate Damp-Heat in the Lower Burner from Damp-Heat in the other burners and from Yin deficiency.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "san-jiao-pattern-identification",
+      "damp-heat-lower-burner",
+      "greasy-yellow-coating"
+    ],
+    "distinction": {
+      "between": [
+        "damp-heat-lower-burner",
+        "kidney-yin-deficiency"
+      ],
+      "key": "A greasy yellow coating with a slippery rapid pulse marks Damp-Heat; Yin deficiency shows a red tongue with little coating and a thin pulse."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Three Burners"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIi-0005",
+    "domain": "II",
+    "subdomain": "II-i",
+    "task": "II-1-i",
+    "theory": "San Jiao",
+    "stem": "A 31-year-old woman was seen six days ago with a heavy head, aversion to cold, chest stuffiness, and a low afternoon fever during a humid spell; her coating was white and sticky. Today the aversion to cold has resolved, and she reports epigastric and abdominal fullness, nausea, poor appetite, a sticky taste, loose foul stools, and a fever that persists after sweating. The coating is now yellow and greasy. The pulse is soggy and rapid. Which statement best describes the current location and progression of the disorder?",
+    "options": {
+      "A": "it remains in the Upper Burner at the Wei portion",
+      "B": "it has sunk directly to the Lower Burner",
+      "C": "it has moved to the Middle Burner, with Heat increasing",
+      "D": "it has transformed into Dryness in the Yang Ming organ"
+    },
+    "correct": "C",
+    "explanation": "Damp-Heat typically enters through the Upper Burner and then lodges in the Middle Burner, where Dampness and Heat steam together in the Spleen and Stomach. The new epigastric fullness, nausea, sticky taste, foul loose stools, and a fever unrelieved by sweating mark the Middle Burner stage, and the change from a white sticky to a yellow greasy coating with a rapid pulse shows Heat becoming more prominent relative to Dampness.",
+    "distractorExplanations": {
+      "A": "Resolution of aversion to cold and the appearance of digestive symptoms show that the exterior Upper Burner stage has passed.",
+      "B": "Lower Burner involvement would show urinary symptoms or vaginal discharge; the symptoms center on the epigastrium and Spleen-Stomach function.",
+      "D": "Dryness in the Yang Ming organ gives constipation with dry hard stools, a dry yellow coating, and a full pulse; here the stools are loose and the coating greasy, so Dampness is still present."
+    },
+    "learningObjective": "Evaluate the progression of a Damp-Heat disorder from the Upper to the Middle Burner from serial findings.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "evaluation",
+    "vignette": true,
+    "concepts": [
+      "san-jiao-pattern-identification",
+      "damp-heat-middle-burner",
+      "disease-progression",
+      "greasy-yellow-coating"
+    ],
+    "distinction": {
+      "between": [
+        "damp-heat-middle-burner",
+        "yang-ming-organ-dryness"
+      ],
+      "key": "Loose foul stools with a greasy coating show Dampness persisting in the Middle Burner; dry hard stools with a dry coating would show transformation to Dryness."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Three Burners"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIi-0006",
+    "domain": "II",
+    "subdomain": "II-i",
+    "task": "II-1-i",
+    "theory": "San Jiao",
+    "stem": "Which of the following best describes the function of the Middle Burner?",
+    "options": {
+      "A": "rotting and ripening food and drink and transforming them into Gu Qi",
+      "B": "dispersing Wei Qi and Body Fluids to the skin and muscles",
+      "C": "separating the clear from the turbid and excreting urine and stool",
+      "D": "storing Essence and governing the reception of Qi"
+    },
+    "correct": "A",
+    "explanation": "The Middle Burner comprises the Spleen and Stomach. It receives food and drink, rots and ripens them, and transforms them into Gu Qi, which goes on to form Ying Qi and Blood; this is why it is likened to a maceration chamber. It also governs the transportation of food essence and fluids to the rest of the body.",
+    "distractorExplanations": {
+      "B": "Dispersing Wei Qi and fluids to the skin is the Upper Burner function, likened to a mist.",
+      "C": "Separating clear from turbid and excreting the turbid is the Lower Burner function, likened to a drainage ditch.",
+      "D": "Storing Essence and receiving Qi are Kidney functions; a learner who equates the Lower Burner with the Kidney alone, or misplaces the Kidney in the Middle Burner, picks this."
+    },
+    "learningObjective": "Identify the digestive and transforming function of the Middle Burner.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "san-jiao",
+      "three-burners",
+      "middle-burner",
+      "gu-qi"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on the functions of the Triple Burner"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  }
+]

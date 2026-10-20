@@ -1,0 +1,384 @@
+[
+  {
+    "id": "FOM-IIm-0001",
+    "domain": "II",
+    "subdomain": "II-m",
+    "task": "II-1-m",
+    "theory": "Organ clock",
+    "stem": "According to the Chinese organ clock, Qi in the channel system is at its peak in the Spleen channel during which two-hour period?",
+    "options": {
+      "A": "7 to 9 am",
+      "B": "9 to 11 am",
+      "C": "11 am to 1 pm",
+      "D": "1 to 3 pm"
+    },
+    "correct": "B",
+    "explanation": "Qi circulates through the twelve channels in two-hour periods following the channel flow sequence: Lung 3-5 am, Large Intestine 5-7 am, Stomach 7-9 am, Spleen 9-11 am, Heart 11 am-1 pm, Small Intestine 1-3 pm, Bladder 3-5 pm, Kidney 5-7 pm, Pericardium 7-9 pm, San Jiao 9-11 pm, Gallbladder 11 pm-1 am, Liver 1-3 am.",
+    "distractorExplanations": {
+      "A": "7 to 9 am is the Stomach period, which immediately precedes the Spleen.",
+      "C": "11 am to 1 pm is the Heart period, which follows the Spleen.",
+      "D": "1 to 3 pm is the Small Intestine period."
+    },
+    "learningObjective": "Identify the organ-clock period of the Spleen channel.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "organ-clock",
+      "spleen-channel",
+      "channel-flow-sequence"
+    ],
+    "references": [
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Section on the cyclical flow of Qi in the twelve regular meridians"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIm-0002",
+    "domain": "II",
+    "subdomain": "II-m",
+    "task": "II-1-m",
+    "theory": "Organ clock",
+    "stem": "A 39-year-old woman reports that for three months she wakes almost every night between 1 and 3 am and has difficulty returning to sleep. She is irritable, has distension under the ribs, and sighs frequently; her periods are painful. The tongue is slightly red on the sides. The pulse is wiry. Using the organ clock as a diagnostic clue, which organ does the timing of waking most strongly implicate?",
+    "options": {
+      "A": "Gallbladder",
+      "B": "Lung",
+      "C": "Liver",
+      "D": "Heart"
+    },
+    "correct": "C",
+    "explanation": "The period from 1 to 3 am is the Liver period, when Qi is at its peak in the Liver channel; symptoms that recur then point to a Liver disharmony. The irritability, hypochondriac distension, sighing, dysmenorrhea, red tongue sides, and wiry pulse corroborate Liver Qi stagnation with some Heat.",
+    "distractorExplanations": {
+      "A": "The Gallbladder period is 11 pm to 1 am, before the reported waking time.",
+      "B": "The Lung period is 3 to 5 am, after the reported waking time.",
+      "D": "The Heart period is 11 am to 1 pm; Heart-related insomnia typically shows difficulty falling asleep with palpitations rather than waking at a fixed hour."
+    },
+    "learningObjective": "Apply the organ clock to interpret fixed-hour waking as a Liver clue.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "organ-clock",
+      "liver-channel",
+      "liver-qi-stagnation",
+      "insomnia"
+    ],
+    "references": [
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Section on the cyclical flow of Qi in the twelve regular meridians"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIm-0003",
+    "domain": "II",
+    "subdomain": "II-m",
+    "task": "II-1-m",
+    "theory": "Organ clock",
+    "stem": "A 62-year-old man with a chronic cough notices that his coughing is most severe between 3 and 5 am and eases by dawn. He has shortness of breath and a weak voice. The tongue is pale. The pulse is weak. Which channel's period of peak Qi coincides with the aggravation?",
+    "options": {
+      "A": "Large Intestine",
+      "B": "Kidney",
+      "C": "Liver",
+      "D": "Lung"
+    },
+    "correct": "D",
+    "explanation": "The period from 3 to 5 am is the Lung period, the first in the daily cycle. A cough that peaks then is a time-of-day clue to Lung involvement, and the shortness of breath, weak voice, pale tongue, and weak pulse confirm Lung Qi deficiency.",
+    "distractorExplanations": {
+      "A": "The Large Intestine period is 5 to 7 am, the next period after the Lung.",
+      "B": "The Kidney period is 5 to 7 pm; a learner who associates early-morning symptoms with the Kidney through the Lung-Kidney relationship picks this.",
+      "C": "The Liver period is 1 to 3 am, the period before the Lung."
+    },
+    "learningObjective": "Apply the organ clock to interpret pre-dawn cough aggravation as a Lung clue.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "organ-clock",
+      "lung-channel",
+      "lung-qi-deficiency",
+      "cough"
+    ],
+    "references": [
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Section on the cyclical flow of Qi in the twelve regular meridians"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIm-0004",
+    "domain": "II",
+    "subdomain": "II-m",
+    "task": "II-1-m",
+    "theory": "Organ clock",
+    "stem": "A 70-year-old man reports diarrhea every morning between 5 and 7 am, with undigested food in the stool, coldness of the lower back and knees, and a preference for warmth. The tongue is pale and swollen with a white coating. The pulse is deep and weak. Which option best integrates the organ-clock timing with the underlying pattern?",
+    "options": {
+      "A": "Large Intestine period; Spleen and Kidney Yang deficiency failing to warm the intestines",
+      "B": "Spleen period; Spleen Qi deficiency with Dampness failing to transform food",
+      "C": "Kidney period; Kidney Yin deficiency with Empty Heat disturbing the intestines",
+      "D": "Stomach period; Retention of Food in the Stomach with rebellious Stomach Qi"
+    },
+    "correct": "A",
+    "explanation": "The period from 5 to 7 am is the Large Intestine period, which is why daybreak diarrhea is a classic time-of-day clue. The undigested food, cold lower back and knees, preference for warmth, pale swollen tongue, and deep weak pulse show Kidney Yang (the Fire of the Gate of Life) failing to warm the Spleen, so the intestines cannot hold and transform; Yang is at its weakest in the hours before dawn, which compounds the timing.",
+    "distractorExplanations": {
+      "B": "The Spleen period is 9 to 11 am, and Spleen Qi deficiency with Dampness lacks the cold back and knees and the deep weak pulse that mark Yang deficiency.",
+      "C": "The Kidney period is 5 to 7 pm, and Kidney Yin deficiency produces Heat signs such as night sweats and a red tongue, the opposite of this cold picture.",
+      "D": "The Stomach period is 7 to 9 am, and Retention of Food gives foul belching, a thick coating, and a full pulse rather than undigested-food diarrhea with cold signs."
+    },
+    "learningObjective": "Integrate the organ-clock timing of daybreak diarrhea with Spleen and Kidney Yang deficiency.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "organ-clock",
+      "large-intestine-channel",
+      "kidney-yang-deficiency",
+      "daybreak-diarrhea"
+    ],
+    "distinction": {
+      "between": [
+        "kidney-yang-deficiency",
+        "spleen-qi-deficiency"
+      ],
+      "key": "Cold lower back and knees with a deep weak pulse and daybreak timing point to Kidney Yang failing to warm the Spleen rather than Spleen Qi deficiency alone."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on the functions of the Kidneys; Kidney Yang deficiency pattern"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Section on the cyclical flow of Qi in the twelve regular meridians"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  }
+]

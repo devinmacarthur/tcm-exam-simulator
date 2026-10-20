@@ -1,0 +1,101 @@
+[
+  {
+    "id": "FOM-IA-0024",
+    "subdomain": "I-A",
+    "stem": "A 35-year-old patient has had chills, mild fever, headache, body aches, and nasal congestion for 1 day. The tongue body is of normal color with a thin white coating. Taken together with the tongue findings, this presentation is most consistent with which of the following?",
+    "options": {
+      "A": "Interior Cold-Damp",
+      "B": "Interior Heat damaging Body Fluids",
+      "C": "Exterior Wind-Heat invasion",
+      "D": "Exterior Wind-Cold invasion"
+    }
+  },
+  {
+    "id": "FOM-IIe-0014",
+    "subdomain": "II-e",
+    "stem": "A 38-year-old woman reports headaches at the temples with pain at the outer corner of the eye, ringing in the ears, pain under the ribs on the right side, aching along the lateral side of the thigh and leg, and a bitter taste on waking. During episodes she feels alternately chilly and feverish. The tongue has a thin yellow coating on the sides. The pulse is wiry. Which channel is primarily affected?",
+    "options": {
+      "A": "Gallbladder (Foot Shao Yang)",
+      "B": "San Jiao (Hand Shao Yang)",
+      "C": "Liver (Foot Jue Yin)",
+      "D": "Bladder (Foot Tai Yang)"
+    }
+  },
+  {
+    "id": "FOM-IIc-0002",
+    "subdomain": "II-c",
+    "stem": "A 29-year-old patient reports two days of mild aversion to wind, a low-grade fever, headache, and nasal congestion with clear discharge. The patient has been sweating slightly, without relief of the symptoms, and has no thirst. The tongue has a thin white coating. The pulse is floating and slightly slow. Under the Eight Principles, this is an exterior Cold pattern. Which finding identifies it as the Deficiency rather than the Excess type?",
+    "options": {
+      "A": "slight sweating that does not relieve the symptoms",
+      "B": "headache with nasal congestion",
+      "C": "clear nasal discharge without thirst",
+      "D": "a floating pulse"
+    }
+  },
+  {
+    "id": "FOM-IId-0015",
+    "subdomain": "II-d",
+    "stem": "A 25-year-old woman reports painful periods with a cramping, cold sensation in the lower abdomen that is markedly relieved by a hot-water bottle, scanty dark menstrual flow with small clots, cold hands and feet, and a preference for warm drinks. The tongue is pale with a bluish-purple tinge. The pulse is deep and tight. Which of the following is the most appropriate pattern?",
+    "options": {
+      "A": "Blood stasis from Qi stagnation",
+      "B": "Blood deficiency",
+      "C": "Blood Heat",
+      "D": "Blood Cold"
+    }
+  },
+  {
+    "id": "FOM-IId-0017",
+    "subdomain": "II-d",
+    "stem": "A 50-year-old patient reports a heavy, muzzy sensation in the head, occasional dizziness, a feeling of oppression in the chest, and numbness of the fingers. He produces no sputum and there are no lumps or masses. The tongue is swollen with a greasy white coating. The pulse is slippery. Which concept best explains these findings?",
+    "options": {
+      "A": "Blood stasis",
+      "B": "Dampness",
+      "C": "substantial Phlegm",
+      "D": "non-substantial Phlegm"
+    }
+  },
+  {
+    "id": "FOM-IIh-0002",
+    "subdomain": "II-h",
+    "stem": "During a week of humid, rainy weather in early autumn, a 33-year-old woman develops a low fever with slight aversion to cold that is worse in the afternoon, a heavy sensation of the head as if it were wrapped, heaviness of the limbs, a stuffy chest, nausea and little thirst. The tongue has a white sticky coating. The pulse is soggy and slightly rapid. Which Wei-level pattern is most appropriate?",
+    "options": {
+      "A": "Wind-Heat at the Wei level",
+      "B": "Summer-Heat at the Wei level",
+      "C": "Damp-Heat at the Wei level",
+      "D": "Dry-Heat at the Wei level"
+    }
+  },
+  {
+    "id": "FOM-III1-0061",
+    "subdomain": "III-1",
+    "stem": "A 38-year-old patient reports a dry barking cough for three weeks that worsens during arguments, with pain in the right hypochondrium on coughing, a bitter taste, red eyes, irritability, and scanty sticky sputum that is occasionally streaked with blood. The tongue is red on the sides with a thin yellow coating. The pulse is wiry and rapid. Using Five Element theory, which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "strengthen Earth to generate Metal",
+      "B": "clear Liver Fire to protect Lung Metal",
+      "C": "nourish Water to moisten Wood",
+      "D": "tonify Metal to generate Water"
+    }
+  },
+  {
+    "id": "FOM-III2-0010",
+    "subdomain": "III-2",
+    "stem": "A 45-year-old woman reports three weeks of burning, frequent urination with cloudy urine and heaviness in the lower abdomen; the urinary symptoms began abruptly and are now severe. For years she has had mild night sweats and a dry mouth at night that are unchanged. The tongue is red with a yellow greasy coating at the root. The pulse is rapid, slippery in the proximal (chi) positions, and thin overall. Which of the following sequences is most appropriate?",
+    "options": {
+      "A": "nourish Kidney Yin first, then clear Damp-Heat once the Yin is restored",
+      "B": "nourish Kidney Yin and clear Damp-Heat with equal emphasis from the outset",
+      "C": "clear Damp-Heat from the Lower Burner first, then nourish Kidney Yin",
+      "D": "clear Empty Heat and astringe the urine from the outset"
+    }
+  },
+  {
+    "id": "FOM-III2-0022",
+    "subdomain": "III-2",
+    "stem": "A 40-year-old woman reports that during a stressful year she became irritable, sighs frequently, and has hypochondriac distension that worsens before her period. She had no digestive complaints before that year; over the past six months she has developed abdominal bloating and loose stools that flare whenever she is upset. The tongue is pale with a thin white coating. The pulse is wiry on the left and weak on the right. Which of the following is the root (Ben) of this presentation?",
+    "options": {
+      "A": "Spleen Qi deficiency",
+      "B": "Dampness obstructing the Middle Burner",
+      "C": "Liver Qi stagnation",
+      "D": "Retention of Food in the Stomach"
+    }
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "id": "FOM-III1-0085",
+    "subdomain": "III-1",
+    "stem": "A 26-year-old patient, two days into an illness that began during a humid, rainy spell, reports aversion to cold, a fever that rises in the afternoon and is barely relieved by sweating, a heavy head as if wrapped in cloth, heavy aching limbs, a feeling of oppression in the chest, and no thirst. The tongue has a thin, white, greasy coating. The pulse is soggy (soft) and slow. Using San Jiao theory, which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "induce strong sweating with pungent-warm methods",
+      "B": "open the upper burner with light aromatic methods to transform Dampness",
+      "C": "purge accumulated Heat downward with bitter-cold methods",
+      "D": "enrich Yin and moisten Dryness to relieve the afternoon fever"
+    }
+  },
+  {
+    "id": "FOM-III1-0086",
+    "subdomain": "III-1",
+    "stem": "A patient in the middle stage of a Damp-Heat illness has epigastric fullness, nausea, poor appetite, loose sticky stools, and a persistent fever that sweating does not relieve. The tongue has a yellow, greasy coating. Using San Jiao theory, which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "open the upper burner with aromatic, pungent methods",
+      "B": "drain Dampness from the lower burner by promoting urination",
+      "C": "warm the middle burner and dispel Cold-Damp",
+      "D": "clear Heat, transform Dampness, and harmonize the middle burner"
+    }
+  },
+  {
+    "id": "FOM-III1-0087",
+    "subdomain": "III-1",
+    "stem": "A 63-year-old patient, ten days into a Damp-Heat illness, reports that the fever has eased but urination is now scanty, difficult, dark, and burning, with fullness of the lower abdomen, a heavy sensation in the body, and thirst with little desire to drink. The tongue has a thick, yellow, greasy coating on the root. The pulse is slippery and rapid. Using San Jiao theory, which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear Heat and drain Dampness by promoting urination",
+      "B": "nourish Liver and Kidney Yin and subdue internal Wind",
+      "C": "open the upper burner with aromatic, pungent methods",
+      "D": "transform Dampness and harmonize the middle burner"
+    }
+  },
+  {
+    "id": "FOM-III1-0088",
+    "subdomain": "III-1",
+    "stem": "A 39-year-old patient describes months of resentment and frustration over a stalled promotion. The patient reports distension in the hypochondrium and chest, frequent sighing, irritability, and a sensation of a lump in the throat that comes and goes with mood. The pulse is wiry. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "settle the Heart and calm the Shen after fright",
+      "B": "strengthen the Spleen and calm the Mind",
+      "C": "course the Liver Qi and relieve constraint",
+      "D": "tonify Kidney Qi and firm the lower orifices"
+    }
+  },
+  {
+    "id": "FOM-III1-0089",
+    "subdomain": "III-1",
+    "stem": "A 22-year-old student has spent five months worrying and going over study material late into the night before qualifying examinations. The student reports poor appetite, fatigue, loose stools, palpitations, poor memory, and difficulty falling asleep. The complexion is sallow and pale. The tongue is pale and slightly swollen. The pulse is thin (thready) and weak. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "course the Liver Qi and relieve constraint",
+      "B": "strengthen the Spleen, nourish Heart Blood, and calm the Mind",
+      "C": "sedate the Heart and settle the Shen with heavy calming methods",
+      "D": "clear Heart Fire and drain Heat downward"
+    }
+  },
+  {
+    "id": "FOM-III1-0090",
+    "subdomain": "III-1",
+    "stem": "A 52-year-old patient who works in a damp basement reports three months of aching and heaviness in the knees and wrists, with mild swelling and some numbness. The ache shifts somewhat between joints, and it worsens in rainy weather. The joints are neither red nor hot, and the pain is not markedly eased by heat. The tongue has a thin, white, greasy coating. The pulse is soggy (soft). Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "scatter Cold and warm the channels",
+      "B": "clear Heat and resolve Damp-Heat from the joints",
+      "C": "nourish Blood and soothe the sinews",
+      "D": "expel Wind and Dampness and remove obstruction from the channels"
+    }
+  },
+  {
+    "id": "FOM-III1-0091",
+    "subdomain": "III-1",
+    "stem": "A 31-year-old roofer reports two days of illness that began during a hot, humid week in July. The roofer has a fever with profuse sweating, thirst, irritability, scanty dark urine, marked fatigue, shortness of breath, heavy limbs, chest oppression, and nausea. The tongue is red with a sticky, yellowish coating. The pulse is soggy (soft) and rapid. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear Summer-Heat, resolve Dampness, and tonify Qi",
+      "B": "release the exterior with pungent-warm methods to induce sweating",
+      "C": "nourish Kidney Yin and clear Empty Heat",
+      "D": "purge Heat from the Intestines downward"
+    }
+  },
+  {
+    "id": "FOM-III1-0092",
+    "subdomain": "III-1",
+    "stem": "A 27-year-old patient became ill the day after waiting an hour outdoors in a freezing wind. The temperature is 38.4 °C, but the patient is shivering under blankets and feels chilly more than feverish. There is no sweating, an occipital headache, aching of the whole body, a congested nose with clear watery discharge, and no thirst. The tongue has a thin white coating. The pulse is floating and tight. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "release the exterior with pungent-cool methods and clear Heat",
+      "B": "clear Heat from the Qi level and generate fluids",
+      "C": "release the exterior with pungent-warm methods and scatter Cold",
+      "D": "tonify Wei Qi and consolidate the exterior"
+    }
+  },
+  {
+    "id": "FOM-III1-0093",
+    "subdomain": "III-1",
+    "stem": "A 40-year-old cyclist, otherwise in good health, fell onto the left thigh ten days ago. The patient reports a fixed, stabbing pain at the site that is worse with pressure and at night, with local swelling and dark purple bruising. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "tonify Qi and Blood to nourish the sinews",
+      "B": "invigorate Blood and eliminate stasis",
+      "C": "expel Wind-Damp and remove obstruction from the channels",
+      "D": "cool the Blood and stop bleeding"
+    }
+  },
+  {
+    "id": "FOM-IIl-0001",
+    "subdomain": "II-l",
+    "stem": "A 35-year-old patient switched a year ago to a diet of raw salads, iced smoothies, and chilled drinks taken throughout the day. The patient now reports a cold, dull ache in the epigastrium relieved by warmth, loose stools containing undigested food, poor appetite, tiredness, and cold hands. The tongue is pale and swollen with a white coating. The pulse is deep and slow. Which of the following best explains the pathomechanism?",
+    "options": {
+      "A": "greasy, sweet foods have generated Damp-Heat in the Spleen",
+      "B": "overeating has caused Retention of Food in the Stomach",
+      "C": "cold and raw foods have injured Spleen Yang and impaired transformation",
+      "D": "irregular eating has depleted Stomach Yin"
+    }
+  },
+  {
+    "id": "FOM-IIl-0002",
+    "subdomain": "II-l",
+    "stem": "A 47-year-old patient has worked 70-hour weeks for ten years, often skipping rest days and sleeping about five hours a night. The patient reports a sore, weak lower back, tinnitus, dizziness, night sweats, a dry throat at night, and heat in the palms and soles. The tongue is red with no coating. The pulse is floating-empty and rapid. Which of the following best explains the pathomechanism?",
+    "options": {
+      "A": "prolonged overwork without adequate rest has depleted Kidney Yin",
+      "B": "lack of exercise has caused stagnation of Qi and Blood",
+      "C": "excessive physical lifting has injured the sinews and Spleen Qi",
+      "D": "consumption of cold and raw foods has weakened Kidney Yang"
+    }
+  },
+  {
+    "id": "FOM-IIl-0003",
+    "subdomain": "II-l",
+    "stem": "A 29-year-old patient sprained the right ankle playing basketball three months ago. The ankle still has a fixed, stabbing pain that is worse at night and with pressure, and the skin over the joint remains dark and purplish. The pain is unaffected by the weather. Which of the following best explains why the pain has persisted?",
+    "options": {
+      "A": "Wind-Damp has invaded the joint and obstructed the channels",
+      "B": "Blood deficiency is failing to nourish the sinews",
+      "C": "Qi stagnation is causing distending, moving pain",
+      "D": "the injury caused local Blood stasis that still obstructs the channel"
+    }
+  },
+  {
+    "id": "FOM-IIl-0004",
+    "subdomain": "II-l",
+    "stem": "A 34-year-old patient with facial acne drank a strong bitter-cold herbal 'detox' tea three times daily for ten months; the acne has since cleared. The patient eats warm, cooked meals and reports no unusual stress. The patient now has loose stools, poor appetite, abdominal distension after eating, fatigue, and cold hands and feet. The tongue is pale and swollen with a moist white coating. The pulse is deep and weak. Which of the following best explains the pathomechanism?",
+    "options": {
+      "A": "unresolved Heat from the acne has consumed Stomach Yin",
+      "B": "prolonged use of bitter-cold substances has injured Spleen Yang",
+      "C": "Liver Qi stagnation is overacting on the Spleen",
+      "D": "Damp-Heat from the original condition has sunk into the Intestines"
+    }
+  }
+]

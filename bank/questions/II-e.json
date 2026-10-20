@@ -1,0 +1,1434 @@
+[
+  {
+    "id": "FOM-IIe-0001",
+    "domain": "II",
+    "subdomain": "II-e",
+    "task": "II-1-e",
+    "theory": "Channels",
+    "stem": "Which primary channel runs along the posterior aspect of the thigh and lower leg?",
+    "options": {
+      "A": "Bladder",
+      "B": "Gallbladder",
+      "C": "Stomach",
+      "D": "Kidney"
+    },
+    "correct": "A",
+    "explanation": "The Bladder channel (Foot Tai Yang) descends from the back through the buttock, down the posterior thigh to the back of the knee, then along the posterior calf to the lateral side of the foot and little toe. It is the only primary channel occupying the posterior midline of the lower limb.",
+    "distractorExplanations": {
+      "B": "The Gallbladder channel runs along the lateral aspect of the thigh and leg to the fourth toe.",
+      "C": "The Stomach channel runs down the anterior aspect of the thigh and lateral to the tibia to the second toe.",
+      "D": "The Kidney channel ascends the medial side of the leg along its posterior border; it is medial, and a Yin channel."
+    },
+    "learningObjective": "Identify the channel traversing the posterior lower limb.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "channel-pathways",
+      "bladder-channel",
+      "twelve-primary-channels"
+    ],
+    "references": [
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Section on the Bladder Meridian of Foot-Taiyang"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIe-0002",
+    "domain": "II",
+    "subdomain": "II-e",
+    "task": "II-1-e",
+    "theory": "Channels",
+    "stem": "In the interior-exterior (Yin-Yang) pairing of the twelve primary channels, the Pericardium channel is paired with which channel?",
+    "options": {
+      "A": "Small Intestine",
+      "B": "Gallbladder",
+      "C": "San Jiao (Triple Burner)",
+      "D": "Large Intestine"
+    },
+    "correct": "C",
+    "explanation": "The six interior-exterior pairs are Lung-Large Intestine, Spleen-Stomach, Heart-Small Intestine, Kidney-Bladder, Pericardium-San Jiao, and Liver-Gallbladder. Each pair shares the same limb and complementary six-channel names: the Pericardium is Hand Jue Yin and the San Jiao is Hand Shao Yang.",
+    "distractorExplanations": {
+      "A": "The Small Intestine is paired with the Heart; a learner who groups the two Fire Yin organs together picks this.",
+      "B": "The Gallbladder is paired with the Liver (Foot Jue Yin); this confuses the hand and foot Jue Yin channels.",
+      "D": "The Large Intestine is paired with the Lung."
+    },
+    "learningObjective": "Identify the interior-exterior channel partner of the Pericardium.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "interior-exterior-pairing",
+      "pericardium-channel",
+      "san-jiao-channel"
+    ],
+    "references": [
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Section on the nomenclature and distribution of the twelve regular meridians"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIe-0003",
+    "domain": "II",
+    "subdomain": "II-e",
+    "task": "II-1-e",
+    "theory": "Channels",
+    "stem": "A 52-year-old woman reports aching pain along the inner side of the left arm, running from the armpit down the posterior border of the forearm to the little finger. She also has a dry throat, thirst, and a sensation of heat in the palm. Based on channel pathways and channel symptomatology, which channel is affected?",
+    "options": {
+      "A": "Heart (Hand Shao Yin)",
+      "B": "Lung (Hand Tai Yin)",
+      "C": "Pericardium (Hand Jue Yin)",
+      "D": "Small Intestine (Hand Tai Yang)"
+    },
+    "correct": "A",
+    "explanation": "The Heart channel emerges at the axilla and runs along the posterior border of the medial arm and forearm to the radial side of the little finger. Its channel symptoms include dry throat, thirst, heat in the palm, and pain along the medial aspect of the arm, matching the presentation.",
+    "distractorExplanations": {
+      "B": "The Lung channel runs along the anterior (radial) border of the medial arm to the thumb and presents with cough and pain in the supraclavicular region.",
+      "C": "The Pericardium channel runs along the midline of the medial arm to the middle finger, with chest oppression and palpitations.",
+      "D": "The Small Intestine channel also reaches the little finger but runs on the Yang (posterior-lateral) surface of the arm to the scapula and neck, with shoulder and scapular pain."
+    },
+    "learningObjective": "Apply channel pathway and channel symptom knowledge to localize an arm pain to the Heart channel.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "channel-pathways",
+      "heart-channel",
+      "six-channel-groupings"
+    ],
+    "distinction": {
+      "between": [
+        "heart-channel",
+        "pericardium-channel"
+      ],
+      "key": "Pain along the posterior border of the medial arm to the little finger, with heat in the palm and dry throat, follows the Heart channel; the Pericardium runs the midline to the middle finger."
+    },
+    "references": [
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Section on the Heart Meridian of Hand-Shaoyin"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIe-0004",
+    "domain": "II",
+    "subdomain": "II-e",
+    "task": "II-1-e",
+    "theory": "Channels",
+    "stem": "In the circulation of Qi through the twelve primary channels, Qi flows from the Spleen channel directly into which channel?",
+    "options": {
+      "A": "Lung",
+      "B": "Stomach",
+      "C": "Small Intestine",
+      "D": "Heart"
+    },
+    "correct": "D",
+    "explanation": "The circulation runs Lung, Large Intestine, Stomach, Spleen, Heart, Small Intestine, Bladder, Kidney, Pericardium, San Jiao, Gallbladder, Liver, and back to the Lung. The Spleen channel (Foot Tai Yin) hands Qi to the Heart channel (Hand Shao Yin) in the chest, following the rule that foot Yin channels connect with hand Yin channels in the chest.",
+    "distractorExplanations": {
+      "A": "The Lung channel receives Qi from the Liver channel at the end of the cycle.",
+      "B": "The Stomach channel precedes the Spleen channel; this reverses the direction of flow.",
+      "C": "The Small Intestine channel follows the Heart channel, one step too far along the sequence."
+    },
+    "learningObjective": "Identify the channel receiving Qi after the Spleen channel in the circulation sequence.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "channel-flow-sequence",
+      "spleen-channel",
+      "heart-channel"
+    ],
+    "references": [
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Section on the cyclical flow of Qi in the twelve regular meridians"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIe-0005",
+    "domain": "II",
+    "subdomain": "II-e",
+    "task": "II-1-e",
+    "theory": "Channels",
+    "stem": "Which extraordinary vessel is known as the 'Sea of Blood' and the 'Sea of the twelve channels'?",
+    "options": {
+      "A": "Du Mai",
+      "B": "Ren Mai",
+      "C": "Chong Mai",
+      "D": "Dai Mai"
+    },
+    "correct": "C",
+    "explanation": "The Chong Mai (Penetrating Vessel) originates in the lower abdomen with the Du and Ren, ascends with the Kidney channel, and is called the Sea of Blood and the Sea of the twelve channels because it regulates Blood and the Qi of all channels, with a close relationship to menstruation.",
+    "distractorExplanations": {
+      "A": "The Du Mai is the Sea of the Yang channels, governing all Yang.",
+      "B": "The Ren Mai is the Sea of the Yin channels, governing all Yin and the uterus.",
+      "D": "The Dai Mai encircles the waist and binds the other channels; it carries no 'sea' designation."
+    },
+    "learningObjective": "Identify the Chong Mai by its classical designations.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "eight-extraordinary-vessels",
+      "chong-mai"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on the eight extraordinary vessels"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIe-0006",
+    "domain": "II",
+    "subdomain": "II-e",
+    "task": "II-1-e",
+    "theory": "Channels",
+    "stem": "The hand Yang Ming (Large Intestine) and foot Yang Ming (Stomach) channels connect with each other in which region of the body?",
+    "options": {
+      "A": "chest",
+      "B": "head and face",
+      "C": "hand",
+      "D": "foot"
+    },
+    "correct": "B",
+    "explanation": "Three rules govern the connections: hand Yin channels meet hand Yang channels at the hand; hand Yang channels meet foot Yang channels of the same name on the head and face; foot Yang channels meet foot Yin channels at the foot; and foot Yin channels meet hand Yin channels in the chest. The Large Intestine channel ends beside the nose where the Stomach channel begins.",
+    "distractorExplanations": {
+      "A": "The chest is where foot Yin channels pass Qi to hand Yin channels.",
+      "C": "The hand is where hand Yin channels pass Qi to their paired hand Yang channels.",
+      "D": "The foot is where foot Yang channels pass Qi to their paired foot Yin channels."
+    },
+    "learningObjective": "Explain where same-name hand and foot Yang channels connect.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": false,
+    "concepts": [
+      "six-channel-connections",
+      "yang-ming",
+      "channel-flow-sequence"
+    ],
+    "references": [
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Section on the distribution and connection of the twelve regular meridians"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIe-0007",
+    "domain": "II",
+    "subdomain": "II-e",
+    "task": "II-1-e",
+    "theory": "Channels",
+    "stem": "A 29-year-old man develops a headache at the back of the head extending down the nape after cycling in cold wind. He has stiffness of the neck, aversion to cold, and slight fever. The tongue has a thin white coating. The pulse is floating and tight. Based on channel theory, which channel is primarily affected?",
+    "options": {
+      "A": "Tai Yang",
+      "B": "Yang Ming",
+      "C": "Shao Yang",
+      "D": "Jue Yin"
+    },
+    "correct": "A",
+    "explanation": "The occiput and nape are traversed by the Bladder channel (Foot Tai Yang), so headache in this region is classified as a Tai Yang headache. Wind-Cold invading the Tai Yang channel explains the stiff neck, aversion to cold, slight fever, thin white coating, and floating tight pulse.",
+    "distractorExplanations": {
+      "B": "Yang Ming headaches are frontal and supraorbital, following the Stomach and Large Intestine channels on the face.",
+      "C": "Shao Yang headaches are temporal and at the sides of the head, following the Gallbladder channel.",
+      "D": "Jue Yin headaches are at the vertex, where the Liver channel reaches the top of the head."
+    },
+    "learningObjective": "Apply channel distribution to classify an occipital headache as Tai Yang.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "channel-headache-location",
+      "tai-yang",
+      "bladder-channel",
+      "wind-cold"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Practice of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on headaches (differentiation by channel)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIe-0008",
+    "domain": "II",
+    "subdomain": "II-e",
+    "task": "II-1-e",
+    "theory": "Channels",
+    "stem": "A 45-year-old woman reports pain that began in the right hip after a fall and now radiates along the outer side of the thigh and lower leg to the front of the lateral ankle bone, with tenderness along that line. Which channel is affected?",
+    "options": {
+      "A": "Bladder (Foot Tai Yang)",
+      "B": "Stomach (Foot Yang Ming)",
+      "C": "Gallbladder (Foot Shao Yang)",
+      "D": "Spleen (Foot Tai Yin)"
+    },
+    "correct": "C",
+    "explanation": "The Gallbladder channel passes through the hip, descends the lateral thigh and lateral lower leg, and crosses in front of the lateral malleolus to the fourth toe. Pain radiating along this line after trauma indicates Qi and Blood obstruction in the Gallbladder channel.",
+    "distractorExplanations": {
+      "A": "The Bladder channel runs down the posterior thigh and calf, behind the lateral malleolus; pain would be felt along the back of the leg.",
+      "B": "The Stomach channel runs down the front of the thigh and lateral to the tibial crest, well in front of the described line.",
+      "D": "The Spleen channel ascends the medial leg, the opposite side of the limb."
+    },
+    "learningObjective": "Apply lower-limb channel distribution to localize radiating lateral leg pain to the Gallbladder channel.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "channel-pathways",
+      "gallbladder-channel",
+      "channel-pain-radiation"
+    ],
+    "references": [
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Section on the Gallbladder Meridian of Foot-Shaoyang"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIe-0009",
+    "domain": "II",
+    "subdomain": "II-e",
+    "task": "II-1-e",
+    "theory": "Channels",
+    "stem": "A 34-year-old man reports frequent urination, occasional bed-wetting, and repeated yawning throughout the day. Which Luo-connecting channel disorder is most consistent with these findings?",
+    "options": {
+      "A": "fullness of the Lung Luo channel",
+      "B": "emptiness of the Lung Luo channel",
+      "C": "emptiness of the Kidney Luo channel",
+      "D": "fullness of the Bladder Luo channel"
+    },
+    "correct": "B",
+    "explanation": "The Lung Luo-connecting channel branches to the Large Intestine and the palm. Its emptiness (deficiency) presents with yawning, frequent urination, and enuresis, reflecting weak Lung Qi failing to regulate the water passages; its fullness presents with heat in the wrist and palm.",
+    "distractorExplanations": {
+      "A": "Fullness of the Lung Luo channel presents with heat in the wrist and palm, which is absent.",
+      "C": "Emptiness of the Kidney Luo channel presents with lumbar pain; its fullness with retention of urine. Neither matches yawning with frequent urination.",
+      "D": "Fullness of the Bladder Luo channel presents with nasal obstruction, headache, and back pain."
+    },
+    "learningObjective": "Apply Luo-connecting channel symptomatology to identify emptiness of the Lung Luo channel.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "luo-connecting-channels",
+      "lung-luo-channel",
+      "luo-fullness-emptiness"
+    ],
+    "references": [
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Section on the fifteen collaterals"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIe-0010",
+    "domain": "II",
+    "subdomain": "II-e",
+    "task": "II-1-e",
+    "theory": "Channels",
+    "stem": "A 50-year-old woman reports a persistently distended abdomen that is drum-like on percussion; she describes fullness rather than pain. Which Luo-connecting channel condition is most consistent with this finding?",
+    "options": {
+      "A": "fullness of the Spleen Luo channel",
+      "B": "fullness of the Stomach Luo channel",
+      "C": "emptiness of the Stomach Luo channel",
+      "D": "emptiness of the Spleen Luo channel"
+    },
+    "correct": "D",
+    "explanation": "The Spleen Luo-connecting channel enters the abdomen and connects with the intestines and Stomach. Its emptiness (deficiency) presents with drum-like abdominal distension, whereas its fullness presents with sharp, colicky abdominal pain. Fullness without pain therefore indicates emptiness.",
+    "distractorExplanations": {
+      "A": "Fullness of the Spleen Luo channel presents with sharp intestinal pain, which the patient does not describe.",
+      "B": "Fullness of the Stomach Luo channel presents with mania and agitation.",
+      "C": "Emptiness of the Stomach Luo channel presents with weakness and atrophy of the leg muscles."
+    },
+    "learningObjective": "Differentiate fullness from emptiness of the Spleen Luo channel by the quality of the abdominal symptom.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "luo-connecting-channels",
+      "spleen-luo-channel",
+      "luo-fullness-emptiness"
+    ],
+    "distinction": {
+      "between": [
+        "spleen-luo-emptiness",
+        "spleen-luo-fullness"
+      ],
+      "key": "Drum-like distension without pain marks emptiness; colicky pain marks fullness."
+    },
+    "references": [
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Section on the fifteen collaterals"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIe-0011",
+    "domain": "II",
+    "subdomain": "II-e",
+    "task": "II-1-e",
+    "theory": "Channels",
+    "stem": "A 37-year-old woman reports chronic thin, white vaginal discharge, fullness of the lower abdomen, and weakness of the lower back with a cold, heavy sensation she describes as 'sitting in water'. Her menses are irregular. The tongue is pale with a white coating. The pulse is soggy. Which extraordinary vessel is primarily affected?",
+    "options": {
+      "A": "Ren Mai",
+      "B": "Chong Mai",
+      "C": "Dai Mai",
+      "D": "Yin Qiao Mai"
+    },
+    "correct": "C",
+    "explanation": "The Dai Mai (Girdle Vessel) encircles the waist, binds the channels that run up and down the body, and controls leukorrhea. Its classical symptom picture is abdominal fullness with a lumbar region that feels weak and cold 'as if sitting in water', together with leukorrhea and menstrual irregularity; Dampness sinking to the Dai Mai is confirmed by the pale tongue, white coating, and soggy pulse.",
+    "distractorExplanations": {
+      "A": "The Ren Mai can also produce leukorrhea and infertility, but its picture centers on the abdomen and uterus (hernia, masses, menstrual and fertility problems) rather than the waist-sitting-in-water sensation.",
+      "B": "The Chong Mai presents with Qi rushing upward from the abdomen, abdominal pain, and menstrual disorders.",
+      "D": "The Yin Qiao Mai presents with somnolence and eyes that tend to close, with tension of the medial leg."
+    },
+    "learningObjective": "Identify the Dai Mai symptom picture from a vignette.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "eight-extraordinary-vessels",
+      "dai-mai",
+      "leukorrhea"
+    ],
+    "distinction": {
+      "between": [
+        "dai-mai",
+        "ren-mai"
+      ],
+      "key": "Girdling abdominal fullness with a lower back that feels as if sitting in water localizes the disorder to the Dai Mai."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on the eight extraordinary vessels"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIe-0012",
+    "domain": "II",
+    "subdomain": "II-e",
+    "task": "II-1-e",
+    "theory": "Channels",
+    "stem": "A 40-year-old man reports insomnia for a year; at night his eyes feel stretched open and he lies awake for hours. He also has tightness and cramping on the outer side of both lower legs with looseness and weakness on the inner side. Which extraordinary vessel disorder best accounts for this combination of findings?",
+    "options": {
+      "A": "Yin Qiao Mai",
+      "B": "Yang Wei Mai",
+      "C": "Du Mai",
+      "D": "Yang Qiao Mai"
+    },
+    "correct": "D",
+    "explanation": "The Yang Qiao Mai runs along the lateral (Yang) side of the leg and reaches the inner canthus, where it governs the opening of the eyes. Excess in the Yang Qiao produces tightness of the lateral leg with laxity of the medial leg and eyes that stay open, giving insomnia. The leg asymmetry and eye sign together localize the disorder.",
+    "distractorExplanations": {
+      "A": "The Yin Qiao Mai shows the mirror image: tightness of the medial leg with laxity of the lateral leg and eyes that tend to close, with somnolence.",
+      "B": "The Yang Wei Mai links the Yang channels and governs the exterior; its disorder is chills and fever.",
+      "C": "The Du Mai produces stiffness and pain along the spine with opisthotonos; it has no lateral-medial leg asymmetry."
+    },
+    "learningObjective": "Differentiate Yang Qiao from Yin Qiao disorders by the side of leg tension and the eye sign.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "eight-extraordinary-vessels",
+      "yang-qiao-mai",
+      "yin-qiao-mai",
+      "insomnia"
+    ],
+    "distinction": {
+      "between": [
+        "yang-qiao-mai",
+        "yin-qiao-mai"
+      ],
+      "key": "Lateral-leg tightness with medial laxity and eyes that stay open indicate Yang Qiao; the reverse leg pattern with somnolence indicates Yin Qiao."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on the eight extraordinary vessels"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIe-0013",
+    "domain": "II",
+    "subdomain": "II-e",
+    "task": "II-1-e",
+    "theory": "Channels",
+    "stem": "A 55-year-old man reports recurrent episodes of chills alternating with fever, with aching along the sides of the body and the lateral neck, continuing for two months after an initial cold resolved. There is no sweating during the episodes, and the tongue and pulse are unremarkable between them. Based on extraordinary vessel theory, which vessel is primarily affected?",
+    "options": {
+      "A": "Yin Wei Mai",
+      "B": "Yang Wei Mai",
+      "C": "Dai Mai",
+      "D": "Chong Mai"
+    },
+    "correct": "B",
+    "explanation": "The Yang Wei Mai links all the Yang channels and governs the exterior of the body; its classical disorder is recurrent chills and fever. Its pathway along the lateral body and neck, linking with the Shao Yang channels, explains the lateral aching.",
+    "distractorExplanations": {
+      "A": "The Yin Wei Mai links the Yin channels and governs the interior; its disorder is heart and chest pain.",
+      "C": "The Dai Mai presents with abdominal fullness, leukorrhea, and a weak lower back.",
+      "D": "The Chong Mai presents with Qi rushing upward, abdominal pain, and menstrual disorders."
+    },
+    "learningObjective": "Apply the exterior-interior division of the Wei vessels to recurrent chills and fever.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "eight-extraordinary-vessels",
+      "yang-wei-mai",
+      "yin-wei-mai"
+    ],
+    "distinction": {
+      "between": [
+        "yang-wei-mai",
+        "yin-wei-mai"
+      ],
+      "key": "Chills and fever belong to the Yang Wei, which governs the exterior; heart and chest pain belong to the Yin Wei, which governs the interior."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on the eight extraordinary vessels"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIe-0014",
+    "domain": "II",
+    "subdomain": "II-e",
+    "task": "II-1-e",
+    "theory": "Channels",
+    "stem": "A 38-year-old woman reports headaches at the temples with pain at the outer corner of the eye, ringing in the ears, pain under the ribs on the right side, aching along the lateral side of the thigh and leg, and a bitter taste on waking. During episodes she feels alternately chilly and feverish. The tongue has a thin yellow coating on the sides. The pulse is wiry. Which channel is primarily affected?",
+    "options": {
+      "A": "Gallbladder (Foot Shao Yang)",
+      "B": "San Jiao (Hand Shao Yang)",
+      "C": "Liver (Foot Jue Yin)",
+      "D": "Bladder (Foot Tai Yang)"
+    },
+    "correct": "A",
+    "explanation": "The Gallbladder channel begins at the outer canthus, winds over the temple and around the ear, and descends through the lateral costal and hypochondriac region. Its channel symptoms include temporal headache, pain at the outer canthus, tinnitus, hypochondriac pain, bitter taste, and alternating chills and fever. The hypochondriac pain and bitter taste are the findings that place the Shao Yang disorder in the foot channel.",
+    "distractorExplanations": {
+      "B": "The San Jiao channel shares the ear and outer canthus, but its pathway runs over the shoulder and lateral arm, not the lateral leg, and it does not account for hypochondriac pain or bitter taste.",
+      "C": "The Liver channel produces vertex headache and hypochondriac pain but does not reach the ear or the outer canthus.",
+      "D": "The Bladder channel produces occipital headache and begins at the inner canthus, the opposite corner of the eye."
+    },
+    "learningObjective": "Differentiate foot Shao Yang from hand Shao Yang channel involvement when head symptoms overlap.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "channel-pathways",
+      "gallbladder-channel",
+      "san-jiao-channel",
+      "shao-yang"
+    ],
+    "distinction": {
+      "between": [
+        "gallbladder-channel",
+        "san-jiao-channel"
+      ],
+      "key": "Hypochondriac pain, bitter taste and pain along the lateral leg localize a Shao Yang disorder to the Gallbladder (foot) channel; the San Jiao (hand) channel shares ear and outer-canthus symptoms but involves the shoulder and arm."
+    },
+    "references": [
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Sections on the Gallbladder Meridian of Foot-Shaoyang and the Sanjiao Meridian of Hand-Shaoyang"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIe-0015",
+    "domain": "II",
+    "subdomain": "II-e",
+    "task": "II-1-e",
+    "theory": "Channels",
+    "stem": "A 49-year-old man reports stiffness and pain along the midline of the back from the sacrum to the base of the skull, with episodes in which the back arches backward, plus dizziness and heaviness of the head. Palpation finds tenderness directly on the spinous processes rather than beside them. The tongue is normal. The pulse is wiry. Which channel is primarily affected?",
+    "options": {
+      "A": "Bladder (Foot Tai Yang)",
+      "B": "Ren Mai",
+      "C": "Kidney (Foot Shao Yin)",
+      "D": "Du Mai"
+    },
+    "correct": "D",
+    "explanation": "The Du Mai (Governing Vessel) runs along the midline of the spine, enters the brain, and reaches the vertex. Its pathology is stiffness and pain of the spine, opisthotonos (arching of the back), and head symptoms such as dizziness and heaviness through its connection with the brain. Midline tenderness on the spinous processes confirms the vessel rather than the paravertebral channel.",
+    "distractorExplanations": {
+      "A": "The Bladder channel runs in two lines beside the spine; its involvement gives paravertebral tenderness and occipital headache rather than midline spinal tenderness with opisthotonos.",
+      "B": "The Ren Mai runs along the anterior midline and relates to the abdomen, uterus, and chest.",
+      "C": "The Kidney channel ascends the medial leg to the abdomen and chest; Kidney involvement gives lower back weakness rather than full-length midline spinal stiffness and arching."
+    },
+    "learningObjective": "Differentiate Du Mai pathology from Bladder channel pathology by the location of spinal tenderness and accompanying brain symptoms.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "eight-extraordinary-vessels",
+      "du-mai",
+      "bladder-channel",
+      "spinal-stiffness"
+    ],
+    "distinction": {
+      "between": [
+        "du-mai",
+        "bladder-channel"
+      ],
+      "key": "Midline tenderness with opisthotonos and brain symptoms point to the Du Mai; paravertebral tenderness would implicate the Bladder channel."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on the eight extraordinary vessels"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  }
+]

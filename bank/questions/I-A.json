@@ -1,0 +1,2954 @@
+[
+  {
+    "id": "FOM-IA-0001",
+    "domain": "I",
+    "subdomain": "I-A",
+    "task": "I-A-1",
+    "stem": "During observation, which finding best indicates that the patient's Spirit (Shen) is present?",
+    "options": {
+      "A": "Dull, cloudy eyes with slow and inappropriate responses",
+      "B": "Sudden brightening of the eyes after weeks of lethargy",
+      "C": "Bright, clear eyes with alert and appropriate responses",
+      "D": "Fixed upward gaze with no response to questions"
+    },
+    "correct": "C",
+    "explanation": "The presence of Shen (You Shen) is judged above all from the eyes and the responsiveness of the patient. Bright, clear, lively eyes together with alert, appropriate responses and a lustrous complexion show that Essence and Qi are abundant and the Spirit is intact, which carries a favorable prognosis.",
+    "distractorExplanations": {
+      "A": "Dull, cloudy eyes with slow, inappropriate responses are the picture of absence of Shen (Wu Shen), the opposite of the finding asked for.",
+      "B": "A sudden brightening after prolonged decline is False Spirit (Jia Shen), a critical sign, not genuine presence of Shen; a learner who equates any brightness with health would pick this.",
+      "D": "A fixed upward gaze with no responses indicates Liver Wind or a critical loss of consciousness and signals severe absence of Shen."
+    },
+    "learningObjective": "Identify the observational signs that indicate presence of Spirit (Shen).",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "shen-observation",
+      "presence-of-shen"
+    ],
+    "references": [
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Inspection: observation of the Spirit (Shen)"
+      },
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Observation of the Spirit (Shen)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IA-0002",
+    "domain": "I",
+    "subdomain": "I-A",
+    "task": "I-A-1",
+    "stem": "An 82-year-old patient who has been bedridden, lethargic, and barely eating for several weeks suddenly becomes bright-eyed and talkative and asks for food. Both cheeks show a bright red flush like applied rouge. Which of the following best describes this presentation?",
+    "options": {
+      "A": "Recovery of Stomach Qi with a favorable prognosis",
+      "B": "False Spirit (Jia Shen) signaling imminent separation of Yin and Yang",
+      "C": "Liver Fire blazing upward and agitating the Spirit",
+      "D": "Yin deficiency with Empty Heat rising to the face"
+    },
+    "correct": "B",
+    "explanation": "This is False Spirit (Jia Shen), traditionally compared to the last flare of a lamp before it goes out. In a patient whose Essence and Qi are exhausted, a sudden, out-of-context return of energy, appetite, and talkativeness, together with a rouge-like flush on a pale face, reflects floating Yang escaping as Yin and Yang are about to separate. It is a critical sign, not an improvement.",
+    "distractorExplanations": {
+      "A": "Genuine recovery is gradual and proportionate to the overall state; a sudden reversal in a profoundly depleted patient is the hallmark of False Spirit, and a learner who takes the surface signs at face value would choose this.",
+      "C": "Liver Fire produces a red face, red eyes, irritability, and a wiry rapid pulse in a robust patient; it does not arise abruptly in an exhausted, bedridden patient with no prior Heat signs.",
+      "D": "Yin deficiency gives a chronic, afternoon malar flush with a slow course; the abrupt change in a dying patient points to escaping Yang rather than ordinary Empty Heat."
+    },
+    "learningObjective": "Recognize False Spirit (Jia Shen) and distinguish it from genuine recovery.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "false-shen",
+      "shen-observation",
+      "separation-of-yin-and-yang"
+    ],
+    "distinction": {
+      "between": [
+        "false-shen",
+        "presence-of-shen"
+      ],
+      "key": "A sudden, context-inappropriate brightening in a profoundly depleted patient with a rouge-like flush is False Spirit; genuine presence of Shen is proportionate to the patient's overall condition."
+    },
+    "references": [
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Inspection: false Spirit"
+      },
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Observation of the Spirit (Shen)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IA-0003",
+    "domain": "I",
+    "subdomain": "I-A",
+    "task": "I-A-1",
+    "stem": "In five-color observation of the complexion, a yellow color is primarily associated with which organ and pathogenic factor?",
+    "options": {
+      "A": "Spleen and Dampness",
+      "B": "Liver and Wind",
+      "C": "Kidney and Cold",
+      "D": "Lung and Dryness"
+    },
+    "correct": "A",
+    "explanation": "Yellow is the color of the Earth element and therefore of the Spleen. A yellow complexion points to Spleen dysfunction and to Dampness: a sallow, lusterless yellow indicates Spleen Qi deficiency, a bright orange-yellow indicates Damp-Heat (Yang jaundice), and a dull, smoky yellow indicates Cold-Damp (Yin jaundice).",
+    "distractorExplanations": {
+      "B": "The Liver corresponds to green-blue (qing), which indicates Wind, Cold, pain, or Blood stasis.",
+      "C": "The Kidney corresponds to black, which indicates Kidney deficiency, Cold, Blood stasis, or water retention.",
+      "D": "The Lung corresponds to white, which indicates deficiency of Qi, Blood, or Yang, or Cold."
+    },
+    "learningObjective": "Identify the organ and pathogenic associations of each of the five complexion colors.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "five-colors",
+      "yellow-complexion",
+      "dampness"
+    ],
+    "references": [
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Diagnostic methods: inspection of the complexion"
+      },
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Observation of the complexion"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IA-0004",
+    "domain": "I",
+    "subdomain": "I-A",
+    "task": "I-A-1",
+    "stem": "A patient has redness confined to the cheekbones that becomes more pronounced in the afternoon, while the rest of the face is pale. Which mechanism best explains this finding?",
+    "options": {
+      "A": "Full Heat in the Stomach flushing upward along its channel",
+      "B": "Wind-Heat invading the exterior and rising to the face",
+      "C": "Liver Fire blazing upward",
+      "D": "Yin deficiency with Empty Heat floating upward"
+    },
+    "correct": "D",
+    "explanation": "A malar flush limited to the cheekbones, worse in the afternoon, on an otherwise pale face is the classic sign of Yin deficiency with Empty Heat. Deficient Yin fails to anchor Yang, so Empty Heat floats to the cheeks; the afternoon timing follows the Yin period of the day when the deficiency is most exposed. Full Heat, by contrast, reddens the whole face.",
+    "distractorExplanations": {
+      "A": "Stomach Heat produces a red, often oily face overall with thirst and a thick yellow coating; redness is not confined to the cheekbones.",
+      "B": "Wind-Heat may redden the face during an acute febrile illness, but the redness is generalized and accompanied by exterior signs, with no afternoon pattern.",
+      "C": "Liver Fire reddens the whole face and the eyes with irritability and a wiry rapid pulse; a learner who equates any facial redness with Fire would pick this."
+    },
+    "learningObjective": "Differentiate the malar flush of Empty Heat from the generalized redness of Full Heat.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": false,
+    "concepts": [
+      "malar-flush",
+      "yin-deficiency-empty-heat",
+      "red-complexion"
+    ],
+    "distinction": {
+      "between": [
+        "yin-deficiency-empty-heat",
+        "full-heat"
+      ],
+      "key": "Empty Heat reddens only the cheekbones (malar flush), worse in the afternoon; Full Heat reddens the whole face."
+    },
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Observation of the complexion: red color"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Inspection: the five colors"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IA-0005",
+    "domain": "I",
+    "subdomain": "I-A",
+    "task": "I-A-1",
+    "stem": "A patient's face is bright white and slightly puffy. Which pattern is most consistent with this complexion?",
+    "options": {
+      "A": "Blood deficiency",
+      "B": "Yang deficiency",
+      "C": "Blood stasis",
+      "D": "Yin deficiency"
+    },
+    "correct": "B",
+    "explanation": "A bright white (bright-pale) complexion with puffiness indicates Yang deficiency. Deficient Yang fails to warm and transform fluids, which accumulate in the face and give it a swollen, bright-white appearance. The brightness and puffiness distinguish it from the dull, withered pallor of Blood deficiency.",
+    "distractorExplanations": {
+      "A": "Blood deficiency produces a dull, withered, lusterless pale face without puffiness; a learner who treats all pallor as Blood deficiency would choose this.",
+      "C": "Blood stasis gives a dark, dusky, or purplish complexion, often with dark rings under the eyes.",
+      "D": "Yin deficiency produces a malar flush on the cheekbones with a thin face, the opposite of a puffy white face."
+    },
+    "learningObjective": "Differentiate the complexion of Yang deficiency from that of Blood deficiency.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": false,
+    "concepts": [
+      "white-complexion",
+      "yang-deficiency",
+      "blood-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "yang-deficiency",
+        "blood-deficiency"
+      ],
+      "key": "Yang deficiency gives a bright-white, puffy face; Blood deficiency gives a dull, withered pallor."
+    },
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Observation of the complexion: white color"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IA-0006",
+    "domain": "I",
+    "subdomain": "I-A",
+    "task": "I-A-1",
+    "stem": "A patient with a chronic illness has a complexion that, although pale, remains moist and lustrous. Which of the following is the best interpretation of the luster?",
+    "options": {
+      "A": "Stomach Qi is still intact and the prognosis is relatively favorable",
+      "B": "Pathogenic Heat is still confined to the exterior",
+      "C": "Dampness is accumulating in the face",
+      "D": "Yin and Yang are about to separate"
+    },
+    "correct": "A",
+    "explanation": "In complexion observation the luster is interpreted separately from the color. A moist, lustrous complexion (even when the color is abnormal) shows that Stomach Qi and Essence are still reaching the face, so the condition is milder and the prognosis more favorable. A dry, withered, lusterless complexion shows that Stomach Qi is exhausted and carries a worse prognosis.",
+    "distractorExplanations": {
+      "B": "Exterior Heat is judged by acute exterior signs and a red color, not by the luster of a chronically pale face.",
+      "C": "Dampness in the face produces puffiness and a sallow or dull-yellow color, not a healthy luster; a learner who confuses moist luster with Damp swelling would pick this.",
+      "D": "Separation of Yin and Yang shows as False Spirit, a rouge-like flush, or a withered, lifeless complexion, not a moist luster."
+    },
+    "learningObjective": "Explain the prognostic meaning of luster in complexion observation.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": false,
+    "concepts": [
+      "complexion-luster",
+      "stomach-qi",
+      "prognosis"
+    ],
+    "references": [
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Inspection: lustrous versus withered complexion"
+      },
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Observation of the complexion"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IA-0007",
+    "domain": "I",
+    "subdomain": "I-A",
+    "task": "I-A-2",
+    "stem": "In observation of the eyes, redness of the inner and outer canthi is attributed to which organ?",
+    "options": {
+      "A": "Liver",
+      "B": "Lung",
+      "C": "Spleen",
+      "D": "Heart"
+    },
+    "correct": "D",
+    "explanation": "By the five-wheel correspondence of the eye, the inner and outer canthi belong to the Heart (Blood wheel). Redness of the canthi therefore indicates Heart Fire or Heat in the Heart.",
+    "distractorExplanations": {
+      "A": "The Liver corresponds to the iris (Wind wheel); Liver Heat shows as redness and pain of the whole eye or as cloudy iris changes.",
+      "B": "The Lung corresponds to the sclera (Qi wheel); Lung Heat shows as redness of the white of the eye.",
+      "C": "The Spleen corresponds to the eyelids (Flesh wheel); Spleen involvement shows as swollen or drooping eyelids."
+    },
+    "learningObjective": "Identify the organ correspondences of the regions of the eye.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "eye-observation",
+      "five-wheels",
+      "heart-fire"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Observation of the eyes"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Inspection: the eyes"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IA-0008",
+    "domain": "I",
+    "subdomain": "I-A",
+    "task": "I-A-2",
+    "stem": "A patient's lips are bluish-purple. Which pattern is most consistent with this finding?",
+    "options": {
+      "A": "Spleen Qi deficiency",
+      "B": "Stomach Heat",
+      "C": "Blood stasis",
+      "D": "Blood deficiency"
+    },
+    "correct": "C",
+    "explanation": "Bluish-purple lips indicate Blood stasis, commonly from Cold congealing the Blood or from obstruction of Heart Blood. The dark, purplish hue reflects stagnant Blood failing to circulate to the lips, which the Spleen normally nourishes with fresh Blood.",
+    "distractorExplanations": {
+      "A": "Spleen Qi deficiency gives pale, dry lips because insufficient Blood is generated to nourish them.",
+      "B": "Stomach Heat gives red, dry, cracked lips, often with thirst and bad breath.",
+      "D": "Blood deficiency gives pale lips; a learner who reads any abnormal lip color as deficiency of Blood would choose this, but the purplish hue is stasis, not lack."
+    },
+    "learningObjective": "Interpret lip color in terms of Qi, Blood, Heat, and stasis.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": false,
+    "concepts": [
+      "lip-observation",
+      "blood-stasis",
+      "purple-lips"
+    ],
+    "distinction": {
+      "between": [
+        "blood-stasis",
+        "blood-deficiency"
+      ],
+      "key": "Purplish or bluish lips indicate stasis; pale lips indicate deficiency of Blood."
+    },
+    "references": [
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Inspection: the lips"
+      },
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Observation of the lips"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IA-0009",
+    "domain": "I",
+    "subdomain": "I-A",
+    "task": "I-A-2",
+    "stem": "A 52-year-old patient reports a mildly sore, dry throat for 4 months, worse in the evening, with a sensation of heat in the palms and soles. On observation the throat is slightly red without swelling or exudate. Which pattern is most likely?",
+    "options": {
+      "A": "Wind-Heat invading the Lung",
+      "B": "Kidney Yin deficiency with Empty Fire",
+      "C": "Lung and Stomach Heat",
+      "D": "Phlegm and Qi obstructing the throat"
+    },
+    "correct": "B",
+    "explanation": "A chronic, mild, dry sore throat that is only slightly red, with no swelling or exudate, worse in the evening and accompanied by five-palm heat, is Kidney Yin deficiency with Empty Fire flaring upward along the Kidney channel to the throat. The low intensity, long duration, dryness, and evening aggravation mark the Heat as empty rather than full.",
+    "distractorExplanations": {
+      "A": "Wind-Heat causes an acute, markedly red, swollen, painful throat with fever and aversion to wind, lasting days rather than months.",
+      "C": "Lung and Stomach Heat produce a very red, swollen throat with possible exudate, thirst, and a thick yellow coating; a learner who reads every red throat as Full Heat would pick this.",
+      "D": "Phlegm-Qi obstruction (plum-stone throat) produces a sensation of a lump that cannot be swallowed or coughed up, without redness or dryness."
+    },
+    "learningObjective": "Differentiate a chronic sore throat from Empty Fire from acute Full Heat and from Phlegm-Qi obstruction.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "throat-observation",
+      "kidney-yin-deficiency",
+      "empty-fire"
+    ],
+    "distinction": {
+      "between": [
+        "kidney-yin-deficiency",
+        "wind-heat"
+      ],
+      "key": "Slight redness without swelling, chronic course, dryness, and evening aggravation indicate Empty Fire; marked redness with swelling and acute onset indicates Full Heat."
+    },
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Observation of the throat"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Kidney patterns: Kidney Yin deficiency"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IA-0010",
+    "domain": "I",
+    "subdomain": "I-A",
+    "task": "I-A-2",
+    "stem": "A 3-year-old child with a high fever develops a fixed upward stare and stiffness of the neck. These eye findings most strongly indicate which of the following?",
+    "options": {
+      "A": "Liver Wind stirring internally",
+      "B": "Phlegm misting the Heart orifices",
+      "C": "Kidney Essence deficiency",
+      "D": "Spleen Qi sinking"
+    },
+    "correct": "A",
+    "explanation": "Fixed upward staring (or deviated) eyes with stiffness of the neck in a febrile child indicate Liver Wind generated by extreme Heat. The Liver opens into the eyes and governs the sinews, so internal Wind manifests as abnormal, fixed eye movements together with rigidity and convulsions.",
+    "distractorExplanations": {
+      "B": "Phlegm misting the Heart causes clouding of consciousness, dull eyes, and rattling in the throat, not a fixed upward stare with stiffness.",
+      "C": "Kidney Essence deficiency in a child produces slow development, soft bones, and dull eyes with a chronic course, not an acute febrile stare.",
+      "D": "Spleen Qi sinking produces drooping eyelids, prolapse, and chronic fatigue; a learner who associates any eye-position abnormality with the eyelids and Spleen would choose this."
+    },
+    "learningObjective": "Recognize eye signs of internal Wind.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "eye-observation",
+      "liver-wind",
+      "extreme-heat-generating-wind"
+    ],
+    "references": [
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Inspection: the eyes"
+      },
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Observation of the eyes"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IA-0011",
+    "domain": "I",
+    "subdomain": "I-A",
+    "task": "I-A-3",
+    "stem": "A tongue is pale, swollen, and wet, with teeth marks along the edges. Which pattern is most consistent with these findings?",
+    "options": {
+      "A": "Liver Blood deficiency",
+      "B": "Kidney Yin deficiency",
+      "C": "Damp-Heat in the Spleen",
+      "D": "Spleen Yang deficiency with Dampness"
+    },
+    "correct": "D",
+    "explanation": "A pale body indicates deficiency of Yang (or of Qi and Blood); the swelling with teeth marks indicates Spleen Qi deficiency with retention of Dampness; the wetness indicates that deficient Yang fails to transform fluids. Together these point to Spleen Yang deficiency with accumulation of Dampness.",
+    "distractorExplanations": {
+      "A": "Liver Blood deficiency produces a pale tongue that is thin and slightly dry, without swelling or wetness.",
+      "B": "Kidney Yin deficiency produces a red, often thin tongue with little or no coating, the opposite of pale and wet.",
+      "C": "Damp-Heat produces a red tongue with a sticky yellow coating; swelling may be present but the body is red, not pale, and the surface is sticky rather than wet. A learner who keys only on swelling would pick this."
+    },
+    "learningObjective": "Interpret the combination of tongue body color, shape, and moisture to identify a Spleen pattern.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": false,
+    "concepts": [
+      "pale-tongue",
+      "swollen-tongue",
+      "teeth-marked-tongue",
+      "spleen-yang-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "spleen-yang-deficiency",
+        "damp-heat-in-the-spleen"
+      ],
+      "key": "Both may swell the tongue, but a pale, wet body indicates Yang deficiency with Dampness while a red body with a sticky yellow coating indicates Damp-Heat."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Tongue diagnosis: tongue body shape"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Diagnostic methods: inspection of the tongue"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IA-0012",
+    "domain": "I",
+    "subdomain": "I-A",
+    "task": "I-A-3",
+    "stem": "A patient has a red tongue body. Which coating finding would most strongly indicate Yin deficiency with Empty Heat rather than Full Heat?",
+    "options": {
+      "A": "Thick yellow coating",
+      "B": "Thin white coating",
+      "C": "Absent coating with a shiny surface",
+      "D": "Sticky yellow coating"
+    },
+    "correct": "C",
+    "explanation": "A red body shows Heat; the coating decides whether that Heat is full or empty. A coating that is absent, leaving a smooth, shiny (mirror) surface, indicates that Stomach and Kidney Yin are depleted and can no longer produce a coating, so the Heat is Empty Heat from Yin deficiency. Full Heat, by contrast, still has Yin to burn and produces a yellow coating.",
+    "distractorExplanations": {
+      "A": "A thick yellow coating with a red body indicates Full Heat in the Interior, often in the Stomach or Intestines.",
+      "B": "A thin white coating with a red body is seen at the beginning of Wind-Heat invasion, an exterior Full pattern.",
+      "D": "A sticky yellow coating indicates Damp-Heat, a Full pattern; a learner who focuses only on the red body would be unable to separate these."
+    },
+    "learningObjective": "Use the tongue coating to differentiate Empty Heat from Full Heat.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": false,
+    "concepts": [
+      "red-tongue",
+      "peeled-coating",
+      "yin-deficiency-empty-heat",
+      "full-heat"
+    ],
+    "distinction": {
+      "between": [
+        "yin-deficiency-empty-heat",
+        "full-heat"
+      ],
+      "key": "On a red tongue, a peeled or absent coating indicates Empty Heat from Yin deficiency; a yellow coating indicates Full Heat."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Tongue diagnosis: tongue coating"
+      },
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Observation of the tongue: coating"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IA-0013",
+    "domain": "I",
+    "subdomain": "I-A",
+    "task": "I-A-3",
+    "stem": "A bluish-purple tongue body that is moist most commonly indicates which of the following?",
+    "options": {
+      "A": "Interior Cold leading to Blood stasis",
+      "B": "Interior Heat leading to Blood stasis",
+      "C": "Phlegm-Heat obstructing the Lung",
+      "D": "Yin deficiency with Blood stasis"
+    },
+    "correct": "A",
+    "explanation": "A purple tongue always indicates Blood stasis; the shade and moisture show its origin. A bluish-purple body that is moist indicates Interior Cold congealing the Blood, typically from Yang deficiency. A reddish-purple body that is dry indicates Heat consuming fluids and thickening the Blood.",
+    "distractorExplanations": {
+      "B": "Heat-induced stasis produces a reddish-purple, dry tongue; a learner who does not separate the blue from the red shade of purple would pick this.",
+      "C": "Phlegm-Heat produces a red body with a sticky yellow coating, not a bluish body.",
+      "D": "Yin deficiency produces a red, dry body without coating; if stasis coexists the body is reddish-purple and dry, never bluish and moist."
+    },
+    "learningObjective": "Differentiate Cold-type from Heat-type Blood stasis by the shade and moisture of a purple tongue.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": false,
+    "concepts": [
+      "purple-tongue",
+      "blood-stasis",
+      "interior-cold"
+    ],
+    "distinction": {
+      "between": [
+        "cold-blood-stasis",
+        "heat-blood-stasis"
+      ],
+      "key": "Bluish-purple and moist indicates Cold stasis; reddish-purple and dry indicates Heat stasis."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Tongue diagnosis: tongue body color"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Inspection: tongue body color"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IA-0014",
+    "domain": "I",
+    "subdomain": "I-A",
+    "task": "I-A-3",
+    "stem": "A patient's tongue has multiple cracks on its surface. Which additional tongue finding would most strongly support attributing the cracks to Yin deficiency rather than to Spleen Qi deficiency?",
+    "options": {
+      "A": "Pale body with a thin white coating",
+      "B": "Red body with no coating",
+      "C": "Swollen body with teeth marks",
+      "D": "Pale body with a wet surface"
+    },
+    "correct": "B",
+    "explanation": "Cracks on the tongue arise when the body is not moistened, and they occur in two very different contexts. With a red body and no coating, the cracks reflect Yin deficiency with Empty Heat drying the tongue surface. With a pale body, cracks reflect long-standing Spleen Qi (or Blood) deficiency failing to nourish the tongue. The body color and coating, not the cracks themselves, are the discriminating findings.",
+    "distractorExplanations": {
+      "A": "A pale body with thin white coating accompanies the cracks of Spleen Qi deficiency, the alternative the question asks to rule out.",
+      "C": "Swelling with teeth marks indicates Spleen Qi deficiency with Dampness and would support the Spleen attribution.",
+      "D": "A pale, wet body indicates Yang or Qi deficiency with fluids unmoved; it argues against Yin deficiency, in which the tongue is dry. A learner who reads cracks as always meaning Yin deficiency would be unable to answer."
+    },
+    "learningObjective": "Differentiate the cracked tongue of Yin deficiency from that of Spleen Qi deficiency.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": false,
+    "concepts": [
+      "cracked-tongue",
+      "yin-deficiency",
+      "spleen-qi-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "yin-deficiency",
+        "spleen-qi-deficiency"
+      ],
+      "key": "Cracks on a red, uncoated tongue indicate Yin deficiency; cracks on a pale tongue indicate Spleen Qi deficiency."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Tongue diagnosis: tongue body shape (cracks)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IA-0015",
+    "domain": "I",
+    "subdomain": "I-A",
+    "task": "I-A-3",
+    "stem": "A tongue that deviates to one side when protruded is most commonly associated with which of the following?",
+    "options": {
+      "A": "Qi deficiency",
+      "B": "Phlegm-Damp accumulation",
+      "C": "Blood stasis",
+      "D": "Interior Wind"
+    },
+    "correct": "D",
+    "explanation": "A deviated tongue indicates Interior (Liver) Wind, as in Wind-stroke or its prodrome. Wind, often carrying Phlegm, obstructs the channels of the tongue on one side so that the tongue is pulled toward the affected side on protrusion.",
+    "distractorExplanations": {
+      "A": "Qi deficiency produces a pale, possibly flaccid or teeth-marked tongue, but it protrudes in the midline.",
+      "B": "Phlegm-Damp alone produces a swollen tongue with a sticky coating; deviation occurs only when Wind accompanies the Phlegm. A learner who remembers Wind-Phlegm as Phlegm alone would pick this.",
+      "C": "Blood stasis produces a purple tongue or distended sublingual veins without deviation."
+    },
+    "learningObjective": "Identify the significance of a deviated tongue.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "deviated-tongue",
+      "liver-wind",
+      "wind-stroke"
+    ],
+    "references": [
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Diagnostic methods: inspection of the tongue"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Tongue diagnosis: tongue body shape"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IA-0016",
+    "domain": "I",
+    "subdomain": "I-A",
+    "task": "I-A-3",
+    "stem": "A patient's tongue trembles when protruded. The body is pale and slightly flaccid. Which mechanism best explains the tremor?",
+    "options": {
+      "A": "Liver Wind generated by extreme Heat",
+      "B": "Phlegm-Fire harassing the Heart",
+      "C": "Qi and Blood deficiency failing to nourish the tongue",
+      "D": "Liver Yang rising from Yin deficiency"
+    },
+    "correct": "C",
+    "explanation": "A trembling tongue indicates Wind, but the body color shows where the Wind comes from. On a pale, flaccid body the tremor reflects Qi and Blood deficiency: the sinews of the tongue are undernourished and quiver, a Wind of deficiency. On a red body a trembling tongue would instead indicate Liver Wind arising from Heat.",
+    "distractorExplanations": {
+      "A": "Wind from extreme Heat produces a trembling or stiff tongue that is red or deep red, not pale; a learner who treats every tremor as Heat-generated Wind would pick this.",
+      "B": "Phlegm-Fire produces a red tongue with a sticky yellow coating and mental agitation, not a pale, flaccid tongue.",
+      "D": "Liver Yang rising from Yin deficiency produces a red tongue, often with a red tip or sides, not a pale one."
+    },
+    "learningObjective": "Differentiate deficiency-type from Heat-type Wind by the color of a trembling tongue.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": false,
+    "concepts": [
+      "trembling-tongue",
+      "qi-and-blood-deficiency",
+      "liver-wind"
+    ],
+    "distinction": {
+      "between": [
+        "qi-and-blood-deficiency",
+        "liver-wind-from-heat"
+      ],
+      "key": "A trembling pale tongue indicates deficiency Wind from Qi and Blood deficiency; a trembling red tongue indicates Liver Wind from Heat."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Tongue diagnosis: tongue body shape"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Inspection: tongue movement"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IA-0017",
+    "domain": "I",
+    "subdomain": "I-A",
+    "task": "I-A-3",
+    "stem": "A pale tongue has a grey-black coating that is moist and slippery. Which of the following is the most appropriate interpretation?",
+    "options": {
+      "A": "Extreme Heat consuming Body Fluids",
+      "B": "Extreme Interior Cold from Yang deficiency",
+      "C": "Damp-Heat accumulating in the Middle Burner",
+      "D": "Heat entering the Blood level"
+    },
+    "correct": "B",
+    "explanation": "A grey or black coating indicates an extreme condition, either of Heat or of Cold; the moisture and body color decide which. A moist, slippery black coating on a pale body indicates extreme Interior Cold with Yang deficiency failing to transform fluids, which accumulate on the tongue. A black coating from extreme Heat is dry and sits on a red or deep-red body.",
+    "distractorExplanations": {
+      "A": "Extreme Heat consuming fluids produces a dry, often cracked black coating on a red body; the moisture here rules it out. A learner who learned only that black means extreme Heat would pick this.",
+      "C": "Damp-Heat produces a sticky yellow coating; a slippery black coating on a pale body has no Heat sign.",
+      "D": "Heat in the Blood level produces a deep-red or purple body with little or no coating, not a pale body with a moist dark coating."
+    },
+    "learningObjective": "Differentiate the black coating of extreme Cold from that of extreme Heat.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": false,
+    "concepts": [
+      "black-coating",
+      "yang-deficiency",
+      "interior-cold",
+      "extreme-heat"
+    ],
+    "distinction": {
+      "between": [
+        "extreme-interior-cold",
+        "extreme-heat"
+      ],
+      "key": "A black coating that is moist on a pale body indicates extreme Cold; one that is dry on a red body indicates extreme Heat."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Tongue diagnosis: tongue coating color"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Diagnostic methods: inspection of the tongue coating"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IA-0018",
+    "domain": "I",
+    "subdomain": "I-A",
+    "task": "I-A-3",
+    "stem": "A thick, white, greasy (sticky) tongue coating on a swollen body most commonly indicates which of the following?",
+    "options": {
+      "A": "Cold-Damp or Phlegm retained in the Interior",
+      "B": "Wind-Cold at the exterior level",
+      "C": "Stomach Yin deficiency",
+      "D": "Damp-Heat in the Spleen"
+    },
+    "correct": "A",
+    "explanation": "The thickness of a coating reflects the depth and strength of a pathogenic factor: thin for exterior or mild, thick for interior or accumulated. A greasy or sticky texture indicates Dampness or Phlegm; its white color shows the absence of Heat. A thick, white, sticky coating on a swollen body therefore indicates Cold-Damp or Phlegm retained in the Interior.",
+    "distractorExplanations": {
+      "B": "Exterior Wind-Cold produces a thin white coating because the pathogen has not yet penetrated; a thick coating indicates the Interior.",
+      "C": "Stomach Yin deficiency produces a peeled or absent coating on a red, often thin body, the opposite of a thick coating on a swollen body.",
+      "D": "Damp-Heat produces a sticky yellow coating; a learner who equates every sticky coating with Damp-Heat ignores the white color."
+    },
+    "learningObjective": "Interpret coating thickness, color, and texture together to identify Cold-Damp or Phlegm.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": false,
+    "concepts": [
+      "greasy-white-coating",
+      "thick-coating",
+      "cold-damp",
+      "phlegm"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Tongue diagnosis: tongue coating"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Diagnostic methods: inspection of the tongue coating"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IA-0019",
+    "domain": "I",
+    "subdomain": "I-A",
+    "task": "I-A-3",
+    "stem": "A tongue coating looks as though it has been sprinkled onto the surface; it can be scraped away easily and leaves the surface clean beneath it. Which of the following is the most appropriate interpretation?",
+    "options": {
+      "A": "An exterior pathogen that has just begun to invade",
+      "B": "Retention of Food in the Stomach",
+      "C": "Full Heat in the Interior",
+      "D": "Deficiency of Stomach Qi"
+    },
+    "correct": "D",
+    "explanation": "A normal coating is produced by Stomach Qi and is rooted: it grows out of the tongue body and cannot be scraped off cleanly. A coating that appears sprinkled on and scrapes away to a clean surface is rootless, which indicates that Stomach Qi is too weak to generate a proper coating. It is a deficiency finding, often preceding a fully peeled tongue.",
+    "distractorExplanations": {
+      "A": "An early exterior invasion produces a thin white coating that is rooted, because Stomach Qi is intact.",
+      "B": "Retention of Food produces a thick, dirty, sticky coating that is firmly rooted; a learner who associates an easily removed coating with surface debris from food would pick this.",
+      "C": "Full Heat produces a yellow, rooted coating on a red body."
+    },
+    "learningObjective": "Differentiate a rooted from a rootless tongue coating and state its significance.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": false,
+    "concepts": [
+      "rootless-coating",
+      "stomach-qi-deficiency",
+      "tongue-coating"
+    ],
+    "distinction": {
+      "between": [
+        "rooted-coating",
+        "rootless-coating"
+      ],
+      "key": "A rooted coating grows from the body and resists scraping (Stomach Qi intact); a rootless coating scrapes off to a clean surface (Stomach Qi deficient)."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Tongue diagnosis: tongue coating (root)"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Inspection: tongue coating"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IA-0020",
+    "domain": "I",
+    "subdomain": "I-A",
+    "task": "I-A-3",
+    "stem": "A tongue has a thin white coating over most of its surface, but in the center the coating is missing and the surface there is smooth and shiny. Which pattern is most consistent with this finding?",
+    "options": {
+      "A": "Liver Fire blazing",
+      "B": "Kidney Yin deficiency",
+      "C": "Stomach Yin deficiency",
+      "D": "Heart Fire blazing"
+    },
+    "correct": "C",
+    "explanation": "The center of the tongue corresponds to the Stomach and Spleen. A coating that is partially peeled, leaving a smooth, shiny patch in the center while the rest of the coating remains, indicates Stomach Yin deficiency: the Stomach fluids are too depleted to maintain a coating over the Stomach area. Partial peeling is an earlier, milder stage than the fully peeled mirror tongue.",
+    "distractorExplanations": {
+      "A": "Liver Fire shows as redness or red points on the sides of the tongue with a yellow coating, not a peeled center.",
+      "B": "Kidney Yin deficiency would show peeling at the root, which corresponds to the Kidney, or a completely peeled tongue in advanced cases; a learner who attributes all peeling to the Kidney would pick this.",
+      "D": "Heart Fire shows as a red tip, possibly with red points, not an uncoated patch in the center."
+    },
+    "learningObjective": "Interpret a partially peeled coating using the tongue's organ zones.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": false,
+    "concepts": [
+      "peeled-coating",
+      "tongue-zones",
+      "stomach-yin-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "stomach-yin-deficiency",
+        "kidney-yin-deficiency"
+      ],
+      "key": "Peeling in the center indicates Stomach Yin deficiency; peeling at the root indicates Kidney Yin deficiency."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Tongue diagnosis: tongue coating and tongue areas"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IA-0021",
+    "domain": "I",
+    "subdomain": "I-A",
+    "task": "I-A-3",
+    "stem": "A 29-year-old patient reports insomnia with vivid dreams, palpitations, and recurrent mouth ulcers for 3 weeks. The tongue is red at the tip with red points, and the coating is thin yellow. The pulse is rapid. Which pattern is most consistent with these findings?",
+    "options": {
+      "A": "Heart Fire blazing",
+      "B": "Liver Fire blazing",
+      "C": "Stomach Heat",
+      "D": "Kidney Yin deficiency"
+    },
+    "correct": "A",
+    "explanation": "The tip of the tongue corresponds to the Heart. A red tip with red points indicates Heat in the Heart, and together with insomnia, dream-disturbed sleep, palpitations, mouth ulcers (the Heart opens into the tongue), a yellow coating, and a rapid pulse the pattern is Heart Fire blazing, a Full Heat pattern.",
+    "distractorExplanations": {
+      "B": "Liver Fire reddens the sides of the tongue and presents with irritability, headache, and red eyes; the location of the redness at the tip points to the Heart instead.",
+      "C": "Stomach Heat shows as a thick yellow coating in the center with thirst, hunger, and bad breath, without the red tip and Spirit disturbance.",
+      "D": "Kidney Yin deficiency can also cause insomnia, but the tongue would be red without coating and the pulse thin and rapid; the yellow coating and red points mark Full Heat. A learner who reads all insomnia as Yin deficiency would pick this."
+    },
+    "learningObjective": "Apply tongue zone correspondences to identify the organ affected by Heat.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "red-tongue-tip",
+      "tongue-zones",
+      "heart-fire-blazing"
+    ],
+    "distinction": {
+      "between": [
+        "heart-fire-blazing",
+        "liver-fire-blazing"
+      ],
+      "key": "Redness at the tip of the tongue localizes Heat to the Heart; redness on the sides localizes it to the Liver."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Tongue diagnosis: tongue areas; Heart patterns: Heart Fire blazing"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IA-0022",
+    "domain": "I",
+    "subdomain": "I-A",
+    "task": "I-A-3",
+    "stem": "Which area of the tongue reflects the condition of the Kidney?",
+    "options": {
+      "A": "The tip",
+      "B": "The root",
+      "C": "The sides",
+      "D": "The center"
+    },
+    "correct": "B",
+    "explanation": "In tongue topography the root (posterior third) reflects the Kidney, together with the Bladder and Intestines. The tip reflects the Heart (with the Lung just behind it), the center reflects the Spleen and Stomach, and the sides reflect the Liver and Gallbladder.",
+    "distractorExplanations": {
+      "A": "The tip reflects the Heart; the area just behind it reflects the Lung.",
+      "C": "The sides reflect the Liver and Gallbladder.",
+      "D": "The center reflects the Spleen and Stomach; a learner who associates the Kidney with the center of the body might choose this."
+    },
+    "learningObjective": "Identify the organ correspondences of the areas of the tongue.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "tongue-zones",
+      "kidney"
+    ],
+    "references": [
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Diagnostic methods: inspection of the tongue"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Tongue diagnosis: tongue areas"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IA-0023",
+    "domain": "I",
+    "subdomain": "I-A",
+    "task": "I-A-3",
+    "stem": "On inspection of the underside of the tongue, the two sublingual veins are distended and dark purple. This finding most commonly indicates which of the following?",
+    "options": {
+      "A": "Qi deficiency",
+      "B": "Yin deficiency with Empty Heat",
+      "C": "Blood stasis",
+      "D": "Phlegm-Damp accumulation"
+    },
+    "correct": "C",
+    "explanation": "Distended, dark purple sublingual veins indicate Blood stasis. Stagnant Blood engorges and darkens the veins beneath the tongue, and this sign often appears before the tongue body itself turns purple, making it an early indicator of stasis.",
+    "distractorExplanations": {
+      "A": "Qi deficiency leaves the sublingual veins pale and thin, since there is insufficient Qi to move and fill them.",
+      "B": "Yin deficiency with Empty Heat shows in a red, dry, uncoated tongue body; it does not distend or darken the sublingual veins unless stasis has developed.",
+      "D": "Phlegm-Damp shows in a swollen body with a sticky coating; a learner who reads any swelling, including swollen veins, as Dampness would pick this."
+    },
+    "learningObjective": "Interpret sublingual vein findings.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": false,
+    "concepts": [
+      "sublingual-veins",
+      "blood-stasis"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Observation of the tongue: sublingual veins"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IA-0024",
+    "domain": "I",
+    "subdomain": "I-A",
+    "task": "I-A-3",
+    "stem": "A 35-year-old patient has had chills, mild fever, headache, body aches, and nasal congestion for 1 day. The tongue body is of normal color with a thin white coating. Taken together with the tongue findings, this presentation is most consistent with which of the following?",
+    "options": {
+      "A": "Interior Cold-Damp",
+      "B": "Interior Heat damaging Body Fluids",
+      "C": "Exterior Wind-Heat invasion",
+      "D": "Exterior Wind-Cold invasion"
+    },
+    "correct": "D",
+    "explanation": "A normal tongue body with a thin white coating in the first day of a febrile illness shows that the pathogen is still at the exterior and has not yet affected the Interior: the body is unchanged and the coating is thin. The white color shows the pathogen is Cold rather than Heat, which, together with chills, body aches, and congestion, indicates exterior Wind-Cold.",
+    "distractorExplanations": {
+      "A": "Interior Cold-Damp produces a thick, white, sticky coating on a pale or swollen body with a chronic course, not a thin coating on a normal body.",
+      "B": "Interior Heat damaging fluids produces a red body with a dry yellow coating.",
+      "C": "Exterior Wind-Heat produces a thin coating that is yellow, or white with a red tip or sides; a learner who keys on the thin coating alone and ignores its color would pick this."
+    },
+    "learningObjective": "Interpret the tongue in an acute exterior invasion and differentiate Wind-Cold from Wind-Heat.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "thin-white-coating",
+      "exterior-pattern",
+      "wind-cold"
+    ],
+    "distinction": {
+      "between": [
+        "wind-cold",
+        "wind-heat"
+      ],
+      "key": "In an exterior pattern a thin white coating indicates Wind-Cold; a thin yellow coating or a red tip indicates Wind-Heat."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Tongue diagnosis: tongue coating; Identification of patterns according to the Eight Principles (Exterior)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IA-0025",
+    "domain": "I",
+    "subdomain": "I-A",
+    "task": "I-A-4",
+    "stem": "A patient's fingernails are pale, brittle, and ridged. Which pattern is most consistent with this finding?",
+    "options": {
+      "A": "Kidney Yang deficiency",
+      "B": "Liver Blood deficiency",
+      "C": "Blood stasis from Cold",
+      "D": "Liver Fire blazing"
+    },
+    "correct": "B",
+    "explanation": "The Liver manifests in the nails, which are regarded as the surplus of the sinews and are nourished by Liver Blood. Pale, brittle, ridged, or withered nails indicate Liver Blood deficiency failing to nourish them.",
+    "distractorExplanations": {
+      "A": "Kidney Yang deficiency affects the bones, hair, and lower back and gives cold limbs; it does not primarily show in the nails.",
+      "C": "Blood stasis from Cold gives bluish-purple nails, not pale brittle ones; a learner who attributes all nail abnormality to poor circulation would pick this.",
+      "D": "Liver Fire produces red eyes, headache, and irritability with a red tongue; it does not produce pale, undernourished nails."
+    },
+    "learningObjective": "Interpret nail findings in terms of Liver Blood.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": false,
+    "concepts": [
+      "nail-observation",
+      "liver-blood-deficiency"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The functions of the Liver: manifests in the nails"
+      },
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Observation of the nails"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IA-0026",
+    "domain": "I",
+    "subdomain": "I-A",
+    "task": "I-A-4",
+    "stem": "A patient lies curled up on the side facing the wall, keeps the covers pulled tightly around the body, and is quiet and still. These observations most suggest which of the following?",
+    "options": {
+      "A": "A Cold pattern of a Yin nature",
+      "B": "A Heat pattern of a Yang nature",
+      "C": "An exterior Wind-Heat pattern",
+      "D": "A Liver Yang rising pattern"
+    },
+    "correct": "A",
+    "explanation": "Observation of posture and movement reflects Yin and Yang. A patient who curls up, turns away from light and people, seeks warmth and covering, and is quiet and still shows the contracted, inward, quiet quality of Yin and Cold. A patient with a Heat or Yang pattern lies stretched out, faces outward, throws off the covers, and is restless.",
+    "distractorExplanations": {
+      "B": "Heat and Yang produce the opposite picture: stretched-out posture, throwing off covers, restlessness, and desire for cool.",
+      "C": "Exterior Wind-Heat produces fever with mild aversion to wind, a sore throat, and restlessness; the patient does not seek heavy covering and stillness. A learner who assumes any acute bed-bound patient has an exterior invasion would pick this.",
+      "D": "Liver Yang rising produces headache, irritability, and restlessness with a red face, a Yang picture rather than a quiet, curled-up one."
+    },
+    "learningObjective": "Interpret posture and movement in terms of Yin/Yang and Cold/Heat.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": false,
+    "concepts": [
+      "body-posture",
+      "yin-yang",
+      "cold-pattern"
+    ],
+    "references": [
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Inspection: posture and movement"
+      },
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Observation of the body: posture and movement"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IA-0027",
+    "domain": "I",
+    "subdomain": "I-A",
+    "task": "I-A-5",
+    "stem": "A 60-year-old patient with a chronic cough brings up copious, thin, white, frothy sputum that is easy to expectorate. The patient feels cold and has a pale tongue with a white, slippery coating. The sputum findings are most consistent with which of the following?",
+    "options": {
+      "A": "Phlegm-Heat in the Lung",
+      "B": "Lung Yin deficiency",
+      "C": "Dryness injuring the Lung",
+      "D": "Cold-Phlegm obstructing the Lung"
+    },
+    "correct": "D",
+    "explanation": "The color, consistency, and quantity of sputum indicate the nature of the Phlegm. Copious, thin, white, frothy sputum that comes up easily indicates Cold-Phlegm (Phlegm-Damp with Cold): Cold fails to transform fluids, which accumulate as watery Phlegm. The feeling of cold, pale tongue, and slippery white coating confirm the Cold nature.",
+    "distractorExplanations": {
+      "A": "Phlegm-Heat produces thick, yellow or green, sticky sputum, often foul, with a red tongue and yellow coating; a learner who attributes all copious sputum to Heat would pick this.",
+      "B": "Lung Yin deficiency produces a dry cough with scanty, sticky sputum that is hard to expectorate, sometimes blood-streaked, with a red peeled tongue.",
+      "C": "Dryness injuring the Lung produces a dry cough with little or no sputum and a dry mouth and nose, not copious watery sputum."
+    },
+    "learningObjective": "Interpret the color, consistency, and quantity of sputum to identify the nature of Phlegm.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "sputum-observation",
+      "cold-phlegm",
+      "phlegm-heat"
+    ],
+    "distinction": {
+      "between": [
+        "cold-phlegm",
+        "phlegm-heat"
+      ],
+      "key": "Thin, white, frothy, copious sputum indicates Cold-Phlegm; thick, yellow, sticky sputum indicates Phlegm-Heat."
+    },
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Observation of excretions: sputum"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Inspection: sputum"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IA-0028",
+    "domain": "I",
+    "subdomain": "I-A",
+    "task": "I-A-5",
+    "stem": "A patient passes loose, watery stools that contain undigested food and have little odor. The limbs are cold. The stool findings are most consistent with which of the following?",
+    "options": {
+      "A": "Large Intestine Damp-Heat",
+      "B": "Retention of Food in the Stomach",
+      "C": "Spleen Yang deficiency",
+      "D": "Liver Qi stagnation invading the Spleen"
+    },
+    "correct": "C",
+    "explanation": "Watery stools containing undigested food indicate that the Spleen's transformation is failing; the absence of odor and the cold limbs show that the failure is from Cold and Yang deficiency rather than from Heat. This is Spleen Yang deficiency (which in chronic cases extends to Kidney Yang), with fluids and food passing through untransformed.",
+    "distractorExplanations": {
+      "A": "Large Intestine Damp-Heat produces yellow, foul-smelling, burning stools with mucus or blood and a red tongue with sticky yellow coating.",
+      "B": "Retention of Food produces foul, sour-smelling stools with undigested food and abdominal distension relieved by passing stool; the lack of odor and the cold limbs argue against it. A learner who keys only on the undigested food would choose this.",
+      "D": "Liver Qi invading the Spleen produces alternating constipation and loose stools related to emotional stress, with abdominal pain and distension, not watery stools with cold limbs."
+    },
+    "learningObjective": "Interpret stool appearance to differentiate Cold-deficient from Heat and excess patterns.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": false,
+    "concepts": [
+      "stool-observation",
+      "spleen-yang-deficiency",
+      "retention-of-food"
+    ],
+    "distinction": {
+      "between": [
+        "spleen-yang-deficiency",
+        "retention-of-food"
+      ],
+      "key": "Both may show undigested food in the stool, but odorless watery stools with cold limbs indicate Spleen Yang deficiency while foul sour stools with distension indicate Food retention."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Spleen patterns: Spleen Yang deficiency"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Inspection: stool"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IA-0029",
+    "domain": "I",
+    "subdomain": "I-A",
+    "task": "I-A-5",
+    "stem": "Urine that is clear, pale, and copious most commonly indicates which of the following?",
+    "options": {
+      "A": "Cold from Yang deficiency",
+      "B": "Full Heat in the Interior",
+      "C": "Damp-Heat in the Bladder",
+      "D": "Yin deficiency with Empty Heat"
+    },
+    "correct": "A",
+    "explanation": "The color and quantity of urine reflect Heat and Cold. Clear, pale, abundant urine indicates Cold, usually from Yang deficiency (particularly of the Kidney), in which fluids are not warmed and transformed and pass straight through to the Bladder. Dark, scanty urine indicates Heat consuming fluids.",
+    "distractorExplanations": {
+      "B": "Full Heat produces scanty, dark yellow urine because Heat consumes and concentrates the fluids.",
+      "C": "Damp-Heat in the Bladder produces turbid, dark urine with burning and frequency; a learner who associates frequency with Bladder Damp-Heat without weighing the color would pick this.",
+      "D": "Yin deficiency produces scanty, dark urine with a dry mouth and night sweats, not pale abundant urine."
+    },
+    "learningObjective": "Interpret urine color and volume in terms of Heat and Cold.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": false,
+    "concepts": [
+      "urine-observation",
+      "yang-deficiency",
+      "cold-pattern"
+    ],
+    "references": [
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Inspection: urine"
+      },
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Observation of excretions: urine"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IA-0030",
+    "domain": "I",
+    "subdomain": "I-A",
+    "task": "I-A-5",
+    "stem": "A 34-year-old patient reports painful periods. The menstrual blood is dark purple with clots, and the pain eases after the clots are passed. The blood findings most strongly indicate which of the following?",
+    "options": {
+      "A": "Blood deficiency",
+      "B": "Blood stasis",
+      "C": "Heat in the Blood",
+      "D": "Spleen Qi failing to hold the Blood"
+    },
+    "correct": "B",
+    "explanation": "Dark purple menstrual blood with clots indicates Blood stasis: stagnant Blood is dark and congeals into clots. Pain that is relieved once the clots are expelled confirms that the obstruction, not deficiency, is the mechanism of the pain.",
+    "distractorExplanations": {
+      "A": "Blood deficiency produces scanty, pale, thin menstrual blood without clots, with dull pain after the period.",
+      "C": "Heat in the Blood produces bright red or deep red, thick, profuse blood; clots may appear but the color is red rather than dark purple. A learner who attributes all clotting to Heat thickening the Blood would pick this.",
+      "D": "Spleen Qi failing to hold the Blood produces profuse or prolonged bleeding of pale, thin blood with fatigue, not dark clotted blood with pain."
+    },
+    "learningObjective": "Interpret the color and consistency of menstrual blood.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "blood-observation",
+      "blood-stasis",
+      "menstrual-blood"
+    ],
+    "distinction": {
+      "between": [
+        "blood-stasis",
+        "heat-in-the-blood"
+      ],
+      "key": "Dark purple clotted blood with pain relieved after passing clots indicates stasis; bright red, thick, profuse blood indicates Heat."
+    },
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Observation of excretions: menstrual blood"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to Qi, Blood and Body Fluids: Blood stasis"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  }
+]

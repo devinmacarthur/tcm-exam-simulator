@@ -22,11 +22,76 @@
     "difficulty": "foundational",
     "cognitiveLevel": "recall",
     "vignette": false,
-    "concepts": ["shen-observation", "presence-of-shen"],
+    "concepts": [
+      "shen-observation",
+      "presence-of-shen"
+    ],
     "references": [
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Inspection: observation of the Spirit (Shen)" },
-      { "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.", "locator": "Observation of the Spirit (Shen)" }
-    ]
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Inspection: observation of the Spirit (Shen)"
+      },
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Observation of the Spirit (Shen)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IA-0002",
@@ -51,12 +116,84 @@
     "difficulty": "advanced",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["false-shen", "shen-observation", "separation-of-yin-and-yang"],
-    "distinction": { "between": ["false-shen", "presence-of-shen"], "key": "A sudden, context-inappropriate brightening in a profoundly depleted patient with a rouge-like flush is False Spirit; genuine presence of Shen is proportionate to the patient's overall condition." },
+    "concepts": [
+      "false-shen",
+      "shen-observation",
+      "separation-of-yin-and-yang"
+    ],
+    "distinction": {
+      "between": [
+        "false-shen",
+        "presence-of-shen"
+      ],
+      "key": "A sudden, context-inappropriate brightening in a profoundly depleted patient with a rouge-like flush is False Spirit; genuine presence of Shen is proportionate to the patient's overall condition."
+    },
     "references": [
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Inspection: false Spirit" },
-      { "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.", "locator": "Observation of the Spirit (Shen)" }
-    ]
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Inspection: false Spirit"
+      },
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Observation of the Spirit (Shen)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IA-0003",
@@ -81,11 +218,77 @@
     "difficulty": "foundational",
     "cognitiveLevel": "recall",
     "vignette": false,
-    "concepts": ["five-colors", "yellow-complexion", "dampness"],
+    "concepts": [
+      "five-colors",
+      "yellow-complexion",
+      "dampness"
+    ],
     "references": [
-      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Diagnostic methods: inspection of the complexion" },
-      { "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.", "locator": "Observation of the complexion" }
-    ]
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Diagnostic methods: inspection of the complexion"
+      },
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Observation of the complexion"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IA-0004",
@@ -110,12 +313,84 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "application",
     "vignette": false,
-    "concepts": ["malar-flush", "yin-deficiency-empty-heat", "red-complexion"],
-    "distinction": { "between": ["yin-deficiency-empty-heat", "full-heat"], "key": "Empty Heat reddens only the cheekbones (malar flush), worse in the afternoon; Full Heat reddens the whole face." },
+    "concepts": [
+      "malar-flush",
+      "yin-deficiency-empty-heat",
+      "red-complexion"
+    ],
+    "distinction": {
+      "between": [
+        "yin-deficiency-empty-heat",
+        "full-heat"
+      ],
+      "key": "Empty Heat reddens only the cheekbones (malar flush), worse in the afternoon; Full Heat reddens the whole face."
+    },
     "references": [
-      { "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.", "locator": "Observation of the complexion: red color" },
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Inspection: the five colors" }
-    ]
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Observation of the complexion: red color"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Inspection: the five colors"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IA-0005",
@@ -140,11 +415,80 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "application",
     "vignette": false,
-    "concepts": ["white-complexion", "yang-deficiency", "blood-deficiency"],
-    "distinction": { "between": ["yang-deficiency", "blood-deficiency"], "key": "Yang deficiency gives a bright-white, puffy face; Blood deficiency gives a dull, withered pallor." },
+    "concepts": [
+      "white-complexion",
+      "yang-deficiency",
+      "blood-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "yang-deficiency",
+        "blood-deficiency"
+      ],
+      "key": "Yang deficiency gives a bright-white, puffy face; Blood deficiency gives a dull, withered pallor."
+    },
     "references": [
-      { "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.", "locator": "Observation of the complexion: white color" }
-    ]
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Observation of the complexion: white color"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IA-0006",
@@ -169,11 +513,77 @@
     "difficulty": "foundational",
     "cognitiveLevel": "comprehension",
     "vignette": false,
-    "concepts": ["complexion-luster", "stomach-qi", "prognosis"],
+    "concepts": [
+      "complexion-luster",
+      "stomach-qi",
+      "prognosis"
+    ],
     "references": [
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Inspection: lustrous versus withered complexion" },
-      { "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.", "locator": "Observation of the complexion" }
-    ]
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Inspection: lustrous versus withered complexion"
+      },
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Observation of the complexion"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IA-0007",
@@ -198,11 +608,77 @@
     "difficulty": "foundational",
     "cognitiveLevel": "recall",
     "vignette": false,
-    "concepts": ["eye-observation", "five-wheels", "heart-fire"],
+    "concepts": [
+      "eye-observation",
+      "five-wheels",
+      "heart-fire"
+    ],
     "references": [
-      { "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.", "locator": "Observation of the eyes" },
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Inspection: the eyes" }
-    ]
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Observation of the eyes"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Inspection: the eyes"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IA-0008",
@@ -227,12 +703,84 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "application",
     "vignette": false,
-    "concepts": ["lip-observation", "blood-stasis", "purple-lips"],
-    "distinction": { "between": ["blood-stasis", "blood-deficiency"], "key": "Purplish or bluish lips indicate stasis; pale lips indicate deficiency of Blood." },
+    "concepts": [
+      "lip-observation",
+      "blood-stasis",
+      "purple-lips"
+    ],
+    "distinction": {
+      "between": [
+        "blood-stasis",
+        "blood-deficiency"
+      ],
+      "key": "Purplish or bluish lips indicate stasis; pale lips indicate deficiency of Blood."
+    },
     "references": [
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Inspection: the lips" },
-      { "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.", "locator": "Observation of the lips" }
-    ]
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Inspection: the lips"
+      },
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Observation of the lips"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IA-0009",
@@ -257,12 +805,84 @@
     "difficulty": "advanced",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["throat-observation", "kidney-yin-deficiency", "empty-fire"],
-    "distinction": { "between": ["kidney-yin-deficiency", "wind-heat"], "key": "Slight redness without swelling, chronic course, dryness, and evening aggravation indicate Empty Fire; marked redness with swelling and acute onset indicates Full Heat." },
+    "concepts": [
+      "throat-observation",
+      "kidney-yin-deficiency",
+      "empty-fire"
+    ],
+    "distinction": {
+      "between": [
+        "kidney-yin-deficiency",
+        "wind-heat"
+      ],
+      "key": "Slight redness without swelling, chronic course, dryness, and evening aggravation indicate Empty Fire; marked redness with swelling and acute onset indicates Full Heat."
+    },
     "references": [
-      { "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.", "locator": "Observation of the throat" },
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Kidney patterns: Kidney Yin deficiency" }
-    ]
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Observation of the throat"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Kidney patterns: Kidney Yin deficiency"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IA-0010",
@@ -287,11 +907,77 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "application",
     "vignette": true,
-    "concepts": ["eye-observation", "liver-wind", "extreme-heat-generating-wind"],
+    "concepts": [
+      "eye-observation",
+      "liver-wind",
+      "extreme-heat-generating-wind"
+    ],
     "references": [
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Inspection: the eyes" },
-      { "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.", "locator": "Observation of the eyes" }
-    ]
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Inspection: the eyes"
+      },
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Observation of the eyes"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IA-0011",
@@ -316,12 +1002,85 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "application",
     "vignette": false,
-    "concepts": ["pale-tongue", "swollen-tongue", "teeth-marked-tongue", "spleen-yang-deficiency"],
-    "distinction": { "between": ["spleen-yang-deficiency", "damp-heat-in-the-spleen"], "key": "Both may swell the tongue, but a pale, wet body indicates Yang deficiency with Dampness while a red body with a sticky yellow coating indicates Damp-Heat." },
+    "concepts": [
+      "pale-tongue",
+      "swollen-tongue",
+      "teeth-marked-tongue",
+      "spleen-yang-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "spleen-yang-deficiency",
+        "damp-heat-in-the-spleen"
+      ],
+      "key": "Both may swell the tongue, but a pale, wet body indicates Yang deficiency with Dampness while a red body with a sticky yellow coating indicates Damp-Heat."
+    },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Tongue diagnosis: tongue body shape" },
-      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Diagnostic methods: inspection of the tongue" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Tongue diagnosis: tongue body shape"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Diagnostic methods: inspection of the tongue"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IA-0012",
@@ -346,12 +1105,85 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "analysis",
     "vignette": false,
-    "concepts": ["red-tongue", "peeled-coating", "yin-deficiency-empty-heat", "full-heat"],
-    "distinction": { "between": ["yin-deficiency-empty-heat", "full-heat"], "key": "On a red tongue, a peeled or absent coating indicates Empty Heat from Yin deficiency; a yellow coating indicates Full Heat." },
+    "concepts": [
+      "red-tongue",
+      "peeled-coating",
+      "yin-deficiency-empty-heat",
+      "full-heat"
+    ],
+    "distinction": {
+      "between": [
+        "yin-deficiency-empty-heat",
+        "full-heat"
+      ],
+      "key": "On a red tongue, a peeled or absent coating indicates Empty Heat from Yin deficiency; a yellow coating indicates Full Heat."
+    },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Tongue diagnosis: tongue coating" },
-      { "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.", "locator": "Observation of the tongue: coating" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Tongue diagnosis: tongue coating"
+      },
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Observation of the tongue: coating"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IA-0013",
@@ -376,12 +1208,84 @@
     "difficulty": "foundational",
     "cognitiveLevel": "comprehension",
     "vignette": false,
-    "concepts": ["purple-tongue", "blood-stasis", "interior-cold"],
-    "distinction": { "between": ["cold-blood-stasis", "heat-blood-stasis"], "key": "Bluish-purple and moist indicates Cold stasis; reddish-purple and dry indicates Heat stasis." },
+    "concepts": [
+      "purple-tongue",
+      "blood-stasis",
+      "interior-cold"
+    ],
+    "distinction": {
+      "between": [
+        "cold-blood-stasis",
+        "heat-blood-stasis"
+      ],
+      "key": "Bluish-purple and moist indicates Cold stasis; reddish-purple and dry indicates Heat stasis."
+    },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Tongue diagnosis: tongue body color" },
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Inspection: tongue body color" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Tongue diagnosis: tongue body color"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Inspection: tongue body color"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IA-0014",
@@ -406,11 +1310,80 @@
     "difficulty": "advanced",
     "cognitiveLevel": "analysis",
     "vignette": false,
-    "concepts": ["cracked-tongue", "yin-deficiency", "spleen-qi-deficiency"],
-    "distinction": { "between": ["yin-deficiency", "spleen-qi-deficiency"], "key": "Cracks on a red, uncoated tongue indicate Yin deficiency; cracks on a pale tongue indicate Spleen Qi deficiency." },
+    "concepts": [
+      "cracked-tongue",
+      "yin-deficiency",
+      "spleen-qi-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "yin-deficiency",
+        "spleen-qi-deficiency"
+      ],
+      "key": "Cracks on a red, uncoated tongue indicate Yin deficiency; cracks on a pale tongue indicate Spleen Qi deficiency."
+    },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Tongue diagnosis: tongue body shape (cracks)" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Tongue diagnosis: tongue body shape (cracks)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IA-0015",
@@ -435,11 +1408,77 @@
     "difficulty": "foundational",
     "cognitiveLevel": "recall",
     "vignette": false,
-    "concepts": ["deviated-tongue", "liver-wind", "wind-stroke"],
+    "concepts": [
+      "deviated-tongue",
+      "liver-wind",
+      "wind-stroke"
+    ],
     "references": [
-      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Diagnostic methods: inspection of the tongue" },
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Tongue diagnosis: tongue body shape" }
-    ]
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Diagnostic methods: inspection of the tongue"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Tongue diagnosis: tongue body shape"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IA-0016",
@@ -464,12 +1503,84 @@
     "difficulty": "advanced",
     "cognitiveLevel": "analysis",
     "vignette": false,
-    "concepts": ["trembling-tongue", "qi-and-blood-deficiency", "liver-wind"],
-    "distinction": { "between": ["qi-and-blood-deficiency", "liver-wind-from-heat"], "key": "A trembling pale tongue indicates deficiency Wind from Qi and Blood deficiency; a trembling red tongue indicates Liver Wind from Heat." },
+    "concepts": [
+      "trembling-tongue",
+      "qi-and-blood-deficiency",
+      "liver-wind"
+    ],
+    "distinction": {
+      "between": [
+        "qi-and-blood-deficiency",
+        "liver-wind-from-heat"
+      ],
+      "key": "A trembling pale tongue indicates deficiency Wind from Qi and Blood deficiency; a trembling red tongue indicates Liver Wind from Heat."
+    },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Tongue diagnosis: tongue body shape" },
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Inspection: tongue movement" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Tongue diagnosis: tongue body shape"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Inspection: tongue movement"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IA-0017",
@@ -494,12 +1605,85 @@
     "difficulty": "advanced",
     "cognitiveLevel": "analysis",
     "vignette": false,
-    "concepts": ["black-coating", "yang-deficiency", "interior-cold", "extreme-heat"],
-    "distinction": { "between": ["extreme-interior-cold", "extreme-heat"], "key": "A black coating that is moist on a pale body indicates extreme Cold; one that is dry on a red body indicates extreme Heat." },
+    "concepts": [
+      "black-coating",
+      "yang-deficiency",
+      "interior-cold",
+      "extreme-heat"
+    ],
+    "distinction": {
+      "between": [
+        "extreme-interior-cold",
+        "extreme-heat"
+      ],
+      "key": "A black coating that is moist on a pale body indicates extreme Cold; one that is dry on a red body indicates extreme Heat."
+    },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Tongue diagnosis: tongue coating color" },
-      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Diagnostic methods: inspection of the tongue coating" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Tongue diagnosis: tongue coating color"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Diagnostic methods: inspection of the tongue coating"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IA-0018",
@@ -524,11 +1708,78 @@
     "difficulty": "foundational",
     "cognitiveLevel": "comprehension",
     "vignette": false,
-    "concepts": ["greasy-white-coating", "thick-coating", "cold-damp", "phlegm"],
+    "concepts": [
+      "greasy-white-coating",
+      "thick-coating",
+      "cold-damp",
+      "phlegm"
+    ],
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Tongue diagnosis: tongue coating" },
-      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Diagnostic methods: inspection of the tongue coating" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Tongue diagnosis: tongue coating"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Diagnostic methods: inspection of the tongue coating"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IA-0019",
@@ -553,12 +1804,84 @@
     "difficulty": "advanced",
     "cognitiveLevel": "analysis",
     "vignette": false,
-    "concepts": ["rootless-coating", "stomach-qi-deficiency", "tongue-coating"],
-    "distinction": { "between": ["rooted-coating", "rootless-coating"], "key": "A rooted coating grows from the body and resists scraping (Stomach Qi intact); a rootless coating scrapes off to a clean surface (Stomach Qi deficient)." },
+    "concepts": [
+      "rootless-coating",
+      "stomach-qi-deficiency",
+      "tongue-coating"
+    ],
+    "distinction": {
+      "between": [
+        "rooted-coating",
+        "rootless-coating"
+      ],
+      "key": "A rooted coating grows from the body and resists scraping (Stomach Qi intact); a rootless coating scrapes off to a clean surface (Stomach Qi deficient)."
+    },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Tongue diagnosis: tongue coating (root)" },
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Inspection: tongue coating" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Tongue diagnosis: tongue coating (root)"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Inspection: tongue coating"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IA-0020",
@@ -583,11 +1906,80 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "application",
     "vignette": false,
-    "concepts": ["peeled-coating", "tongue-zones", "stomach-yin-deficiency"],
-    "distinction": { "between": ["stomach-yin-deficiency", "kidney-yin-deficiency"], "key": "Peeling in the center indicates Stomach Yin deficiency; peeling at the root indicates Kidney Yin deficiency." },
+    "concepts": [
+      "peeled-coating",
+      "tongue-zones",
+      "stomach-yin-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "stomach-yin-deficiency",
+        "kidney-yin-deficiency"
+      ],
+      "key": "Peeling in the center indicates Stomach Yin deficiency; peeling at the root indicates Kidney Yin deficiency."
+    },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Tongue diagnosis: tongue coating and tongue areas" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Tongue diagnosis: tongue coating and tongue areas"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IA-0021",
@@ -612,11 +2004,80 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "application",
     "vignette": true,
-    "concepts": ["red-tongue-tip", "tongue-zones", "heart-fire-blazing"],
-    "distinction": { "between": ["heart-fire-blazing", "liver-fire-blazing"], "key": "Redness at the tip of the tongue localizes Heat to the Heart; redness on the sides localizes it to the Liver." },
+    "concepts": [
+      "red-tongue-tip",
+      "tongue-zones",
+      "heart-fire-blazing"
+    ],
+    "distinction": {
+      "between": [
+        "heart-fire-blazing",
+        "liver-fire-blazing"
+      ],
+      "key": "Redness at the tip of the tongue localizes Heat to the Heart; redness on the sides localizes it to the Liver."
+    },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Tongue diagnosis: tongue areas; Heart patterns: Heart Fire blazing" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Tongue diagnosis: tongue areas; Heart patterns: Heart Fire blazing"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IA-0022",
@@ -641,11 +2102,76 @@
     "difficulty": "foundational",
     "cognitiveLevel": "recall",
     "vignette": false,
-    "concepts": ["tongue-zones", "kidney"],
+    "concepts": [
+      "tongue-zones",
+      "kidney"
+    ],
     "references": [
-      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Diagnostic methods: inspection of the tongue" },
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Tongue diagnosis: tongue areas" }
-    ]
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Diagnostic methods: inspection of the tongue"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Tongue diagnosis: tongue areas"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IA-0023",
@@ -670,17 +2196,79 @@
     "difficulty": "foundational",
     "cognitiveLevel": "comprehension",
     "vignette": false,
-    "concepts": ["sublingual-veins", "blood-stasis"],
+    "concepts": [
+      "sublingual-veins",
+      "blood-stasis"
+    ],
     "references": [
-      { "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.", "locator": "Observation of the tongue: sublingual veins" }
-    ]
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Observation of the tongue: sublingual veins"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IA-0024",
     "domain": "I",
     "subdomain": "I-A",
     "task": "I-A-3",
-    "stem": "A 35-year-old patient has had chills, mild fever, headache, body aches, and nasal congestion for 1 day. The tongue body is of normal color with a thin white coating. The tongue findings are most consistent with which of the following?",
+    "stem": "A 35-year-old patient has had chills, mild fever, headache, body aches, and nasal congestion for 1 day. The tongue body is of normal color with a thin white coating. Taken together with the tongue findings, this presentation is most consistent with which of the following?",
     "options": {
       "A": "Interior Cold-Damp",
       "B": "Interior Heat damaging Body Fluids",
@@ -698,11 +2286,80 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "application",
     "vignette": true,
-    "concepts": ["thin-white-coating", "exterior-pattern", "wind-cold"],
-    "distinction": { "between": ["wind-cold", "wind-heat"], "key": "In an exterior pattern a thin white coating indicates Wind-Cold; a thin yellow coating or a red tip indicates Wind-Heat." },
+    "concepts": [
+      "thin-white-coating",
+      "exterior-pattern",
+      "wind-cold"
+    ],
+    "distinction": {
+      "between": [
+        "wind-cold",
+        "wind-heat"
+      ],
+      "key": "In an exterior pattern a thin white coating indicates Wind-Cold; a thin yellow coating or a red tip indicates Wind-Heat."
+    },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Tongue diagnosis: tongue coating; Identification of patterns according to the Eight Principles (Exterior)" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Tongue diagnosis: tongue coating; Identification of patterns according to the Eight Principles (Exterior)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IA-0025",
@@ -727,11 +2384,76 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "application",
     "vignette": false,
-    "concepts": ["nail-observation", "liver-blood-deficiency"],
+    "concepts": [
+      "nail-observation",
+      "liver-blood-deficiency"
+    ],
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "The functions of the Liver: manifests in the nails" },
-      { "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.", "locator": "Observation of the nails" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The functions of the Liver: manifests in the nails"
+      },
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Observation of the nails"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IA-0026",
@@ -756,11 +2478,77 @@
     "difficulty": "foundational",
     "cognitiveLevel": "comprehension",
     "vignette": false,
-    "concepts": ["body-posture", "yin-yang", "cold-pattern"],
+    "concepts": [
+      "body-posture",
+      "yin-yang",
+      "cold-pattern"
+    ],
     "references": [
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Inspection: posture and movement" },
-      { "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.", "locator": "Observation of the body: posture and movement" }
-    ]
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Inspection: posture and movement"
+      },
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Observation of the body: posture and movement"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IA-0027",
@@ -785,12 +2573,84 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "application",
     "vignette": true,
-    "concepts": ["sputum-observation", "cold-phlegm", "phlegm-heat"],
-    "distinction": { "between": ["cold-phlegm", "phlegm-heat"], "key": "Thin, white, frothy, copious sputum indicates Cold-Phlegm; thick, yellow, sticky sputum indicates Phlegm-Heat." },
+    "concepts": [
+      "sputum-observation",
+      "cold-phlegm",
+      "phlegm-heat"
+    ],
+    "distinction": {
+      "between": [
+        "cold-phlegm",
+        "phlegm-heat"
+      ],
+      "key": "Thin, white, frothy, copious sputum indicates Cold-Phlegm; thick, yellow, sticky sputum indicates Phlegm-Heat."
+    },
     "references": [
-      { "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.", "locator": "Observation of excretions: sputum" },
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Inspection: sputum" }
-    ]
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Observation of excretions: sputum"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Inspection: sputum"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IA-0028",
@@ -815,12 +2675,84 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "analysis",
     "vignette": false,
-    "concepts": ["stool-observation", "spleen-yang-deficiency", "retention-of-food"],
-    "distinction": { "between": ["spleen-yang-deficiency", "retention-of-food"], "key": "Both may show undigested food in the stool, but odorless watery stools with cold limbs indicate Spleen Yang deficiency while foul sour stools with distension indicate Food retention." },
+    "concepts": [
+      "stool-observation",
+      "spleen-yang-deficiency",
+      "retention-of-food"
+    ],
+    "distinction": {
+      "between": [
+        "spleen-yang-deficiency",
+        "retention-of-food"
+      ],
+      "key": "Both may show undigested food in the stool, but odorless watery stools with cold limbs indicate Spleen Yang deficiency while foul sour stools with distension indicate Food retention."
+    },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Spleen patterns: Spleen Yang deficiency" },
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Inspection: stool" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Spleen patterns: Spleen Yang deficiency"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Inspection: stool"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IA-0029",
@@ -845,11 +2777,77 @@
     "difficulty": "foundational",
     "cognitiveLevel": "comprehension",
     "vignette": false,
-    "concepts": ["urine-observation", "yang-deficiency", "cold-pattern"],
+    "concepts": [
+      "urine-observation",
+      "yang-deficiency",
+      "cold-pattern"
+    ],
     "references": [
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Inspection: urine" },
-      { "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.", "locator": "Observation of excretions: urine" }
-    ]
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Inspection: urine"
+      },
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Observation of excretions: urine"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IA-0030",
@@ -874,12 +2872,84 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "application",
     "vignette": true,
-    "concepts": ["blood-observation", "blood-stasis", "menstrual-blood"],
-    "distinction": { "between": ["blood-stasis", "heat-in-the-blood"], "key": "Dark purple clotted blood with pain relieved after passing clots indicates stasis; bright red, thick, profuse blood indicates Heat." },
+    "concepts": [
+      "blood-observation",
+      "blood-stasis",
+      "menstrual-blood"
+    ],
+    "distinction": {
+      "between": [
+        "blood-stasis",
+        "heat-in-the-blood"
+      ],
+      "key": "Dark purple clotted blood with pain relieved after passing clots indicates stasis; bright red, thick, profuse blood indicates Heat."
+    },
     "references": [
-      { "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.", "locator": "Observation of excretions: menstrual blood" },
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to Qi, Blood and Body Fluids: Blood stasis" }
-    ]
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Observation of excretions: menstrual blood"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to Qi, Blood and Body Fluids: Blood stasis"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IB-0001",
@@ -904,11 +2974,76 @@
     "difficulty": "foundational",
     "cognitiveLevel": "recall",
     "vignette": false,
-    "concepts": ["voice-observation", "lung-qi-deficiency"],
+    "concepts": [
+      "voice-observation",
+      "lung-qi-deficiency"
+    ],
     "references": [
-      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Diagnostic methods: auscultation and olfaction" },
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Auscultation and olfaction: the voice" }
-    ]
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Diagnostic methods: auscultation and olfaction"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Auscultation and olfaction: the voice"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IB-0002",
@@ -933,12 +3068,84 @@
     "difficulty": "advanced",
     "cognitiveLevel": "analysis",
     "vignette": false,
-    "concepts": ["delirious-speech", "muttering", "heat-harassing-the-heart"],
-    "distinction": { "between": ["delirious-speech", "muttering"], "key": "Delirious speech is loud and forceful in a febrile, agitated patient (excess Heat); muttering is feeble and repetitive in an exhausted patient (deficiency)." },
+    "concepts": [
+      "delirious-speech",
+      "muttering",
+      "heat-harassing-the-heart"
+    ],
+    "distinction": {
+      "between": [
+        "delirious-speech",
+        "muttering"
+      ],
+      "key": "Delirious speech is loud and forceful in a febrile, agitated patient (excess Heat); muttering is feeble and repetitive in an exhausted patient (deficiency)."
+    },
     "references": [
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Auscultation and olfaction: speech" },
-      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Diagnostic methods: auscultation and olfaction" }
-    ]
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Auscultation and olfaction: speech"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Diagnostic methods: auscultation and olfaction"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IB-0003",
@@ -963,12 +3170,85 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["hoarseness", "lung-yin-deficiency", "kidney-yin-deficiency", "lung-qi-deficiency"],
-    "distinction": { "between": ["lung-and-kidney-yin-deficiency", "lung-qi-deficiency"], "key": "Hoarseness with dryness, night sweats, and evening aggravation indicates Yin deficiency; a feeble voice with daytime spontaneous sweating and exertional worsening indicates Qi deficiency." },
+    "concepts": [
+      "hoarseness",
+      "lung-yin-deficiency",
+      "kidney-yin-deficiency",
+      "lung-qi-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "lung-and-kidney-yin-deficiency",
+        "lung-qi-deficiency"
+      ],
+      "key": "Hoarseness with dryness, night sweats, and evening aggravation indicates Yin deficiency; a feeble voice with daytime spontaneous sweating and exertional worsening indicates Qi deficiency."
+    },
     "references": [
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Auscultation and olfaction: hoarseness and loss of voice" },
-      { "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.", "locator": "Hearing: the voice" }
-    ]
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Auscultation and olfaction: hoarseness and loss of voice"
+      },
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Hearing: the voice"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IB-0004",
@@ -993,11 +3273,77 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "application",
     "vignette": true,
-    "concepts": ["stuttering", "wind-phlegm", "wind-stroke"],
+    "concepts": [
+      "stuttering",
+      "wind-phlegm",
+      "wind-stroke"
+    ],
     "references": [
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Auscultation and olfaction: speech" },
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to pathogenic factors: Wind" }
-    ]
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Auscultation and olfaction: speech"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to pathogenic factors: Wind"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IB-0005",
@@ -1022,12 +3368,84 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "analysis",
     "vignette": false,
-    "concepts": ["cough-quality", "lung-qi-deficiency", "excess-versus-deficiency"],
-    "distinction": { "between": ["deficiency-cough", "excess-cough"], "key": "A low, feeble cough worse with exertion indicates deficiency; a loud, coarse, forceful cough indicates excess." },
+    "concepts": [
+      "cough-quality",
+      "lung-qi-deficiency",
+      "excess-versus-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "deficiency-cough",
+        "excess-cough"
+      ],
+      "key": "A low, feeble cough worse with exertion indicates deficiency; a loud, coarse, forceful cough indicates excess."
+    },
     "references": [
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Auscultation and olfaction: cough" },
-      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Diagnostic methods: auscultation and olfaction" }
-    ]
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Auscultation and olfaction: cough"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Diagnostic methods: auscultation and olfaction"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IB-0006",
@@ -1052,11 +3470,77 @@
     "difficulty": "foundational",
     "cognitiveLevel": "comprehension",
     "vignette": false,
-    "concepts": ["dry-cough", "lung-yin-deficiency", "dryness"],
+    "concepts": [
+      "dry-cough",
+      "lung-yin-deficiency",
+      "dryness"
+    ],
     "references": [
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Auscultation and olfaction: cough" },
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Lung patterns: Lung Yin deficiency; Dryness invading the Lung" }
-    ]
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Auscultation and olfaction: cough"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Lung patterns: Lung Yin deficiency; Dryness invading the Lung"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IB-0007",
@@ -1081,12 +3565,84 @@
     "difficulty": "advanced",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["dyspnea", "kidney-failing-to-receive-qi", "lung-qi-deficiency"],
-    "distinction": { "between": ["kidney-failing-to-receive-qi", "lung-qi-deficiency"], "key": "Difficulty with inhalation relieved by deep inspiration points to the Kidney; shortness of breath with weak exhalation and feeble voice points to the Lung." },
+    "concepts": [
+      "dyspnea",
+      "kidney-failing-to-receive-qi",
+      "lung-qi-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "kidney-failing-to-receive-qi",
+        "lung-qi-deficiency"
+      ],
+      "key": "Difficulty with inhalation relieved by deep inspiration points to the Kidney; shortness of breath with weak exhalation and feeble voice points to the Lung."
+    },
     "references": [
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Auscultation and olfaction: breathing (dyspnea)" },
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Kidney patterns: Kidney failing to receive Qi" }
-    ]
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Auscultation and olfaction: breathing (dyspnea)"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Kidney patterns: Kidney failing to receive Qi"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IB-0008",
@@ -1111,11 +3667,76 @@
     "difficulty": "foundational",
     "cognitiveLevel": "recall",
     "vignette": false,
-    "concepts": ["wheezing", "phlegm-obstructing-the-lung"],
+    "concepts": [
+      "wheezing",
+      "phlegm-obstructing-the-lung"
+    ],
     "references": [
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Auscultation and olfaction: breathing (wheezing)" },
-      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Diagnostic methods: auscultation and olfaction" }
-    ]
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Auscultation and olfaction: breathing (wheezing)"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Diagnostic methods: auscultation and olfaction"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IB-0009",
@@ -1140,11 +3761,77 @@
     "difficulty": "advanced",
     "cognitiveLevel": "evaluation",
     "vignette": false,
-    "concepts": ["hiccup", "stomach-qi-exhaustion", "prognosis"],
+    "concepts": [
+      "hiccup",
+      "stomach-qi-exhaustion",
+      "prognosis"
+    ],
     "references": [
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Auscultation and olfaction: hiccup" },
-      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Diagnostic methods: auscultation and olfaction" }
-    ]
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Auscultation and olfaction: hiccup"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Diagnostic methods: auscultation and olfaction"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IB-0010",
@@ -1169,11 +3856,76 @@
     "difficulty": "foundational",
     "cognitiveLevel": "recall",
     "vignette": false,
-    "concepts": ["sighing", "liver-qi-stagnation"],
+    "concepts": [
+      "sighing",
+      "liver-qi-stagnation"
+    ],
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Liver patterns: Liver Qi stagnation" },
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Auscultation and olfaction: sighing" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Liver patterns: Liver Qi stagnation"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Auscultation and olfaction: sighing"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IB-0011",
@@ -1198,11 +3950,77 @@
     "difficulty": "foundational",
     "cognitiveLevel": "recall",
     "vignette": false,
-    "concepts": ["olfaction", "foul-odor-heat", "fishy-odor-cold"],
+    "concepts": [
+      "olfaction",
+      "foul-odor-heat",
+      "fishy-odor-cold"
+    ],
     "references": [
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Auscultation and olfaction: smelling odors" },
-      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Diagnostic methods: auscultation and olfaction" }
-    ]
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Auscultation and olfaction: smelling odors"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Diagnostic methods: auscultation and olfaction"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IB-0012",
@@ -1227,12 +4045,84 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "application",
     "vignette": false,
-    "concepts": ["breath-odor", "stomach-heat", "retention-of-food"],
-    "distinction": { "between": ["stomach-heat", "retention-of-food"], "key": "Foul breath with swollen painful gums and thirst indicates Stomach Heat; sour, rotten breath with belching and distension indicates Food retention." },
+    "concepts": [
+      "breath-odor",
+      "stomach-heat",
+      "retention-of-food"
+    ],
+    "distinction": {
+      "between": [
+        "stomach-heat",
+        "retention-of-food"
+      ],
+      "key": "Foul breath with swollen painful gums and thirst indicates Stomach Heat; sour, rotten breath with belching and distension indicates Food retention."
+    },
     "references": [
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Auscultation and olfaction: odor of the breath" },
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Stomach patterns: Stomach Heat" }
-    ]
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Auscultation and olfaction: odor of the breath"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Stomach patterns: Stomach Heat"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IB-0013",
@@ -1257,12 +4147,84 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "application",
     "vignette": true,
-    "concepts": ["stool-odor", "large-intestine-damp-heat", "cold-damp"],
-    "distinction": { "between": ["large-intestine-damp-heat", "cold-damp-invading-the-spleen"], "key": "Foul-smelling yellow stools with anal burning indicate Damp-Heat; pale, odorless watery stools with cold pain indicate Cold-Damp." },
+    "concepts": [
+      "stool-odor",
+      "large-intestine-damp-heat",
+      "cold-damp"
+    ],
+    "distinction": {
+      "between": [
+        "large-intestine-damp-heat",
+        "cold-damp-invading-the-spleen"
+      ],
+      "key": "Foul-smelling yellow stools with anal burning indicate Damp-Heat; pale, odorless watery stools with cold pain indicate Cold-Damp."
+    },
     "references": [
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Auscultation and olfaction: odor of excretions" },
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Large Intestine patterns: Damp-Heat in the Large Intestine" }
-    ]
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Auscultation and olfaction: odor of excretions"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Large Intestine patterns: Damp-Heat in the Large Intestine"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IB-0014",
@@ -1287,12 +4249,84 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "application",
     "vignette": false,
-    "concepts": ["discharge-odor", "cold-damp", "damp-heat"],
-    "distinction": { "between": ["cold-damp", "damp-heat"], "key": "A thin, white, fishy discharge indicates Cold-Damp; a thick, yellow, foul discharge indicates Damp-Heat." },
+    "concepts": [
+      "discharge-odor",
+      "cold-damp",
+      "damp-heat"
+    ],
+    "distinction": {
+      "between": [
+        "cold-damp",
+        "damp-heat"
+      ],
+      "key": "A thin, white, fishy discharge indicates Cold-Damp; a thick, yellow, foul discharge indicates Damp-Heat."
+    },
     "references": [
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Auscultation and olfaction: odor of secretions (leukorrhea)" },
-      { "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.", "locator": "Smelling: odor of discharges" }
-    ]
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Auscultation and olfaction: odor of secretions (leukorrhea)"
+      },
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Smelling: odor of discharges"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-IB-0015",
@@ -1317,11 +4351,83 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "application",
     "vignette": false,
-    "concepts": ["belching", "retention-of-food", "liver-qi-invading-the-stomach"],
-    "distinction": { "between": ["retention-of-food", "liver-qi-invading-the-stomach"], "key": "Belching with a sour, rotten odor worse after meals indicates Food retention; loud odorless belching tied to emotional upset indicates Liver Qi invading the Stomach." },
+    "concepts": [
+      "belching",
+      "retention-of-food",
+      "liver-qi-invading-the-stomach"
+    ],
+    "distinction": {
+      "between": [
+        "retention-of-food",
+        "liver-qi-invading-the-stomach"
+      ],
+      "key": "Belching with a sour, rotten odor worse after meals indicates Food retention; loud odorless belching tied to emotional upset indicates Liver Qi invading the Stomach."
+    },
     "references": [
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Auscultation and olfaction: belching" },
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Stomach patterns: Retention of Food in the Stomach" }
-    ]
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Auscultation and olfaction: belching"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Stomach patterns: Retention of Food in the Stomach"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   }
 ]

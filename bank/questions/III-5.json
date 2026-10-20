@@ -1,0 +1,1149 @@
+[
+  {
+    "id": "FOM-III5-0001",
+    "domain": "III",
+    "subdomain": "III-5",
+    "task": "III-5",
+    "stem": "According to the seasonal regimen described in the Huang Di Nei Jing (Su Wen, Chapter 2), which daily sleep pattern is recommended during autumn?",
+    "options": {
+      "A": "Retire late and rise early, letting Qi flow freely outward",
+      "B": "Retire early and rise early, keeping the mind calm and gathered",
+      "C": "Retire early and rise late, waiting for sunlight before going out",
+      "D": "Retire late and rise late, keeping the body warm and inactive"
+    },
+    "correct": "B",
+    "explanation": "Su Wen Chapter 2 assigns each season a regimen that follows the movement of Yang Qi: spring rising, summer growth, autumn gathering, winter storing. Autumn is the season of gathering and the Lung; the text advises going to bed early and rising early 'with the rooster', keeping the spirit calm and the mind collected so that Lung Qi is kept clear and the harshness of autumn does not injure it. The early-to-bed, early-to-rise pattern is unique to autumn in the chapter.",
+    "distractorExplanations": {
+      "A": "Retiring late and rising early is the regimen for spring and summer, when Yang Qi is rising and flourishing and should be allowed to move outward. A learner who confuses the outward-moving seasons with the gathering season would pick this.",
+      "C": "Retiring early and rising late, waiting for the sun, is the winter regimen of storing and protecting Yang. A learner who treats autumn as simply 'early winter' would pick this.",
+      "D": "Retiring late and rising late is recommended in no season of the Nei Jing regimen; it reflects the misconception that cooler weather calls for more sleep overall rather than an earlier schedule."
+    },
+    "learningObjective": "Identify the Nei Jing seasonal sleep regimen for autumn and distinguish it from the regimens of the other three seasons.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "seasonal-regimen",
+      "autumn-gathering",
+      "nei-jing"
+    ],
+    "references": [
+      {
+        "source": "Huang Di Nei Jing Su Wen",
+        "locator": "Chapter 2, Si Qi Tiao Shen Da Lun (regulating the spirit according to the four seasons)"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on the causes of disease (climate and seasonal living)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III5-0002",
+    "domain": "III",
+    "subdomain": "III-5",
+    "task": "III-5",
+    "stem": "A 63-year-old man reports a cold, aching lower back and knees for two years, cold hands and feet, frequent pale urination, and low energy. The tongue is pale and swollen with a thin white coating. The pulse is deep and weak. It is mid-December and he asks how to arrange his daily routine for the season. Which self-care recommendation is most appropriate?",
+    "options": {
+      "A": "Rise before dawn for brisk outdoor runs that build warmth",
+      "B": "Use a sauna several times weekly until sweating freely",
+      "C": "Retire late and rise early, spending long hours outdoors",
+      "D": "Retire early, rise after sunrise, and keep warm without sweating"
+    },
+    "correct": "D",
+    "explanation": "The cold low back and knees, cold limbs, frequent pale urine, pale swollen tongue, and deep weak pulse indicate Kidney Yang deficiency. Winter is the season of storing, and the Nei Jing winter regimen is to retire early, rise after the sun is up, keep warm, avoid cold, and avoid letting the skin sweat so that Yang Qi is conserved. This matches both the season and the pattern, since sweating and cold exposure would further drain a deficient Kidney Yang.",
+    "distractorExplanations": {
+      "A": "Early runs in the pre-dawn cold expose a Yang-deficient patient to Cold and produce sweating that disperses Yang; the misconception is that exertion 'generates' warmth in a patient whose warmth is already deficient.",
+      "B": "Heavy sweating in a sauna drains Yang and Body Fluids; a learner who equates external heat with tonifying Yang would choose this, but the Nei Jing winter regimen specifically warns against sweating.",
+      "C": "Retiring late and rising early with long outdoor hours is the spring and summer regimen for the rising and flourishing of Yang, the opposite of winter storing."
+    },
+    "learningObjective": "Apply the Nei Jing winter regimen to a patient with Kidney Yang deficiency.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "kidney-yang-deficiency",
+      "seasonal-regimen",
+      "winter-storing"
+    ],
+    "references": [
+      {
+        "source": "Huang Di Nei Jing Su Wen",
+        "locator": "Chapter 2, Si Qi Tiao Shen Da Lun (winter regimen)"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Kidney patterns (Kidney Yang deficiency)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III5-0003",
+    "domain": "III",
+    "subdomain": "III-5",
+    "task": "III-5",
+    "stem": "A 34-year-old woman reports premenstrual irritability, breast distension, and a feeling of fullness under the ribs for one year. She sighs frequently and describes herself as 'stuck' in a sedentary desk job. The tongue is normal in color. The pulse is wiry. Which self-care recommendation is most appropriate?",
+    "options": {
+      "A": "Daily Tai Ji or flowing Qi Gong practice combined with regular outdoor walks",
+      "B": "Complete rest with minimal activity until the distension subsides",
+      "C": "Long periods of still, seated practice with as little movement as possible",
+      "D": "High-intensity training to the point of profuse sweating each evening"
+    },
+    "correct": "A",
+    "explanation": "Premenstrual irritability, breast and hypochondrial distension, frequent sighing, a normal-colored tongue, and a wiry pulse indicate Liver Qi stagnation. The Liver governs the free flow of Qi, and stagnation is relieved by regular, moderate, rhythmic movement; Tai Ji, flowing Qi Gong, and walking move Qi and ease the emotional constraint that drives the pattern. The sedentary job is a contributing lifestyle factor that this recommendation directly corrects.",
+    "distractorExplanations": {
+      "B": "Rest and inactivity worsen Qi stagnation; this choice reflects the misconception that distension is a sign of deficiency that calls for rest.",
+      "C": "Prolonged stillness does little to move stagnant Liver Qi and may increase constraint in a sedentary patient; the misconception is that 'calming the Liver' means keeping the body motionless.",
+      "D": "Exhaustive training with profuse sweating depletes Qi and Blood and may generate Heat; the misconception is that more intense exertion moves Qi more effectively than moderate, regular movement."
+    },
+    "learningObjective": "Select the type of movement practice appropriate for Liver Qi stagnation.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "liver-qi-stagnation",
+      "tai-ji",
+      "qi-gong",
+      "wiry-pulse"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Liver patterns (Liver Qi stagnation); chapter on the causes of disease (lack of exercise)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III5-0004",
+    "domain": "III",
+    "subdomain": "III-5",
+    "task": "III-5",
+    "stem": "A 47-year-old woman reports night sweats, heat in the palms and soles, tinnitus, soreness of the lower back, and a dry mouth at night for eight months. She attends heated yoga five evenings a week and works until midnight. The tongue is red with little coating. The pulse is thin (thready) and rapid. Which self-care recommendation is most appropriate?",
+    "options": {
+      "A": "Continue the heated classes and add a daily sauna to release the Heat",
+      "B": "Switch to vigorous running to strengthen the Kidneys through exertion",
+      "C": "Replace heated classes with gentle practice, limit sweating, and sleep earlier",
+      "D": "Stop all physical activity and rest in bed during the daytime"
+    },
+    "correct": "C",
+    "explanation": "Night sweats, five-palm heat, tinnitus, low back soreness, night-time dry mouth, a red tongue with little coating, and a thin rapid pulse indicate Kidney Yin deficiency with Empty Heat. Heavy sweating is a loss of Body Fluids and further consumes Yin, and late nights deplete Yin because night is the Yin phase of the day. Gentle practice such as slow Qi Gong, avoidance of profuse sweating, and an earlier bedtime conserve and support Yin.",
+    "distractorExplanations": {
+      "A": "Sauna and heated classes drive sweating that depletes Yin and aggravate Empty Heat; the misconception is that Empty Heat can be 'released' like Full Heat through sweating.",
+      "B": "Vigorous running also produces heavy sweating and physical overwork, which deplete Qi and Yin; the misconception is that Kidney deficiency is corrected by building stamina through exertion.",
+      "D": "Complete bed rest is unnecessary and inappropriate for a functioning patient with a Yin deficiency pattern; the misconception is that every deficiency pattern calls for total rest rather than moderation of activity."
+    },
+    "learningObjective": "Differentiate self-care advice for Yin deficiency from advice appropriate to Full Heat or Qi deficiency, with emphasis on sweating and sleep timing.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "kidney-yin-deficiency",
+      "empty-heat",
+      "sweating-and-yin",
+      "gentle-exercise"
+    ],
+    "distinction": {
+      "between": [
+        "kidney-yin-deficiency",
+        "full-heat"
+      ],
+      "key": "Empty Heat from Yin deficiency is worsened by sweating that loses Fluids, whereas Full Heat in the exterior may be released through sweating."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Kidney patterns (Kidney Yin deficiency); chapter on the causes of disease (overwork, excessive physical exercise)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III5-0005",
+    "domain": "III",
+    "subdomain": "III-5",
+    "task": "III-5",
+    "stem": "A 28-year-old graduate student reports fatigue that is worst after long study sessions, poor appetite, abdominal bloating, and loose stools for five months. He studies twelve hours a day, eats at irregular times, and says he 'cannot stop turning problems over' in his mind. The tongue is pale with teeth marks. The pulse is weak. Which self-care recommendation is most appropriate?",
+    "options": {
+      "A": "Increase study hours now and rest fully once the semester ends",
+      "B": "Take regular breaks from mental work, eat at fixed times, and walk daily",
+      "C": "Train intensively each morning so that fatigue improves through conditioning",
+      "D": "Fast during the day to reduce bloating and eat one large meal at night"
+    },
+    "correct": "B",
+    "explanation": "Fatigue after mental effort, poor appetite, bloating, loose stools, a pale teeth-marked tongue, and a weak pulse indicate Spleen Qi deficiency. Excessive mental work and pensiveness injure the Spleen, and irregular eating weakens the Spleen and Stomach. Regular breaks from study, meals at fixed times, and moderate daily walking address all three lifestyle contributors while supporting the Spleen's function of transformation and transportation.",
+    "distractorExplanations": {
+      "A": "Continued overwork keeps depleting Spleen Qi; the misconception is that deficiency can be 'paid back' later with rest rather than prevented by limiting the cause now.",
+      "C": "Intensive training in an already Qi-deficient patient further depletes Qi; the misconception is that fatigue from deficiency responds to conditioning like fatigue from inactivity.",
+      "D": "Fasting and one large late meal are irregular eating patterns that burden the Spleen and Stomach; the misconception is that bloating is best managed by reducing meal frequency."
+    },
+    "learningObjective": "Counsel a patient with Spleen Qi deficiency on limiting mental overwork and establishing regular meals.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "spleen-qi-deficiency",
+      "overwork",
+      "pensiveness",
+      "irregular-eating"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on the causes of disease (overwork, pensiveness, diet); chapter on Spleen patterns"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III5-0006",
+    "domain": "III",
+    "subdomain": "III-5",
+    "task": "III-5",
+    "stem": "A 42-year-old man reports soreness of the lower back, weak knees, tinnitus, premature graying of the hair, and declining memory for one year. On inquiry he reports very frequent sexual activity and long working hours. The tongue is pale. The pulse is deep and weak, especially at the rear (chi) positions. Which self-care recommendation is most appropriate?",
+    "options": {
+      "A": "Cold-water immersion each morning to stimulate the Kidneys",
+      "B": "Weight training to exhaustion to strengthen the lower back",
+      "C": "Frequent hot saunas to drive Cold out of the lower back",
+      "D": "Moderating sexual activity and limiting overwork"
+    },
+    "correct": "D",
+    "explanation": "Low back soreness, weak knees, tinnitus, premature graying, and poor memory with a deep weak pulse at the chi positions point to Kidney deficiency with depletion of Essence (Jing). Excessive sexual activity directly depletes Kidney Essence, and chronic overwork consumes Kidney Yin and Qi. The appropriate counsel addresses the etiological factor the patient reported: moderating sexual activity and reducing overwork so that Essence can be conserved.",
+    "distractorExplanations": {
+      "A": "Cold immersion injures Kidney Yang and does nothing to restore Essence; the misconception is that cold 'stimulates' the Kidneys because they are the Water organ.",
+      "B": "Training to exhaustion is physical overwork that further depletes Qi and strains the lower back, the dwelling of the Kidneys; the misconception is that weakness of the back is a muscular problem to be trained away.",
+      "C": "The presentation shows deficiency with no Cold-Damp obstruction, and heavy sauna sweating depletes Yin and Fluids; the misconception is that back soreness is always a Cold-Damp Bi pattern."
+    },
+    "learningObjective": "Counsel a patient with Kidney Essence deficiency on moderating sexual activity and overwork.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "kidney-essence-deficiency",
+      "excessive-sexual-activity",
+      "overwork"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on the causes of disease (excessive sexual activity, overwork); chapter on the Kidneys (Essence)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III5-0007",
+    "domain": "III",
+    "subdomain": "III-5",
+    "task": "III-5",
+    "stem": "A 58-year-old woman reports shortness of breath on exertion, a weak voice, spontaneous daytime sweating, and frequent colds for the past two winters. Her complexion is pale. The tongue is pale with a thin white coating. The pulse is weak. Which self-care recommendation is most appropriate?",
+    "options": {
+      "A": "Daily slow abdominal breathing exercises and dressing warmly in windy weather",
+      "B": "Daily long-distance running to expand the capacity of the chest",
+      "C": "Cold showers each morning to build resistance to catching colds",
+      "D": "Staying indoors and avoiding all fresh air until the sweating stops"
+    },
+    "correct": "A",
+    "explanation": "Shortness of breath on exertion, weak voice, spontaneous sweating, susceptibility to colds, pale complexion, pale tongue, and weak pulse indicate Lung Qi deficiency, with weakened Defensive (Wei) Qi failing to secure the pores and protect the exterior. Slow, regular abdominal breathing practice gently strengthens Lung Qi, and protecting the neck and body from Wind reduces exposure of a weak exterior to pathogenic Wind-Cold.",
+    "distractorExplanations": {
+      "B": "Long-distance running exhausts an already deficient Lung Qi and causes further sweating; the misconception is that lung weakness is a conditioning problem solved by aerobic volume.",
+      "C": "Cold showers expose a weak exterior to Cold and strain Yang; the misconception is that 'hardening' through cold exposure strengthens Wei Qi.",
+      "D": "Avoiding fresh air entirely is unnecessary and reduces beneficial gentle activity; the misconception is that deficiency requires isolation rather than protection from Wind while remaining active."
+    },
+    "learningObjective": "Recommend breathing practice and Wind protection for a patient with Lung Qi deficiency.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "lung-qi-deficiency",
+      "breathing-exercises",
+      "wei-qi",
+      "wind-protection"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Lung patterns (Lung Qi deficiency); chapter on the functions of the Lungs (Defensive Qi)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III5-0008",
+    "domain": "III",
+    "subdomain": "III-5",
+    "task": "III-5",
+    "stem": "A 50-year-old farmer reports pain in the knees and finger joints for three years. The pain is worse in cold, wet weather, improves with warmth, and is accompanied by a sense of heaviness in the limbs. He often works in the rain and sits on the wet ground at breaks. The tongue is pale with a white greasy coating. The pulse is tight and slow. Which self-care recommendation is most appropriate?",
+    "options": {
+      "A": "Soak the painful joints in cold water after work to reduce swelling",
+      "B": "Rest in bed for several weeks until the joint pain fully resolves",
+      "C": "Keep the joints warm and dry and change out of wet clothing promptly",
+      "D": "Perform vigorous stretching outdoors in the early morning cold"
+    },
+    "correct": "C",
+    "explanation": "Joint pain that is worse in cold damp weather and better with warmth, limb heaviness, a white greasy coating, and a tight slow pulse indicate Painful Obstruction (Bi) from Wind-Cold-Damp with Cold and Damp predominating. The pathogenic factors enter through repeated exposure of the joints to cold and wet. Keeping the joints warm and dry and removing wet clothing promptly remove the ongoing etiological exposure that maintains the pattern.",
+    "distractorExplanations": {
+      "A": "Cold water adds Cold to a Cold-Damp pattern and contracts the channels further; the misconception is applying the biomedical idea of icing a joint to a pattern aggravated by cold.",
+      "B": "Prolonged bed rest allows Dampness to settle and Qi and Blood to stagnate in the joints; the misconception is that any joint pain calls for immobilization.",
+      "D": "Vigorous stretching in the early morning cold exposes the patient to more Cold and Wind; the misconception is that pathogenic Cold can be 'worked out' by exertion in the cold."
+    },
+    "learningObjective": "Explain the role of protection from Wind, Cold, and Damp in managing Cold-Damp Painful Obstruction.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": true,
+    "concepts": [
+      "wind-cold-damp-bi",
+      "external-etiology",
+      "cold-damp"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on the causes of disease (Cold, Dampness as exterior pathogenic factors)"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Bi syndromes (Painful Bi, Fixed Bi)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III5-0009",
+    "domain": "III",
+    "subdomain": "III-5",
+    "task": "III-5",
+    "stem": "A 40-year-old woman reports dry eyes, blurred vision in the evening, and scanty menstrual periods. She routinely works at a computer until 2 a.m. The tongue is pale. The pulse is thin (thready). Based on the Chinese organ clock, during which time window is it most important for her to be asleep in order to support the organ involved?",
+    "options": {
+      "A": "11 p.m. to 1 a.m.",
+      "B": "1 a.m. to 3 a.m.",
+      "C": "3 a.m. to 5 a.m.",
+      "D": "5 a.m. to 7 a.m."
+    },
+    "correct": "B",
+    "explanation": "Dry eyes, blurred vision, scanty periods, a pale tongue, and a thin pulse indicate Liver Blood deficiency. In the organ clock, Qi and Blood flow is at its peak in the Liver channel from 1 a.m. to 3 a.m., and the Nei Jing states that when a person lies down Blood returns to the Liver. Being asleep during this window allows Blood to return to and be stored by the Liver, which is what her late-night work prevents.",
+    "distractorExplanations": {
+      "A": "11 p.m. to 1 a.m. is the Gallbladder window; a learner who remembers only that the Wood organs are at night but confuses the paired Yang organ with the Liver would pick this.",
+      "C": "3 a.m. to 5 a.m. is the Lung window; this reflects confusion of the two early-morning windows or an assumption that the Lung, as the organ that governs Qi, is the sleep-critical one.",
+      "D": "5 a.m. to 7 a.m. is the Large Intestine window, the time of rising and elimination; it is unrelated to the storage of Blood."
+    },
+    "learningObjective": "Apply the Chinese organ clock to sleep-timing advice for a patient with Liver Blood deficiency.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": true,
+    "concepts": [
+      "organ-clock",
+      "liver-blood-deficiency",
+      "sleep-timing"
+    ],
+    "references": [
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Circulation of Qi and Blood through the twelve regular channels (horary cycle)"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on the functions of the Liver (storing Blood)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III5-0010",
+    "domain": "III",
+    "subdomain": "III-5",
+    "task": "III-5",
+    "stem": "A 67-year-old man lost his wife eight months ago. He reports persistent sadness with frequent weeping, shortness of breath, a weak voice, fatigue, and two colds in the past month. The tongue is pale. The pulse is weak. In addition to treatment, which self-care guidance best applies the Five Element relationship among the emotions?",
+    "options": {
+      "A": "Encourage long periods of reflective thought, since pensiveness counteracts sadness",
+      "B": "Encourage expressing anger about the loss, since anger counteracts sadness",
+      "C": "Encourage solitary rest away from others, since quiet conserves Lung Qi",
+      "D": "Encourage social activities that bring joy, since joy counteracts sadness"
+    },
+    "correct": "D",
+    "explanation": "Prolonged grief has injured the Lung, producing Lung Qi deficiency: sadness and weeping, shortness of breath, weak voice, fatigue, susceptibility to colds, pale tongue, and weak pulse. Su Wen Chapter 5 sets the emotions in the controlling (Ke) sequence: joy (Fire, Heart) counteracts sadness (Metal, Lung) because Fire controls Metal. Encouraging social contact and activities that bring joy is the counseling that applies this relationship, while simultaneously keeping the patient from the isolation that deepens grief.",
+    "distractorExplanations": {
+      "A": "Pensiveness (Earth) counteracts fear (Water), not sadness; and excess rumination would injure the Spleen, the mother of the Lung in the generating sequence. The misconception is confusing the Earth-Water control for the Earth-Metal generating relationship.",
+      "B": "Anger (Wood) counteracts pensiveness (Earth); the relation between anger and sadness runs the other way, with sadness counteracting anger. The misconception is reversing the direction of the controlling cycle between Metal and Wood.",
+      "C": "Isolation reinforces grief and does nothing to apply the emotional controlling relationship; the misconception is treating 'conserving Lung Qi' as withdrawal rather than addressing the emotion that is depleting it."
+    },
+    "learningObjective": "Apply the Five Element controlling relationships among the emotions to self-care counseling for grief injuring the Lung.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "five-element-emotions",
+      "lung-qi-deficiency",
+      "grief",
+      "controlling-cycle"
+    ],
+    "distinction": {
+      "between": [
+        "controlling-cycle",
+        "generating-cycle"
+      ],
+      "key": "The emotional counteractions of Su Wen Chapter 5 follow the controlling sequence (joy overcomes sadness, sadness overcomes anger, anger overcomes pensiveness, pensiveness overcomes fear, fear overcomes joy), not the generating sequence."
+    },
+    "references": [
+      {
+        "source": "Huang Di Nei Jing Su Wen",
+        "locator": "Chapter 5, Yin Yang Ying Xiang Da Lun (emotions injuring and counteracting one another)"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on the Five Elements (Five Elements and the emotions)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III5-0011",
+    "domain": "III",
+    "subdomain": "III-5",
+    "task": "III-5",
+    "stem": "A 55-year-old executive reports throbbing temporal headaches, dizziness, a red face, irritability, tinnitus, and difficulty falling asleep for six months. He plays competitive squash late every evening, goes to bed after 1 a.m., and notes the headaches are worst the morning after matches. The tongue is red, especially at the sides. The pulse is wiry. Which self-care recommendation is most appropriate?",
+    "options": {
+      "A": "Shift to slow, calming Qi Gong or meditation practice and retire earlier",
+      "B": "Keep the late matches, since vigorous exertion vents the rising Yang",
+      "C": "Add a daily sauna to promote sweating and release the Heat",
+      "D": "Rest completely in bed for two weeks until the headaches resolve"
+    },
+    "correct": "A",
+    "explanation": "Temporal headaches, dizziness, red face, irritability, tinnitus, insomnia, a red tongue at the sides, and a wiry pulse indicate Liver Yang rising. Late, competitive, high-arousal exercise and late nights both stir Liver Yang upward and deplete the Yin that should anchor it, which is why the headaches peak after matches. Slow, calming practice such as gentle Qi Gong or meditation descends and settles Yang, and an earlier bedtime nourishes Yin; both change the lifestyle factors driving the pattern.",
+    "distractorExplanations": {
+      "B": "Competitive evening exertion increases rather than vents rising Yang, as the patient's own history shows; the misconception is treating Liver Yang rising like Liver Qi stagnation, where moving Qi is the goal.",
+      "C": "Sauna sweating depletes Yin and Fluids and cannot clear Yang rising from Yin deficiency; the misconception is treating rising Yang as Full Heat that can be released through the skin.",
+      "D": "Total bed rest is unnecessary and would leave the emotional and sleep factors unaddressed; the misconception is that any headache with dizziness calls for strict rest rather than a change in the type and timing of activity."
+    },
+    "learningObjective": "Evaluate a patient's current exercise and sleep habits against the mechanism of Liver Yang rising and select the appropriate modification.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "evaluation",
+    "vignette": true,
+    "concepts": [
+      "liver-yang-rising",
+      "qi-gong",
+      "sleep-timing",
+      "lifestyle-factors"
+    ],
+    "distinction": {
+      "between": [
+        "liver-yang-rising",
+        "liver-qi-stagnation"
+      ],
+      "key": "Liver Qi stagnation calls for movement to free Qi, whereas Liver Yang rising calls for calming, descending practice and Yin-conserving rest; vigorous exertion aggravates the latter."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Liver patterns (Liver Yang rising); chapter on the causes of disease (overwork, emotional stress)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III5-0012",
+    "domain": "III",
+    "subdomain": "III-5",
+    "task": "III-5",
+    "stem": "A 46-year-old man who is overweight reports heaviness of the limbs, a stuffy chest with sticky sputum, and drowsiness after meals for two years. He has a sedentary office job and naps for an hour after lunch each day. The tongue is swollen with a white greasy coating. The pulse is slippery. Which self-care recommendation is most appropriate?",
+    "options": {
+      "A": "Avoid exercise until the heaviness has resolved so that Qi is conserved",
+      "B": "Lie down for an hour after each meal to aid digestion",
+      "C": "Take a brisk daily walk and stay active after meals rather than napping",
+      "D": "Practice only still, seated meditation with minimal physical movement"
+    },
+    "correct": "C",
+    "explanation": "Heaviness, chest stuffiness with sticky sputum, post-prandial drowsiness, a swollen tongue with a greasy white coating, and a slippery pulse indicate accumulation of Phlegm-Dampness. Lack of physical activity is a recognized cause of Qi stagnation and Dampness, and lying down immediately after meals burdens the Spleen's transformation. Regular moderate exercise moves Qi, assists the Spleen in transforming Dampness, and is the appropriate counsel for an excess Damp pattern, in contrast to the rest advised for deficiency patterns.",
+    "distractorExplanations": {
+      "A": "Avoiding exercise worsens Dampness and stagnation in an excess pattern; the misconception is reading heaviness and drowsiness as Qi deficiency requiring rest.",
+      "B": "Lying down after meals weakens Spleen transformation and allows Dampness to accumulate; the misconception is that rest after eating 'helps digestion' regardless of pattern.",
+      "D": "Still seated practice provides none of the movement needed to transform Phlegm-Damp; the misconception is that any Qi Gong or meditation is interchangeable regardless of the pattern."
+    },
+    "learningObjective": "Differentiate the exercise counsel appropriate for Phlegm-Damp accumulation from the rest counsel appropriate for deficiency patterns.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "phlegm-damp",
+      "lack-of-exercise",
+      "slippery-pulse",
+      "greasy-white-coating"
+    ],
+    "distinction": {
+      "between": [
+        "phlegm-damp",
+        "spleen-qi-deficiency"
+      ],
+      "key": "The swollen tongue with greasy coating and slippery pulse mark an excess Damp accumulation that needs movement, whereas a pale teeth-marked tongue with weak pulse would mark a deficiency that needs limited exertion."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on the causes of disease (lack of exercise); chapter on Phlegm and Dampness"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  }
+]

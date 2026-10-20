@@ -1,0 +1,806 @@
+[
+  {
+    "id": "FOM-IIk-0001",
+    "domain": "II",
+    "subdomain": "II-k",
+    "task": "II-1-k",
+    "theory": "External etiology",
+    "stem": "A pathogenic factor that produces a sensation of heaviness of the body and limbs, turbid or sticky discharges, and a lingering course that is slow to resolve is best described as which of the following?",
+    "options": {
+      "A": "Wind",
+      "B": "Cold",
+      "C": "Dampness",
+      "D": "Dryness"
+    },
+    "correct": "C",
+    "explanation": "Dampness is heavy, turbid, sticky and stagnant by nature. It produces heaviness of the body, head and limbs, turbid and sticky discharges (vaginal discharge, cloudy urine, sticky stools, greasy coating), and a tendency to settle in the lower body. Because it is sticky and difficult to resolve, Damp diseases are prolonged and recurrent.",
+    "distractorExplanations": {
+      "A": "Wind is light, mobile and changeable: it produces sudden onset, symptoms that move from place to place and affects the upper body and surface first.",
+      "B": "Cold contracts and congeals, producing pain that is fixed and relieved by warmth, with clear, watery discharges rather than turbid ones.",
+      "D": "Dryness consumes fluids, producing dry skin, lips, nose and throat and a dry cough. It is the opposite of a turbid, sticky factor."
+    },
+    "learningObjective": "Identify Dampness from its characteristic heavy, sticky and lingering nature.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "six-pathogenic-factors",
+      "dampness",
+      "external-etiology"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The causes of disease, external causes, Dampness"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Etiology, the six exogenous factors"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIk-0002",
+    "domain": "II",
+    "subdomain": "II-k",
+    "task": "II-1-k",
+    "theory": "External etiology",
+    "stem": "Which external pathogenic factor occurs only in its own season, is characterized by high fever with sweating and thirst, injures both Qi and Body Fluids, and commonly combines with Dampness?",
+    "options": {
+      "A": "Fire",
+      "B": "Summer-Heat",
+      "C": "Dryness",
+      "D": "Wind"
+    },
+    "correct": "B",
+    "explanation": "Summer-Heat is the only one of the six factors that is strictly seasonal, since it arises from exposure to summer heat. It is a Yang factor that rises and disperses: it causes high fever, profuse sweating and thirst, and the sweating consumes Body Fluids while the Heat consumes Qi, giving fatigue and shortness of breath. Because summer is also humid, it frequently combines with Dampness, adding heaviness, nausea and a sticky coating.",
+    "distractorExplanations": {
+      "A": "Fire (extreme Heat) also consumes fluids and can occur in any season or arise internally; it does not have the seasonal restriction or the characteristic injury of Qi with Dampness. A learner who treats Heat and Summer-Heat as interchangeable would choose this.",
+      "C": "Dryness is the factor of autumn and injures fluids of the Lung, producing dry cough and dry orifices rather than high fever with sweating.",
+      "D": "Wind is the factor of spring but occurs in all seasons; it is light and mobile and is the vehicle for other factors rather than a cause of fever with Qi injury on its own."
+    },
+    "learningObjective": "Identify the defining features of Summer-Heat among the six pathogenic factors.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "six-pathogenic-factors",
+      "summer-heat",
+      "seasonal-associations"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The causes of disease, external causes, Summer-Heat"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Etiology, the six exogenous factors, summer heat"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIk-0003",
+    "domain": "II",
+    "subdomain": "II-k",
+    "task": "II-1-k",
+    "theory": "External etiology",
+    "stem": "A 38-year-old man was caught in freezing rain while hiking. The next day he has severe cramping pain in the lower abdomen and in both knees that is fixed in location and eased by a hot water bottle, aversion to cold, cold hands and feet, and a clear, watery nasal discharge. The tongue is pale with a thin white moist coating. The pulse is tight. Which pathogenic factor best explains the character of these findings?",
+    "options": {
+      "A": "Wind",
+      "B": "Dampness",
+      "C": "Dryness",
+      "D": "Cold"
+    },
+    "correct": "D",
+    "explanation": "Cold is a Yin factor that contracts and congeals. Contraction of the channels and sinews produces severe cramping pain that is fixed in place and relieved by warmth; obstruction of Yang gives aversion to cold and cold limbs; discharges under Cold are clear and watery rather than turbid or yellow; the pale tongue with a white moist coating and the tight pulse are the classic findings of Cold. The exposure to freezing rain supplies the external cause.",
+    "distractorExplanations": {
+      "A": "Wind produces pain that moves from joint to joint and symptoms that change rapidly; this pain is fixed and cramping. A learner who sees 'joint pain after exposure' and assumes Wind would choose this.",
+      "B": "Dampness gives heaviness, swelling and a sticky coating with a soggy pulse; cramping pain relieved by heat with a tight pulse is Cold rather than Damp.",
+      "C": "Dryness injures fluids, causing dry skin, throat and cough; it does not produce cramping pain or clear watery discharge."
+    },
+    "learningObjective": "Identify Cold from fixed contracting pain relieved by warmth, clear discharges and a tight pulse.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "six-pathogenic-factors",
+      "cold",
+      "tight-pulse",
+      "external-etiology"
+    ],
+    "distinction": {
+      "between": [
+        "cold",
+        "wind"
+      ],
+      "key": "Cold pain is fixed, cramping and relieved by warmth with a tight pulse; Wind pain wanders and changes."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The causes of disease, external causes, Cold"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIk-0004",
+    "domain": "II",
+    "subdomain": "II-k",
+    "task": "II-1-k",
+    "theory": "External etiology",
+    "stem": "A 46-year-old woman develops fever with aversion to wind and slight sweating. Her joints ache, and the pain has moved from the shoulders to the wrists and then to the knees over three days. She feels heavy and lethargic, and her head feels muzzy. The tongue has a thin white sticky coating. The pulse is floating and soggy. Which exterior pattern is most appropriate?",
+    "options": {
+      "A": "Wind-Damp",
+      "B": "Wind-Cold",
+      "C": "Wind-Heat",
+      "D": "Cold-Damp"
+    },
+    "correct": "A",
+    "explanation": "Fever with aversion to wind and a floating pulse show an exterior invasion, and Wind is identified by the sudden onset and the pain that wanders from joint to joint. Dampness is identified by the heaviness, lethargy, muzzy head, sticky coating and soggy pulse. The combination is exterior Wind-Damp: Wind carries Dampness into the surface and the joints.",
+    "distractorExplanations": {
+      "B": "Wind-Cold would show pronounced aversion to cold, absence of sweating, body aches that are fixed rather than wandering, and a floating tight pulse without heaviness or sticky coating.",
+      "C": "Wind-Heat would show sore throat, thirst, a red tongue tip and a floating rapid pulse; the sticky coating and soggy pulse point to Dampness instead. A learner who reads 'fever with sweating' as Heat would choose this.",
+      "D": "Cold-Damp is a fixed, heavy, cold pain with a slow or tight pulse and no wandering quality; the migrating pain and aversion to wind show Wind, not Cold, is the carrier."
+    },
+    "learningObjective": "Differentiate exterior Wind-Damp from Wind-Cold and Wind-Heat by the combination of wandering pain and heaviness.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "wind-damp",
+      "wind-cold",
+      "wind-heat",
+      "combined-pathogenic-factors"
+    ],
+    "distinction": {
+      "between": [
+        "wind-damp",
+        "wind-cold"
+      ],
+      "key": "Wandering joint pain with heaviness, a sticky coating and a soggy pulse indicate Wind-Damp; fixed aches with no sweating and a tight pulse indicate Wind-Cold."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The causes of disease, external causes, Wind and Dampness"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Etiology, the six exogenous factors, wind and damp"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIk-0005",
+    "domain": "II",
+    "subdomain": "II-k",
+    "task": "II-1-k",
+    "theory": "External etiology",
+    "stem": "In early October a 50-year-old man develops, over two days, a dry hacking cough with scant sticky sputum that is hard to expectorate, a dry nose and throat, slight fever with mild aversion to cold, and a headache. His skin and lips are dry. The tongue is red at the tip with a thin, dry white coating. The pulse is floating and slightly rapid. Which pathomechanism best explains these findings?",
+    "options": {
+      "A": "Lung Yin deficiency producing internal Dryness",
+      "B": "exterior Dryness invading the Lung",
+      "C": "Phlegm-Heat obstructing the Lung",
+      "D": "Wind-Cold invading the Lung"
+    },
+    "correct": "B",
+    "explanation": "Dryness is the factor of autumn and invades through the nose and mouth to injure the Lung and its fluids: dry cough with scant sticky sputum, dry nose, throat, lips and skin. The acute two-day onset, slight fever with mild aversion to cold, headache and floating pulse show an exterior invasion rather than an internal deficiency. The thin dry coating and slightly rapid pulse indicate the warm variety of exterior Dryness typical of early autumn.",
+    "distractorExplanations": {
+      "A": "Internal Dryness from Lung Yin deficiency develops gradually and chronically, with night sweats, a peeled or scanty coating and a thin rapid pulse, and without fever, aversion to cold or a floating pulse. A learner who matches 'dry cough' to Yin deficiency without weighing the onset and exterior signs would choose this.",
+      "C": "Phlegm-Heat produces copious thick yellow sputum with a slippery rapid pulse and a greasy yellow coating; scant sticky sputum with a dry coating is the opposite.",
+      "D": "Wind-Cold gives a cough with thin white sputum, pronounced aversion to cold, clear nasal discharge and a floating tight pulse; dryness of the orifices and a dry coating are not Cold findings."
+    },
+    "learningObjective": "Differentiate exterior Dryness invading the Lung from internal Dryness due to Lung Yin deficiency.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "six-pathogenic-factors",
+      "dryness",
+      "external-vs-internal-dryness",
+      "lung-yin-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "exterior-dryness",
+        "lung-yin-deficiency"
+      ],
+      "key": "Acute onset with slight fever, aversion to cold and a floating pulse indicates exterior Dryness; a chronic course without exterior signs indicates internal Dryness from Yin deficiency."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The causes of disease, external causes, Dryness"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Etiology, the six exogenous factors, dryness"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIk-0006",
+    "domain": "II",
+    "subdomain": "II-k",
+    "task": "II-1-k",
+    "theory": "External etiology",
+    "stem": "A 66-year-old man with a two-year history of dizziness, headaches and irritability experiences, over a single evening, numbness of the left arm, tremor of the hands and deviation of the mouth. He has no fever, no aversion to wind or cold, and no recent exposure to the elements. The tongue is red with a thin yellow coating. The pulse is wiry. Which pathomechanism best explains these findings?",
+    "options": {
+      "A": "exterior Wind invading the channels of the face and limbs",
+      "B": "Wind-Cold obstructing the Lung and channels",
+      "C": "internal Wind generated by Liver Yang rising",
+      "D": "Wind-Damp lodging in the joints and muscles"
+    },
+    "correct": "C",
+    "explanation": "The sudden onset, tremor, numbness and deviation of the mouth are Wind signs, but Wind can be external or internal and the two must be separated. Here there are no exterior signs (no fever, no aversion to wind or cold, no exposure), and there is a long history of dizziness, headache and irritability with a red tongue and wiry pulse, the picture of Liver Yang rising. Prolonged Liver Yang rising generates internal Wind (Liver Wind), which stirs upward and produces exactly these sudden signs.",
+    "distractorExplanations": {
+      "A": "Exterior Wind invading the channels produces sudden facial deviation or numbness but typically follows exposure and comes with aversion to wind, sometimes slight fever, and a floating pulse; it does not arise from a two-year history of Liver Yang signs. A learner who treats every sudden deviation of the mouth as exterior Wind would choose this.",
+      "B": "Wind-Cold invading the Lung gives chills, no sweating, nasal obstruction and a floating tight pulse; there are no Lung or exterior findings.",
+      "D": "Wind-Damp in the joints produces wandering joint pain with heaviness and a sticky coating; tremor, numbness and facial deviation with a wiry pulse are not a Bi (obstruction) picture."
+    },
+    "learningObjective": "Differentiate internal Wind from Liver Yang rising from exterior Wind invading the channels.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "internal-wind",
+      "exterior-wind",
+      "liver-yang-rising",
+      "liver-wind"
+    ],
+    "distinction": {
+      "between": [
+        "internal-wind",
+        "exterior-wind"
+      ],
+      "key": "Absence of exterior signs plus a chronic Liver Yang history with a red tongue and wiry pulse indicates internal Wind; exposure with aversion to wind and a floating pulse indicates exterior Wind."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The causes of disease, external causes, Wind (exterior and interior Wind)"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Etiology, the six exogenous factors, wind"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIk-0007",
+    "domain": "II",
+    "subdomain": "II-k",
+    "task": "II-1-k",
+    "theory": "External etiology",
+    "stem": "In mid-July a 29-year-old landscaper collapsed after a day of outdoor work. She has a high fever with profuse sweating and intense thirst, but also heaviness of the limbs, nausea, a stifling sensation in the chest, and pronounced fatigue with shortness of breath. Her urine is scanty and dark. The tongue is red with a sticky yellow coating. The pulse is rapid and soggy, and weak on pressure. Which pathomechanism best explains the combination of findings?",
+    "options": {
+      "A": "Summer-Heat with Dampness injuring Qi and Body Fluids",
+      "B": "Damp-Heat retained in the Spleen from dietary irregularity",
+      "C": "Wind-Heat invading the Lung and the defensive layer",
+      "D": "Stomach Fire blazing and consuming fluids"
+    },
+    "correct": "A",
+    "explanation": "The season and exposure identify Summer-Heat. High fever, profuse sweating, intense thirst and scanty dark urine show Heat consuming Body Fluids; the fatigue, shortness of breath and pulse that is weak on pressure show Summer-Heat injuring Qi, because the sweating drains Qi with the fluids. Heaviness of the limbs, nausea, a stifling chest, a sticky coating and a soggy pulse show the Dampness that so often accompanies Summer-Heat. All three components (Heat, Dampness, Qi injury) are explained by this single factor.",
+    "distractorExplanations": {
+      "B": "Internal Damp-Heat in the Spleen from diet develops gradually with digestive symptoms and a low-grade fever, not an acute collapse with high fever and profuse sweating after a day in the sun. A learner who weights the sticky coating and nausea over the history would choose this.",
+      "C": "Wind-Heat at the surface gives slight aversion to cold, sore throat and a floating rapid pulse with only mild thirst; profuse sweating, intense thirst and Qi injury show a far stronger Heat with no exterior signs.",
+      "D": "Stomach Fire gives thirst, hunger, bad breath and gum problems with a full overflowing pulse; it does not explain the heaviness, soggy pulse or the weakness on pressure."
+    },
+    "learningObjective": "Recognize Summer-Heat combined with Dampness and its characteristic injury of Qi and Body Fluids.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "summer-heat",
+      "dampness",
+      "qi-injury",
+      "combined-pathogenic-factors"
+    ],
+    "distinction": {
+      "between": [
+        "summer-heat-with-dampness",
+        "spleen-damp-heat"
+      ],
+      "key": "Acute onset after seasonal heat exposure with high fever, profuse sweating and Qi injury marks Summer-Heat; gradual digestive onset marks internal Damp-Heat."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The causes of disease, external causes, Summer-Heat"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Etiology, the six exogenous factors, summer heat"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIk-0008",
+    "domain": "II",
+    "subdomain": "II-k",
+    "task": "II-1-k",
+    "theory": "External etiology",
+    "stem": "Which feature most distinguishes pestilential Qi (Li Qi) from the six ordinary external pathogenic factors?",
+    "options": {
+      "A": "a strict dependence on the climate of a particular season",
+      "B": "a tendency to settle in the lower body and linger",
+      "C": "a gradual onset that transforms into interior Cold",
+      "D": "strong contagiousness with a similar presentation in all affected"
+    },
+    "correct": "D",
+    "explanation": "Pestilential Qi (Li Qi, epidemic factor) is distinguished from the six climatic factors by its strong contagiousness, its sudden, severe and rapidly changing course, and the fact that those affected show a similar clinical picture regardless of age or constitution. The six ordinary factors invade according to climate and individual weakness and produce varied presentations.",
+    "distractorExplanations": {
+      "A": "Strict seasonal dependence is the feature of Summer-Heat, one of the six ordinary factors; pestilential Qi may occur in any season, although abnormal climate can favor it. A learner who places epidemics among the climatic factors would choose this.",
+      "B": "Settling in the lower body and lingering is the nature of Dampness, an ordinary factor.",
+      "C": "Gradual onset with transformation into interior Cold describes neither pestilential Qi, which is sudden and severe, nor a characteristic of any of the six factors; Cold-damage transmits to interior Cold only in constitutionally Yang-deficient patients."
+    },
+    "learningObjective": "Identify the defining features of pestilential Qi.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "pestilential-qi",
+      "six-pathogenic-factors",
+      "external-etiology"
+    ],
+    "references": [
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Etiology, pestilential factors"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The causes of disease, external causes"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  }
+]

@@ -1,0 +1,1949 @@
+[
+  {
+    "id": "FOM-IIc-0001",
+    "domain": "II",
+    "subdomain": "II-c",
+    "task": "II-1-c",
+    "theory": "Eight Principles",
+    "stem": "Within the Eight Principles (Ba Gang), which pair of principles primarily identifies the depth and location of a disease?",
+    "options": {
+      "A": "Heat and Cold",
+      "B": "Exterior and Interior",
+      "C": "Excess and Deficiency",
+      "D": "Yin and Yang"
+    },
+    "correct": "B",
+    "explanation": "The Exterior/Interior pair locates the disease: exterior patterns affect the skin, muscles and channels (Wei Qi level) while interior patterns affect the Zang Fu, Qi, Blood and bone. Each of the other pairs answers a different question: Heat/Cold describes the nature of the disease, Excess/Deficiency describes the relative strength of the pathogenic factor versus the Upright Qi (Zheng Qi), and Yin/Yang summarizes the other six.",
+    "distractorExplanations": {
+      "A": "Heat and Cold describe the nature of a pattern (thirst, color of urine, tongue color), not its location. A learner who confuses nature with location would pick this.",
+      "C": "Excess and Deficiency describe the balance between the pathogenic factor and the body's Upright Qi; they say nothing about depth.",
+      "D": "Yin and Yang are the general categories that summarize the other six principles; they are the conclusion, not the location axis."
+    },
+    "learningObjective": "Identify which pair of the Eight Principles describes the location of a disease.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "eight-principles",
+      "exterior-interior"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the Eight Principles"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIc-0002",
+    "domain": "II",
+    "subdomain": "II-c",
+    "task": "II-1-c",
+    "theory": "Eight Principles",
+    "stem": "A 29-year-old patient reports two days of mild aversion to wind, a low-grade fever, headache, and nasal congestion with clear discharge. The patient has been sweating slightly, without relief of the symptoms, and has no thirst. The tongue has a thin white coating. The pulse is floating and slightly slow. Under the Eight Principles, this is an exterior Cold pattern. Which finding identifies it as the Deficiency rather than the Excess type?",
+    "options": {
+      "A": "slight sweating that does not relieve the symptoms",
+      "B": "headache with nasal congestion",
+      "C": "clear nasal discharge without thirst",
+      "D": "a floating pulse"
+    },
+    "correct": "A",
+    "explanation": "Exterior Wind-Cold is classified as Excess or Deficiency by the state of the pores. In the Excess type the Cold constricts the pores: there is no sweating and the pulse is floating and tight. In the Deficiency type Wind has opened the pores and the Wei Qi fails to consolidate the exterior: the patient sweats slightly without relief, with a floating pulse that is moderate or slightly slow. Sweating is therefore the discriminating finding; the other signs are common to both types.",
+    "distractorExplanations": {
+      "B": "Headache and nasal congestion occur in both the Excess and the Deficiency type of exterior Wind-Cold; they locate the pattern on the exterior but do not grade it.",
+      "C": "Clear discharge and absence of thirst identify Cold rather than Heat; they do not separate Excess from Deficiency.",
+      "D": "A floating pulse marks the exterior in both types; it is the accompanying quality (tight in Excess, moderate or slow in Deficiency) that differs."
+    },
+    "learningObjective": "Identify the finding that distinguishes exterior Deficiency from exterior Excess in a Wind-Cold invasion.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "exterior-deficiency",
+      "exterior-excess",
+      "wind-cold",
+      "floating-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "exterior-deficiency",
+        "exterior-excess"
+      ],
+      "key": "Sweating with a floating, moderate pulse marks exterior Deficiency; absence of sweating with a floating, tight pulse marks exterior Excess."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles: Exterior-Empty and Exterior-Full"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the Eight Principles: exterior syndromes"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIc-0003",
+    "domain": "II",
+    "subdomain": "II-c",
+    "task": "II-1-c",
+    "theory": "Eight Principles",
+    "stem": "A 41-year-old patient has had one day of pronounced aversion to cold, fever, occipital headache, stiff neck, and generalized body aches. There is no sweating and no thirst. The tongue has a thin white coating. The pulse is floating and tight. Which of the following is the most appropriate Eight Principle classification?",
+    "options": {
+      "A": "exterior, Excess, Cold",
+      "B": "exterior, Deficiency, Cold",
+      "C": "interior, Excess, Cold",
+      "D": "exterior, Excess, Heat"
+    },
+    "correct": "A",
+    "explanation": "Simultaneous aversion to cold and fever, occipital headache and a floating pulse show that the pathogenic factor is on the exterior. Absence of thirst, a thin white coating and a tight pulse identify Cold. The absence of sweating with a tight pulse shows that Cold has closed the pores and the Upright Qi is fighting a strong pathogen, which is an Excess (Full) pattern. The classification is therefore exterior, Excess, Cold.",
+    "distractorExplanations": {
+      "B": "Exterior Deficiency is distinguished by sweating and a floating, moderate pulse; this patient has no sweating and a tight pulse. A learner who confuses 'thin white coating' with weakness would pick this.",
+      "C": "Fever with aversion to cold, body aches and a floating pulse are exterior findings; an interior Cold pattern would show a deep pulse and abdominal or digestive symptoms.",
+      "D": "Exterior Heat presents with thirst, a sore throat and a floating-rapid pulse; absence of thirst and a tight pulse rule it out."
+    },
+    "learningObjective": "Classify an acute Wind-Cold invasion without sweating as exterior, Excess, Cold.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "exterior-excess",
+      "wind-cold",
+      "full-cold",
+      "tight-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "exterior-excess",
+        "exterior-deficiency"
+      ],
+      "key": "Absence of sweating with a floating, tight pulse marks exterior Excess."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles: Exterior-Full"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Differentiation according to the Eight Principles: exterior and interior"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIc-0004",
+    "domain": "II",
+    "subdomain": "II-c",
+    "task": "II-1-c",
+    "theory": "Eight Principles",
+    "stem": "A 35-year-old patient, one week into a cold, now reports alternating chills and fever, a bitter taste, a dry throat, fullness and discomfort beneath the ribs, nausea, and loss of appetite. The tongue has a thin white coating. The pulse is wiry. Which classification best describes the location of the pathogenic factor?",
+    "options": {
+      "A": "exterior",
+      "B": "interior",
+      "C": "half-exterior half-interior",
+      "D": "exterior with concurrent interior Deficiency"
+    },
+    "correct": "C",
+    "explanation": "Alternating chills and fever is the hallmark of a pathogenic factor lodged between the exterior and the interior (the Shao Yang level): when the pathogen prevails, chills; when the Upright Qi prevails, fever. The bitter taste, dry throat, hypochondrial fullness, nausea and wiry pulse complete the picture of half-exterior half-interior pattern. Neither the simultaneous fever-with-aversion-to-cold of the exterior nor the fever-without-chills of the interior is present.",
+    "distractorExplanations": {
+      "A": "An exterior pattern shows fever and aversion to cold at the same time, with a floating pulse; here chills and fever alternate and the pulse is wiry.",
+      "B": "An interior Heat pattern shows fever without chills, thirst and a yellow coating; the alternation of chills and fever and the thin white coating argue against a purely interior location.",
+      "D": "There are no Deficiency findings (tiredness, weak pulse, pale tongue); the wiry pulse and fullness are Excess findings. A learner who reads 'loss of appetite' as Spleen Deficiency would pick this."
+    },
+    "learningObjective": "Identify the half-exterior half-interior pattern from alternating chills and fever with hypochondrial fullness and a wiry pulse.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "half-exterior-half-interior",
+      "exterior-interior",
+      "wiry-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "half-exterior-half-interior",
+        "exterior-pattern"
+      ],
+      "key": "Alternating chills and fever (rather than simultaneous fever and aversion to cold) locates the pathogen between exterior and interior."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles: Half-Exterior Half-Interior"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the Eight Principles"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIc-0005",
+    "domain": "II",
+    "subdomain": "II-c",
+    "task": "II-1-c",
+    "theory": "Eight Principles",
+    "stem": "A 58-year-old patient reports several years of loose stools, poor appetite, dull abdominal pain that is relieved by warmth and by pressure, cold hands and feet, and tiredness. The tongue is pale and swollen with a thin white, moist coating. The pulse is deep, slow, and weak. Which of the following is the most appropriate Eight Principle classification?",
+    "options": {
+      "A": "interior, Deficiency, Cold",
+      "B": "interior, Excess, Cold",
+      "C": "interior, Deficiency, Heat",
+      "D": "exterior, Deficiency, Cold"
+    },
+    "correct": "A",
+    "explanation": "Chronic digestive symptoms with a deep pulse locate the disorder in the interior. Cold limbs, pain relieved by warmth, a pale moist tongue and a slow pulse identify Cold. The long course, tiredness, pain relieved by pressure and a weak pulse show that the Cold arises from weakness of Yang rather than from a Cold pathogen, so the Excess/Deficiency axis reads Deficiency. The classification is interior, Deficiency, Cold (Empty Cold).",
+    "distractorExplanations": {
+      "B": "Interior Excess Cold is acute, with severe pain that is worse with pressure and a tight or full pulse; here the pain is dull, relieved by pressure, and the pulse is weak.",
+      "C": "Interior Deficiency Heat (Empty Heat) shows a red peeled tongue, night sweats and a thin-rapid pulse; everything here is pale, moist and slow.",
+      "D": "An exterior pattern requires fever with aversion to cold and a floating pulse; a deep pulse with years of digestive symptoms is interior."
+    },
+    "learningObjective": "Classify a chronic Yang-deficient digestive presentation as interior, Deficiency, Cold.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "empty-cold",
+      "interior-pattern",
+      "deep-pulse",
+      "spleen-yang-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "empty-cold",
+        "full-cold"
+      ],
+      "key": "Chronic course, pain relieved by pressure and a weak pulse mark Empty Cold; acute onset, pain worse with pressure and a tight pulse mark Full Cold."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles: Empty-Cold"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Differentiation according to the Eight Principles: cold and heat"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIc-0006",
+    "domain": "II",
+    "subdomain": "II-c",
+    "task": "II-1-c",
+    "theory": "Eight Principles",
+    "stem": "A 33-year-old patient reports three days of burning epigastric pain, intense thirst with a desire for cold drinks, bad breath, bleeding gums, and constipation with dark, scanty urine. The tongue is red with a thick, dry, yellow coating. The pulse is rapid and full (excess). Which of the following is the most appropriate Eight Principle classification?",
+    "options": {
+      "A": "interior, Deficiency, Heat",
+      "B": "exterior, Excess, Heat",
+      "C": "interior, Excess, Heat",
+      "D": "interior, Excess, Cold"
+    },
+    "correct": "C",
+    "explanation": "Epigastric burning, constipation, dark urine and bleeding gums with no exterior signs locate the disorder in the interior. Thirst for cold drinks, a red tongue, a yellow coating and a rapid pulse identify Heat. The acute course, thick coating and full pulse show a strong pathogenic factor with intact Upright Qi, which is Excess. The classification is interior, Excess, Heat (Full Heat).",
+    "distractorExplanations": {
+      "A": "Interior Deficiency Heat (Empty Heat) shows a red tongue with little or no coating, a thin-rapid pulse, night sweats and only mild thirst with a desire for small sips; here the coating is thick and the pulse is full.",
+      "B": "Exterior Heat is defined by fever with aversion to cold or wind, sore throat and a floating pulse; the epigastric and bowel symptoms are interior.",
+      "D": "Interior Cold presents with absence of thirst, a pale tongue with a white coating and a slow pulse; every finding here is a Heat finding."
+    },
+    "learningObjective": "Classify an acute Stomach Fire presentation as interior, Excess, Heat.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "full-heat",
+      "interior-pattern",
+      "yellow-coating",
+      "full-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "full-heat",
+        "empty-heat"
+      ],
+      "key": "Thick yellow coating, full pulse and intense thirst for cold drinks mark Full Heat."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles: Full-Heat"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the Eight Principles: heat syndromes"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIc-0007",
+    "domain": "II",
+    "subdomain": "II-c",
+    "task": "II-1-c",
+    "theory": "Eight Principles",
+    "stem": "A 52-year-old woman reports six months of night sweats, a feeling of heat in the palms and soles in the evening, a malar flush in the afternoon, a dry mouth at night with a desire for small sips, and restless sleep. The tongue is red and thin with no coating. The pulse is thin (thready) and rapid. Which of the following best characterizes the Heat in this patient?",
+    "options": {
+      "A": "Full Heat from an exterior pathogen penetrating the interior",
+      "B": "Full Heat from stagnation transforming into Fire",
+      "C": "false Heat masking underlying Cold",
+      "D": "Empty Heat from deficiency of Yin"
+    },
+    "correct": "D",
+    "explanation": "The Heat here is Empty Heat: deficient Yin fails to control Yang, so Heat appears at the Yin time of day (afternoon and night) in a mild, intermittent form. Night sweats, five-palm heat, malar flush, a dry mouth with a desire for only small sips, a red tongue with no coating and a thin-rapid pulse are the classic signs. The peeled tongue and thin pulse are the discriminating findings that separate Empty Heat from Full Heat.",
+    "distractorExplanations": {
+      "A": "Full Heat from a penetrated pathogen is acute, with high fever, intense thirst for large cold drinks, a thick yellow coating and a full-rapid pulse; this course is chronic with a peeled tongue and thin pulse.",
+      "B": "Fire from stagnation is also a Full Heat pattern with a red tongue bearing a yellow coating and a wiry-rapid, forceful pulse; the absent coating and thin pulse rule it out.",
+      "C": "False Heat with true Cold shows a pale tongue, cold limbs, a preference for warmth and a deep weak or floating-empty pulse; the red peeled tongue is a true Heat sign."
+    },
+    "learningObjective": "Differentiate Empty Heat from Full Heat using tongue coating, pulse strength and the character of thirst and heat.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "empty-heat",
+      "yin-deficiency",
+      "peeled-coating",
+      "thin-rapid-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "empty-heat",
+        "full-heat"
+      ],
+      "key": "Red tongue with no coating and a thin-rapid pulse mark Empty Heat; thick yellow coating and a full-rapid pulse mark Full Heat."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles: Empty-Heat"
+      },
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Tongue diagnosis: tongue without coating"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIc-0008",
+    "domain": "II",
+    "subdomain": "II-c",
+    "task": "II-1-c",
+    "theory": "Eight Principles",
+    "stem": "A 24-year-old patient develops sudden, severe, cramping abdominal pain a few hours after eating a large quantity of iced food on a cold day. The pain is worse with pressure and is accompanied by vomiting of clear fluid and watery diarrhea. The patient feels cold and has no thirst. The tongue is pale with a thick white coating. The pulse is deep and tight. Which of the following best characterizes the Cold in this patient?",
+    "options": {
+      "A": "Empty Cold arising from deficiency of Yang",
+      "B": "Full Cold arising from a Cold pathogen lodged in the interior",
+      "C": "false Cold arising from Heat trapped in the interior",
+      "D": "Empty Cold arising from deficiency of Blood"
+    },
+    "correct": "B",
+    "explanation": "This is Full Cold: a Cold pathogen (iced food plus a cold day) has lodged directly in the interior and obstructs Yang Qi. The acute onset, severe cramping pain that is worse with pressure, thick white coating and a deep, tight pulse show a strong pathogenic factor with intact Upright Qi. Vomiting of clear fluid, watery diarrhea, feeling cold and absence of thirst confirm the Cold nature. Pain that worsens with pressure and a tight pulse are the discriminating findings against Empty Cold.",
+    "distractorExplanations": {
+      "A": "Empty Cold develops slowly from Yang deficiency, with dull pain relieved by pressure and warmth, a thin coating and a weak pulse. A learner who sees 'pale tongue' and 'cold' and assumes deficiency would choose this.",
+      "C": "True Heat with false Cold shows a red tongue with a dry yellow coating, thirst, constipation and a deep but forceful rapid pulse; here the tongue is pale, the coating white, and the pulse tight rather than rapid.",
+      "D": "Blood deficiency produces dizziness, pale lips, a thin pale tongue and a thin pulse; it does not produce acute cramping pain with a thick white coating."
+    },
+    "learningObjective": "Differentiate Full Cold from Empty Cold using onset, response to pressure, tongue coating and pulse.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "full-cold",
+      "empty-cold",
+      "tight-pulse",
+      "thick-white-coating"
+    ],
+    "distinction": {
+      "between": [
+        "full-cold",
+        "empty-cold"
+      ],
+      "key": "Acute severe pain worse with pressure, a thick white coating and a tight pulse mark Full Cold; chronic dull pain relieved by pressure with a weak pulse marks Empty Cold."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles: Full-Cold"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the Eight Principles: cold syndromes"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIc-0009",
+    "domain": "II",
+    "subdomain": "II-c",
+    "task": "II-1-c",
+    "theory": "Eight Principles",
+    "stem": "A 45-year-old patient in the second week of a febrile illness has a high fever, a burning sensation in the chest and abdomen, foul-smelling constipation, scanty dark urine, and intermittent delirium. The hands and feet, however, are cold to the touch, and the patient pushes the bedcovers away. The tongue is deep red with a dry yellow coating. The pulse is deep, rapid, and forceful. Which of the following is the most appropriate interpretation of the cold extremities?",
+    "options": {
+      "A": "true Cold with false Heat",
+      "B": "exterior Cold with interior Heat",
+      "C": "collapse of Yang following excess Heat",
+      "D": "true Heat with false Cold"
+    },
+    "correct": "D",
+    "explanation": "This is true Heat with false Cold. Intense interior Heat (high fever, burning sensation, foul constipation, dark urine, delirium, a deep-red tongue with a dry yellow coating and a forceful rapid pulse) is trapped in the interior and blocks Yang Qi from reaching the limbs, so the extremities feel cold even though the disease is Heat. The tongue and the forceful pulse reveal the true nature, and the patient's rejection of covers confirms that the cold is only apparent.",
+    "distractorExplanations": {
+      "A": "True Cold with false Heat shows a pale moist tongue, a weak or floating-empty pulse, a desire to be covered and clear urine; the deep-red dry tongue and forceful pulse are true Heat signs. A learner who weights the cold limbs over the tongue and pulse would pick this.",
+      "B": "An exterior Cold pattern requires aversion to cold with a floating pulse; here the cold is limited to the extremities and the pulse is deep.",
+      "C": "Collapse of Yang would present with profuse cold sweat, a pale face, a pale tongue and a minute pulse, with the fever gone; this patient's pulse is forceful and the Heat signs are at their peak."
+    },
+    "learningObjective": "Recognize true Heat with false Cold by relying on tongue, pulse strength and the patient's attitude to warmth over limb temperature.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "true-heat-false-cold",
+      "full-heat",
+      "deep-red-tongue",
+      "forceful-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "true-heat-false-cold",
+        "true-cold-false-heat"
+      ],
+      "key": "A deep-red dry tongue with a forceful rapid pulse and rejection of covers shows the Heat is true and the cold limbs are false."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles: True-Heat False-Cold"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Differentiation according to the Eight Principles: true and false cold and heat"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIc-0010",
+    "domain": "II",
+    "subdomain": "II-c",
+    "task": "II-1-c",
+    "theory": "Eight Principles",
+    "stem": "A 70-year-old patient with a long chronic illness reports a flush that comes and goes in patches on the cheeks, mild restlessness, and a sensation of heat in the face. The patient nevertheless prefers to be well covered, wants hot drinks in small sips, has clear copious urine and loose stools, and has cold legs. The tongue is pale and moist. The pulse is floating and empty, lacking root on deep pressure. Which of the following is most consistent with these findings?",
+    "options": {
+      "A": "Empty Heat from Yin deficiency",
+      "B": "true Heat with false Cold",
+      "C": "true Cold with false Heat",
+      "D": "Full Heat from Liver Fire rising"
+    },
+    "correct": "C",
+    "explanation": "This is true Cold with false Heat. Long-standing Yang deficiency has produced interior Cold (preference for covers, hot drinks, clear copious urine, loose stools, cold legs, pale moist tongue), and the exhausted Yang floats upward and outward, producing a patchy flush, restlessness and a floating empty pulse that collapses on pressure. The Heat signs are superficial and contradicted by the tongue, urine and the patient's desire for warmth, which reveal the true Cold nature.",
+    "distractorExplanations": {
+      "A": "Empty Heat from Yin deficiency shows a red peeled tongue, night sweats, a desire for cold sips and a thin-rapid pulse; the pale moist tongue and clear copious urine are incompatible with Yin deficiency. A learner who reads 'malar flush' as automatic Yin deficiency would pick this.",
+      "B": "True Heat with false Cold shows a deep-red dry tongue, dark urine, constipation and a forceful rapid pulse, with cold limbs only; here all the deep findings are Cold.",
+      "D": "Liver Fire rising shows a red face that is constant, a red tongue with a yellow coating, dark urine and a wiry-rapid forceful pulse; the pale tongue and rootless pulse rule it out."
+    },
+    "learningObjective": "Recognize true Cold with false Heat from a pale moist tongue, clear urine, desire for warmth and a rootless floating pulse despite facial flushing.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "true-cold-false-heat",
+      "empty-cold",
+      "yang-deficiency",
+      "floating-empty-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "true-cold-false-heat",
+        "empty-heat"
+      ],
+      "key": "A pale moist tongue, clear copious urine and a desire for warmth show the Cold is true; Empty Heat would show a red peeled tongue and a desire for cold sips."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles: True-Cold False-Heat"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Differentiation according to the Eight Principles: true and false cold and heat"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIc-0011",
+    "domain": "II",
+    "subdomain": "II-c",
+    "task": "II-1-c",
+    "theory": "Eight Principles",
+    "stem": "A 47-year-old patient reports two years of tiredness, poor appetite, and loose stools, and in recent months heaviness of the limbs, a feeling of fullness in the epigastrium after meals, and a sticky taste. The tongue is pale and swollen with a thick, greasy white coating. The pulse is soggy (soft) and weak. In terms of Excess and Deficiency, this presentation is best characterized as which of the following?",
+    "options": {
+      "A": "a pure Deficiency pattern",
+      "B": "a pure Excess pattern",
+      "C": "a Deficiency pattern complicated by Excess",
+      "D": "an Excess pattern that has transformed into Deficiency"
+    },
+    "correct": "C",
+    "explanation": "This is a mixed pattern: Deficiency of Spleen Qi (tiredness, poor appetite, loose stools, pale swollen tongue, weak pulse) that has failed to transform fluids, so Dampness (an Excess pathogenic factor) has accumulated, producing heaviness, epigastric fullness, a sticky taste and a thick greasy coating. The Deficiency came first and generated the Excess; both are present now, so the pattern is Deficiency complicated by Excess and the clinician must address both aspects.",
+    "distractorExplanations": {
+      "A": "A pure Deficiency pattern would show a thin coating and no fullness or heaviness; the thick greasy coating and epigastric fullness are signs of an accumulated pathogenic factor. A learner who stops at the weak pulse would pick this.",
+      "B": "A pure Excess pattern would show a strong or slippery full pulse and a short history; the two-year course, tiredness and weak pulse show underlying Deficiency.",
+      "D": "The sequence is the reverse: the history shows Deficiency symptoms first, with the Excess (Dampness) appearing later as a consequence of impaired transformation."
+    },
+    "learningObjective": "Identify a mixed Deficiency-Excess pattern and state which aspect gave rise to the other.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "mixed-deficiency-excess",
+      "spleen-qi-deficiency",
+      "dampness",
+      "greasy-coating"
+    ],
+    "distinction": {
+      "between": [
+        "mixed-deficiency-excess",
+        "pure-deficiency"
+      ],
+      "key": "A thick greasy coating with epigastric fullness and heaviness on top of a weak pulse and chronic tiredness shows Excess layered on Deficiency."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles: combination of Full and Empty"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the Eight Principles: deficiency and excess"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIc-0012",
+    "domain": "II",
+    "subdomain": "II-c",
+    "task": "II-1-c",
+    "theory": "Eight Principles",
+    "stem": "A 30-year-old patient caught a cold four days ago with chills, absence of sweating, and a thin white tongue coating. Today the aversion to cold has disappeared; the patient now has a high fever with sweating, thirst for cold drinks, and a cough with thick yellow sputum. The tongue is red with a yellow coating. The pulse is rapid. Which pathomechanism best explains the change?",
+    "options": {
+      "A": "the exterior Cold remains on the surface and has intensified",
+      "B": "the exterior Cold has penetrated the interior and transformed into Heat",
+      "C": "Wind-Heat was present from the beginning and is now fully expressed",
+      "D": "Yin deficiency has generated Empty Heat during the illness"
+    },
+    "correct": "B",
+    "explanation": "The initial picture (chills, no sweating, thin white coating) was exterior Cold. The disappearance of aversion to cold, with fever, sweating, thirst for cold drinks, yellow sputum, a red tongue with a yellow coating and a rapid pulse, shows the pathogen has moved inward and changed nature. Exterior Cold that is unresolved penetrates the interior and transforms into interior Heat, a classic Eight Principle transformation.",
+    "distractorExplanations": {
+      "A": "Cold remaining on the surface would still produce aversion to cold, absence of sweating and a white coating; all three have reversed.",
+      "C": "The first presentation had chills with a white coating and no sweating, which are Cold findings; Wind-Heat would have shown a sore throat, thirst and a floating-rapid pulse from the outset.",
+      "D": "Empty Heat is chronic, with a red peeled tongue, a thin-rapid pulse and low-grade evening fever; this is an acute high fever with a coated tongue and thick sputum."
+    },
+    "learningObjective": "Explain how an unresolved exterior Cold invasion penetrates the interior and transforms into Heat.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "exterior-cold-to-interior-heat",
+      "cold-transforming-to-heat",
+      "exterior-interior",
+      "yellow-coating"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles: Exterior-Interior transformation"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the Eight Principles: transformation of exterior and interior syndromes"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIc-0013",
+    "domain": "II",
+    "subdomain": "II-c",
+    "task": "II-1-c",
+    "theory": "Eight Principles",
+    "stem": "A 38-year-old patient had ten days of high fever, profuse sweating, great thirst, and a full rapid pulse. Three weeks later the high fever has gone, but the patient reports a low-grade afternoon fever, dry mouth and throat, a dry cough, dry stools, and fatigue. The tongue is red and dry with a peeled coating. The pulse is thin and slightly rapid. Which of the following best describes the course of this disorder?",
+    "options": {
+      "A": "an Excess Heat pattern has consumed Yin and become a Deficiency pattern",
+      "B": "an Excess Heat pattern persists at the same depth",
+      "C": "a Deficiency pattern has generated an Excess pattern",
+      "D": "an exterior pattern has become an interior Excess pattern"
+    },
+    "correct": "A",
+    "explanation": "Ten days of Full Heat with profuse sweating and great thirst consumed Body Fluids and Yin. The present picture is Deficiency: low-grade afternoon fever, dryness of mouth, throat, cough and stools, fatigue, a red dry peeled tongue and a thin pulse are signs of Yin deficiency with Empty Heat. The transformation from Excess to Deficiency occurs when a strong pathogenic factor injures the Upright Qi, Fluids or Yin during its course.",
+    "distractorExplanations": {
+      "B": "Persistent Excess Heat would still show high fever, intense thirst, a thick yellow coating and a full pulse; the peeled tongue and thin pulse show the pathogen has receded and Yin is damaged.",
+      "C": "The sequence is reversed: the history began with a strong Excess Heat pattern and the Deficiency appeared afterwards as its consequence.",
+      "D": "The initial ten-day illness with profuse sweating and a full rapid pulse was already an interior Excess Heat pattern; the change in question is from Excess to Deficiency, not from exterior to interior."
+    },
+    "learningObjective": "Recognize the transformation of an Excess Heat pattern into a Yin-deficient (Deficiency) pattern after a febrile disease.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "excess-to-deficiency",
+      "yin-deficiency",
+      "empty-heat",
+      "peeled-coating"
+    ],
+    "distinction": {
+      "between": [
+        "excess-to-deficiency",
+        "full-heat"
+      ],
+      "key": "A red peeled dry tongue with a thin pulse and low-grade afternoon fever after a febrile disease marks Heat that has injured Yin."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles: Full-Empty transformation"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Differentiation according to the Eight Principles: deficiency and excess"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIc-0014",
+    "domain": "II",
+    "subdomain": "II-c",
+    "task": "II-1-c",
+    "theory": "Eight Principles",
+    "stem": "A 44-year-old patient of robust constitution first presented, after weeks of damp cold weather and heavy meals, with epigastric fullness, loose stools, absence of thirst, a thick white greasy coating, and a soggy pulse. Two months later the patient reports a bitter sticky taste, thirst without desire to drink, foul-smelling burning diarrhea, and scanty dark urine. The tongue is red with a greasy yellow coating. The pulse is slippery and rapid. Which of the following best explains the change?",
+    "options": {
+      "A": "Yin deficiency has given rise to Empty Heat",
+      "B": "Cold-Damp has transformed into Damp-Heat through prolonged retention",
+      "C": "Spleen Yang deficiency has deepened into Kidney Yang deficiency",
+      "D": "Dampness has resolved and been replaced by exterior Wind-Heat"
+    },
+    "correct": "B",
+    "explanation": "The original pattern was Cold-Damp (fullness, loose stools, no thirst, white greasy coating, soggy pulse). Dampness retained for a long time in a patient with a robust Yang constitution stagnates and generates Heat, so the same greasy coating turns yellow and the stools, urine, taste and pulse acquire Heat qualities. This is the Eight Principle transformation of Cold into Heat; the persistence of the greasy coating shows the Dampness itself never left.",
+    "distractorExplanations": {
+      "A": "Empty Heat shows a red tongue with no coating and a thin-rapid pulse; a greasy yellow coating with a slippery pulse is a Full Damp-Heat finding.",
+      "C": "Deepening Yang deficiency would move toward more Cold (cold limbs, early-morning diarrhea, pale tongue, deep slow pulse), the opposite of the Heat signs that have appeared.",
+      "D": "Exterior Wind-Heat requires fever with aversion to wind and a floating pulse, and the greasy coating shows that Dampness is still present rather than resolved."
+    },
+    "learningObjective": "Recognize the transformation of a retained Cold-Damp pattern into Damp-Heat.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "cold-transforming-to-heat",
+      "cold-damp",
+      "damp-heat",
+      "greasy-yellow-coating"
+    ],
+    "distinction": {
+      "between": [
+        "damp-heat",
+        "cold-damp"
+      ],
+      "key": "The coating turns from white greasy to yellow greasy and the pulse from soggy to slippery-rapid as retained Dampness generates Heat."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles: Hot-Cold transformation"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the Eight Principles: transformation of cold and heat syndromes"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIc-0015",
+    "domain": "II",
+    "subdomain": "II-c",
+    "task": "II-1-c",
+    "theory": "Eight Principles",
+    "stem": "Within the Eight Principles, which three principles are grouped under the Yang category?",
+    "options": {
+      "A": "exterior, Heat, Excess",
+      "B": "interior, Cold, Deficiency",
+      "C": "exterior, Cold, Deficiency",
+      "D": "interior, Heat, Excess"
+    },
+    "correct": "A",
+    "explanation": "Yin and Yang are the two general principles that summarize the other six. Exterior, Heat and Excess (Full) are Yang in nature, because they involve the surface, activity, warmth and a strong pathogenic factor. Interior, Cold and Deficiency (Empty) are Yin in nature. A pattern may be Yang on one axis and Yin on another; the overall Yin or Yang label expresses the predominant tendency.",
+    "distractorExplanations": {
+      "B": "Interior, Cold and Deficiency are the three Yin principles; a learner who reverses the categories would pick this.",
+      "C": "Exterior is Yang, but Cold and Deficiency are both Yin; this is a mixed set.",
+      "D": "Heat and Excess are Yang, but interior is Yin; this is a mixed set."
+    },
+    "learningObjective": "Identify which of the Eight Principles are summarized under Yang and which under Yin.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "eight-principles",
+      "yin-yang-classification"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles: Yin-Yang"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the Eight Principles: yin and yang"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIc-0016",
+    "domain": "II",
+    "subdomain": "II-c",
+    "task": "II-1-c",
+    "theory": "Eight Principles",
+    "stem": "A 66-year-old patient is quiet and withdrawn, lies curled up, and speaks in a low, weak voice. The complexion is pale, the limbs are cold, the breathing is shallow, and the patient prefers warm drinks. The tongue is pale and moist. The pulse is deep, slow, and weak. In Eight Principle terms, this presentation is best summarized as which type of pattern?",
+    "options": {
+      "A": "Yang pattern",
+      "B": "exterior pattern",
+      "C": "Heat pattern",
+      "D": "Yin pattern"
+    },
+    "correct": "D",
+    "explanation": "Every finding falls on the Yin side of the Eight Principles: the disorder is interior (deep pulse, no exterior signs), Cold (cold limbs, preference for warm drinks, pale moist tongue, slow pulse) and Deficient (weak voice, shallow breathing, weak pulse, withdrawn behavior). Interior, Cold and Deficiency together constitute a Yin pattern, which is characterized by quietness, pallor, cold, and reduced activity.",
+    "distractorExplanations": {
+      "A": "A Yang pattern shows restlessness, a loud voice, a red complexion, heat signs and a rapid, forceful pulse; the opposite of every finding here.",
+      "B": "An exterior pattern requires fever with aversion to cold and a floating pulse; the deep pulse and chronic withdrawn state are interior.",
+      "C": "A Heat pattern shows a red tongue, thirst for cold drinks and a rapid pulse; here the tongue is pale and moist and the pulse is slow."
+    },
+    "learningObjective": "Summarize a presentation that is interior, Cold and Deficient as a Yin pattern.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "yin-pattern",
+      "yin-yang-classification",
+      "empty-cold",
+      "deep-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "yin-pattern",
+        "yang-pattern"
+      ],
+      "key": "Quiet withdrawn behavior, pallor, cold, a pale moist tongue and a deep slow weak pulse summarize as Yin; restlessness, redness, heat and a rapid forceful pulse summarize as Yang."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles: Yin-Yang"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Differentiation according to the Eight Principles: yin and yang"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIc-0017",
+    "domain": "II",
+    "subdomain": "II-c",
+    "task": "II-1-c",
+    "theory": "Eight Principles",
+    "stem": "In a patient with fever, which finding most strongly indicates that the pattern is still on the exterior rather than in the interior?",
+    "options": {
+      "A": "aversion to cold occurring at the same time as the fever",
+      "B": "a high fever that persists throughout the whole day",
+      "C": "thirst with a strong desire for cold drinks",
+      "D": "sweating that is profuse and relieves the fever"
+    },
+    "correct": "A",
+    "explanation": "Fever and aversion to cold occurring together is the defining sign of an exterior pattern: the pathogenic factor on the surface obstructs Wei Qi, which can neither warm the skin (aversion to cold) nor disperse normally (fever). Once the pathogen enters the interior, aversion to cold disappears and the patient has fever alone, often with aversion to heat. The height of the fever, thirst and sweating can occur in either exterior or interior patterns and do not discriminate.",
+    "distractorExplanations": {
+      "B": "A high fever can be exterior (Wind-Heat) or interior (Qi level Heat); temperature alone says nothing about depth. A learner who equates severity with depth would pick this.",
+      "C": "Thirst occurs in exterior Wind-Heat and in interior Heat; it indicates Heat, not location.",
+      "D": "Sweating is present in exterior Deficiency (Wind invasion with sweating) and in interior Heat; it distinguishes Excess from Deficiency on the exterior, not exterior from interior."
+    },
+    "learningObjective": "Identify simultaneous fever and aversion to cold as the key sign of an exterior pattern.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": false,
+    "concepts": [
+      "exterior-pattern",
+      "exterior-interior",
+      "aversion-to-cold"
+    ],
+    "distinction": {
+      "between": [
+        "exterior-pattern",
+        "interior-pattern"
+      ],
+      "key": "Fever with simultaneous aversion to cold is exterior; fever alone with aversion to heat is interior."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles: Exterior patterns"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the Eight Principles: exterior and interior"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIc-0018",
+    "domain": "II",
+    "subdomain": "II-c",
+    "task": "II-1-c",
+    "theory": "Eight Principles",
+    "stem": "Which of the following findings most strongly supports classifying a pattern as Cold rather than Heat?",
+    "options": {
+      "A": "dark, scanty urine",
+      "B": "thirst with a desire for cold drinks",
+      "C": "clear, copious urine",
+      "D": "a red complexion"
+    },
+    "correct": "C",
+    "explanation": "Clear, copious urine is a reliable Cold sign: without sufficient Yang warmth, fluids are neither transformed nor concentrated and pass out pale and abundant. The Heat/Cold axis is read from thirst, color of urine and stools, complexion, preference for warm or cold drinks, tongue color and pulse rate; dark urine, thirst for cold drinks and a red face all sit on the Heat side.",
+    "distractorExplanations": {
+      "A": "Dark, scanty urine shows Heat condensing the fluids; it is the opposite of the Cold finding.",
+      "B": "Thirst with a desire for cold drinks is a Heat sign; a Cold pattern shows absence of thirst or a preference for warm drinks.",
+      "D": "A red complexion indicates Heat (or false Heat); Cold patterns show a pale or bright-white complexion."
+    },
+    "learningObjective": "Identify urine color and volume as a discriminating sign between Cold and Heat patterns.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "heat-cold",
+      "eight-principles",
+      "clear-copious-urine"
+    ],
+    "distinction": {
+      "between": [
+        "cold-pattern",
+        "heat-pattern"
+      ],
+      "key": "Clear copious urine, absence of thirst and a pale face mark Cold; dark scanty urine, thirst for cold drinks and a red face mark Heat."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles: Hot-Cold"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the Eight Principles: cold and heat"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-IIc-0019",
+    "domain": "II",
+    "subdomain": "II-c",
+    "task": "II-1-c",
+    "theory": "Eight Principles",
+    "stem": "A patient reports abdominal pain. Which characteristic of the pain most strongly supports classifying the pattern as Excess rather than Deficiency?",
+    "options": {
+      "A": "the pain is relieved by pressure",
+      "B": "the pain is dull and intermittent",
+      "C": "the pain is relieved by eating",
+      "D": "the pain is aggravated by pressure"
+    },
+    "correct": "D",
+    "explanation": "In an Excess pattern a pathogenic factor (Cold, Heat, Food, Dampness, stagnant Qi or Blood) obstructs the interior, so pressure adds to the obstruction and worsens the pain; the patient resists palpation. In a Deficiency pattern the pain comes from lack of nourishment or warmth, so pressure, warmth and eating bring relief and the pain is dull and intermittent. Response to pressure is the classic Excess/Deficiency discriminator in inquiry and palpation.",
+    "distractorExplanations": {
+      "A": "Pain relieved by pressure indicates Deficiency, because pressure supports the weakened Qi.",
+      "B": "Dull, intermittent pain is typical of Deficiency; Excess pain is severe, sharp or distending and more constant.",
+      "C": "Pain relieved by eating points to Deficiency of Stomach and Spleen Qi; Excess pain, as in Retention of Food, is worse after eating."
+    },
+    "learningObjective": "Use response to pressure to differentiate Excess from Deficiency in a pain presentation.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": false,
+    "concepts": [
+      "excess-deficiency",
+      "eight-principles",
+      "pain-response-to-pressure"
+    ],
+    "distinction": {
+      "between": [
+        "excess-pattern",
+        "deficiency-pattern"
+      ],
+      "key": "Pain worse with pressure marks Excess; pain relieved by pressure marks Deficiency."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles: Full-Empty"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Inquiry: pain"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  }
+]

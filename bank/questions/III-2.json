@@ -1,0 +1,2467 @@
+[
+  {
+    "id": "FOM-III2-0001",
+    "domain": "III",
+    "subdomain": "III-2",
+    "task": "III-2",
+    "stem": "According to the principle of Root and Branch (Ben Biao), in which of the following situations should the branch be treated before the root?",
+    "options": {
+      "A": "Chronic fatigue and loose stools in a patient with long-standing Spleen Qi deficiency",
+      "B": "Mild, intermittent dizziness in a patient with Liver Blood deficiency",
+      "C": "Profuse uterine bleeding in a patient whose Spleen Qi fails to hold the Blood",
+      "D": "Occasional dry cough in a patient with Lung Yin deficiency"
+    },
+    "correct": "C",
+    "explanation": "In chronic or mild conditions the root is treated; in acute or severe conditions the branch is treated first because the manifestation itself endangers the patient or blocks treatment of the root. Profuse bleeding is one of the classical urgencies (with high fever, acute pain, severe diarrhea, urinary retention, and acute wheezing) that require the branch to be addressed first. Once the bleeding is controlled, the Spleen Qi root is tonified.",
+    "distractorExplanations": {
+      "A": "Chronic fatigue and loose stools are mild, long-standing manifestations; the root (Spleen Qi deficiency) is treated. A learner who treats every symptom directly would choose this.",
+      "B": "Mild intermittent dizziness is a chronic, mild branch of Blood deficiency; nourishing Blood (the root) is the correct priority.",
+      "D": "An occasional dry cough from Lung Yin deficiency is chronic and mild; nourishing Lung Yin addresses the root and the cough resolves with it."
+    },
+    "learningObjective": "Identify the clinical situations in which Root and Branch theory requires the branch to be treated first.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "root-and-branch",
+      "branch-first",
+      "acute-vs-chronic"
+    ],
+    "distinction": {
+      "between": [
+        "branch-first",
+        "root-first"
+      ],
+      "key": "Severity and acuteness of the manifestation decide: acute or dangerous symptoms are treated first; chronic, mild symptoms are treated through their root."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Principles of Treatment (Root and Manifestation)"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "General Introduction to Acupuncture Treatment: principles of treatment"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III2-0002",
+    "domain": "III",
+    "subdomain": "III-2",
+    "task": "III-2",
+    "stem": "In Root and Branch (Ben Biao) theory, several pairs of opposites are compared. When the pair under consideration is the pathogenic factor and the patient's upright (Zheng) Qi, which of the following is regarded as the root?",
+    "options": {
+      "A": "The upright Qi",
+      "B": "The pathogenic factor",
+      "C": "Whichever of the two appeared earlier",
+      "D": "Whichever of the two produces the stronger symptoms"
+    },
+    "correct": "A",
+    "explanation": "Root and Branch is a relative framework applied to several pairs: upright Qi and pathogen, cause and manifestation, old disease and new disease, interior and exterior. In the upright Qi versus pathogen pair, the upright Qi is the root and the pathogenic factor is the branch, because the state of the upright Qi determines whether a pathogen can invade and whether it can be expelled.",
+    "distractorExplanations": {
+      "B": "The pathogenic factor is the branch in this pair. A learner who equates 'root' with 'the thing to attack' would choose this.",
+      "C": "Order of appearance decides the old-disease versus new-disease pair, where the earlier (old) disease is the root; it does not decide the upright Qi versus pathogen pair.",
+      "D": "Symptom severity decides treatment sequence (branch first when severe), not which element is the root. This confuses priority of treatment with the definition of the root."
+    },
+    "learningObjective": "Identify the root and branch within the upright-Qi-versus-pathogen pair of Ben Biao theory.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "root-and-branch",
+      "upright-qi",
+      "pathogenic-factor"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Principles of Treatment (Root and Manifestation)"
+      },
+      {
+        "source": "Wiseman & Ellis, Fundamentals of Chinese Medicine, revised ed."
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III2-0003",
+    "domain": "III",
+    "subdomain": "III-2",
+    "task": "III-2",
+    "stem": "A 42-year-old woman reports heavy menstrual bleeding with pale, thin blood for the past three days, soaking a pad every hour. She is dizzy, pale, and short of breath. For years she has had poor appetite, loose stools, and fatigue. The tongue is pale with a thin white coating. The pulse is weak and thin (thready). Which of the following should be addressed first?",
+    "options": {
+      "A": "tonify Spleen Qi so that the Spleen holds the Blood",
+      "B": "stop the bleeding and consolidate the Blood",
+      "C": "nourish Blood and calm the Spirit (Shen)",
+      "D": "warm the Spleen and dry Dampness"
+    },
+    "correct": "B",
+    "explanation": "The root is Spleen Qi deficiency failing to hold the Blood (chronic fatigue, poor appetite, loose stools, pale tongue, weak pulse), and the branch is the flooding bleeding. Severe bleeding is an acute, dangerous manifestation, so Root and Branch theory requires that the bleeding be stopped first; the dizziness, pallor, and breathlessness show the Blood loss is already damaging Qi and Blood. Tonifying the Spleen becomes the main goal once the bleeding is controlled.",
+    "distractorExplanations": {
+      "A": "This is the correct root treatment but the wrong priority: with hourly pad changes and dizziness, the branch is acute and must be addressed before the slow work of tonification.",
+      "C": "Nourishing Blood addresses the consequence of blood loss rather than the ongoing loss; it is appropriate later in the course but does not stop the bleeding.",
+      "D": "Warming and drying belong to Cold-Damp or Spleen Yang patterns; there are no Cold or Damp findings here, and warming methods can aggravate bleeding."
+    },
+    "learningObjective": "Apply Root and Branch theory to prioritize stopping acute bleeding before tonifying the deficient root.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "branch-first",
+      "spleen-qi-deficiency",
+      "spleen-not-holding-blood",
+      "root-and-branch"
+    ],
+    "distinction": {
+      "between": [
+        "branch-first",
+        "root-first"
+      ],
+      "key": "Active heavy bleeding with dizziness is an acute branch; the chronic Spleen deficiency root is treated after the bleeding is controlled."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Principles of Treatment (Root and Manifestation)"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "General Introduction to Acupuncture Treatment: principles of treatment"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III2-0004",
+    "domain": "III",
+    "subdomain": "III-2",
+    "task": "III-2",
+    "stem": "A 74-year-old man has had lower back soreness, cold limbs, and nocturia for several years. Today he reports that he has passed no urine for fourteen hours and has a distended, painful lower abdomen. The tongue is pale and swollen. The pulse is deep and weak. Which of the following should be addressed first?",
+    "options": {
+      "A": "warm and tonify Kidney Yang over a long course",
+      "B": "tonify Spleen Qi and raise the clear Yang",
+      "C": "nourish Kidney Yin and strengthen the lower back",
+      "D": "promote urination to relieve the retention"
+    },
+    "correct": "D",
+    "explanation": "The chronic root is Kidney Yang deficiency failing to transform Fluids in the Bladder (cold limbs, back soreness, nocturia, pale swollen tongue, deep weak pulse). Acute urinary retention is one of the classical urgencies in which the branch must be treated first, so promoting urination and relieving the retention takes priority, with urgent medical referral because complete retention is dangerous. Warming Kidney Yang resumes once urine flow is restored.",
+    "distractorExplanations": {
+      "A": "This is the correct root treatment but the wrong priority; a long warming course cannot be the first step when the patient has acute retention.",
+      "B": "Raising the clear Yang treats sinking Spleen Qi (prolapse, chronic diarrhea); it does not address retention and there are no sinking-Qi findings.",
+      "C": "Kidney Yin deficiency would present with heat signs, dry mouth, and a red tongue; this patient has cold signs and a pale tongue."
+    },
+    "learningObjective": "Prioritize relief of acute urinary retention over treatment of the chronic Kidney Yang deficiency root.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "branch-first",
+      "kidney-yang-deficiency",
+      "urinary-retention",
+      "root-and-branch"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Principles of Treatment (Root and Manifestation)"
+      },
+      {
+        "source": "Maciocia, The Practice of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Retention of Urine"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III2-0005",
+    "domain": "III",
+    "subdomain": "III-2",
+    "task": "III-2",
+    "stem": "A 55-year-old woman reports a mild cough for eight months with scanty, thin white sputum. The cough is worse with exertion. She has a weak voice, spontaneous daytime sweating, and catches colds easily. The tongue is pale with a thin white coating. The pulse is empty. Which of the following is the most appropriate treatment priority?",
+    "options": {
+      "A": "tonify Lung Qi and consolidate the exterior",
+      "B": "release the exterior and disperse Wind-Cold",
+      "C": "resolve Phlegm and descend Lung Qi",
+      "D": "nourish Lung Yin and moisten Dryness"
+    },
+    "correct": "A",
+    "explanation": "This is Lung Qi deficiency: a chronic, mild cough worse with exertion, weak voice, spontaneous sweating, susceptibility to colds, pale tongue, and empty pulse. In a chronic, mild condition the root is treated; tonifying Lung Qi and consolidating the exterior both resolves the cough and reduces the recurrent invasions.",
+    "distractorExplanations": {
+      "B": "There is no current exterior pattern (no chills, fever, or floating pulse); the susceptibility to colds is a consequence of weak Wei Qi, not an active invasion.",
+      "C": "The sputum is scanty and thin and the tongue coating is thin, so Phlegm is minimal; treating the sputum directly would address a trivial branch and ignore the deficiency.",
+      "D": "Lung Yin deficiency produces a dry cough, dry throat, red tongue with scanty coating, and a thin rapid pulse; the pale tongue and empty pulse point to Qi, not Yin."
+    },
+    "learningObjective": "Select root treatment for a chronic, mild Lung Qi deficiency cough.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "root-first",
+      "lung-qi-deficiency",
+      "root-and-branch"
+    ],
+    "distinction": {
+      "between": [
+        "lung-qi-deficiency",
+        "lung-yin-deficiency"
+      ],
+      "key": "Pale tongue, empty pulse, spontaneous sweating, and thin white sputum indicate Qi deficiency; Yin deficiency would show a red tongue with scanty coating and a dry cough."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Lung patterns; Chapter on Principles of Treatment"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III2-0006",
+    "domain": "III",
+    "subdomain": "III-2",
+    "task": "III-2",
+    "stem": "A 30-year-old man has had a fever of 39.5 C for two days with profuse sweating, intense thirst for cold drinks, restlessness, and a red face. His history includes years of tiredness after meals, poor appetite, and soft stools. The tongue is red with a dry yellow coating. The pulse is flooding (overflowing) and rapid. Which of the following should be addressed first?",
+    "options": {
+      "A": "tonify Spleen Qi to support the upright Qi",
+      "B": "harmonize Ying and Wei to stop the sweating",
+      "C": "clear Heat and generate Fluids",
+      "D": "nourish Yin to control Empty Heat"
+    },
+    "correct": "C",
+    "explanation": "The acute presentation is Full Heat at the Qi level (high fever, profuse sweating, great thirst, red tongue with dry yellow coating, flooding rapid pulse). High fever is a classical urgency; the branch is treated first by clearing Heat and generating Fluids, regardless of the chronic Spleen Qi deficiency root, which is addressed once the Heat has been cleared.",
+    "distractorExplanations": {
+      "A": "Tonifying during an acute Full Heat condition would strengthen the pathogen ('closing the door on the thief'); the chronic deficiency waits until the Heat is cleared.",
+      "B": "Harmonizing Ying and Wei is for exterior Wind-Cold with sweating (Tai Yang deficiency type); this patient's sweating is driven by interior Full Heat and stops when the Heat is cleared.",
+      "D": "Empty Heat produces a low-grade afternoon fever, a red tongue without coating, and a thin rapid pulse; the dry yellow coating and flooding pulse indicate Full Heat."
+    },
+    "learningObjective": "Prioritize clearing acute Full Heat over tonifying a chronic deficiency root.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "branch-first",
+      "qi-level-heat",
+      "full-heat",
+      "spleen-qi-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "full-heat",
+        "empty-heat"
+      ],
+      "key": "A dry yellow coating and flooding pulse mark Full Heat; Empty Heat shows a peeled or absent coating and a thin rapid pulse."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Principles of Treatment (Root and Manifestation)"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III2-0007",
+    "domain": "III",
+    "subdomain": "III-2",
+    "task": "III-2",
+    "stem": "A 38-year-old woman with mild chronic tiredness and soft stools presents with one day of pronounced chills, slight fever, absence of sweating, stiff neck, and headache. The tongue has a thin white coating. The pulse is floating and tight. Which of the following should be addressed first?",
+    "options": {
+      "A": "tonify Spleen Qi, then release the exterior once her strength returns",
+      "B": "release the exterior and disperse Wind-Cold",
+      "C": "tonify Spleen Qi and release the exterior with equal emphasis",
+      "D": "clear interior Heat while releasing the exterior"
+    },
+    "correct": "B",
+    "explanation": "An acute exterior Wind-Cold invasion (chills, no sweating, stiff neck, floating tight pulse) coexists with a mild interior Spleen Qi deficiency. When the exterior is acute and the interior deficiency is mild, the exterior is released first; an unreleased exterior pathogen can penetrate inward, and tonifying while a pathogen is on the exterior risks retaining it. The Spleen is tonified after the exterior is cleared.",
+    "distractorExplanations": {
+      "A": "Delaying release of the exterior allows the pathogen to penetrate deeper; tonifying first is appropriate only when the deficiency is severe enough that the patient cannot expel the pathogen.",
+      "C": "Simultaneous support and release is reserved for marked deficiency (for example, an elderly patient with severe Yang deficiency); here the deficiency is mild and sequential treatment is correct.",
+      "D": "There is no interior Heat: the fever is slight, chills dominate, and the coating is white. Clearing Heat would introduce cold methods into a Cold condition."
+    },
+    "learningObjective": "Sequence treatment of an acute exterior pathogen before a mild interior deficiency.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "exterior-before-interior",
+      "wind-cold",
+      "spleen-qi-deficiency",
+      "root-and-branch"
+    ],
+    "distinction": {
+      "between": [
+        "release-exterior-first",
+        "support-upright-and-release"
+      ],
+      "key": "Mild interior deficiency means the exterior is released first; only severe deficiency justifies supporting the upright Qi at the same time."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Principles of Treatment (Root and Manifestation; Exterior and Interior)"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "General Introduction to Acupuncture Treatment: principles of treatment"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III2-0008",
+    "domain": "III",
+    "subdomain": "III-2",
+    "task": "III-2",
+    "stem": "A 79-year-old woman has long-standing severe cold intolerance, cold limbs, profuse clear urine, chronic watery stools, and extreme fatigue. For two days she has had aversion to cold, body aches, a slight fever, and no sweating. The tongue is pale, swollen, and wet. The pulse is deep and weak. Which of the following treatment plans is most appropriate?",
+    "options": {
+      "A": "release the exterior with strong sweating methods, then warm Yang",
+      "B": "warm Yang alone and allow the exterior to resolve by itself",
+      "C": "nourish Yin and release the exterior together",
+      "D": "warm and support Yang while releasing the exterior"
+    },
+    "correct": "D",
+    "explanation": "An exterior Wind-Cold invasion has occurred in a patient with severe Yang deficiency (deep weak pulse, pale swollen wet tongue, chronic cold signs). When the deficiency is severe, the patient cannot expel the pathogen unaided and strong sweating would collapse the Yang further, so the upright Qi is supported and the pathogen dispelled at the same time: warm Yang while gently releasing the exterior.",
+    "distractorExplanations": {
+      "A": "Strong diaphoresis in a severely Yang-deficient patient damages Yang and can cause collapse; sequencing exterior-first applies only when the interior deficiency is mild.",
+      "B": "Leaving an exterior pathogen untreated allows it to penetrate inward; warming alone also risks driving the pathogen deeper.",
+      "C": "The findings are of Yang deficiency (cold, pale wet tongue), not Yin deficiency; nourishing Yin with cold or cloying methods would worsen the Cold."
+    },
+    "learningObjective": "Formulate a simultaneous support-the-upright and dispel-the-pathogen plan for an exterior invasion in severe Yang deficiency.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "support-upright-expel-pathogen",
+      "simultaneous-root-branch",
+      "kidney-yang-deficiency",
+      "wind-cold"
+    ],
+    "distinction": {
+      "between": [
+        "release-exterior-first",
+        "support-upright-and-release"
+      ],
+      "key": "Severe Yang deficiency (deep weak pulse, pale wet tongue, chronic cold) makes simultaneous support and release necessary; mild deficiency allows exterior-first."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Principles of Treatment (Root and Manifestation)"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "General Introduction to Acupuncture Treatment: strengthening body resistance and eliminating pathogenic factors"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III2-0009",
+    "domain": "III",
+    "subdomain": "III-2",
+    "task": "III-2",
+    "stem": "A 50-year-old man reports two years of chest oppression, dizziness, nausea, heavy limbs, poor appetite, and loose stools. He expectorates copious white sputum daily. The tongue is pale and swollen with a greasy white coating. The pulse is slippery and soggy. Which of the following treatment plans is most appropriate?",
+    "options": {
+      "A": "strengthen the Spleen and resolve Phlegm together",
+      "B": "resolve Phlegm first and tonify the Spleen once the Phlegm has cleared",
+      "C": "tonify the Spleen first and resolve Phlegm once the Spleen is strong",
+      "D": "warm Kidney Yang to transform the Fluids"
+    },
+    "correct": "A",
+    "explanation": "Spleen Qi deficiency (poor appetite, loose stools, pale swollen tongue, soggy pulse) is the root that continuously generates Phlegm, and the Phlegm (chest oppression, dizziness, nausea, copious sputum, greasy coating, slippery pulse) is a substantial branch obstructing the Middle and Upper Burners. The condition is chronic, and both root and branch are pressing: the Spleen is the source of Phlegm, so Phlegm will keep forming unless the Spleen is strengthened, while untreated Phlegm obstructs the Spleen's recovery. Root and branch are therefore treated together.",
+    "distractorExplanations": {
+      "B": "Resolving Phlegm alone leaves the Spleen generating new Phlegm; this sequence suits an acute Phlegm obstruction, which is not the case in a two-year chronic picture.",
+      "C": "Tonifying without resolving Phlegm risks cloying tonification that aggravates the Phlegm, and the copious Phlegm is too substantial to be left untreated.",
+      "D": "Kidney Yang deficiency would show cold limbs, lower back coldness, and nocturia; the findings localize to the Spleen."
+    },
+    "learningObjective": "Recognize when chronic Phlegm with Spleen deficiency warrants simultaneous treatment of root and branch.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "simultaneous-root-branch",
+      "spleen-qi-deficiency",
+      "phlegm",
+      "root-and-branch"
+    ],
+    "distinction": {
+      "between": [
+        "simultaneous-root-branch",
+        "branch-first"
+      ],
+      "key": "A chronic case in which the deficient root keeps generating a substantial branch calls for treating both together; branch-first applies to acute, dangerous manifestations."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Principles of Treatment; Chapter on Phlegm"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III2-0011",
+    "domain": "III",
+    "subdomain": "III-2",
+    "task": "III-2",
+    "stem": "A 36-year-old man has had asthma since childhood. Between attacks he has shortness of breath on exertion, lower back soreness, cold limbs, and frequent urination, with a pale tongue and a deep weak pulse. He arrives during an attack with loud wheezing, inability to lie flat, and copious white frothy sputum; the tongue coating is greasy and white and the pulse is slippery. Which of the following treatment plans is most appropriate?",
+    "options": {
+      "A": "tonify the Kidney to grasp Qi now, and address the wheezing after the Kidney is strong",
+      "B": "during attacks resolve Phlegm and descend Lung Qi; between attacks tonify the Kidney and Lung",
+      "C": "warm Kidney Yang throughout, because the attack results from the Kidney failing to grasp Qi",
+      "D": "release the exterior and disperse Cold throughout, because the sputum is white"
+    },
+    "correct": "B",
+    "explanation": "Chronic asthma follows the classic rule 'treat the branch during the attack, treat the root during remission.' The attack is a Phlegm-Cold obstruction of the Lung (wheezing, frothy white sputum, greasy white coating, slippery pulse) and is acute, so Phlegm is resolved and Lung Qi descended. The root, Kidney Yang deficiency with the Kidney failing to grasp Qi (back soreness, cold limbs, frequent urination, deep weak pulse), is tonified between attacks when there is no acute obstruction.",
+    "distractorExplanations": {
+      "A": "Tonifying during the attack ignores the acute obstruction and cloying tonification can aggravate Phlegm; the wheezing is the urgent branch.",
+      "C": "Warming the Kidney alone throughout treats the root while the patient is acutely obstructed by Phlegm; it also fails to resolve the Phlegm that triggers attacks.",
+      "D": "There is no exterior pattern (no chills, fever, or floating pulse); white sputum indicates Cold-Phlegm in the interior, not an exterior invasion."
+    },
+    "learningObjective": "Formulate an attack-versus-remission treatment plan for chronic asthma using Root and Branch theory.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "evaluation",
+    "vignette": true,
+    "concepts": [
+      "branch-first",
+      "root-first",
+      "kidney-not-grasping-qi",
+      "phlegm-cold-in-lung"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Practice of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Asthma"
+      },
+      {
+        "source": "Maclean & Lyttleton, Clinical Handbook of Internal Medicine, 2nd ed."
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III2-0012",
+    "domain": "III",
+    "subdomain": "III-2",
+    "task": "III-2",
+    "stem": "A 29-year-old woman reports two days of explosive, foul-smelling watery diarrhea eight times a day with a burning sensation at the anus, abdominal pain, fever, and thirst. For years she has had bloating and tiredness after meals. The tongue is red with a yellow greasy coating. The pulse is slippery and rapid. Which of the following should be addressed first?",
+    "options": {
+      "A": "tonify Spleen Qi and raise the sinking Qi",
+      "B": "warm the Middle Burner and stop the diarrhea",
+      "C": "astringe the Intestines and consolidate",
+      "D": "clear Damp-Heat from the Intestines"
+    },
+    "correct": "D",
+    "explanation": "The acute presentation is Damp-Heat in the Large Intestine (explosive foul diarrhea, burning anus, fever, thirst, yellow greasy coating, slippery rapid pulse) on a chronic Spleen Qi deficiency root. Severe acute diarrhea is a classical urgency; the branch is cleared first by draining Damp-Heat, and the Spleen is tonified after the Damp-Heat has resolved.",
+    "distractorExplanations": {
+      "A": "Tonifying during an acute excess Damp-Heat condition retains the pathogen; sinking Qi diarrhea is chronic and painless with a pale tongue.",
+      "B": "Warming methods are for Cold diarrhea (watery, odorless, with a pale tongue and white coating); they would intensify the Heat here.",
+      "C": "Astringing an excess Damp-Heat diarrhea 'closes the door on the thief' and traps the pathogen; astringents are reserved for chronic deficiency diarrhea."
+    },
+    "learningObjective": "Prioritize clearing acute Damp-Heat diarrhea over tonifying a chronic Spleen deficiency root.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "branch-first",
+      "large-intestine-damp-heat",
+      "spleen-qi-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "large-intestine-damp-heat",
+        "spleen-qi-deficiency"
+      ],
+      "key": "Foul explosive stools with a burning anus and yellow greasy coating mark acute Damp-Heat; deficiency diarrhea is chronic, odorless, and accompanied by a pale tongue."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Practice of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Diarrhoea"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Principles of Treatment"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III2-0013",
+    "domain": "III",
+    "subdomain": "III-2",
+    "task": "III-2",
+    "stem": "A 58-year-old man has had mild chronic dizziness, tinnitus, lower back soreness, and a dry mouth at night for several years. Today he presents with a sudden, severe throbbing temporal headache, a red face, irritability, and blurred vision. The tongue is red with a thin coating. The pulse is wiry and rapid, and thin in the proximal (chi) positions. Which of the following should be addressed first?",
+    "options": {
+      "A": "subdue Liver Yang and relieve the headache",
+      "B": "nourish Kidney Yin over a long course",
+      "C": "tonify Kidney Yang and warm the lower back",
+      "D": "clear Liver Fire and drain downward"
+    },
+    "correct": "A",
+    "explanation": "The root is Kidney and Liver Yin deficiency (chronic dizziness, tinnitus, back soreness, dry mouth at night, thin proximal pulse), and the branch is Liver Yang rising (sudden throbbing headache, red face, irritability, blurred vision, wiry pulse). Acute severe pain is a classical urgency, so the rising Yang is subdued first; nourishing Yin becomes the main method once the acute episode settles.",
+    "distractorExplanations": {
+      "B": "Nourishing Yin is the correct root treatment but the wrong priority during an acute, severe headache; the branch is treated first.",
+      "C": "Kidney Yang deficiency presents with cold signs, a pale tongue, and a deep weak pulse; this patient has a red tongue, dry mouth, and a rapid pulse.",
+      "D": "Liver Fire would add a bitter taste, red eyes, constipation, dark urine, and a yellow coating; the thin coating and chronic Yin-deficient background indicate Yang rising from deficiency rather than Full Fire."
+    },
+    "learningObjective": "Prioritize subduing acute Liver Yang rising before nourishing the deficient Yin root.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "branch-first",
+      "liver-yang-rising",
+      "kidney-yin-deficiency",
+      "root-and-branch"
+    ],
+    "distinction": {
+      "between": [
+        "liver-yang-rising",
+        "liver-fire-blazing"
+      ],
+      "key": "A thin coating with a chronic Yin-deficient background indicates Yang rising from deficiency; Liver Fire shows a yellow coating, bitter taste, and constipation."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Practice of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Headaches"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Principles of Treatment"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III2-0014",
+    "domain": "III",
+    "subdomain": "III-2",
+    "task": "III-2",
+    "stem": "An 81-year-old woman has had a cough with scanty sputum lingering for six weeks after a cold, with a low-grade fever that comes and goes, marked fatigue, no appetite, spontaneous sweating, and weight loss. The tongue is pale with a thin white coating. The pulse is weak. Which of the following is the most appropriate treatment priority?",
+    "options": {
+      "A": "disperse the lingering pathogen with strong dispelling methods",
+      "B": "release the exterior with sweating methods",
+      "C": "support the upright Qi in order to expel the pathogen",
+      "D": "clear Lung Heat and resolve Phlegm-Heat"
+    },
+    "correct": "C",
+    "explanation": "A pathogen lingers because the upright Qi is too weak to expel it: marked fatigue, no appetite, spontaneous sweating, weight loss, a pale tongue, and a weak pulse show that deficiency dominates. When deficiency is the dominant aspect, the principle is to support the upright Qi so that it can expel the pathogen (Fu Zheng Qu Xie); strong dispelling alone would further injure a patient who is already depleted.",
+    "distractorExplanations": {
+      "A": "Strong dispelling in a markedly deficient patient damages the upright Qi further and cannot succeed when the body lacks the strength to expel the pathogen.",
+      "B": "The exterior stage has passed (six weeks, no chills, no floating pulse); sweating methods would further deplete Qi and Fluids.",
+      "D": "Phlegm-Heat would present with yellow sticky sputum, a red tongue with a yellow greasy coating, and a slippery rapid pulse; here the tongue is pale and the pulse weak."
+    },
+    "learningObjective": "Apply the 'support the upright to expel the pathogen' principle when deficiency dominates in a lingering pathogen.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "support-upright-expel-pathogen",
+      "lingering-pathogen",
+      "qi-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "support-upright-expel-pathogen",
+        "dispel-pathogen-alone"
+      ],
+      "key": "When the patient is markedly deficient (weak pulse, pale tongue, exhaustion), the upright Qi is supported first; dispelling alone is reserved for a robust patient with an excess pathogen."
+    },
+    "references": [
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "General Introduction to Acupuncture Treatment: strengthening body resistance and eliminating pathogenic factors"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Principles of Treatment"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III2-0015",
+    "domain": "III",
+    "subdomain": "III-2",
+    "task": "III-2",
+    "stem": "A 24-year-old man in good general health overate at a banquet last night. This morning he has epigastric fullness, foul belching, nausea, and aversion to food. The tongue has a thick greasy coating. The pulse is slippery and full. Which of the following is the most appropriate treatment priority?",
+    "options": {
+      "A": "tonify Spleen Qi to improve transportation",
+      "B": "reduce the Retention of Food and harmonize the Stomach",
+      "C": "tonify Spleen Qi while reducing the Retention of Food",
+      "D": "warm the Middle Burner and dispel Cold"
+    },
+    "correct": "B",
+    "explanation": "This is an acute excess pattern, Retention of Food in the Stomach (fullness, foul belching, nausea, aversion to food, thick greasy coating, slippery full pulse), in a robust patient whose upright Qi is intact. When the pathogen is excess and the upright Qi is strong, the pathogen is dispelled alone; tonification is unnecessary and would aggravate the stagnation.",
+    "distractorExplanations": {
+      "A": "There are no deficiency findings (the pulse is full, the patient is robust); tonifying in an excess condition adds to the stagnation.",
+      "C": "Combining tonification with dispelling is reserved for patients with coexisting deficiency; this patient has none, and tonics would cloy the Stomach.",
+      "D": "Warming is for Cold in the Middle Burner (watery vomit, cold abdominal pain, white coating); foul belching and a thick greasy coating point to Food stagnation, not Cold."
+    },
+    "learningObjective": "Explain why an excess pathogen in a robust patient is dispelled without tonification.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": true,
+    "concepts": [
+      "dispel-pathogen-alone",
+      "retention-of-food",
+      "excess-pattern"
+    ],
+    "distinction": {
+      "between": [
+        "dispel-pathogen-alone",
+        "support-upright-expel-pathogen"
+      ],
+      "key": "A full pulse in a robust young patient indicates intact upright Qi, so the pathogen is dispelled alone."
+    },
+    "references": [
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "General Introduction to Acupuncture Treatment: strengthening body resistance and eliminating pathogenic factors"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Stomach patterns"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III2-0016",
+    "domain": "III",
+    "subdomain": "III-2",
+    "task": "III-2",
+    "stem": "A 34-year-old woman reports two years of scanty, pale periods, dizziness, dry skin, numbness of the hands, difficulty falling asleep, and a dull pale complexion. The tongue is pale and thin. The pulse is thin (thready). Which of the following treatment plans is most appropriate?",
+    "options": {
+      "A": "daily treatments for one week, ending when the dizziness improves",
+      "B": "treatments at each episode of dizziness, with no set course",
+      "C": "twice-daily treatments for three days to disperse the stagnation",
+      "D": "regular weekly treatments over several menstrual cycles, reassessing at each cycle"
+    },
+    "correct": "D",
+    "explanation": "This is Liver Blood deficiency (scanty pale periods, dizziness, dry skin, numbness, insomnia, pale thin tongue, thin pulse), a chronic deficiency pattern. Deficiency is built up slowly: a course of regular, moderately spaced tonifying treatments over months, with tongue, pulse, and the menses reviewed at each cycle, is the appropriate plan. The menstrual cycle gives a natural reassessment point for a Blood pattern.",
+    "distractorExplanations": {
+      "A": "Short intensive courses suit acute excess conditions; a chronic deficiency is not corrected in one week, and stopping when dizziness improves treats a branch and abandons the root.",
+      "B": "Treating only during episodes addresses the branch and leaves the chronic Blood deficiency untouched.",
+      "C": "Intensive dispersing is for stagnation; there is no stasis (no pain, no purple tongue, no choppy pulse), and dispersing would further deplete Blood."
+    },
+    "learningObjective": "Formulate a course length, frequency, and reassessment schedule appropriate for a chronic Blood deficiency pattern.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "treatment-course",
+      "reassessment",
+      "liver-blood-deficiency"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Liver patterns; Chapter on Principles of Treatment"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III2-0017",
+    "domain": "III",
+    "subdomain": "III-2",
+    "task": "III-2",
+    "stem": "A 27-year-old man reports one day of sore throat, fever greater than chills, slight sweating, headache, and thirst. The tongue has a red tip with a thin yellow coating. The pulse is floating and rapid. Which of the following treatment plans is most appropriate?",
+    "options": {
+      "A": "frequent treatments over the next few days, reassessing after each until the exterior is released",
+      "B": "weekly treatments over three months to strengthen the Wei Qi",
+      "C": "a long course to nourish Lung Yin, reassessing monthly",
+      "D": "treatments every two weeks to clear Heat, reassessing after six sessions"
+    },
+    "correct": "A",
+    "explanation": "This is an acute exterior invasion of Wind-Heat (sore throat, fever greater than chills, slight sweating, red tongue tip, thin yellow coating, floating rapid pulse). Acute exterior conditions change quickly, so the plan is short and intensive: frequent treatments over a few days, reassessing at each visit, and ending the course once the exterior is released.",
+    "distractorExplanations": {
+      "B": "Strengthening Wei Qi is a root strategy for recurrent invasions; it is not the plan for an active exterior pathogen, and a weekly schedule is too slow for an acute condition.",
+      "C": "Lung Yin deficiency is chronic and would show a dry cough and a red tongue with scanty coating; this patient has an acute exterior pattern with a coating present.",
+      "D": "Fortnightly spacing is far too infrequent for an acute condition that evolves over days; an exterior pathogen left unreleased can penetrate inward."
+    },
+    "learningObjective": "Formulate a treatment frequency and reassessment schedule appropriate for an acute exterior pattern.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "treatment-course",
+      "acute-vs-chronic",
+      "wind-heat"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Exterior patterns; Chapter on Principles of Treatment"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III2-0018",
+    "domain": "III",
+    "subdomain": "III-2",
+    "task": "III-2",
+    "stem": "A 47-year-old woman was treated daily for three days for flooding menstrual bleeding attributed to Spleen Qi failing to hold the Blood. The bleeding has stopped. She remains pale and tired, is short of breath on exertion, and has loose stools. The tongue is pale. The pulse is weak. Which of the following is the most appropriate treatment goal for the next phase?",
+    "options": {
+      "A": "continue stop-bleeding methods for two more weeks to prevent recurrence",
+      "B": "clear Heat from the Blood to prevent reckless movement of Blood",
+      "C": "tonify Spleen Qi so that it holds the Blood and prevents recurrence",
+      "D": "invigorate Blood to clear residual stasis from the Uterus"
+    },
+    "correct": "C",
+    "explanation": "The acute branch (bleeding) has been controlled, so the plan moves to the root. The remaining findings (pallor, fatigue, breathlessness, loose stools, pale tongue, weak pulse) are Spleen Qi deficiency, and tonifying Spleen Qi so that it holds the Blood is the goal that prevents recurrence. This is the standard two-phase sequence: branch first in the emergency, root once the emergency has passed.",
+    "distractorExplanations": {
+      "A": "Once the bleeding has stopped, continuing branch treatment leaves the root uncorrected; stop-bleeding methods do not restore the Spleen's holding function.",
+      "B": "Heat in the Blood causes bright red profuse bleeding with a red tongue and rapid pulse; this patient's pale tongue and weak pulse rule it out.",
+      "D": "There are no stasis findings (no clots, pain, or purple tongue); invigorating Blood in a Qi-deficient patient after heavy bleeding risks renewed bleeding."
+    },
+    "learningObjective": "Set the correct treatment goal after an acute branch has been controlled by shifting to the deficient root.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "evaluation",
+    "vignette": true,
+    "concepts": [
+      "root-first",
+      "reassessment",
+      "spleen-not-holding-blood",
+      "treatment-goals"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Principles of Treatment (Root and Manifestation)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III2-0019",
+    "domain": "III",
+    "subdomain": "III-2",
+    "task": "III-2",
+    "stem": "A 62-year-old woman reports a fine tremor of the hands, numbness and tingling of the limbs, and muscle twitching for the past year, with blurred vision, dizziness, brittle nails, and a dull pale complexion. The tongue is pale and thin. The pulse is thin (thready). Which of the following is the most appropriate treatment priority?",
+    "options": {
+      "A": "extinguish Wind and sedate the Liver",
+      "B": "nourish Liver Blood to extinguish Wind",
+      "C": "clear Liver Heat and extinguish Wind",
+      "D": "subdue Liver Yang and extinguish Wind"
+    },
+    "correct": "B",
+    "explanation": "The tremor, numbness, and twitching are internal Wind, but the surrounding findings (blurred vision, dizziness, brittle nails, pale complexion, pale thin tongue, thin pulse) show that the Wind is generated by Liver Blood deficiency failing to nourish the sinews. Here the branch (Wind) is mild and chronic and the root (Blood deficiency) is clear, so the priority is to nourish Blood; the Wind subsides as the sinews are nourished.",
+    "distractorExplanations": {
+      "A": "Sedating methods alone treat the branch and are suited to excess Wind (from Fire or Yang rising); in a deficient patient they further deplete and leave the cause untouched.",
+      "C": "Liver Heat generating Wind presents with high fever or a red tongue and a wiry rapid pulse; there are no Heat findings here.",
+      "D": "Liver Yang rising produces headache, red face, and a wiry pulse; the pale thin tongue and thin pulse point to deficiency rather than rising Yang."
+    },
+    "learningObjective": "Identify Blood deficiency as the root of mild internal Wind and prioritize nourishing Blood.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "root-first",
+      "liver-blood-deficiency",
+      "internal-wind",
+      "root-and-branch"
+    ],
+    "distinction": {
+      "between": [
+        "blood-deficiency-wind",
+        "liver-yang-rising-wind"
+      ],
+      "key": "A pale thin tongue with a thin pulse and dryness signs marks Wind from Blood deficiency; Wind from rising Yang or Fire shows a red tongue and a wiry pulse."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Liver patterns (Liver Wind)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III2-0020",
+    "domain": "III",
+    "subdomain": "III-2",
+    "task": "III-2",
+    "stem": "A 68-year-old man has been treated weekly for two months for Kidney Yin deficiency with Liver Yang rising; his headaches and dizziness have been improving. He arrives today with slurred speech, deviation of the mouth, and weakness of the right arm that began one hour ago. Which of the following is the most appropriate response?",
+    "options": {
+      "A": "continue the scheduled root treatment, because Yin deficiency underlies the new symptoms",
+      "B": "add subduing Liver Yang to the scheduled session and review at next week's visit",
+      "C": "treat the new symptoms as an exterior Wind attack and release the exterior",
+      "D": "arrange urgent medical care; the acute Wind-stroke now takes priority over the root plan"
+    },
+    "correct": "D",
+    "explanation": "Sudden slurred speech, facial deviation, and one-sided weakness in a patient with Yin deficiency and rising Yang indicate internal Wind-stroke, an acute and dangerous branch. The treatment priority shifts immediately from the chronic root to the acute branch, and because the presentation is an emergency, urgent medical care is arranged first. Once the acute stage is stabilized, the plan is rebuilt around the sequelae and the root.",
+    "distractorExplanations": {
+      "A": "Continuing root treatment during an acute, dangerous manifestation violates the branch-first rule and delays emergency care.",
+      "B": "Subduing Yang is part of the acute approach, but reviewing in a week ignores the urgency of a presentation that is evolving by the hour.",
+      "C": "Exterior Wind attack (such as facial paralysis after exposure to wind) lacks slurred speech and limb weakness; this is internal Wind arising from Yin deficiency with Yang rising."
+    },
+    "learningObjective": "Recognize when a red-flag presentation changes treatment priority from the chronic root to an acute branch requiring referral.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "evaluation",
+    "vignette": true,
+    "concepts": [
+      "branch-first",
+      "internal-wind",
+      "liver-yang-rising",
+      "referral"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Practice of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Wind-stroke"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Principles of Treatment"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III2-0021",
+    "domain": "III",
+    "subdomain": "III-2",
+    "task": "III-2",
+    "stem": "Under Root and Branch (Ben Biao) theory, treating the root and the branch at the same time is most appropriate in which of the following circumstances?",
+    "options": {
+      "A": "The root and the branch are both serious and pressing",
+      "B": "The branch is acute and threatens the patient's life",
+      "C": "The disease is chronic and the symptoms are mild",
+      "D": "The patient's upright Qi is strong and the pathogen is weak"
+    },
+    "correct": "A",
+    "explanation": "The three sequencing rules are: treat the root when the condition is chronic or mild; treat the branch first when it is acute or dangerous; treat both together when root and branch are both serious and pressing, or when treating one alone would be ineffective because the other keeps regenerating it.",
+    "distractorExplanations": {
+      "B": "A life-threatening branch calls for branch-first treatment, not simultaneous treatment; the root waits until the emergency is over.",
+      "C": "Chronic disease with mild symptoms calls for root treatment alone.",
+      "D": "Strong upright Qi with a weak pathogen calls for simply dispelling the pathogen; it says nothing about root and branch sequencing."
+    },
+    "learningObjective": "Identify the circumstance in which root and branch are treated simultaneously.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "simultaneous-root-branch",
+      "root-and-branch"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Principles of Treatment (Root and Manifestation)"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "General Introduction to Acupuncture Treatment: principles of treatment"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III2-0022",
+    "domain": "III",
+    "subdomain": "III-2",
+    "task": "III-2",
+    "stem": "A 40-year-old woman reports that during a stressful year she became irritable, sighs frequently, and has hypochondriac distension that worsens before her period. She had no digestive complaints before that year; over the past six months she has developed abdominal bloating and loose stools that flare whenever she is upset. The tongue is pale with a thin white coating. The pulse is wiry on the left and weak on the right. Which of the following is the root (Ben) of this presentation?",
+    "options": {
+      "A": "Spleen Qi deficiency",
+      "B": "Dampness obstructing the Middle Burner",
+      "C": "Liver Qi stagnation",
+      "D": "Retention of Food in the Stomach"
+    },
+    "correct": "C",
+    "explanation": "The Liver signs (irritability, sighing, premenstrual hypochondriac distension, left wiry pulse) appeared first with the stress, and the digestive symptoms (bloating, loose stools, weak right pulse) followed and flare with emotional upset: this is Liver Qi stagnation invading the Spleen. In the cause-versus-manifestation pair, the stagnant Liver Qi is the root and the resulting Spleen Qi deficiency is the branch, so soothing the Liver is primary while the Spleen is strengthened.",
+    "distractorExplanations": {
+      "A": "Spleen Qi deficiency is present but secondary: it developed after the Liver signs and worsens with emotion, showing it is a consequence of the Liver overacting on the Spleen.",
+      "B": "Dampness would show heaviness, a greasy coating, and a soggy or slippery pulse; the coating is thin and the pulse wiry and weak.",
+      "D": "Food Retention is acute, follows overeating, and shows a thick greasy coating with foul belching; none of these are present."
+    },
+    "learningObjective": "Identify the root pattern when Liver Qi stagnation has invaded the Spleen.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "root-and-branch",
+      "liver-qi-stagnation",
+      "liver-invading-spleen",
+      "spleen-qi-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "liver-qi-stagnation",
+        "spleen-qi-deficiency"
+      ],
+      "key": "The Liver signs came first and the digestive signs flare with emotion, so the Liver stagnation is the cause (root) and the Spleen weakness the consequence (branch)."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Combined patterns (Liver Qi invading the Spleen)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III2-0023",
+    "domain": "III",
+    "subdomain": "III-2",
+    "task": "III-2",
+    "stem": "A 52-year-old woman reports two years of mild night sweats, evening flushes, a dry mouth at night, lower back soreness, and faint tinnitus. The tongue is red with a scanty coating. The pulse is thin (thready) and slightly rapid. Which of the following is the most appropriate treatment priority?",
+    "options": {
+      "A": "clear Full Heat and drain Fire downward from the Liver",
+      "B": "nourish Kidney Yin as the main method, with clearing Empty Heat as secondary",
+      "C": "clear Empty Heat as the main method, with nourishing Yin as secondary",
+      "D": "warm and tonify Kidney Yang to stop the sweating and warm the back"
+    },
+    "correct": "B",
+    "explanation": "This is Kidney Yin deficiency with Empty Heat (night sweats, evening flushes, dry mouth at night, back soreness, tinnitus, red tongue with scanty coating, thin rapid pulse). The Yin deficiency is the root and the Empty Heat is the branch; the condition is chronic and mild, so nourishing Yin is the main method and clearing Empty Heat is secondary. Empty Heat subsides as Yin is restored.",
+    "distractorExplanations": {
+      "A": "Full Heat would show a yellow coating, a full rapid pulse, and intense thirst; the scanty coating and thin pulse indicate deficiency Heat, and bitter-cold draining would injure Yin.",
+      "C": "Making Empty Heat the main target reverses the priority: in a chronic, mild case the root (Yin) is treated and the branch (Heat) resolves with it.",
+      "D": "Kidney Yang deficiency presents with cold limbs, a pale tongue, and a deep weak pulse; warming would aggravate the Heat signs here."
+    },
+    "learningObjective": "Prioritize nourishing Yin over clearing Empty Heat in a chronic, mild Kidney Yin deficiency.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "root-first",
+      "kidney-yin-deficiency",
+      "empty-heat"
+    ],
+    "distinction": {
+      "between": [
+        "empty-heat",
+        "full-heat"
+      ],
+      "key": "A red tongue with scanty coating and a thin rapid pulse mark Empty Heat from Yin deficiency, treated primarily by nourishing Yin."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Kidney patterns; Chapter on Principles of Treatment"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III2-0024",
+    "domain": "III",
+    "subdomain": "III-2",
+    "task": "III-2",
+    "stem": "A 31-year-old woman presents on the first day of her period with severe, stabbing lower abdominal pain and dark menstrual blood with clots; the pain eases after clots pass. Between periods she is tired and pale with a poor appetite. The tongue is pale with purple spots on the sides. The pulse is choppy during menstruation and weak between periods. Which of the following should be addressed first?",
+    "options": {
+      "A": "tonify Qi and nourish Blood",
+      "B": "warm the Uterus and dispel Cold",
+      "C": "strengthen the Spleen and raise Qi",
+      "D": "invigorate Blood and relieve the pain"
+    },
+    "correct": "D",
+    "explanation": "The acute presentation is Blood stasis in the Uterus (severe stabbing pain, dark clotted blood, relief after clots pass, purple spots, choppy pulse) on a root of Qi and Blood deficiency (fatigue, pallor, poor appetite, weak pulse between periods). Acute severe pain is a classical urgency, so during menstruation the branch is treated by invigorating Blood and relieving pain; Qi and Blood are tonified between periods.",
+    "distractorExplanations": {
+      "A": "Tonifying is the correct root approach between periods, but during acute stasis pain it would consolidate the stasis and leave the pain unrelieved.",
+      "B": "Cold in the Uterus produces pain relieved by warmth with a white coating and a tight or deep pulse; there are no Cold findings here.",
+      "C": "Raising Qi is for sinking Spleen Qi (prolapse, bearing-down sensation); it has no role in acute stasis pain."
+    },
+    "learningObjective": "Prioritize relief of acute Blood stasis pain before tonifying the underlying Qi and Blood deficiency.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "branch-first",
+      "blood-stasis",
+      "qi-and-blood-deficiency",
+      "root-and-branch"
+    ],
+    "distinction": {
+      "between": [
+        "blood-stasis",
+        "blood-deficiency"
+      ],
+      "key": "Stabbing fixed pain with clots and a choppy pulse is stasis and is treated first during the acute phase; the deficiency root is tonified between periods."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Principles of Treatment (Root and Manifestation)"
+      },
+      {
+        "source": "Maclean & Lyttleton, Clinical Handbook of Internal Medicine, 2nd ed."
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III2-0025",
+    "domain": "III",
+    "subdomain": "III-2",
+    "task": "III-2",
+    "stem": "A 60-year-old man with a chronic dry cough has been diagnosed with Lung Yin deficiency: dry throat, sticky scanty sputum, afternoon heat sensation, a red tongue with a scanty dry coating, and a thin rapid pulse. He is six weeks into a course of nourishing Lung Yin. Which of the following findings best indicates that the root is being restored?",
+    "options": {
+      "A": "fewer coughing episodes during the day",
+      "B": "the tongue regaining moisture and a thin coating beginning to return",
+      "C": "the throat feeling less irritated for a day after each session",
+      "D": "sputum, when present, being easier to expectorate"
+    },
+    "correct": "B",
+    "explanation": "The tongue is the most direct marker of Yin and Fluids: a scanty dry coating reflects Yin deficiency, and the return of moisture and a thin coating shows that the Yin root is being replenished. Symptom relief alone can come from treating the branch, so the reassessment point for a root treatment should be a sign that reflects the root itself.",
+    "distractorExplanations": {
+      "A": "Reduced cough is a branch improvement; it can occur from symptomatic relief while the Yin is still deficient.",
+      "C": "Transient relief of throat irritation after a session reflects a short-term branch effect, not restoration of Yin.",
+      "D": "Easier expectoration relates to Phlegm management; in Lung Yin deficiency sputum is minimal and this finding does not track the root."
+    },
+    "learningObjective": "Select the reassessment finding that reflects restoration of the root in a Yin deficiency pattern.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "evaluation",
+    "vignette": true,
+    "concepts": [
+      "reassessment",
+      "lung-yin-deficiency",
+      "tongue-coating",
+      "treatment-goals"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Tongue coating"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Lung patterns"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III2-0026",
+    "domain": "III",
+    "subdomain": "III-2",
+    "task": "III-2",
+    "stem": "A 70-year-old man has had watery diarrhea ten times a day for three days with undigested food in the stool. He has a cold abdomen, cold limbs, profuse cold sweat, a faint voice, and exhaustion. The tongue is pale and wet. The pulse is deep and minute (faint). Which of the following treatment plans is most appropriate?",
+    "options": {
+      "A": "clear Damp-Heat and stop the diarrhea, then warm Yang",
+      "B": "tonify Spleen Qi gently over a long course",
+      "C": "warm and rescue Yang while astringing to stop the diarrhea",
+      "D": "astringe the Intestines first, then warm Yang once the stools are formed"
+    },
+    "correct": "C",
+    "explanation": "Severe watery diarrhea with undigested food, cold limbs, cold sweat, a pale wet tongue, and a minute pulse indicates Spleen and Kidney Yang deficiency approaching collapse of Yang. Here the root (Yang collapse) and the branch (severe diarrhea) are both pressing and each worsens the other: the diarrhea drains Yang and the failing Yang cannot hold the stools. Root and branch are treated together, warming and rescuing Yang while astringing the diarrhea, with urgent medical support given the risk of collapse.",
+    "distractorExplanations": {
+      "A": "Damp-Heat diarrhea is foul, burning, and accompanied by a red tongue with a yellow greasy coating; cold methods here would deepen the Yang collapse.",
+      "B": "A slow gentle course is appropriate for chronic mild Spleen deficiency; this patient is in an acute, dangerous state that requires immediate warming.",
+      "D": "Astringing alone without warming leaves the Yang collapsing; because the Yang deficiency is itself producing the diarrhea, the root cannot wait."
+    },
+    "learningObjective": "Recognize when root and branch are both pressing and must be treated simultaneously in Yang collapse with severe diarrhea.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "simultaneous-root-branch",
+      "spleen-yang-deficiency",
+      "kidney-yang-deficiency",
+      "collapse-of-yang"
+    ],
+    "distinction": {
+      "between": [
+        "simultaneous-root-branch",
+        "branch-first"
+      ],
+      "key": "When the deficient root is itself producing the dangerous branch and both are pressing, they are treated together rather than in sequence."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Principles of Treatment (Root and Manifestation)"
+      },
+      {
+        "source": "Maciocia, The Practice of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Diarrhoea"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  }
+]

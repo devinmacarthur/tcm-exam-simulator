@@ -22,11 +22,77 @@
     "difficulty": "foundational",
     "cognitiveLevel": "recall",
     "vignette": false,
-    "concepts": ["seasonal-regimen", "autumn-gathering", "nei-jing"],
+    "concepts": [
+      "seasonal-regimen",
+      "autumn-gathering",
+      "nei-jing"
+    ],
     "references": [
-      { "source": "Huang Di Nei Jing Su Wen", "locator": "Chapter 2, Si Qi Tiao Shen Da Lun (regulating the spirit according to the four seasons)" },
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on the causes of disease (climate and seasonal living)" }
-    ]
+      {
+        "source": "Huang Di Nei Jing Su Wen",
+        "locator": "Chapter 2, Si Qi Tiao Shen Da Lun (regulating the spirit according to the four seasons)"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on the causes of disease (climate and seasonal living)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III5-0002",
@@ -51,11 +117,77 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "application",
     "vignette": true,
-    "concepts": ["kidney-yang-deficiency", "seasonal-regimen", "winter-storing"],
+    "concepts": [
+      "kidney-yang-deficiency",
+      "seasonal-regimen",
+      "winter-storing"
+    ],
     "references": [
-      { "source": "Huang Di Nei Jing Su Wen", "locator": "Chapter 2, Si Qi Tiao Shen Da Lun (winter regimen)" },
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on Kidney patterns (Kidney Yang deficiency)" }
-    ]
+      {
+        "source": "Huang Di Nei Jing Su Wen",
+        "locator": "Chapter 2, Si Qi Tiao Shen Da Lun (winter regimen)"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Kidney patterns (Kidney Yang deficiency)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III5-0003",
@@ -80,10 +212,74 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "application",
     "vignette": true,
-    "concepts": ["liver-qi-stagnation", "tai-ji", "qi-gong", "wiry-pulse"],
+    "concepts": [
+      "liver-qi-stagnation",
+      "tai-ji",
+      "qi-gong",
+      "wiry-pulse"
+    ],
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on Liver patterns (Liver Qi stagnation); chapter on the causes of disease (lack of exercise)" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Liver patterns (Liver Qi stagnation); chapter on the causes of disease (lack of exercise)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III5-0004",
@@ -108,11 +304,81 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["kidney-yin-deficiency", "empty-heat", "sweating-and-yin", "gentle-exercise"],
-    "distinction": { "between": ["kidney-yin-deficiency", "full-heat"], "key": "Empty Heat from Yin deficiency is worsened by sweating that loses Fluids, whereas Full Heat in the exterior may be released through sweating." },
+    "concepts": [
+      "kidney-yin-deficiency",
+      "empty-heat",
+      "sweating-and-yin",
+      "gentle-exercise"
+    ],
+    "distinction": {
+      "between": [
+        "kidney-yin-deficiency",
+        "full-heat"
+      ],
+      "key": "Empty Heat from Yin deficiency is worsened by sweating that loses Fluids, whereas Full Heat in the exterior may be released through sweating."
+    },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on Kidney patterns (Kidney Yin deficiency); chapter on the causes of disease (overwork, excessive physical exercise)" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Kidney patterns (Kidney Yin deficiency); chapter on the causes of disease (overwork, excessive physical exercise)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III5-0005",
@@ -137,10 +403,74 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "application",
     "vignette": true,
-    "concepts": ["spleen-qi-deficiency", "overwork", "pensiveness", "irregular-eating"],
+    "concepts": [
+      "spleen-qi-deficiency",
+      "overwork",
+      "pensiveness",
+      "irregular-eating"
+    ],
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on the causes of disease (overwork, pensiveness, diet); chapter on Spleen patterns" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on the causes of disease (overwork, pensiveness, diet); chapter on Spleen patterns"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III5-0006",
@@ -165,10 +495,73 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "application",
     "vignette": true,
-    "concepts": ["kidney-essence-deficiency", "excessive-sexual-activity", "overwork"],
+    "concepts": [
+      "kidney-essence-deficiency",
+      "excessive-sexual-activity",
+      "overwork"
+    ],
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on the causes of disease (excessive sexual activity, overwork); chapter on the Kidneys (Essence)" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on the causes of disease (excessive sexual activity, overwork); chapter on the Kidneys (Essence)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III5-0007",
@@ -193,10 +586,74 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "application",
     "vignette": true,
-    "concepts": ["lung-qi-deficiency", "breathing-exercises", "wei-qi", "wind-protection"],
+    "concepts": [
+      "lung-qi-deficiency",
+      "breathing-exercises",
+      "wei-qi",
+      "wind-protection"
+    ],
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on Lung patterns (Lung Qi deficiency); chapter on the functions of the Lungs (Defensive Qi)" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Lung patterns (Lung Qi deficiency); chapter on the functions of the Lungs (Defensive Qi)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III5-0008",
@@ -221,11 +678,77 @@
     "difficulty": "foundational",
     "cognitiveLevel": "comprehension",
     "vignette": true,
-    "concepts": ["wind-cold-damp-bi", "external-etiology", "cold-damp"],
+    "concepts": [
+      "wind-cold-damp-bi",
+      "external-etiology",
+      "cold-damp"
+    ],
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on the causes of disease (Cold, Dampness as exterior pathogenic factors)" },
-      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Bi syndromes (Painful Bi, Fixed Bi)" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on the causes of disease (Cold, Dampness as exterior pathogenic factors)"
+      },
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Bi syndromes (Painful Bi, Fixed Bi)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III5-0009",
@@ -250,11 +773,77 @@
     "difficulty": "foundational",
     "cognitiveLevel": "comprehension",
     "vignette": true,
-    "concepts": ["organ-clock", "liver-blood-deficiency", "sleep-timing"],
+    "concepts": [
+      "organ-clock",
+      "liver-blood-deficiency",
+      "sleep-timing"
+    ],
     "references": [
-      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Circulation of Qi and Blood through the twelve regular channels (horary cycle)" },
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on the functions of the Liver (storing Blood)" }
-    ]
+      {
+        "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Circulation of Qi and Blood through the twelve regular channels (horary cycle)"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on the functions of the Liver (storing Blood)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III5-0010",
@@ -279,12 +868,85 @@
     "difficulty": "advanced",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["five-element-emotions", "lung-qi-deficiency", "grief", "controlling-cycle"],
-    "distinction": { "between": ["controlling-cycle", "generating-cycle"], "key": "The emotional counteractions of Su Wen Chapter 5 follow the controlling sequence (joy overcomes sadness, sadness overcomes anger, anger overcomes pensiveness, pensiveness overcomes fear, fear overcomes joy), not the generating sequence." },
+    "concepts": [
+      "five-element-emotions",
+      "lung-qi-deficiency",
+      "grief",
+      "controlling-cycle"
+    ],
+    "distinction": {
+      "between": [
+        "controlling-cycle",
+        "generating-cycle"
+      ],
+      "key": "The emotional counteractions of Su Wen Chapter 5 follow the controlling sequence (joy overcomes sadness, sadness overcomes anger, anger overcomes pensiveness, pensiveness overcomes fear, fear overcomes joy), not the generating sequence."
+    },
     "references": [
-      { "source": "Huang Di Nei Jing Su Wen", "locator": "Chapter 5, Yin Yang Ying Xiang Da Lun (emotions injuring and counteracting one another)" },
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on the Five Elements (Five Elements and the emotions)" }
-    ]
+      {
+        "source": "Huang Di Nei Jing Su Wen",
+        "locator": "Chapter 5, Yin Yang Ying Xiang Da Lun (emotions injuring and counteracting one another)"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on the Five Elements (Five Elements and the emotions)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III5-0011",
@@ -309,11 +971,81 @@
     "difficulty": "advanced",
     "cognitiveLevel": "evaluation",
     "vignette": true,
-    "concepts": ["liver-yang-rising", "qi-gong", "sleep-timing", "lifestyle-factors"],
-    "distinction": { "between": ["liver-yang-rising", "liver-qi-stagnation"], "key": "Liver Qi stagnation calls for movement to free Qi, whereas Liver Yang rising calls for calming, descending practice and Yin-conserving rest; vigorous exertion aggravates the latter." },
+    "concepts": [
+      "liver-yang-rising",
+      "qi-gong",
+      "sleep-timing",
+      "lifestyle-factors"
+    ],
+    "distinction": {
+      "between": [
+        "liver-yang-rising",
+        "liver-qi-stagnation"
+      ],
+      "key": "Liver Qi stagnation calls for movement to free Qi, whereas Liver Yang rising calls for calming, descending practice and Yin-conserving rest; vigorous exertion aggravates the latter."
+    },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on Liver patterns (Liver Yang rising); chapter on the causes of disease (overwork, emotional stress)" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Liver patterns (Liver Yang rising); chapter on the causes of disease (overwork, emotional stress)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III5-0012",
@@ -338,11 +1070,81 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "application",
     "vignette": true,
-    "concepts": ["phlegm-damp", "lack-of-exercise", "slippery-pulse", "greasy-white-coating"],
-    "distinction": { "between": ["phlegm-damp", "spleen-qi-deficiency"], "key": "The swollen tongue with greasy coating and slippery pulse mark an excess Damp accumulation that needs movement, whereas a pale teeth-marked tongue with weak pulse would mark a deficiency that needs limited exertion." },
+    "concepts": [
+      "phlegm-damp",
+      "lack-of-exercise",
+      "slippery-pulse",
+      "greasy-white-coating"
+    ],
+    "distinction": {
+      "between": [
+        "phlegm-damp",
+        "spleen-qi-deficiency"
+      ],
+      "key": "The swollen tongue with greasy coating and slippery pulse mark an excess Damp accumulation that needs movement, whereas a pale teeth-marked tongue with weak pulse would mark a deficiency that needs limited exertion."
+    },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on the causes of disease (lack of exercise); chapter on Phlegm and Dampness" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on the causes of disease (lack of exercise); chapter on Phlegm and Dampness"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III6-0001",
@@ -367,11 +1169,77 @@
     "difficulty": "foundational",
     "cognitiveLevel": "recall",
     "vignette": false,
-    "concepts": ["five-tastes", "sour-taste", "liver"],
+    "concepts": [
+      "five-tastes",
+      "sour-taste",
+      "liver"
+    ],
     "references": [
-      { "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.", "locator": "The five flavors and their actions" },
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on the Five Elements (five tastes); chapter on the causes of disease (diet)" }
-    ]
+      {
+        "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.",
+        "locator": "The five flavors and their actions"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on the Five Elements (five tastes); chapter on the causes of disease (diet)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III6-0002",
@@ -396,11 +1264,77 @@
     "difficulty": "foundational",
     "cognitiveLevel": "recall",
     "vignette": false,
-    "concepts": ["thermal-nature", "cold-foods", "watermelon"],
+    "concepts": [
+      "thermal-nature",
+      "cold-foods",
+      "watermelon"
+    ],
     "references": [
-      { "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.", "locator": "Thermal nature of foods; food tables" },
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on the causes of disease (diet: nature of foods)" }
-    ]
+      {
+        "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.",
+        "locator": "Thermal nature of foods; food tables"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on the causes of disease (diet: nature of foods)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III6-0003",
@@ -425,10 +1359,72 @@
     "difficulty": "foundational",
     "cognitiveLevel": "comprehension",
     "vignette": false,
-    "concepts": ["cooking-methods", "thermal-nature"],
+    "concepts": [
+      "cooking-methods",
+      "thermal-nature"
+    ],
     "references": [
-      { "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.", "locator": "Methods of preparation and their effect on thermal nature" }
-    ]
+      {
+        "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.",
+        "locator": "Methods of preparation and their effect on thermal nature"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III6-0004",
@@ -453,11 +1449,78 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "application",
     "vignette": true,
-    "concepts": ["spleen-qi-deficiency", "warm-cooked-food", "raw-cold-food", "teeth-marked-tongue"],
+    "concepts": [
+      "spleen-qi-deficiency",
+      "warm-cooked-food",
+      "raw-cold-food",
+      "teeth-marked-tongue"
+    ],
     "references": [
-      { "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.", "locator": "Dietary therapy for Spleen Qi deficiency" },
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on the causes of disease (diet: cold and raw foods); chapter on Spleen patterns" }
-    ]
+      {
+        "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.",
+        "locator": "Dietary therapy for Spleen Qi deficiency"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on the causes of disease (diet: cold and raw foods); chapter on Spleen patterns"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III6-0005",
@@ -482,11 +1545,78 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "application",
     "vignette": true,
-    "concepts": ["yin-deficiency", "empty-heat", "moistening-foods", "peeled-coating"],
+    "concepts": [
+      "yin-deficiency",
+      "empty-heat",
+      "moistening-foods",
+      "peeled-coating"
+    ],
     "references": [
-      { "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.", "locator": "Dietary therapy for Yin deficiency; food tables (pear, sesame, goji)" },
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on the causes of disease (diet: hot and pungent foods, alcohol)" }
-    ]
+      {
+        "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.",
+        "locator": "Dietary therapy for Yin deficiency; food tables (pear, sesame, goji)"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on the causes of disease (diet: hot and pungent foods, alcohol)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III6-0006",
@@ -511,11 +1641,78 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "application",
     "vignette": true,
-    "concepts": ["phlegm-damp", "bland-diuretic-foods", "dairy", "greasy-white-coating"],
+    "concepts": [
+      "phlegm-damp",
+      "bland-diuretic-foods",
+      "dairy",
+      "greasy-white-coating"
+    ],
     "references": [
-      { "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.", "locator": "Dietary therapy for Dampness and Phlegm; food tables (barley, Job's tears)" },
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on the causes of disease (diet: greasy and sweet foods, dairy)" }
-    ]
+      {
+        "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.",
+        "locator": "Dietary therapy for Dampness and Phlegm; food tables (barley, Job's tears)"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on the causes of disease (diet: greasy and sweet foods, dairy)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III6-0007",
@@ -540,11 +1737,78 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "application",
     "vignette": true,
-    "concepts": ["blood-deficiency", "blood-nourishing-foods", "thin-pulse", "pale-tongue"],
+    "concepts": [
+      "blood-deficiency",
+      "blood-nourishing-foods",
+      "thin-pulse",
+      "pale-tongue"
+    ],
     "references": [
-      { "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.", "locator": "Dietary therapy for Blood deficiency; food tables (jujube, goji, black sesame)" },
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on Qi, Blood, and Body Fluids (Blood deficiency)" }
-    ]
+      {
+        "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.",
+        "locator": "Dietary therapy for Blood deficiency; food tables (jujube, goji, black sesame)"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Qi, Blood, and Body Fluids (Blood deficiency)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III6-0008",
@@ -569,11 +1833,78 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "application",
     "vignette": true,
-    "concepts": ["kidney-yang-deficiency", "spleen-yang-deficiency", "warming-foods", "deep-slow-pulse"],
+    "concepts": [
+      "kidney-yang-deficiency",
+      "spleen-yang-deficiency",
+      "warming-foods",
+      "deep-slow-pulse"
+    ],
     "references": [
-      { "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.", "locator": "Dietary therapy for Yang deficiency; food tables (lamb, walnut, cinnamon)" },
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on Kidney patterns (Kidney Yang deficiency)" }
-    ]
+      {
+        "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.",
+        "locator": "Dietary therapy for Yang deficiency; food tables (lamb, walnut, cinnamon)"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Kidney patterns (Kidney Yang deficiency)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III6-0009",
@@ -598,11 +1929,78 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "application",
     "vignette": true,
-    "concepts": ["stomach-heat", "cooling-foods", "dry-yellow-coating", "full-heat"],
+    "concepts": [
+      "stomach-heat",
+      "cooling-foods",
+      "dry-yellow-coating",
+      "full-heat"
+    ],
     "references": [
-      { "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.", "locator": "Dietary therapy for Heat patterns; food tables (mung bean, cucumber, bitter melon)" },
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on Stomach patterns (Stomach Fire)" }
-    ]
+      {
+        "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.",
+        "locator": "Dietary therapy for Heat patterns; food tables (mung bean, cucumber, bitter melon)"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Stomach patterns (Stomach Fire)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III6-0010",
@@ -627,12 +2025,85 @@
     "difficulty": "advanced",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["liver-qi-stagnation", "liver-invading-spleen", "pungent-taste", "sour-taste"],
-    "distinction": { "between": ["liver-invading-spleen", "liver-fire-blazing"], "key": "A pale tongue body with only slightly red sides and a weak right pulse indicate stagnation on a deficient Spleen, calling for warm, Qi-moving food, whereas Liver Fire would show a red tongue with yellow coating and a wiry rapid pulse, calling for cooling food." },
+    "concepts": [
+      "liver-qi-stagnation",
+      "liver-invading-spleen",
+      "pungent-taste",
+      "sour-taste"
+    ],
+    "distinction": {
+      "between": [
+        "liver-invading-spleen",
+        "liver-fire-blazing"
+      ],
+      "key": "A pale tongue body with only slightly red sides and a weak right pulse indicate stagnation on a deficient Spleen, calling for warm, Qi-moving food, whereas Liver Fire would show a red tongue with yellow coating and a wiry rapid pulse, calling for cooling food."
+    },
     "references": [
-      { "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.", "locator": "Dietary therapy for Liver Qi stagnation; the five flavors (pungent and sour)" },
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on Liver patterns (Liver Qi stagnation, Liver invading the Spleen)" }
-    ]
+      {
+        "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.",
+        "locator": "Dietary therapy for Liver Qi stagnation; the five flavors (pungent and sour)"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Liver patterns (Liver Qi stagnation, Liver invading the Spleen)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III6-0011",
@@ -657,12 +2128,85 @@
     "difficulty": "advanced",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["stomach-yin-deficiency", "spleen-qi-deficiency", "peeled-coating", "moistening-foods"],
-    "distinction": { "between": ["stomach-yin-deficiency", "spleen-qi-deficiency"], "key": "A red tongue with a peeled central coating and a thin rapid pulse mark Stomach Yin deficiency (moisten), whereas a pale teeth-marked tongue with a weak pulse marks Spleen Qi deficiency (warm and strengthen)." },
+    "concepts": [
+      "stomach-yin-deficiency",
+      "spleen-qi-deficiency",
+      "peeled-coating",
+      "moistening-foods"
+    ],
+    "distinction": {
+      "between": [
+        "stomach-yin-deficiency",
+        "spleen-qi-deficiency"
+      ],
+      "key": "A red tongue with a peeled central coating and a thin rapid pulse mark Stomach Yin deficiency (moisten), whereas a pale teeth-marked tongue with a weak pulse marks Spleen Qi deficiency (warm and strengthen)."
+    },
     "references": [
-      { "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.", "locator": "Dietary therapy for Yin deficiency; preparation methods (congee)" },
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on Stomach patterns (Stomach Yin deficiency)" }
-    ]
+      {
+        "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.",
+        "locator": "Dietary therapy for Yin deficiency; preparation methods (congee)"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Stomach patterns (Stomach Yin deficiency)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III6-0012",
@@ -687,12 +2231,85 @@
     "difficulty": "advanced",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["damp-heat-in-the-spleen", "cold-damp-invading-the-spleen", "greasy-yellow-coating", "bland-diuretic-foods"],
-    "distinction": { "between": ["damp-heat-in-the-spleen", "cold-damp-invading-the-spleen"], "key": "A yellow greasy coating with bitter taste, burning stools, and a rapid pulse mark Damp-Heat (cool draining foods), whereas a white greasy coating with a slow pulse and no Heat signs marks Cold-Damp (warm aromatic foods)." },
+    "concepts": [
+      "damp-heat-in-the-spleen",
+      "cold-damp-invading-the-spleen",
+      "greasy-yellow-coating",
+      "bland-diuretic-foods"
+    ],
+    "distinction": {
+      "between": [
+        "damp-heat-in-the-spleen",
+        "cold-damp-invading-the-spleen"
+      ],
+      "key": "A yellow greasy coating with bitter taste, burning stools, and a rapid pulse mark Damp-Heat (cool draining foods), whereas a white greasy coating with a slow pulse and no Heat signs marks Cold-Damp (warm aromatic foods)."
+    },
     "references": [
-      { "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.", "locator": "Dietary therapy for Damp-Heat; food tables (Job's tears, mung bean, cucumber)" },
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on Spleen patterns (Damp-Heat in the Spleen, Cold-Damp invading the Spleen)" }
-    ]
+      {
+        "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.",
+        "locator": "Dietary therapy for Damp-Heat; food tables (Job's tears, mung bean, cucumber)"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Spleen patterns (Damp-Heat in the Spleen, Cold-Damp invading the Spleen)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III6-0013",
@@ -717,11 +2334,77 @@
     "difficulty": "foundational",
     "cognitiveLevel": "recall",
     "vignette": false,
-    "concepts": ["eating-habits", "regular-meals", "spleen-and-stomach"],
+    "concepts": [
+      "eating-habits",
+      "regular-meals",
+      "spleen-and-stomach"
+    ],
     "references": [
-      { "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.", "locator": "General dietary guidelines (regular meals, chewing, drinking with meals)" },
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on the causes of disease (diet: irregular eating, eating in a hurry, eating late)" }
-    ]
+      {
+        "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.",
+        "locator": "General dietary guidelines (regular meals, chewing, drinking with meals)"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on the causes of disease (diet: irregular eating, eating in a hurry, eating late)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III6-0014",
@@ -746,11 +2429,78 @@
     "difficulty": "foundational",
     "cognitiveLevel": "recall",
     "vignette": false,
-    "concepts": ["five-tastes", "sweet-taste", "dampness", "excess-of-taste"],
+    "concepts": [
+      "five-tastes",
+      "sweet-taste",
+      "dampness",
+      "excess-of-taste"
+    ],
     "references": [
-      { "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.", "locator": "The five flavors (sweet) and the effects of excess" },
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on the causes of disease (diet: excess of sweet foods and Dampness)" }
-    ]
+      {
+        "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.",
+        "locator": "The five flavors (sweet) and the effects of excess"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on the causes of disease (diet: excess of sweet foods and Dampness)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III6-0015",
@@ -775,11 +2525,78 @@
     "difficulty": "foundational",
     "cognitiveLevel": "comprehension",
     "vignette": true,
-    "concepts": ["wind-cold", "pungent-taste", "ginger", "scallion"],
+    "concepts": [
+      "wind-cold",
+      "pungent-taste",
+      "ginger",
+      "scallion"
+    ],
     "references": [
-      { "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.", "locator": "Food tables (fresh ginger, scallion); dietary therapy for exterior Cold" },
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on exterior patterns (Wind-Cold invading the Lung)" }
-    ]
+      {
+        "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.",
+        "locator": "Food tables (fresh ginger, scallion); dietary therapy for exterior Cold"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on exterior patterns (Wind-Cold invading the Lung)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III6-0016",
@@ -804,11 +2621,78 @@
     "difficulty": "foundational",
     "cognitiveLevel": "comprehension",
     "vignette": false,
-    "concepts": ["five-tastes", "pungent-taste", "lung-yin-deficiency", "excess-of-taste"],
+    "concepts": [
+      "five-tastes",
+      "pungent-taste",
+      "lung-yin-deficiency",
+      "excess-of-taste"
+    ],
     "references": [
-      { "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.", "locator": "The five flavors (pungent) and the effects of excess; dietary therapy for Yin deficiency" },
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on Lung patterns (Lung Yin deficiency)" }
-    ]
+      {
+        "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.",
+        "locator": "The five flavors (pungent) and the effects of excess; dietary therapy for Yin deficiency"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Lung patterns (Lung Yin deficiency)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   },
   {
     "id": "FOM-III6-0017",
@@ -833,11 +2717,84 @@
     "difficulty": "advanced",
     "cognitiveLevel": "evaluation",
     "vignette": true,
-    "concepts": ["blood-deficiency", "dryness-constipation", "moistening-foods", "raw-cold-food"],
-    "distinction": { "between": ["deficiency-constipation", "heat-constipation"], "key": "A pale dry tongue with a thin pulse marks constipation from deficient Blood and Fluids (moisten and nourish), whereas a red tongue with a dry yellow coating and a full rapid pulse marks Heat constipation (cool and purge)." },
+    "concepts": [
+      "blood-deficiency",
+      "dryness-constipation",
+      "moistening-foods",
+      "raw-cold-food"
+    ],
+    "distinction": {
+      "between": [
+        "deficiency-constipation",
+        "heat-constipation"
+      ],
+      "key": "A pale dry tongue with a thin pulse marks constipation from deficient Blood and Fluids (moisten and nourish), whereas a red tongue with a dry yellow coating and a full rapid pulse marks Heat constipation (cool and purge)."
+    },
     "references": [
-      { "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.", "locator": "Food tables (honey, black sesame, walnut); dietary therapy for dryness and Blood deficiency" },
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on the causes of disease (diet: cold and raw foods); chapter on Qi, Blood, and Body Fluids" }
-    ]
+      {
+        "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.",
+        "locator": "Food tables (honey, black sesame, walnut); dietary therapy for dryness and Blood deficiency"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on the causes of disease (diet: cold and raw foods); chapter on Qi, Blood, and Body Fluids"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
   }
 ]

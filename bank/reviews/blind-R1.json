@@ -1,0 +1,11 @@
+[
+  { "id": "FOM-IA-0024", "answer": "D", "confidence": "high", "concern": "" },
+  { "id": "FOM-IIe-0014", "answer": "A", "confidence": "high", "concern": "" },
+  { "id": "FOM-IIc-0002", "answer": "A", "confidence": "high", "concern": "" },
+  { "id": "FOM-IId-0015", "answer": "D", "confidence": "high", "concern": "" },
+  { "id": "FOM-IId-0017", "answer": "D", "confidence": "medium", "concern": "B (Dampness) is arguable: muzzy/heavy head, chest oppression, greasy coating, slippery pulse and a swollen tongue all occur in Dampness; only dizziness and finger numbness tip it to non-substantial Phlegm. Add a more Phlegm-specific sign or remove shared Damp features." },
+  { "id": "FOM-IIh-0002", "answer": "C", "confidence": "high", "concern": "" },
+  { "id": "FOM-III1-0061", "answer": "B", "confidence": "high", "concern": "" },
+  { "id": "FOM-III2-0010", "answer": "C", "confidence": "medium", "concern": "B (treat both with equal emphasis) is arguable, since simultaneous root-and-branch treatment is commonly taught for Damp-Heat with Yin deficiency, and a three-week course weakens the 'acute' framing that justifies branch-first." },
+  { "id": "FOM-III2-0022", "answer": "C", "confidence": "high", "concern": "" }
+]

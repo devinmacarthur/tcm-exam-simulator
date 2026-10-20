@@ -1,0 +1,1358 @@
+[
+  {
+    "id": "FOM-III3-0001",
+    "domain": "III",
+    "subdomain": "III-3",
+    "task": "III-3",
+    "stem": "A 35-year-old man was treated three days ago for Wind-Cold with chills, body aches, absence of sweating, and a floating tight pulse. He returns reporting that the chills and body aches are gone, but he now has a cough with white sputum and chest tightness. The tongue has a thin white, slightly greasy coating. The pulse is no longer floating and is slightly slippery. Which of the following modifications is most appropriate?",
+    "options": {
+      "A": "stop releasing the exterior; resolve Phlegm and descend Lung Qi",
+      "B": "continue releasing the exterior until the cough resolves",
+      "C": "switch to tonifying Lung Qi and consolidating the exterior",
+      "D": "switch to clearing Lung Heat and transforming Phlegm-Heat"
+    },
+    "correct": "A",
+    "explanation": "The exterior has been released (no chills or aches, pulse no longer floating), so exterior-releasing methods have done their work. What remains is residual Phlegm in the Lung (cough with white sputum, chest tightness, greasy coating, slippery pulse), and the plan is modified to resolve Phlegm and descend Lung Qi.",
+    "distractorExplanations": {
+      "B": "Releasing the exterior after the exterior pattern has resolved injures Qi and Fluids through unnecessary sweating and does nothing for interior Phlegm.",
+      "C": "Tonifying is for deficiency after the pathogen is fully cleared; here a residual pathogen (Phlegm) is still present, and the coating and pulse show excess rather than deficiency.",
+      "D": "Phlegm-Heat would show yellow sticky sputum, a yellow coating, and a rapid pulse; the sputum and coating are white, indicating Cold-Phlegm."
+    },
+    "learningObjective": "Modify the plan when an exterior pattern resolves but a residual interior Phlegm pattern persists.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "plan-modification",
+      "wind-cold",
+      "phlegm-in-lung",
+      "disease-progression"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Lung patterns; Chapter on Exterior patterns"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III3-0002",
+    "domain": "III",
+    "subdomain": "III-3",
+    "task": "III-3",
+    "stem": "A 44-year-old woman has been treated for four weeks for Damp-Heat in the Spleen and Stomach: epigastric fullness, sticky stools, and a yellow greasy coating. The fullness and sticky stools have resolved. She now reports a dry mouth, dull epigastric discomfort, hunger without the desire to eat, and dry stools. The tongue is red with the coating peeled in the center. The pulse is thin and slightly rapid. Which of the following modifications is most appropriate?",
+    "options": {
+      "A": "intensify clearing Damp-Heat to complete the course",
+      "B": "add bitter-cold draining methods to clear the residual Heat",
+      "C": "shift to nourishing Stomach Yin and stop draining Dampness",
+      "D": "warm and dry the Spleen to prevent the Dampness returning"
+    },
+    "correct": "C",
+    "explanation": "The Damp-Heat has cleared (fullness and sticky stools gone, greasy coating gone), but the drying, draining methods have injured Stomach Yin: dry mouth, hunger without desire to eat, dry stools, a red tongue with a peeled center, and a thin rapid pulse. The plan is modified to nourish Stomach Yin, and draining Dampness is discontinued because it would dry the Yin further.",
+    "distractorExplanations": {
+      "A": "Continuing to drain Dampness after it has cleared is what injured the Yin; intensifying it worsens the dryness.",
+      "B": "Bitter-cold draining methods are drying and are for Full Heat with a yellow coating; the peeled center and thin pulse show deficiency, and bitter-cold would further damage Yin.",
+      "D": "Warming and drying the Spleen aggravates Yin deficiency; there are no Cold or Damp findings remaining."
+    },
+    "learningObjective": "Recognize Yin injury after Damp-clearing treatment and modify the plan to nourish Yin.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "plan-modification",
+      "stomach-yin-deficiency",
+      "damp-heat-in-spleen",
+      "peeled-coating"
+    ],
+    "distinction": {
+      "between": [
+        "stomach-yin-deficiency",
+        "damp-heat-in-spleen"
+      ],
+      "key": "A peeled center with a thin rapid pulse and dry stools marks Yin injury; Damp-Heat shows a yellow greasy coating with sticky stools."
+    },
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Tongue coating (peeled coating)"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Stomach patterns"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III3-0003",
+    "domain": "III",
+    "subdomain": "III-3",
+    "task": "III-3",
+    "stem": "A 57-year-old man has been treated for six weeks with warming and tonifying methods for Kidney Yang deficiency: cold limbs, nocturia, lower back pain, and a pale tongue. His limbs are warmer and nocturia has decreased. He now reports mouth ulcers, irritability, thirst, and restless sleep. The tongue has a red tip. The pulse is thin and slightly rapid. Which of the following modifications is most appropriate?",
+    "options": {
+      "A": "continue warming unchanged, because the Heat signs are a passing reaction",
+      "B": "stop tonifying the Kidney and switch entirely to clearing Heart Fire",
+      "C": "increase the warming methods to consolidate the gains",
+      "D": "reduce the warming methods and add nourishing Kidney Yin"
+    },
+    "correct": "D",
+    "explanation": "Yin and Yang are mutually rooted; prolonged warming without protecting Yin has consumed Kidney Yin, allowing Empty Heat to flare upward (mouth ulcers, irritability, thirst, restless sleep, red tongue tip, thin rapid pulse). The plan is modified by moderating the warming and adding nourishing Kidney Yin, following the principle of seeking Yang within Yin so that the Yang is tonified without drying the Yin.",
+    "distractorExplanations": {
+      "A": "The signs show Yin injury, a known consequence of over-warming; continuing unchanged allows Empty Heat to increase.",
+      "B": "The thin pulse and Kidney background indicate Empty Heat from Yin deficiency rather than Full Heart Fire; abandoning Kidney treatment and using bitter-cold methods would damage both Yin and Yang.",
+      "C": "Increasing warming further depletes Yin and intensifies the Heat signs."
+    },
+    "learningObjective": "Modify a warming plan when Heat signs emerge as a result of Yin injury from excessive warming.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "evaluation",
+    "vignette": true,
+    "concepts": [
+      "plan-modification",
+      "kidney-yang-deficiency",
+      "kidney-yin-deficiency",
+      "empty-heat"
+    ],
+    "distinction": {
+      "between": [
+        "empty-heat",
+        "heart-fire"
+      ],
+      "key": "A thin, slightly rapid pulse with new Heat signs after prolonged warming marks Yin injury with Empty Heat; Heart Fire would show a full rapid pulse and a red tongue with yellow coating."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Yin-Yang (mutual rooting); Chapter on Kidney patterns"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III3-0004",
+    "domain": "III",
+    "subdomain": "III-3",
+    "task": "III-3",
+    "stem": "A 31-year-old woman with hypochondriac distension, irritability, frequent sighing, and a wiry pulse received four sessions from a previous practitioner that emphasized tonifying Qi because she mentioned feeling tired. She returns with worse distension, more irritability, a sensation of fullness in the chest, and belching. The tongue is normal in color. The pulse is wiry and full. Which of the following modifications is most appropriate?",
+    "options": {
+      "A": "add nourishing Blood to balance the Qi tonification",
+      "B": "stop tonifying; move Liver Qi and relieve the stagnation",
+      "C": "add warming Yang to support the tonification",
+      "D": "continue tonifying but reduce the treatment frequency"
+    },
+    "correct": "B",
+    "explanation": "The pattern is Liver Qi stagnation, an excess pattern (distension, sighing, irritability, wiry full pulse). Tonifying an excess pattern adds to the stagnation, which is why the distension, chest fullness, and belching worsened. The plan is corrected by discontinuing tonification and moving Liver Qi. The tiredness in Qi stagnation comes from obstruction, not from deficiency.",
+    "distractorExplanations": {
+      "A": "Nourishing Blood is another tonifying method; there are no Blood deficiency findings (normal tongue color, full pulse) and it would further congest the stagnation.",
+      "C": "Warming Yang is for Cold and Yang deficiency; the patient has no cold signs, and warming tonification would intensify the excess.",
+      "D": "Reducing frequency does not correct the wrong principle; any tonification in an excess pattern perpetuates the stagnation."
+    },
+    "learningObjective": "Correct a treatment plan in which tonification has aggravated an excess Liver Qi stagnation pattern.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "evaluation",
+    "vignette": true,
+    "concepts": [
+      "plan-modification",
+      "liver-qi-stagnation",
+      "excess-pattern",
+      "tonification-error"
+    ],
+    "distinction": {
+      "between": [
+        "liver-qi-stagnation",
+        "qi-deficiency"
+      ],
+      "key": "A wiry full pulse with distension and belching marks excess stagnation; tiredness here is from obstruction and resolves by moving Qi rather than tonifying."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Liver patterns; Chapter on Principles of Treatment"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III3-0005",
+    "domain": "III",
+    "subdomain": "III-3",
+    "task": "III-3",
+    "stem": "A 48-year-old man with fatigue, heavy limbs, loose stools, a thick greasy white coating, and a soggy pulse was diagnosed with Spleen Qi deficiency with Dampness. After six sessions emphasizing resolving Dampness, the coating is thin and white, the heaviness is gone, and the stools are formed. Fatigue and poor appetite persist. The pulse is weak. Which of the following modifications is most appropriate?",
+    "options": {
+      "A": "shift the emphasis from resolving Dampness to tonifying Spleen Qi",
+      "B": "intensify draining Dampness, because the fatigue persists",
+      "C": "add clearing Heat, because the coating has changed",
+      "D": "switch to tonifying Kidney Yang to warm the Spleen"
+    },
+    "correct": "A",
+    "explanation": "The thinning of the greasy coating, the resolution of heaviness, and the formed stools show the Dampness branch has largely cleared. The remaining fatigue, poor appetite, and weak pulse are the Spleen Qi deficiency root, so the plan shifts its emphasis to tonifying Spleen Qi, which also prevents Dampness from re-forming.",
+    "distractorExplanations": {
+      "B": "The tongue and pulse show Dampness has resolved; continued draining would weaken the Spleen further and the fatigue is from deficiency, not from Dampness.",
+      "C": "The coating changed from thick greasy white to thin white, which indicates resolution; there are no Heat findings (no yellow coating, no rapid pulse).",
+      "D": "Kidney Yang deficiency would show cold limbs, lower back coldness, and early-morning diarrhea; the findings are confined to the Spleen."
+    },
+    "learningObjective": "Use a thinning tongue coating to recognize branch resolution and shift the plan toward the root.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "plan-modification",
+      "spleen-qi-deficiency",
+      "dampness",
+      "greasy-coating"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Tongue coating"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Spleen patterns"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III3-0006",
+    "domain": "III",
+    "subdomain": "III-3",
+    "task": "III-3",
+    "stem": "A 50-year-old woman received eight sessions of strongly moving and dispersing treatment for fixed, stabbing shoulder pain with a purple tongue and a choppy pulse. The pain is reduced by about two-thirds. She now reports fatigue, dizziness on standing, palpitations, and a pale complexion. The tongue is pale with a few purplish spots at the edges. The pulse is thin and weak. Which of the following modifications is most appropriate?",
+    "options": {
+      "A": "intensify invigorating Blood to clear the remaining stasis",
+      "B": "stop addressing the stasis and nourish Blood alone",
+      "C": "add tonifying Qi and Blood while reducing the dispersing emphasis",
+      "D": "switch to cooling the Blood and clearing Heat"
+    },
+    "correct": "C",
+    "explanation": "The stasis is improving, but the new fatigue, dizziness on standing, palpitations, pallor, pale tongue, and thin weak pulse show that strong dispersing methods have consumed Qi and Blood. The plan is modified to add tonification of Qi and Blood while reducing, rather than abandoning, the moving methods, since some stasis remains (purplish spots). Tonified Qi also moves Blood more effectively.",
+    "distractorExplanations": {
+      "A": "Intensifying dispersal in a patient who is now Qi and Blood deficient deepens the deficiency; the thin weak pulse contraindicates stronger moving.",
+      "B": "Residual stasis remains (purplish spots, pain still present); abandoning moving methods entirely allows the stasis to reconsolidate.",
+      "D": "There are no Heat findings; cooling the Blood would congeal the remaining stasis and further weaken Qi."
+    },
+    "learningObjective": "Modify a dispersing plan when the pulse becomes thin and weak, indicating damage to Qi and Blood.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "evaluation",
+    "vignette": true,
+    "concepts": [
+      "plan-modification",
+      "blood-stasis",
+      "qi-and-blood-deficiency",
+      "thin-weak-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "blood-stasis",
+        "blood-deficiency"
+      ],
+      "key": "The pulse changing from choppy to thin and weak, with a tongue turning pale, signals that dispersing has injured Qi and Blood and tonification must be added."
+    },
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Pulse qualities"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Principles of Treatment"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III3-0007",
+    "domain": "III",
+    "subdomain": "III-3",
+    "task": "III-3",
+    "stem": "A 29-year-old nurse has been improving on a plan to nourish Heart Blood for insomnia with palpitations, a pale tongue, and a thin pulse. She has now moved to permanent night shifts. At her next visit she reports night sweats, a dry mouth, and heat in the palms and soles. The tongue is red at the tip with a scanty coating. The pulse is thin and rapid. Which of the following modifications is most appropriate?",
+    "options": {
+      "A": "continue nourishing Heart Blood unchanged",
+      "B": "add nourishing Yin and clearing Empty Heat to the plan",
+      "C": "switch to clearing Heart Fire with bitter-cold methods",
+      "D": "add warming Kidney Yang to counter the cold of the night"
+    },
+    "correct": "B",
+    "explanation": "Night is the Yin phase of the day; working through it and sleeping in daylight prevents Yin from being replenished and consumes it. The new night sweats, dry mouth, five-palm heat, red tongue tip with scanty coating, and thin rapid pulse show Yin deficiency with Empty Heat developing on top of the Heart Blood deficiency. The plan is modified to add nourishing Yin and clearing Empty Heat.",
+    "distractorExplanations": {
+      "A": "The pattern has changed: Blood deficiency alone produces a pale tongue, whereas the red tip, scanty coating, and rapid pulse show Yin deficiency with Heat that needs its own treatment.",
+      "C": "Heart Fire is a Full Heat pattern with a red tongue and full rapid pulse; the thin pulse and scanty coating mark Empty Heat, and bitter-cold methods would injure Yin further.",
+      "D": "There are no Yang deficiency signs; warming would aggravate the Heat and dryness."
+    },
+    "learningObjective": "Modify a plan when night-shift work produces Yin deficiency with Empty Heat.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "plan-modification",
+      "lifestyle-factors",
+      "heart-yin-deficiency",
+      "empty-heat"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Heart patterns; Chapter on Causes of disease (overwork)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III3-0008",
+    "domain": "III",
+    "subdomain": "III-3",
+    "task": "III-3",
+    "stem": "A 33-year-old woman has been treated for painful periods due to Blood stasis (dark clotted blood, stabbing pain, a purple tongue, and a choppy pulse) with invigorating Blood and moving Qi. She reports that she is now six weeks pregnant. Which of the following modifications is most appropriate?",
+    "options": {
+      "A": "continue invigorating Blood to keep the Uterus free of stasis",
+      "B": "intensify moving Qi to prevent stagnation during pregnancy",
+      "C": "switch to clearing Heat to prevent restlessness of the fetus",
+      "D": "stop invigorating Blood; nourish Blood and tonify the Kidney and Spleen"
+    },
+    "correct": "D",
+    "explanation": "Pregnancy changes treatment priorities: strongly moving Blood and Qi is contraindicated because it can disturb the fetus and provoke bleeding. The plan is modified to stop invigorating Blood and to nourish Blood and tonify the Kidney and Spleen, which support the Penetrating and Directing vessels and secure the pregnancy. The dysmenorrhea is no longer an active complaint during gestation.",
+    "distractorExplanations": {
+      "A": "Invigorating Blood during pregnancy risks bleeding and miscarriage; the original complaint is in abeyance while she is pregnant.",
+      "B": "Strong Qi-moving methods have the same downward, dispersing effect and are likewise avoided in pregnancy.",
+      "C": "There are no Heat findings; clearing Heat is only indicated when Heat is actually disturbing the fetus, and cold methods can weaken the Spleen."
+    },
+    "learningObjective": "Modify a Blood-invigorating plan when the patient becomes pregnant.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "evaluation",
+    "vignette": true,
+    "concepts": [
+      "plan-modification",
+      "pregnancy",
+      "blood-stasis",
+      "lifestyle-factors"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Principles of Treatment"
+      },
+      {
+        "source": "Maclean & Lyttleton, Clinical Handbook of Internal Medicine, 2nd ed."
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III3-0009",
+    "domain": "III",
+    "subdomain": "III-3",
+    "task": "III-3",
+    "stem": "A 46-year-old man completed a ten-week course for Spleen Qi deficiency (fatigue, loose stools, pale tongue) and was moved to monthly maintenance visits. Three months later he reports working seventy-hour weeks and skipping meals; the fatigue and loose stools have returned. The tongue is pale with teeth marks. The pulse is weak. Which of the following modifications is most appropriate?",
+    "options": {
+      "A": "resume regular tonifying treatments and address the overwork and irregular eating as ongoing causes",
+      "B": "keep monthly maintenance and add moving Qi for the work stress",
+      "C": "switch to clearing Damp-Heat because of the irregular eating",
+      "D": "add nourishing Yin because long working hours consume Yin"
+    },
+    "correct": "A",
+    "explanation": "The relapse is explained by miscellaneous etiology: overwork and irregular eating directly deplete Spleen Qi, as the returned fatigue, loose stools, teeth-marked pale tongue, and weak pulse confirm. The plan is modified by returning from maintenance to an active tonifying phase and by addressing the lifestyle causes, because tonification alone cannot keep pace with ongoing depletion.",
+    "distractorExplanations": {
+      "B": "Monthly maintenance is insufficient during active relapse, and the findings are of deficiency (weak pulse, teeth marks), not Qi stagnation.",
+      "C": "Damp-Heat would show a yellow greasy coating, foul stools, and a slippery rapid pulse; irregular eating here has weakened the Spleen rather than generated Damp-Heat.",
+      "D": "Overwork of this kind primarily depletes Spleen Qi; there are no Yin deficiency findings (no red tongue, no dryness, no rapid pulse)."
+    },
+    "learningObjective": "Modify a maintenance plan when overwork and irregular eating cause relapse of Spleen Qi deficiency.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "plan-modification",
+      "lifestyle-factors",
+      "spleen-qi-deficiency",
+      "overwork"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Causes of disease (overwork, diet); Chapter on Spleen patterns"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III3-0010",
+    "domain": "III",
+    "subdomain": "III-3",
+    "task": "III-3",
+    "stem": "A 61-year-old woman with Lung Yin deficiency (dry cough, dry throat, red tongue with scanty coating, thin rapid pulse) was stable through the summer on a nourishing plan. She returns in October with a worse dry cough, a dry nose, dry skin, and hoarseness. The tongue remains red with a scanty coating. Which of the following modifications is most appropriate?",
+    "options": {
+      "A": "add dispersing Wind-Cold methods to prepare for winter",
+      "B": "switch to resolving Phlegm because the cough has worsened",
+      "C": "increase moistening the Lung and nourishing Yin to counter autumn Dryness",
+      "D": "add drying Dampness because autumn aggravates Dampness"
+    },
+    "correct": "C",
+    "explanation": "Autumn is the season of Dryness, which corresponds to the Lung and injures Lung Yin and Fluids. A patient whose Lung Yin is already deficient is especially vulnerable, which explains the seasonal worsening of the dry cough, dry nose, dry skin, and hoarseness. The plan is modified by increasing the moistening and Yin-nourishing emphasis to counter the seasonal factor, in line with treating according to the season.",
+    "distractorExplanations": {
+      "A": "There is no exterior Wind-Cold (no chills, no floating pulse); dispersing methods are drying and would worsen the Yin deficiency.",
+      "B": "The cough is dry without sputum and the coating is scanty; Phlegm-resolving methods are drying and inappropriate for Yin deficiency.",
+      "D": "Dampness belongs to late summer; autumn Dryness is the opposite influence, and drying methods would aggravate every finding here."
+    },
+    "learningObjective": "Modify a plan for seasonal Dryness aggravating Lung Yin deficiency.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "plan-modification",
+      "seasonal-factors",
+      "lung-yin-deficiency",
+      "dryness"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Causes of disease (Dryness); Chapter on Lung patterns"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "General Introduction to Acupuncture Treatment: treatment according to climatic and seasonal conditions"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III3-0011",
+    "domain": "III",
+    "subdomain": "III-3",
+    "task": "III-3",
+    "stem": "A 24-year-old man was seen two days ago for Wind-Heat with sore throat, fever and slight chills, and a floating rapid pulse, and was treated to release the exterior. He returns with no aversion to cold, a high fever, profuse sweating, intense thirst for cold drinks, and a red face. The tongue is red with a dry yellow coating. The pulse is flooding (overflowing) and rapid. Which of the following modifications is most appropriate?",
+    "options": {
+      "A": "continue releasing the exterior with stronger sweating methods",
+      "B": "add warming methods because the chills have stopped",
+      "C": "nourish Yin because the sweating has consumed Fluids",
+      "D": "shift to clearing Qi-level Heat and stop releasing the exterior"
+    },
+    "correct": "D",
+    "explanation": "The disease has progressed from the Wei level to the Qi level (Yang Ming): the aversion to cold has gone and the four big signs have appeared (high fever, profuse sweating, great thirst, flooding pulse) with a dry yellow coating. Exterior-releasing methods are no longer appropriate because the pathogen is now interior; the plan is modified to clear interior Heat at the Qi level and generate Fluids.",
+    "distractorExplanations": {
+      "A": "Sweating methods are for the Wei level; with the pathogen in the interior they merely damage Fluids and leave the Heat untouched.",
+      "B": "The chills stopped because the pathogen left the exterior, not because Cold is present; warming methods would feed the Heat.",
+      "C": "Fluids are being consumed, but the primary problem is intense Full Heat; nourishing Yin alone with cloying methods would retain the pathogen, whereas clearing Heat includes generating Fluids."
+    },
+    "learningObjective": "Modify the plan when an exterior Wind-Heat pattern progresses to the Qi level.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "evaluation",
+    "vignette": true,
+    "concepts": [
+      "plan-modification",
+      "disease-progression",
+      "four-levels",
+      "qi-level-heat"
+    ],
+    "distinction": {
+      "between": [
+        "wei-level",
+        "qi-level"
+      ],
+      "key": "Loss of aversion to cold with high fever, profuse sweating, great thirst, and a flooding pulse marks the Qi level; the exterior is no longer released."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Identification of patterns according to the Four Levels"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III3-0012",
+    "domain": "III",
+    "subdomain": "III-3",
+    "task": "III-3",
+    "stem": "A 39-year-old man has had five sessions for Liver Qi stagnation with hypochondriac distension, irritability, and a wiry pulse. He now reports outbursts of anger, red eyes, a bitter taste, a temporal headache, constipation, and dark urine. The tongue is red with a yellow coating. The pulse is wiry and rapid. Which of the following modifications is most appropriate?",
+    "options": {
+      "A": "continue moving Liver Qi with warm, acrid methods",
+      "B": "shift to clearing Liver Fire and draining downward",
+      "C": "add tonifying Liver Blood to soften the Liver",
+      "D": "switch to subduing Liver Yang and nourishing Kidney Yin"
+    },
+    "correct": "B",
+    "explanation": "Prolonged Liver Qi stagnation has transformed into Liver Fire: anger outbursts, red eyes, bitter taste, headache, constipation, dark urine, a red tongue with a yellow coating, and a wiry rapid pulse. The plan is modified to clear Liver Fire and drain it downward; the Qi-moving methods used for simple stagnation are warm and acrid and would fan the Fire.",
+    "distractorExplanations": {
+      "A": "Warm acrid Qi-moving methods are appropriate for stagnation without Heat; once Fire has formed they aggravate it.",
+      "C": "Liver Blood deficiency shows a pale tongue, dizziness, and a thin pulse; tonifying here would add to the Full Heat.",
+      "D": "Liver Yang rising from Yin deficiency shows a thin coating, a thin wiry pulse, and chronic Yin-deficient signs; the yellow coating, constipation, and bitter taste mark Full Fire."
+    },
+    "learningObjective": "Modify the plan when Liver Qi stagnation transforms into Liver Fire.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "evaluation",
+    "vignette": true,
+    "concepts": [
+      "plan-modification",
+      "disease-progression",
+      "liver-fire-blazing",
+      "liver-qi-stagnation"
+    ],
+    "distinction": {
+      "between": [
+        "liver-fire-blazing",
+        "liver-yang-rising"
+      ],
+      "key": "A yellow coating with bitter taste, constipation, and dark urine marks Full Liver Fire; Yang rising shows a thin coating on a Yin-deficient background."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Liver patterns"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III3-0013",
+    "domain": "III",
+    "subdomain": "III-3",
+    "task": "III-3",
+    "stem": "A 37-year-old woman with Blood deficiency (dizziness, pallor, scanty periods, a thin pulse) has had eight sessions using rich, nourishing methods. Her dizziness has improved. She now reports abdominal bloating after meals, loose stools, and a poor appetite. The tongue is pale with a greasy white coating. The pulse is soggy. Which of the following modifications is most appropriate?",
+    "options": {
+      "A": "add strengthening the Spleen and lighten the cloying nourishment",
+      "B": "intensify nourishing Blood because the Blood is still deficient",
+      "C": "switch to clearing Damp-Heat from the Intestines",
+      "D": "add invigorating Blood to move the stagnating Blood"
+    },
+    "correct": "A",
+    "explanation": "Rich, cloying Blood-nourishing methods burden the Spleen's transformation and transportation, and a Spleen that cannot transform them generates Dampness: bloating after meals, loose stools, poor appetite, greasy white coating, soggy pulse. The plan is modified by adding strengthening the Spleen to resolve Dampness and by making the nourishing methods lighter, since Blood is only produced when the Spleen can transform what it receives.",
+    "distractorExplanations": {
+      "B": "Intensifying cloying nourishment further overwhelms the Spleen and increases the Dampness that is now obstructing Blood production.",
+      "C": "Damp-Heat would show a yellow greasy coating, foul stools, and a rapid pulse; the white coating and soggy pulse show Cold-Damp from Spleen weakness.",
+      "D": "There are no stasis findings (no pain, no purple tongue, no choppy pulse); moving Blood in a Blood-deficient patient depletes her further."
+    },
+    "learningObjective": "Modify a Blood-nourishing plan when cloying methods generate Dampness and weaken the Spleen.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "plan-modification",
+      "blood-deficiency",
+      "spleen-qi-deficiency",
+      "dampness"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Spleen patterns; Chapter on Principles of Treatment"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III3-0014",
+    "domain": "III",
+    "subdomain": "III-3",
+    "task": "III-3",
+    "stem": "A 55-year-old woman has had six sessions of subduing Liver Yang for throbbing headaches with irritability, a red face, and a wiry pulse. The headaches have resolved. She now reports dizziness on standing, blurred vision, dry eyes, tinnitus, and lower back soreness. The tongue is slightly red and thin with a scanty coating. The pulse is thin and no longer wiry. Which of the following modifications is most appropriate?",
+    "options": {
+      "A": "continue subduing Liver Yang at the same intensity",
+      "B": "switch to dispersing Wind from the head",
+      "C": "add tonifying Kidney Yang for the back soreness",
+      "D": "shift to nourishing Liver and Kidney Yin as the main method"
+    },
+    "correct": "D",
+    "explanation": "Subduing the rising Yang has resolved the branch (headaches, wiry pulse gone). What is now exposed is the root that allowed the Yang to rise: Liver and Kidney Yin deficiency, shown by dizziness on standing, blurred vision, dry eyes, tinnitus, back soreness, a thin tongue with scanty coating, and a thin pulse. The plan shifts from subduing to nourishing Yin, which anchors the Yang and prevents recurrence.",
+    "distractorExplanations": {
+      "A": "Continuing descending, subduing methods after the Yang has settled further depletes a patient whose findings are now deficient.",
+      "B": "Wind in the head would produce acute headache with a floating pulse; the headaches have resolved and the pulse is thin, not floating.",
+      "C": "Kidney Yang deficiency presents with cold back pain, a pale tongue, and a deep weak pulse; the dry eyes, red thin tongue, and scanty coating indicate Yin deficiency, and warming would re-provoke the Yang."
+    },
+    "learningObjective": "Modify the plan from subduing the branch to nourishing the root once Liver Yang rising has settled.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "evaluation",
+    "vignette": true,
+    "concepts": [
+      "plan-modification",
+      "liver-yang-rising",
+      "liver-and-kidney-yin-deficiency",
+      "root-first"
+    ],
+    "distinction": {
+      "between": [
+        "liver-yang-rising",
+        "liver-and-kidney-yin-deficiency"
+      ],
+      "key": "The pulse losing its wiry quality and becoming thin, with a thin tongue and scanty coating, shows the excess branch has settled and the deficient root is exposed."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Liver patterns; Chapter on Principles of Treatment"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  }
+]

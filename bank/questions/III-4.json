@@ -1,0 +1,734 @@
+[
+  {
+    "id": "FOM-III4-0001",
+    "domain": "III",
+    "subdomain": "III-4",
+    "task": "III-4",
+    "stem": "A 26-year-old woman with fatigue, bloating after meals, loose stools, and a pale tongue has been diagnosed with Spleen Qi deficiency. She asks what the diagnosis means. Which explanation is most appropriate to give this patient?",
+    "options": {
+      "A": "Your spleen organ is underactive, and the treatment will stimulate it to work harder.",
+      "B": "In Chinese medicine the 'Spleen' describes the system that turns food into energy; when it is weak, people feel tired and bloated and have loose stools.",
+      "C": "It means you have a digestive enzyme deficiency, which the treatment corrects.",
+      "D": "It is a traditional way of saying you are a little run down; it is nothing that really needs treating."
+    },
+    "correct": "B",
+    "explanation": "An appropriate explanation is accurate to the pattern, uses plain language, and makes clear that the TCM 'Spleen' is a functional concept rather than the anatomical organ. Option B ties the pattern directly to the patient's own symptoms (fatigue, bloating, loose stools) and makes no biomedical claim.",
+    "distractorExplanations": {
+      "A": "This equates the TCM Spleen with the anatomical spleen and implies a biomedical organ dysfunction that the pattern does not describe.",
+      "C": "This translates a TCM pattern into a biomedical diagnosis the practitioner has no basis to make; it overreaches and misleads.",
+      "D": "This is dismissive: it trivializes a pattern that explains her symptoms and undermines the rationale for treatment."
+    },
+    "learningObjective": "Explain Spleen Qi deficiency to a patient accurately and without biomedical overclaiming.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": true,
+    "concepts": [
+      "patient-explanation",
+      "spleen-qi-deficiency"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on the Functions of the Spleen"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III4-0002",
+    "domain": "III",
+    "subdomain": "III-4",
+    "task": "III-4",
+    "stem": "A 49-year-old man with recurrent headaches has been diagnosed with Liver Yang rising on a background of Kidney Yin deficiency. He asks why his treatment plan includes work on his lower back and 'kidneys' when his complaint is headaches. Which explanation is most appropriate to give this patient?",
+    "options": {
+      "A": "Your kidneys are failing to filter toxins, and those toxins are causing the headaches.",
+      "B": "The back work is just for general relaxation; it has no particular connection to the headaches.",
+      "C": "The headaches are the visible part of the problem; the plan also strengthens the underlying imbalance that keeps producing them, so the results last.",
+      "D": "The kidneys make hormones that raise blood pressure, and the high blood pressure causes the headaches."
+    },
+    "correct": "C",
+    "explanation": "This explains the Root and Branch logic in plain language: the headache is the branch, the Yin deficiency is the root, and treating the root is what prevents recurrence. It is accurate to the pattern and makes no biomedical claims about the kidneys.",
+    "distractorExplanations": {
+      "A": "This equates the TCM Kidney with the renal organ and invents a toxin mechanism; it is biomedically overreaching and inaccurate to the pattern.",
+      "B": "This is dismissive and inaccurate: the Kidney component is a deliberate root treatment, not an incidental relaxation measure.",
+      "D": "This asserts a biomedical disease mechanism (hormonal hypertension) that the pattern does not describe and the practitioner has no basis to diagnose."
+    },
+    "learningObjective": "Explain to a patient why treatment addresses the root rather than only the presenting complaint.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "patient-explanation",
+      "root-and-branch",
+      "liver-yang-rising",
+      "kidney-yin-deficiency"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Principles of Treatment (Root and Manifestation)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III4-0003",
+    "domain": "III",
+    "subdomain": "III-4",
+    "task": "III-4",
+    "stem": "A 38-year-old man notices in the mirror that his tongue has a thick, greasy white coating and asks what it means. His pattern is Cold-Damp in the Spleen. Which explanation is most appropriate to give this patient?",
+    "options": {
+      "A": "That coating points to Dampness, which in Chinese medicine means your digestion is handling fluids poorly; it usually thins as digestion improves.",
+      "B": "That coating is a fungal infection growing on the surface of the tongue; the treatment plan will be aimed at clearing the infection.",
+      "C": "A thick coating like that shows your stomach is producing too much acid; the treatment plan will be aimed at reducing the acid.",
+      "D": "That coating only reflects what you ate this morning and tells us nothing useful about your pattern or how the treatment will go."
+    },
+    "correct": "A",
+    "explanation": "A thick greasy coating reflects Dampness, and the explanation gives the patient the TCM meaning in plain language, links it to his digestion, and sets a realistic expectation that the coating is a marker that changes with treatment. It avoids any biomedical claim.",
+    "distractorExplanations": {
+      "B": "This converts a TCM tongue sign into a biomedical infection the practitioner has no basis to diagnose; a greasy coating is a pattern sign, not a microbiological finding.",
+      "C": "This invents a biomedical mechanism (acid overproduction) unrelated to the TCM meaning of a greasy coating.",
+      "D": "This is dismissive and inaccurate: the coating is a core assessment finding, and a greasy coating persists beyond any single meal."
+    },
+    "learningObjective": "Explain a greasy tongue coating to a patient accurately and in plain language.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": true,
+    "concepts": [
+      "patient-explanation",
+      "greasy-coating",
+      "dampness"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Tongue coating"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III4-0004",
+    "domain": "III",
+    "subdomain": "III-4",
+    "task": "III-4",
+    "stem": "A 63-year-old man with Kidney Yang deficiency (chronic cold intolerance, nocturia, lower back pain, pale tongue, deep weak pulse) asks how long treatment will take. Which explanation of the treatment course is most appropriate to give this patient?",
+    "options": {
+      "A": "Two or three sessions should clear this up completely, because warming treatments act quickly and the pattern is straightforward.",
+      "B": "Because this pattern is chronic it cannot really improve; treatment will only manage the symptoms while the underlying weakness stays the same.",
+      "C": "Treatment simply continues indefinitely, and we will see how it goes over time without setting any checkpoints or targets along the way.",
+      "D": "This is a long-standing deficiency, so we plan regular weekly sessions over a few months and check your warmth, urination, and energy at set points."
+    },
+    "correct": "D",
+    "explanation": "A chronic deficiency pattern is built up gradually, so the honest explanation sets out a course of regular treatments over months with defined reassessment points tied to the patient's own findings (warmth, nocturia, energy). This is accurate, sets realistic expectations, and involves the patient in tracking the plan.",
+    "distractorExplanations": {
+      "A": "This overpromises: a chronic Yang deficiency is not corrected in two or three sessions, and the patient will lose confidence when it is not.",
+      "B": "This is dismissive and inaccurate: chronic deficiency patterns respond to sustained tonification, and the plan has explicit treatment goals.",
+      "C": "An open-ended course without reassessment points gives the patient no way to judge progress and reflects no plan."
+    },
+    "learningObjective": "Explain the length and reassessment points of a treatment course for a chronic deficiency pattern.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "patient-explanation",
+      "treatment-course",
+      "kidney-yang-deficiency"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Kidney patterns; Chapter on Principles of Treatment"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III4-0005",
+    "domain": "III",
+    "subdomain": "III-4",
+    "task": "III-4",
+    "stem": "A 32-year-old woman with premenstrual breast distension, irritability, and a wiry pulse has been diagnosed with Liver Qi stagnation. She asks, worried, what is wrong with her liver. Which explanation is most appropriate to give this patient?",
+    "options": {
+      "A": "Your liver is congested with toxins from diet and stress, and the course of treatment will work to detoxify the organ directly.",
+      "B": "In Chinese medicine the \"Liver\" is the system that keeps energy moving smoothly; stress tightens that flow, which shows as your premenstrual symptoms. It is a different idea from your liver organ.",
+      "C": "Your liver enzymes are probably raised, because this pattern usually reflects early liver disease that has not yet been detected.",
+      "D": "The pattern name is really just a formality used for record-keeping, and it has nothing in particular to do with the symptoms you describe."
+    },
+    "correct": "B",
+    "explanation": "The explanation separates the TCM Liver (a functional system governing the smooth flow of Qi) from the anatomical liver, connects the pattern to the patient's own symptoms, and directly addresses her worry. It is accurate to Liver Qi stagnation and makes no biomedical claim.",
+    "distractorExplanations": {
+      "A": "'Toxins' and 'detox' are not what Liver Qi stagnation describes and imply a biomedical hepatic problem that is unfounded.",
+      "C": "This asserts a biomedical diagnosis (liver disease, abnormal enzymes) with no basis, and would frighten the patient needlessly.",
+      "D": "This is dismissive and inaccurate: the pattern directly explains the premenstrual symptoms and guides the plan."
+    },
+    "learningObjective": "Explain Liver Qi stagnation to a patient while distinguishing the TCM Liver from the anatomical organ.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "patient-explanation",
+      "liver-qi-stagnation"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on the Functions of the Liver"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III4-0006",
+    "domain": "III",
+    "subdomain": "III-4",
+    "task": "III-4",
+    "stem": "A 58-year-old woman with night sweats, a dry mouth at night, tinnitus, and a thin rapid pulse has been told her pattern is Kidney Yin deficiency. Alarmed, she says her physician recently found her kidney tests normal and asks whether her kidneys are failing. Which explanation is most appropriate to give this patient?",
+    "options": {
+      "A": "It is an early stage of kidney disease that routine blood tests cannot yet detect, so the normal results should not reassure you.",
+      "B": "Your tests must be wrong, because this pattern reliably shows that the kidneys themselves are damaged and will need medical treatment.",
+      "C": "It is essentially the same thing as dehydration; drinking more water each day will correct the night sweats and the dry mouth.",
+      "D": "It is a Chinese-medicine pattern describing signs like your night sweats and dry mouth, not the medical condition of kidney failure; your normal tests stand, so keep your medical follow-up as planned."
+    },
+    "correct": "D",
+    "explanation": "The accurate and patient-appropriate response distinguishes the TCM Kidney pattern from the biomedical renal diagnosis, reassures her by tying the pattern to her actual signs, respects the physician's findings, and encourages continued medical follow-up. TCM pattern names must never be presented as biomedical diseases.",
+    "distractorExplanations": {
+      "A": "This claims a biomedical disease the practitioner has no basis to diagnose and contradicts her normal results; it is the kind of overclaiming that harms patients and the profession.",
+      "B": "Dismissing valid medical tests on the basis of a TCM pattern is both inaccurate and unsafe.",
+      "C": "Yin deficiency is not dehydration; this trivializes the pattern and gives an inaccurate, dismissive remedy."
+    },
+    "learningObjective": "Explain a Kidney pattern to a patient without equating it with biomedical kidney disease.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "evaluation",
+    "vignette": true,
+    "concepts": [
+      "patient-explanation",
+      "kidney-yin-deficiency",
+      "scope-of-practice"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Kidney patterns"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III4-0007",
+    "domain": "III",
+    "subdomain": "III-4",
+    "task": "III-4",
+    "stem": "A 41-year-old man with Liver Qi stagnation hears the practitioner describe his pulse as 'wiry' and asks what that means. Which explanation is most appropriate to give this patient?",
+    "options": {
+      "A": "Your pulse feels taut, like a tight string under the fingers; in Chinese medicine that points to tension in the flow of energy, which often goes with stress.",
+      "B": "A wiry pulse means the walls of your arteries are starting to harden, which is something that usually shows up with age and high cholesterol.",
+      "C": "It means your blood pressure is dangerously high right now, so you need to have it checked by a physician before the end of the day.",
+      "D": "It is just a routine description that every practitioner writes down for the record; it does not carry any particular meaning for your care."
+    },
+    "correct": "A",
+    "explanation": "The explanation describes the tactile quality accurately, gives its TCM meaning (Qi stagnation, commonly linked to emotional stress), and stays within the pattern without biomedical claims.",
+    "distractorExplanations": {
+      "B": "This equates a TCM pulse quality with arteriosclerosis, a biomedical finding that pulse palpation in TCM does not diagnose.",
+      "C": "This turns a pattern sign into a biomedical emergency with no basis, and would alarm the patient unnecessarily.",
+      "D": "This is dismissive: the wiry pulse is a key finding that supports the Liver Qi stagnation diagnosis."
+    },
+    "learningObjective": "Explain a wiry pulse finding to a patient accurately and in plain language.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": true,
+    "concepts": [
+      "patient-explanation",
+      "wiry-pulse",
+      "liver-qi-stagnation"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Pulse qualities (wiry pulse)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  },
+  {
+    "id": "FOM-III4-0008",
+    "domain": "III",
+    "subdomain": "III-4",
+    "task": "III-4",
+    "stem": "A 45-year-old man was treated for Damp-Heat with a yellow greasy coating; the coating has cleared, and his tongue is now red with a scanty, dry coating and he has a dry mouth. The practitioner changes the plan from clearing to nourishing. He asks why the approach has changed. Which explanation is most appropriate to give this patient?",
+    "options": {
+      "A": "The first approach did not work, so we are trying something different to see what happens.",
+      "B": "We switch methods after a few weeks as a matter of routine, regardless of how you respond.",
+      "C": "The first phase cleared the Damp-Heat, and your tongue and symptoms now show dryness, so the plan shifts to nourishing to restore the fluids.",
+      "D": "Your lab values have changed, so we are now treating a new disease."
+    },
+    "correct": "C",
+    "explanation": "The explanation accurately conveys that the modification follows from reassessment: the branch has cleared and the findings now show injured Yin, so the plan changes to match. It links the change to the patient's own observable tongue and symptoms and reinforces that the plan is responsive rather than arbitrary.",
+    "distractorExplanations": {
+      "A": "This is inaccurate (the first phase succeeded) and presents the modification as trial and error, undermining confidence.",
+      "B": "This describes an arbitrary schedule rather than a plan modified according to the patient's response, which is inaccurate to how the plan was made.",
+      "D": "This invokes laboratory values and a biomedical disease that play no role in the TCM reassessment; it is overreaching and untrue."
+    },
+    "learningObjective": "Explain a plan modification to a patient in terms of the findings that prompted it.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "evaluation",
+    "vignette": true,
+    "concepts": [
+      "patient-explanation",
+      "plan-modification",
+      "stomach-yin-deficiency",
+      "damp-heat"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Tongue coating"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Principles of Treatment"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T03:59:07.410Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T03:59:07.410Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T03:59:07.410Z",
+    "version": 1,
+    "createdAt": "2026-10-20T03:58:21.330Z"
+  }
+]
