@@ -14,6 +14,6 @@ Continuous log. Newest entries at top.
 
 **Tests:** 49 passing (vitest). Browser smoke test via Playwright MCP found one real bug (study mode revealed explanations before answering) — fixed with a regression test.
 
-**Blocked:** `git push` — the `gh` token is invalid and Git Credential Manager fails in this shell ("Unable to persist credentials with the 'wincredman' credential store"). Repo `devinmacarthur/tcm-exam-simulator` not created yet. Operator needs to run `gh auth login`, then `gh repo create devinmacarthur/tcm-exam-simulator --public --source . --push`, then enable Pages → Source: GitHub Actions.
+**Hosting.** First push attempt failed (fine-grained PAT without repo-create rights, no SSH key); operator re-logged `gh` via the browser flow and pushed as `master`. Then from Claude: enabled Pages (build_type=workflow), created `main` from `master` through the Git Data API (GCM cannot prompt in this shell), set it default, deleted `master`, added `main` to the `github-pages` environment branch policy (first deploy was rejected for that reason), reran the workflow. **Live: https://devinmacarthur.github.io/tcm-exam-simulator/** — tests, audit and build run in CI on every push to `main`. Repo-local `credential.helper = !gh auth git-credential` set for future pushes from this shell.
 
-**Next:** blind-review the 107 → promote → push → enable Pages → a human (Yarree or a licensed practitioner) starts signing items `human_approved` with `npm run bank:promote -- --approve <id> --reviewer "<name>"`.
+**Next:** a human (Yarree or a licensed practitioner) starts signing items `human_approved` with `npm run bank:promote -- --approve <id> --reviewer "<name>"`; push → auto-deploy.
