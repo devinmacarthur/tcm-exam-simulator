@@ -1,0 +1,2353 @@
+[
+  {
+    "id": "FOM-IIc-0001",
+    "domain": "II",
+    "subdomain": "II-c",
+    "task": "II-1-c",
+    "theory": "Eight Principles",
+    "stem": "Within the Eight Principles (Ba Gang), which pair of principles primarily identifies the depth and location of a disease?",
+    "options": {
+      "A": "Heat and Cold",
+      "B": "Exterior and Interior",
+      "C": "Excess and Deficiency",
+      "D": "Yin and Yang"
+    },
+    "correct": "B",
+    "explanation": "The Exterior/Interior pair locates the disease: exterior patterns affect the skin, muscles and channels (Wei Qi level) while interior patterns affect the Zang Fu, Qi, Blood and bone. Each of the other pairs answers a different question: Heat/Cold describes the nature of the disease, Excess/Deficiency describes the relative strength of the pathogenic factor versus the Upright Qi (Zheng Qi), and Yin/Yang summarizes the other six.",
+    "distractorExplanations": {
+      "A": "Heat and Cold describe the nature of a pattern (thirst, color of urine, tongue color), not its location. A learner who confuses nature with location would pick this.",
+      "C": "Excess and Deficiency describe the balance between the pathogenic factor and the body's Upright Qi; they say nothing about depth.",
+      "D": "Yin and Yang are the general categories that summarize the other six principles; they are the conclusion, not the location axis."
+    },
+    "learningObjective": "Identify which pair of the Eight Principles describes the location of a disease.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "eight-principles",
+      "exterior-interior"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the Eight Principles"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IIc-0002",
+    "domain": "II",
+    "subdomain": "II-c",
+    "task": "II-1-c",
+    "theory": "Eight Principles",
+    "stem": "A 29-year-old patient reports two days of mild aversion to wind, a low-grade fever, headache, and nasal congestion with clear discharge. The patient has been sweating slightly, without relief of the symptoms, and has no thirst. The tongue has a thin white coating. The pulse is floating and slightly slow. Which of the following is the most appropriate Eight Principle classification?",
+    "options": {
+      "A": "exterior, Excess, Cold",
+      "B": "interior, Deficiency, Cold",
+      "C": "exterior, Excess, Heat",
+      "D": "exterior, Deficiency, Cold"
+    },
+    "correct": "D",
+    "explanation": "Aversion to wind with fever, headache and a floating pulse place the pattern on the exterior. Clear nasal discharge, absence of thirst, a white coating and a slow pulse identify Cold. The presence of sweating is the discriminating finding: Wind has opened the pores and the Wei Qi fails to consolidate the surface, which Maciocia classifies as an exterior Deficiency (Empty) pattern, in contrast to the sweatless, floating-tight picture of exterior Excess.",
+    "distractorExplanations": {
+      "A": "Exterior Excess Cold presents with pronounced aversion to cold, absence of sweating and a floating-tight pulse; this patient sweats and the pulse is slightly slow. A learner who treats every Wind-Cold invasion as Excess would choose this.",
+      "B": "Aversion to wind, fever and a floating pulse are exterior signs; nothing here points to the interior.",
+      "C": "Exterior Heat would show thirst, sore throat, yellow discharge and a floating-rapid pulse; here the discharge is clear, there is no thirst and the pulse is slow."
+    },
+    "learningObjective": "Differentiate exterior Deficiency from exterior Excess in a Wind-Cold invasion using the presence of sweating and pulse quality.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "exterior-deficiency",
+      "exterior-excess",
+      "wind-cold",
+      "floating-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "exterior-deficiency",
+        "exterior-excess"
+      ],
+      "key": "Sweating with a floating, moderate pulse marks exterior Deficiency; absence of sweating with a floating, tight pulse marks exterior Excess."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles: Exterior-Empty and Exterior-Full"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the Eight Principles: exterior syndromes"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IIc-0003",
+    "domain": "II",
+    "subdomain": "II-c",
+    "task": "II-1-c",
+    "theory": "Eight Principles",
+    "stem": "A 41-year-old patient has had one day of pronounced aversion to cold, fever, occipital headache, stiff neck, and generalized body aches. There is no sweating and no thirst. The tongue has a thin white coating. The pulse is floating and tight. Which of the following is the most appropriate Eight Principle classification?",
+    "options": {
+      "A": "exterior, Excess, Cold",
+      "B": "exterior, Deficiency, Cold",
+      "C": "interior, Excess, Cold",
+      "D": "exterior, Excess, Heat"
+    },
+    "correct": "A",
+    "explanation": "Simultaneous aversion to cold and fever, occipital headache and a floating pulse show that the pathogenic factor is on the exterior. Absence of thirst, a thin white coating and a tight pulse identify Cold. The absence of sweating with a tight pulse shows that Cold has closed the pores and the Upright Qi is fighting a strong pathogen, which is an Excess (Full) pattern. The classification is therefore exterior, Excess, Cold.",
+    "distractorExplanations": {
+      "B": "Exterior Deficiency is distinguished by sweating and a floating, moderate pulse; this patient has no sweating and a tight pulse. A learner who confuses 'thin white coating' with weakness would pick this.",
+      "C": "Fever with aversion to cold, body aches and a floating pulse are exterior findings; an interior Cold pattern would show a deep pulse and abdominal or digestive symptoms.",
+      "D": "Exterior Heat presents with thirst, a sore throat and a floating-rapid pulse; absence of thirst and a tight pulse rule it out."
+    },
+    "learningObjective": "Classify an acute Wind-Cold invasion without sweating as exterior, Excess, Cold.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "exterior-excess",
+      "wind-cold",
+      "full-cold",
+      "tight-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "exterior-excess",
+        "exterior-deficiency"
+      ],
+      "key": "Absence of sweating with a floating, tight pulse marks exterior Excess."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles: Exterior-Full"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Differentiation according to the Eight Principles: exterior and interior"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IIc-0004",
+    "domain": "II",
+    "subdomain": "II-c",
+    "task": "II-1-c",
+    "theory": "Eight Principles",
+    "stem": "A 35-year-old patient, one week into a cold, now reports alternating chills and fever, a bitter taste, a dry throat, fullness and discomfort beneath the ribs, nausea, and loss of appetite. The tongue has a thin white coating. The pulse is wiry. Which classification best describes the location of the pathogenic factor?",
+    "options": {
+      "A": "exterior",
+      "B": "interior",
+      "C": "half-exterior half-interior",
+      "D": "exterior with concurrent interior Deficiency"
+    },
+    "correct": "C",
+    "explanation": "Alternating chills and fever is the hallmark of a pathogenic factor lodged between the exterior and the interior (the Shao Yang level): when the pathogen prevails, chills; when the Upright Qi prevails, fever. The bitter taste, dry throat, hypochondrial fullness, nausea and wiry pulse complete the picture of half-exterior half-interior pattern. Neither the simultaneous fever-with-aversion-to-cold of the exterior nor the fever-without-chills of the interior is present.",
+    "distractorExplanations": {
+      "A": "An exterior pattern shows fever and aversion to cold at the same time, with a floating pulse; here chills and fever alternate and the pulse is wiry.",
+      "B": "An interior Heat pattern shows fever without chills, thirst and a yellow coating; the alternation of chills and fever and the thin white coating argue against a purely interior location.",
+      "D": "There are no Deficiency findings (tiredness, weak pulse, pale tongue); the wiry pulse and fullness are Excess findings. A learner who reads 'loss of appetite' as Spleen Deficiency would pick this."
+    },
+    "learningObjective": "Identify the half-exterior half-interior pattern from alternating chills and fever with hypochondrial fullness and a wiry pulse.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "half-exterior-half-interior",
+      "exterior-interior",
+      "wiry-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "half-exterior-half-interior",
+        "exterior-pattern"
+      ],
+      "key": "Alternating chills and fever (rather than simultaneous fever and aversion to cold) locates the pathogen between exterior and interior."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles: Half-Exterior Half-Interior"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the Eight Principles"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IIc-0005",
+    "domain": "II",
+    "subdomain": "II-c",
+    "task": "II-1-c",
+    "theory": "Eight Principles",
+    "stem": "A 58-year-old patient reports several years of loose stools, poor appetite, dull abdominal pain that is relieved by warmth and by pressure, cold hands and feet, and tiredness. The tongue is pale and swollen with a thin white, moist coating. The pulse is deep, slow, and weak. Which of the following is the most appropriate Eight Principle classification?",
+    "options": {
+      "A": "interior, Deficiency, Cold",
+      "B": "interior, Excess, Cold",
+      "C": "interior, Deficiency, Heat",
+      "D": "exterior, Deficiency, Cold"
+    },
+    "correct": "A",
+    "explanation": "Chronic digestive symptoms with a deep pulse locate the disorder in the interior. Cold limbs, pain relieved by warmth, a pale moist tongue and a slow pulse identify Cold. The long course, tiredness, pain relieved by pressure and a weak pulse show that the Cold arises from weakness of Yang rather than from a Cold pathogen, so the Excess/Deficiency axis reads Deficiency. The classification is interior, Deficiency, Cold (Empty Cold).",
+    "distractorExplanations": {
+      "B": "Interior Excess Cold is acute, with severe pain that is worse with pressure and a tight or full pulse; here the pain is dull, relieved by pressure, and the pulse is weak.",
+      "C": "Interior Deficiency Heat (Empty Heat) shows a red peeled tongue, night sweats and a thin-rapid pulse; everything here is pale, moist and slow.",
+      "D": "An exterior pattern requires fever with aversion to cold and a floating pulse; a deep pulse with years of digestive symptoms is interior."
+    },
+    "learningObjective": "Classify a chronic Yang-deficient digestive presentation as interior, Deficiency, Cold.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "empty-cold",
+      "interior-pattern",
+      "deep-pulse",
+      "spleen-yang-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "empty-cold",
+        "full-cold"
+      ],
+      "key": "Chronic course, pain relieved by pressure and a weak pulse mark Empty Cold; acute onset, pain worse with pressure and a tight pulse mark Full Cold."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles: Empty-Cold"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Differentiation according to the Eight Principles: cold and heat"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IIc-0006",
+    "domain": "II",
+    "subdomain": "II-c",
+    "task": "II-1-c",
+    "theory": "Eight Principles",
+    "stem": "A 33-year-old patient reports three days of burning epigastric pain, intense thirst with a desire for cold drinks, bad breath, bleeding gums, and constipation with dark, scanty urine. The tongue is red with a thick, dry, yellow coating. The pulse is rapid and full (excess). Which of the following is the most appropriate Eight Principle classification?",
+    "options": {
+      "A": "interior, Deficiency, Heat",
+      "B": "exterior, Excess, Heat",
+      "C": "interior, Excess, Heat",
+      "D": "interior, Excess, Cold"
+    },
+    "correct": "C",
+    "explanation": "Epigastric burning, constipation, dark urine and bleeding gums with no exterior signs locate the disorder in the interior. Thirst for cold drinks, a red tongue, a yellow coating and a rapid pulse identify Heat. The acute course, thick coating and full pulse show a strong pathogenic factor with intact Upright Qi, which is Excess. The classification is interior, Excess, Heat (Full Heat).",
+    "distractorExplanations": {
+      "A": "Interior Deficiency Heat (Empty Heat) shows a red tongue with little or no coating, a thin-rapid pulse, night sweats and only mild thirst with a desire for small sips; here the coating is thick and the pulse is full.",
+      "B": "Exterior Heat is defined by fever with aversion to cold or wind, sore throat and a floating pulse; the epigastric and bowel symptoms are interior.",
+      "D": "Interior Cold presents with absence of thirst, a pale tongue with a white coating and a slow pulse; every finding here is a Heat finding."
+    },
+    "learningObjective": "Classify an acute Stomach Fire presentation as interior, Excess, Heat.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "full-heat",
+      "interior-pattern",
+      "yellow-coating",
+      "full-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "full-heat",
+        "empty-heat"
+      ],
+      "key": "Thick yellow coating, full pulse and intense thirst for cold drinks mark Full Heat."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles: Full-Heat"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the Eight Principles: heat syndromes"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IIc-0007",
+    "domain": "II",
+    "subdomain": "II-c",
+    "task": "II-1-c",
+    "theory": "Eight Principles",
+    "stem": "A 52-year-old woman reports six months of night sweats, a feeling of heat in the palms and soles in the evening, a malar flush in the afternoon, a dry mouth at night with a desire for small sips, and restless sleep. The tongue is red and thin with no coating. The pulse is thin (thready) and rapid. Which of the following best characterizes the Heat in this patient?",
+    "options": {
+      "A": "Full Heat from an exterior pathogen penetrating the interior",
+      "B": "Full Heat from stagnation transforming into Fire",
+      "C": "false Heat masking underlying Cold",
+      "D": "Empty Heat from deficiency of Yin"
+    },
+    "correct": "D",
+    "explanation": "The Heat here is Empty Heat: deficient Yin fails to control Yang, so Heat appears at the Yin time of day (afternoon and night) in a mild, intermittent form. Night sweats, five-palm heat, malar flush, a dry mouth with a desire for only small sips, a red tongue with no coating and a thin-rapid pulse are the classic signs. The peeled tongue and thin pulse are the discriminating findings that separate Empty Heat from Full Heat.",
+    "distractorExplanations": {
+      "A": "Full Heat from a penetrated pathogen is acute, with high fever, intense thirst for large cold drinks, a thick yellow coating and a full-rapid pulse; this course is chronic with a peeled tongue and thin pulse.",
+      "B": "Fire from stagnation is also a Full Heat pattern with a red tongue bearing a yellow coating and a wiry-rapid, forceful pulse; the absent coating and thin pulse rule it out.",
+      "C": "False Heat with true Cold shows a pale tongue, cold limbs, a preference for warmth and a deep weak or floating-empty pulse; the red peeled tongue is a true Heat sign."
+    },
+    "learningObjective": "Differentiate Empty Heat from Full Heat using tongue coating, pulse strength and the character of thirst and heat.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "empty-heat",
+      "yin-deficiency",
+      "peeled-coating",
+      "thin-rapid-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "empty-heat",
+        "full-heat"
+      ],
+      "key": "Red tongue with no coating and a thin-rapid pulse mark Empty Heat; thick yellow coating and a full-rapid pulse mark Full Heat."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles: Empty-Heat"
+      },
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Tongue diagnosis: tongue without coating"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IIc-0008",
+    "domain": "II",
+    "subdomain": "II-c",
+    "task": "II-1-c",
+    "theory": "Eight Principles",
+    "stem": "A 24-year-old patient develops sudden, severe, cramping abdominal pain a few hours after eating a large quantity of iced food on a cold day. The pain is worse with pressure and is accompanied by vomiting of clear fluid and watery diarrhea. The patient feels cold and has no thirst. The tongue is pale with a thick white coating. The pulse is deep and tight. Which of the following best characterizes the Cold in this patient?",
+    "options": {
+      "A": "Empty Cold arising from deficiency of Yang",
+      "B": "Full Cold arising from a Cold pathogen lodged in the interior",
+      "C": "false Cold arising from Heat trapped in the interior",
+      "D": "Empty Cold arising from deficiency of Blood"
+    },
+    "correct": "B",
+    "explanation": "This is Full Cold: a Cold pathogen (iced food plus a cold day) has lodged directly in the interior and obstructs Yang Qi. The acute onset, severe cramping pain that is worse with pressure, thick white coating and a deep, tight pulse show a strong pathogenic factor with intact Upright Qi. Vomiting of clear fluid, watery diarrhea, feeling cold and absence of thirst confirm the Cold nature. Pain that worsens with pressure and a tight pulse are the discriminating findings against Empty Cold.",
+    "distractorExplanations": {
+      "A": "Empty Cold develops slowly from Yang deficiency, with dull pain relieved by pressure and warmth, a thin coating and a weak pulse. A learner who sees 'pale tongue' and 'cold' and assumes deficiency would choose this.",
+      "C": "True Heat with false Cold shows a red tongue with a dry yellow coating, thirst, constipation and a deep but forceful rapid pulse; here the tongue is pale, the coating white, and the pulse tight rather than rapid.",
+      "D": "Blood deficiency produces dizziness, pale lips, a thin pale tongue and a thin pulse; it does not produce acute cramping pain with a thick white coating."
+    },
+    "learningObjective": "Differentiate Full Cold from Empty Cold using onset, response to pressure, tongue coating and pulse.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "full-cold",
+      "empty-cold",
+      "tight-pulse",
+      "thick-white-coating"
+    ],
+    "distinction": {
+      "between": [
+        "full-cold",
+        "empty-cold"
+      ],
+      "key": "Acute severe pain worse with pressure, a thick white coating and a tight pulse mark Full Cold; chronic dull pain relieved by pressure with a weak pulse marks Empty Cold."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles: Full-Cold"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the Eight Principles: cold syndromes"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IIc-0009",
+    "domain": "II",
+    "subdomain": "II-c",
+    "task": "II-1-c",
+    "theory": "Eight Principles",
+    "stem": "A 45-year-old patient in the second week of a febrile illness has a high fever, a burning sensation in the chest and abdomen, foul-smelling constipation, scanty dark urine, and intermittent delirium. The hands and feet, however, are cold to the touch, and the patient pushes the bedcovers away. The tongue is deep red with a dry yellow coating. The pulse is deep, rapid, and forceful. Which of the following is the most appropriate interpretation of the cold extremities?",
+    "options": {
+      "A": "true Cold with false Heat",
+      "B": "exterior Cold with interior Heat",
+      "C": "collapse of Yang following excess Heat",
+      "D": "true Heat with false Cold"
+    },
+    "correct": "D",
+    "explanation": "This is true Heat with false Cold. Intense interior Heat (high fever, burning sensation, foul constipation, dark urine, delirium, a deep-red tongue with a dry yellow coating and a forceful rapid pulse) is trapped in the interior and blocks Yang Qi from reaching the limbs, so the extremities feel cold even though the disease is Heat. The tongue and the forceful pulse reveal the true nature, and the patient's rejection of covers confirms that the cold is only apparent.",
+    "distractorExplanations": {
+      "A": "True Cold with false Heat shows a pale moist tongue, a weak or floating-empty pulse, a desire to be covered and clear urine; the deep-red dry tongue and forceful pulse are true Heat signs. A learner who weights the cold limbs over the tongue and pulse would pick this.",
+      "B": "An exterior Cold pattern requires aversion to cold with a floating pulse; here the cold is limited to the extremities and the pulse is deep.",
+      "C": "Collapse of Yang would present with profuse cold sweat, a pale face, a pale tongue and a minute pulse, with the fever gone; this patient's pulse is forceful and the Heat signs are at their peak."
+    },
+    "learningObjective": "Recognize true Heat with false Cold by relying on tongue, pulse strength and the patient's attitude to warmth over limb temperature.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "true-heat-false-cold",
+      "full-heat",
+      "deep-red-tongue",
+      "forceful-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "true-heat-false-cold",
+        "true-cold-false-heat"
+      ],
+      "key": "A deep-red dry tongue with a forceful rapid pulse and rejection of covers shows the Heat is true and the cold limbs are false."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles: True-Heat False-Cold"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Differentiation according to the Eight Principles: true and false cold and heat"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IIc-0010",
+    "domain": "II",
+    "subdomain": "II-c",
+    "task": "II-1-c",
+    "theory": "Eight Principles",
+    "stem": "A 70-year-old patient with a long chronic illness reports a flush that comes and goes in patches on the cheeks, mild restlessness, and a sensation of heat in the face. The patient nevertheless prefers to be well covered, wants hot drinks in small sips, has clear copious urine and loose stools, and has cold legs. The tongue is pale and moist. The pulse is floating and empty, lacking root on deep pressure. Which of the following is most consistent with these findings?",
+    "options": {
+      "A": "Empty Heat from Yin deficiency",
+      "B": "true Heat with false Cold",
+      "C": "true Cold with false Heat",
+      "D": "Full Heat from Liver Fire rising"
+    },
+    "correct": "C",
+    "explanation": "This is true Cold with false Heat. Long-standing Yang deficiency has produced interior Cold (preference for covers, hot drinks, clear copious urine, loose stools, cold legs, pale moist tongue), and the exhausted Yang floats upward and outward, producing a patchy flush, restlessness and a floating empty pulse that collapses on pressure. The Heat signs are superficial and contradicted by the tongue, urine and the patient's desire for warmth, which reveal the true Cold nature.",
+    "distractorExplanations": {
+      "A": "Empty Heat from Yin deficiency shows a red peeled tongue, night sweats, a desire for cold sips and a thin-rapid pulse; the pale moist tongue and clear copious urine are incompatible with Yin deficiency. A learner who reads 'malar flush' as automatic Yin deficiency would pick this.",
+      "B": "True Heat with false Cold shows a deep-red dry tongue, dark urine, constipation and a forceful rapid pulse, with cold limbs only; here all the deep findings are Cold.",
+      "D": "Liver Fire rising shows a red face that is constant, a red tongue with a yellow coating, dark urine and a wiry-rapid forceful pulse; the pale tongue and rootless pulse rule it out."
+    },
+    "learningObjective": "Recognize true Cold with false Heat from a pale moist tongue, clear urine, desire for warmth and a rootless floating pulse despite facial flushing.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "true-cold-false-heat",
+      "empty-cold",
+      "yang-deficiency",
+      "floating-empty-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "true-cold-false-heat",
+        "empty-heat"
+      ],
+      "key": "A pale moist tongue, clear copious urine and a desire for warmth show the Cold is true; Empty Heat would show a red peeled tongue and a desire for cold sips."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles: True-Cold False-Heat"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Differentiation according to the Eight Principles: true and false cold and heat"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IIc-0011",
+    "domain": "II",
+    "subdomain": "II-c",
+    "task": "II-1-c",
+    "theory": "Eight Principles",
+    "stem": "A 47-year-old patient reports two years of tiredness, poor appetite, and loose stools, and in recent months heaviness of the limbs, a feeling of fullness in the epigastrium after meals, and a sticky taste. The tongue is pale and swollen with a thick, greasy white coating. The pulse is soggy (soft) and weak. In terms of Excess and Deficiency, this presentation is best characterized as which of the following?",
+    "options": {
+      "A": "a pure Deficiency pattern",
+      "B": "a pure Excess pattern",
+      "C": "a Deficiency pattern complicated by Excess",
+      "D": "an Excess pattern that has transformed into Deficiency"
+    },
+    "correct": "C",
+    "explanation": "This is a mixed pattern: Deficiency of Spleen Qi (tiredness, poor appetite, loose stools, pale swollen tongue, weak pulse) that has failed to transform fluids, so Dampness (an Excess pathogenic factor) has accumulated, producing heaviness, epigastric fullness, a sticky taste and a thick greasy coating. The Deficiency came first and generated the Excess; both are present now, so the pattern is Deficiency complicated by Excess and the clinician must address both aspects.",
+    "distractorExplanations": {
+      "A": "A pure Deficiency pattern would show a thin coating and no fullness or heaviness; the thick greasy coating and epigastric fullness are signs of an accumulated pathogenic factor. A learner who stops at the weak pulse would pick this.",
+      "B": "A pure Excess pattern would show a strong or slippery full pulse and a short history; the two-year course, tiredness and weak pulse show underlying Deficiency.",
+      "D": "The sequence is the reverse: the history shows Deficiency symptoms first, with the Excess (Dampness) appearing later as a consequence of impaired transformation."
+    },
+    "learningObjective": "Identify a mixed Deficiency-Excess pattern and state which aspect gave rise to the other.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "mixed-deficiency-excess",
+      "spleen-qi-deficiency",
+      "dampness",
+      "greasy-coating"
+    ],
+    "distinction": {
+      "between": [
+        "mixed-deficiency-excess",
+        "pure-deficiency"
+      ],
+      "key": "A thick greasy coating with epigastric fullness and heaviness on top of a weak pulse and chronic tiredness shows Excess layered on Deficiency."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles: combination of Full and Empty"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the Eight Principles: deficiency and excess"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IIc-0012",
+    "domain": "II",
+    "subdomain": "II-c",
+    "task": "II-1-c",
+    "theory": "Eight Principles",
+    "stem": "A 30-year-old patient caught a cold four days ago with chills, absence of sweating, and a thin white tongue coating. Today the aversion to cold has disappeared; the patient now has a high fever with sweating, thirst for cold drinks, and a cough with thick yellow sputum. The tongue is red with a yellow coating. The pulse is rapid. Which pathomechanism best explains the change?",
+    "options": {
+      "A": "the exterior Cold remains on the surface and has intensified",
+      "B": "the exterior Cold has penetrated the interior and transformed into Heat",
+      "C": "Wind-Heat was present from the beginning and is now fully expressed",
+      "D": "Yin deficiency has generated Empty Heat during the illness"
+    },
+    "correct": "B",
+    "explanation": "The initial picture (chills, no sweating, thin white coating) was exterior Cold. The disappearance of aversion to cold, with fever, sweating, thirst for cold drinks, yellow sputum, a red tongue with a yellow coating and a rapid pulse, shows the pathogen has moved inward and changed nature. Exterior Cold that is unresolved penetrates the interior and transforms into interior Heat, a classic Eight Principle transformation.",
+    "distractorExplanations": {
+      "A": "Cold remaining on the surface would still produce aversion to cold, absence of sweating and a white coating; all three have reversed.",
+      "C": "The first presentation had chills with a white coating and no sweating, which are Cold findings; Wind-Heat would have shown a sore throat, thirst and a floating-rapid pulse from the outset.",
+      "D": "Empty Heat is chronic, with a red peeled tongue, a thin-rapid pulse and low-grade evening fever; this is an acute high fever with a coated tongue and thick sputum."
+    },
+    "learningObjective": "Explain how an unresolved exterior Cold invasion penetrates the interior and transforms into Heat.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "exterior-cold-to-interior-heat",
+      "cold-transforming-to-heat",
+      "exterior-interior",
+      "yellow-coating"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles: Exterior-Interior transformation"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the Eight Principles: transformation of exterior and interior syndromes"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IIc-0013",
+    "domain": "II",
+    "subdomain": "II-c",
+    "task": "II-1-c",
+    "theory": "Eight Principles",
+    "stem": "A 38-year-old patient had ten days of high fever, profuse sweating, great thirst, and a full rapid pulse. Three weeks later the high fever has gone, but the patient reports a low-grade afternoon fever, dry mouth and throat, a dry cough, dry stools, and fatigue. The tongue is red and dry with a peeled coating. The pulse is thin and slightly rapid. Which of the following best describes the course of this disorder?",
+    "options": {
+      "A": "an Excess Heat pattern has consumed Yin and become a Deficiency pattern",
+      "B": "an Excess Heat pattern persists at the same depth",
+      "C": "a Deficiency pattern has generated an Excess pattern",
+      "D": "an exterior pattern has become an interior Excess pattern"
+    },
+    "correct": "A",
+    "explanation": "Ten days of Full Heat with profuse sweating and great thirst consumed Body Fluids and Yin. The present picture is Deficiency: low-grade afternoon fever, dryness of mouth, throat, cough and stools, fatigue, a red dry peeled tongue and a thin pulse are signs of Yin deficiency with Empty Heat. The transformation from Excess to Deficiency occurs when a strong pathogenic factor injures the Upright Qi, Fluids or Yin during its course.",
+    "distractorExplanations": {
+      "B": "Persistent Excess Heat would still show high fever, intense thirst, a thick yellow coating and a full pulse; the peeled tongue and thin pulse show the pathogen has receded and Yin is damaged.",
+      "C": "The sequence is reversed: the history began with a strong Excess Heat pattern and the Deficiency appeared afterwards as its consequence.",
+      "D": "The initial ten-day illness with profuse sweating and a full rapid pulse was already an interior Excess Heat pattern; the change in question is from Excess to Deficiency, not from exterior to interior."
+    },
+    "learningObjective": "Recognize the transformation of an Excess Heat pattern into a Yin-deficient (Deficiency) pattern after a febrile disease.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "excess-to-deficiency",
+      "yin-deficiency",
+      "empty-heat",
+      "peeled-coating"
+    ],
+    "distinction": {
+      "between": [
+        "excess-to-deficiency",
+        "full-heat"
+      ],
+      "key": "A red peeled dry tongue with a thin pulse and low-grade afternoon fever after a febrile disease marks Heat that has injured Yin."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles: Full-Empty transformation"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Differentiation according to the Eight Principles: deficiency and excess"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IIc-0014",
+    "domain": "II",
+    "subdomain": "II-c",
+    "task": "II-1-c",
+    "theory": "Eight Principles",
+    "stem": "A 44-year-old patient of robust constitution first presented, after weeks of damp cold weather and heavy meals, with epigastric fullness, loose stools, absence of thirst, a thick white greasy coating, and a soggy pulse. Two months later the patient reports a bitter sticky taste, thirst without desire to drink, foul-smelling burning diarrhea, and scanty dark urine. The tongue is red with a greasy yellow coating. The pulse is slippery and rapid. Which of the following best explains the change?",
+    "options": {
+      "A": "Yin deficiency has given rise to Empty Heat",
+      "B": "Cold-Damp has transformed into Damp-Heat through prolonged retention",
+      "C": "Spleen Yang deficiency has deepened into Kidney Yang deficiency",
+      "D": "Dampness has resolved and been replaced by exterior Wind-Heat"
+    },
+    "correct": "B",
+    "explanation": "The original pattern was Cold-Damp (fullness, loose stools, no thirst, white greasy coating, soggy pulse). Dampness retained for a long time in a patient with a robust Yang constitution stagnates and generates Heat, so the same greasy coating turns yellow and the stools, urine, taste and pulse acquire Heat qualities. This is the Eight Principle transformation of Cold into Heat; the persistence of the greasy coating shows the Dampness itself never left.",
+    "distractorExplanations": {
+      "A": "Empty Heat shows a red tongue with no coating and a thin-rapid pulse; a greasy yellow coating with a slippery pulse is a Full Damp-Heat finding.",
+      "C": "Deepening Yang deficiency would move toward more Cold (cold limbs, early-morning diarrhea, pale tongue, deep slow pulse), the opposite of the Heat signs that have appeared.",
+      "D": "Exterior Wind-Heat requires fever with aversion to wind and a floating pulse, and the greasy coating shows that Dampness is still present rather than resolved."
+    },
+    "learningObjective": "Recognize the transformation of a retained Cold-Damp pattern into Damp-Heat.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "cold-transforming-to-heat",
+      "cold-damp",
+      "damp-heat",
+      "greasy-yellow-coating"
+    ],
+    "distinction": {
+      "between": [
+        "damp-heat",
+        "cold-damp"
+      ],
+      "key": "The coating turns from white greasy to yellow greasy and the pulse from soggy to slippery-rapid as retained Dampness generates Heat."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles: Hot-Cold transformation"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the Eight Principles: transformation of cold and heat syndromes"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IIc-0015",
+    "domain": "II",
+    "subdomain": "II-c",
+    "task": "II-1-c",
+    "theory": "Eight Principles",
+    "stem": "Within the Eight Principles, which three principles are grouped under the Yang category?",
+    "options": {
+      "A": "exterior, Heat, Excess",
+      "B": "interior, Cold, Deficiency",
+      "C": "exterior, Cold, Deficiency",
+      "D": "interior, Heat, Excess"
+    },
+    "correct": "A",
+    "explanation": "Yin and Yang are the two general principles that summarize the other six. Exterior, Heat and Excess (Full) are Yang in nature, because they involve the surface, activity, warmth and a strong pathogenic factor. Interior, Cold and Deficiency (Empty) are Yin in nature. A pattern may be Yang on one axis and Yin on another; the overall Yin or Yang label expresses the predominant tendency.",
+    "distractorExplanations": {
+      "B": "Interior, Cold and Deficiency are the three Yin principles; a learner who reverses the categories would pick this.",
+      "C": "Exterior is Yang, but Cold and Deficiency are both Yin; this is a mixed set.",
+      "D": "Heat and Excess are Yang, but interior is Yin; this is a mixed set."
+    },
+    "learningObjective": "Identify which of the Eight Principles are summarized under Yang and which under Yin.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "eight-principles",
+      "yin-yang-classification"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles: Yin-Yang"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the Eight Principles: yin and yang"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IIc-0016",
+    "domain": "II",
+    "subdomain": "II-c",
+    "task": "II-1-c",
+    "theory": "Eight Principles",
+    "stem": "A 66-year-old patient is quiet and withdrawn, lies curled up, and speaks in a low, weak voice. The complexion is pale, the limbs are cold, the breathing is shallow, and the patient prefers warm drinks. The tongue is pale and moist. The pulse is deep, slow, and weak. In Eight Principle terms, this presentation is best summarized as which type of pattern?",
+    "options": {
+      "A": "Yang pattern",
+      "B": "exterior pattern",
+      "C": "Heat pattern",
+      "D": "Yin pattern"
+    },
+    "correct": "D",
+    "explanation": "Every finding falls on the Yin side of the Eight Principles: the disorder is interior (deep pulse, no exterior signs), Cold (cold limbs, preference for warm drinks, pale moist tongue, slow pulse) and Deficient (weak voice, shallow breathing, weak pulse, withdrawn behavior). Interior, Cold and Deficiency together constitute a Yin pattern, which is characterized by quietness, pallor, cold, and reduced activity.",
+    "distractorExplanations": {
+      "A": "A Yang pattern shows restlessness, a loud voice, a red complexion, heat signs and a rapid, forceful pulse; the opposite of every finding here.",
+      "B": "An exterior pattern requires fever with aversion to cold and a floating pulse; the deep pulse and chronic withdrawn state are interior.",
+      "C": "A Heat pattern shows a red tongue, thirst for cold drinks and a rapid pulse; here the tongue is pale and moist and the pulse is slow."
+    },
+    "learningObjective": "Summarize a presentation that is interior, Cold and Deficient as a Yin pattern.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "yin-pattern",
+      "yin-yang-classification",
+      "empty-cold",
+      "deep-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "yin-pattern",
+        "yang-pattern"
+      ],
+      "key": "Quiet withdrawn behavior, pallor, cold, a pale moist tongue and a deep slow weak pulse summarize as Yin; restlessness, redness, heat and a rapid forceful pulse summarize as Yang."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles: Yin-Yang"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Differentiation according to the Eight Principles: yin and yang"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IIc-0017",
+    "domain": "II",
+    "subdomain": "II-c",
+    "task": "II-1-c",
+    "theory": "Eight Principles",
+    "stem": "In a patient with fever, which finding most strongly indicates that the pattern is still on the exterior rather than in the interior?",
+    "options": {
+      "A": "aversion to cold occurring at the same time as the fever",
+      "B": "a high fever that persists throughout the whole day",
+      "C": "thirst with a strong desire for cold drinks",
+      "D": "sweating that is profuse and relieves the fever"
+    },
+    "correct": "A",
+    "explanation": "Fever and aversion to cold occurring together is the defining sign of an exterior pattern: the pathogenic factor on the surface obstructs Wei Qi, which can neither warm the skin (aversion to cold) nor disperse normally (fever). Once the pathogen enters the interior, aversion to cold disappears and the patient has fever alone, often with aversion to heat. The height of the fever, thirst and sweating can occur in either exterior or interior patterns and do not discriminate.",
+    "distractorExplanations": {
+      "B": "A high fever can be exterior (Wind-Heat) or interior (Qi level Heat); temperature alone says nothing about depth. A learner who equates severity with depth would pick this.",
+      "C": "Thirst occurs in exterior Wind-Heat and in interior Heat; it indicates Heat, not location.",
+      "D": "Sweating is present in exterior Deficiency (Wind invasion with sweating) and in interior Heat; it distinguishes Excess from Deficiency on the exterior, not exterior from interior."
+    },
+    "learningObjective": "Identify simultaneous fever and aversion to cold as the key sign of an exterior pattern.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": false,
+    "concepts": [
+      "exterior-pattern",
+      "exterior-interior",
+      "aversion-to-cold"
+    ],
+    "distinction": {
+      "between": [
+        "exterior-pattern",
+        "interior-pattern"
+      ],
+      "key": "Fever with simultaneous aversion to cold is exterior; fever alone with aversion to heat is interior."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles: Exterior patterns"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the Eight Principles: exterior and interior"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IIc-0018",
+    "domain": "II",
+    "subdomain": "II-c",
+    "task": "II-1-c",
+    "theory": "Eight Principles",
+    "stem": "Which of the following findings most strongly supports classifying a pattern as Cold rather than Heat?",
+    "options": {
+      "A": "dark, scanty urine",
+      "B": "thirst with a desire for cold drinks",
+      "C": "clear, copious urine",
+      "D": "a red complexion"
+    },
+    "correct": "C",
+    "explanation": "Clear, copious urine is a reliable Cold sign: without sufficient Yang warmth, fluids are neither transformed nor concentrated and pass out pale and abundant. The Heat/Cold axis is read from thirst, color of urine and stools, complexion, preference for warm or cold drinks, tongue color and pulse rate; dark urine, thirst for cold drinks and a red face all sit on the Heat side.",
+    "distractorExplanations": {
+      "A": "Dark, scanty urine shows Heat condensing the fluids; it is the opposite of the Cold finding.",
+      "B": "Thirst with a desire for cold drinks is a Heat sign; a Cold pattern shows absence of thirst or a preference for warm drinks.",
+      "D": "A red complexion indicates Heat (or false Heat); Cold patterns show a pale or bright-white complexion."
+    },
+    "learningObjective": "Identify urine color and volume as a discriminating sign between Cold and Heat patterns.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "heat-cold",
+      "eight-principles",
+      "clear-copious-urine"
+    ],
+    "distinction": {
+      "between": [
+        "cold-pattern",
+        "heat-pattern"
+      ],
+      "key": "Clear copious urine, absence of thirst and a pale face mark Cold; dark scanty urine, thirst for cold drinks and a red face mark Heat."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles: Hot-Cold"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the Eight Principles: cold and heat"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IIc-0019",
+    "domain": "II",
+    "subdomain": "II-c",
+    "task": "II-1-c",
+    "theory": "Eight Principles",
+    "stem": "A patient reports abdominal pain. Which characteristic of the pain most strongly supports classifying the pattern as Excess rather than Deficiency?",
+    "options": {
+      "A": "the pain is relieved by pressure",
+      "B": "the pain is dull and intermittent",
+      "C": "the pain is relieved by eating",
+      "D": "the pain is aggravated by pressure"
+    },
+    "correct": "D",
+    "explanation": "In an Excess pattern a pathogenic factor (Cold, Heat, Food, Dampness, stagnant Qi or Blood) obstructs the interior, so pressure adds to the obstruction and worsens the pain; the patient resists palpation. In a Deficiency pattern the pain comes from lack of nourishment or warmth, so pressure, warmth and eating bring relief and the pain is dull and intermittent. Response to pressure is the classic Excess/Deficiency discriminator in inquiry and palpation.",
+    "distractorExplanations": {
+      "A": "Pain relieved by pressure indicates Deficiency, because pressure supports the weakened Qi.",
+      "B": "Dull, intermittent pain is typical of Deficiency; Excess pain is severe, sharp or distending and more constant.",
+      "C": "Pain relieved by eating points to Deficiency of Stomach and Spleen Qi; Excess pain, as in Retention of Food, is worse after eating."
+    },
+    "learningObjective": "Use response to pressure to differentiate Excess from Deficiency in a pain presentation.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": false,
+    "concepts": [
+      "excess-deficiency",
+      "eight-principles",
+      "pain-response-to-pressure"
+    ],
+    "distinction": {
+      "between": [
+        "excess-pattern",
+        "deficiency-pattern"
+      ],
+      "key": "Pain worse with pressure marks Excess; pain relieved by pressure marks Deficiency."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles: Full-Empty"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Inquiry: pain"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IId-0001",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A patient catches colds easily and sweats spontaneously during the day without exertion. These findings most directly reflect weakness of which type of Qi?",
+    "options": {
+      "A": "Yuan Qi",
+      "B": "Wei Qi",
+      "C": "Ying Qi",
+      "D": "Zong Qi"
+    },
+    "correct": "B",
+    "explanation": "Wei Qi (Defensive Qi) circulates outside the vessels in the skin and muscles, warms the surface, protects against exterior pathogenic factors, and regulates the opening and closing of the pores. When it is weak, pathogens invade easily (frequent colds) and the pores fail to close, so sweat leaks out spontaneously in the daytime.",
+    "distractorExplanations": {
+      "A": "Yuan Qi (Original Qi) is rooted in the Kidney and is the motive force for all organ activity; its weakness shows as developmental, reproductive or deep constitutional weakness rather than susceptibility to colds.",
+      "C": "Ying Qi (Nutritive Qi) circulates inside the vessels with Blood and nourishes the organs; it is not responsible for defending the surface or closing the pores.",
+      "D": "Zong Qi (Gathering Qi) accumulates in the chest and governs respiration, voice and the Heart's circulation of Blood; its weakness shows as a weak voice and shortness of breath."
+    },
+    "learningObjective": "Identify frequent colds and spontaneous daytime sweating as manifestations of Wei Qi weakness.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": false,
+    "concepts": [
+      "wei-qi",
+      "types-of-qi",
+      "spontaneous-sweating"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Qi: Defensive Qi"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Qi, Blood and Body Fluid: classification and functions of Qi"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IId-0002",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "Which type of Qi accumulates in the chest, promotes respiration and the circulation of Blood by the Heart, and when deficient produces a weak voice and a feeble pulse?",
+    "options": {
+      "A": "Wei Qi",
+      "B": "Gu Qi",
+      "C": "Zong Qi",
+      "D": "Zhen Qi"
+    },
+    "correct": "C",
+    "explanation": "Zong Qi (Gathering Qi) is formed from Gu Qi and the clear Qi of air, accumulates in the chest, and controls the Lung's respiration and the Heart's propulsion of Blood. Deficiency of Zong Qi therefore produces a weak voice, shortness of breath, a feeble pulse and sometimes cold hands.",
+    "distractorExplanations": {
+      "A": "Wei Qi circulates at the surface to protect and warm the body and regulate the pores; it does not govern voice or the heartbeat.",
+      "B": "Gu Qi (Food Qi) is the first product of digestion by the Spleen and rises to the chest to form Zong Qi and Blood; it is a precursor rather than the Qi that drives respiration and circulation.",
+      "D": "Zhen Qi (True Qi) is the final form of Qi after Zong Qi is catalyzed by Yuan Qi; it divides into Ying and Wei and is not specifically localized in the chest."
+    },
+    "learningObjective": "Identify Zong Qi by its location, functions and the clinical signs of its deficiency.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "zong-qi",
+      "types-of-qi",
+      "weak-voice"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Qi: Gathering Qi"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Qi, Blood and Body Fluid: classification and functions of Qi"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IId-0003",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "Which of the following statements best describes the Ye component of the Body Fluids?",
+    "options": {
+      "A": "light and clear, circulating with Wei Qi to moisten the skin and muscles",
+      "B": "turbid and heavy, nourishing the joints, spine, brain and bone marrow",
+      "C": "transformed into sweat and urine under the control of the Lung and Bladder",
+      "D": "entering the vessels to thin the Blood and keep it flowing"
+    },
+    "correct": "B",
+    "explanation": "The Body Fluids (Jin Ye) are divided into Jin and Ye. Ye are the thicker, heavier, more Yin fluids that move slowly, lubricate the joints and spine, moisten the brain and bone marrow, and nourish the sense orifices. Pathology of Ye therefore appears as stiffness and dryness of the joints, dizziness and dryness of the orifices in chronic Yin-deficient or Fluid-deficient conditions.",
+    "distractorExplanations": {
+      "A": "Light, clear fluids that circulate with Wei Qi to moisten skin and muscles are the Jin; a learner who reverses Jin and Ye would pick this.",
+      "C": "Jin are the fluids that become sweat and urine; Ye are too thick and deep to be excreted in this way.",
+      "D": "The fluid that enters the vessels to thin the Blood is derived from Jin; Ye nourish deeper structures rather than the Blood."
+    },
+    "learningObjective": "Differentiate Jin from Ye by consistency, distribution and function.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "jin-ye",
+      "body-fluids"
+    ],
+    "distinction": {
+      "between": [
+        "jin",
+        "ye"
+      ],
+      "key": "Jin are thin, superficial and become sweat and urine; Ye are thick, deep and lubricate joints, brain and marrow."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Body Fluids: Jin and Ye"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Qi, Blood and Body Fluid: Body Fluid"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IId-0004",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 39-year-old woman reports heavy, prolonged menstrual bleeding of pale, thin blood for four cycles, with tiredness, shortness of breath, a pale complexion, and easy bruising. The tongue is pale. The pulse is weak. Which relationship between Qi and Blood best explains the bleeding?",
+    "options": {
+      "A": "Qi fails to hold the Blood within the vessels",
+      "B": "Qi fails to move the Blood, producing stasis",
+      "C": "Heat in the Blood drives the Blood out recklessly",
+      "D": "Blood fails to nourish and anchor the Qi"
+    },
+    "correct": "A",
+    "explanation": "One of the functions of Qi is to hold (contain) the Blood in the vessels; the Spleen in particular governs this. When Qi is deficient (tiredness, shortness of breath, pale complexion, weak pulse), it can no longer contain the Blood, so bleeding is chronic, pale and thin, and bruising occurs easily. The pale color of the blood and the deficiency signs are the discriminating findings against bleeding caused by Heat.",
+    "distractorExplanations": {
+      "B": "Failure to move Blood produces stasis with fixed pain, dark clotted blood and a purple tongue; this patient's bleeding is pale and thin with no stasis signs.",
+      "C": "Blood Heat causes bleeding of bright-red, profuse blood with a red tongue and a rapid pulse; here the tongue is pale and the pulse weak. A learner who assumes all heavy bleeding is Heat would pick this.",
+      "D": "Blood failing to anchor Qi describes Qi collapse after massive hemorrhage; here Qi deficiency is the cause of the bleeding, not its result."
+    },
+    "learningObjective": "Explain chronic pale bleeding with deficiency signs through the holding function of Qi.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": true,
+    "concepts": [
+      "qi-holds-blood",
+      "qi-deficiency",
+      "qi-blood-relationship"
+    ],
+    "distinction": {
+      "between": [
+        "qi-not-holding-blood",
+        "blood-heat"
+      ],
+      "key": "Pale thin bleeding with tiredness, a pale tongue and a weak pulse marks Qi failing to hold Blood; bright-red profuse bleeding with a red tongue and rapid pulse marks Blood Heat."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Blood: relationship between Qi and Blood"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Qi, Blood and Body Fluid: relationship between Qi and Blood"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IId-0005",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 31-year-old woman had a sudden, massive hemorrhage after childbirth. Within minutes she became pale and faint, drenched in cold sweat, with shallow breathing and cold limbs. The tongue is pale. The pulse is minute (faint) and barely perceptible. Which pathomechanism best explains the sudden shortness of breath, sweating, and cold limbs?",
+    "options": {
+      "A": "Blood stasis obstructs the chest and blocks the circulation of Qi",
+      "B": "Qi stagnation forces the Blood out of the vessels",
+      "C": "Qi collapses along with the lost Blood, because Blood is the mother of Qi",
+      "D": "Heat in the Blood scatters the Qi outward through the pores"
+    },
+    "correct": "C",
+    "explanation": "Blood is the mother of Qi: it provides the material basis and carrier for Qi. When a large volume of Blood is lost suddenly, the Qi that it carried escapes with it, producing collapse of Qi (and Yang): faintness, shallow breathing, cold sweat, cold limbs and a minute pulse. The sweating and cold limbs are signs of Qi and Yang collapse secondary to the hemorrhage, which is why the acute treatment priority is to rescue Qi rather than simply replenish Blood.",
+    "distractorExplanations": {
+      "A": "Blood stasis in the chest produces fixed stabbing chest pain, a purple tongue and a choppy pulse; the sudden collapse with a pale tongue and a minute pulse is a deficiency emergency, not an obstruction.",
+      "B": "Qi stagnation does not cause Blood to leave the vessels; and stagnation shows a wiry pulse and distension rather than a faint pulse and collapse.",
+      "D": "Blood Heat causes bleeding, but its signs are a red tongue, a rapid pulse and heat; the pale tongue, cold sweat and cold limbs rule out Heat."
+    },
+    "learningObjective": "Explain collapse of Qi after acute hemorrhage through the principle that Blood is the mother of Qi.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "blood-mother-of-qi",
+      "qi-collapse",
+      "minute-pulse",
+      "qi-blood-relationship"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Blood: Blood is the mother of Qi"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Qi, Blood and Body Fluid: relationship between Qi and Blood"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IId-0006",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 36-year-old landscaper sweated heavily for two weeks while working outdoors during a heat wave. He now reports palpitations, dizziness on standing, blurred vision, and poor sleep. His lips and nails are pale. The tongue is pale and slightly dry. The pulse is thin (thready). Which relationship best explains these findings?",
+    "options": {
+      "A": "Dampness generated by the humid weather has obstructed the Blood",
+      "B": "Summer-Heat has entered the Blood level and is scorching the Blood",
+      "C": "Qi has sunk after prolonged exertion and fails to carry Blood to the head",
+      "D": "Fluids and Blood share a common source, so heavy loss of sweat has depleted the Blood"
+    },
+    "correct": "D",
+    "explanation": "Sweat is a Body Fluid, and Body Fluids and Blood share the same source (both derive from Gu Qi and the fluids extracted by the Spleen; fluids enter the vessels to form part of Blood). Prolonged heavy sweating drains the fluid portion of Blood, producing Blood deficiency: palpitations (Heart Blood), dizziness and blurred vision (Blood failing to reach the head and eyes), poor sleep (Blood failing to house the Shen), pale lips and nails, a pale dry tongue and a thin pulse. The clinical corollary is that sweating methods are used cautiously in Blood-deficient patients.",
+    "distractorExplanations": {
+      "A": "Dampness would show heaviness, a greasy coating and a soggy or slippery pulse; there is no Dampness sign here and the tongue is dry rather than greasy.",
+      "B": "Summer-Heat in the Blood level produces high fever, a deep-red tongue, bleeding and a rapid pulse; this patient has a pale tongue and a thin pulse with no Heat.",
+      "C": "Qi sinking shows bearing-down sensations, prolapse or chronic diarrhea; the pale lips and nails, blurred vision and thin pulse point to Blood deficiency rather than sinking Qi."
+    },
+    "learningObjective": "Explain Blood deficiency following prolonged heavy sweating through the shared source of Fluids and Blood.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "sweat-and-blood",
+      "fluids-blood-common-source",
+      "blood-deficiency",
+      "thin-pulse"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Body Fluids: relationship between Body Fluids and Blood"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Qi, Blood and Body Fluid: relationship between Blood and Body Fluid"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IId-0007",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "The Spleen fails to turn ingested fluids into usable Body Fluids and refined essence, and the untransformed fluids gather as Dampness. This process illustrates impairment of which function of Qi?",
+    "options": {
+      "A": "holding",
+      "B": "transforming",
+      "C": "raising",
+      "D": "protecting"
+    },
+    "correct": "B",
+    "explanation": "Among the functions of Qi (transforming, transporting, holding, raising, protecting and warming), the transforming function is the one by which Qi changes food and drink into Gu Qi, Blood and Body Fluids and separates clear from turbid. When this Qi transformation of fluids is weak, fluids are neither refined nor moved on and accumulate as Dampness, Phlegm or edema. This is the mechanism summarized as 'Qi transforms Fluids'.",
+    "distractorExplanations": {
+      "A": "The holding function keeps Blood in the vessels and fluids (sweat, urine) in place; its failure produces bleeding or leakage, not accumulation of Dampness.",
+      "C": "The raising function keeps organs in place and sends clear Qi upward; its failure produces prolapse and bearing-down sensations.",
+      "D": "The protecting function belongs to Wei Qi at the surface; its failure produces susceptibility to exterior pathogens."
+    },
+    "learningObjective": "Relate the transforming function of Qi to the formation of Dampness when fluid transformation fails.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": false,
+    "concepts": [
+      "qi-transforms-fluids",
+      "functions-of-qi",
+      "dampness"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Qi: functions of Qi"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Qi, Blood and Body Fluid: functions of Qi"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IId-0008",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 42-year-old patient reports four months of tiredness that is worse in the afternoon, shortness of breath when climbing stairs, a low weak voice, sweating on mild exertion, and reduced appetite. The limbs are warm. The tongue is pale with a thin white coating. The pulse is empty (deficient). Which of the following is the most appropriate pattern?",
+    "options": {
+      "A": "Yang deficiency",
+      "B": "Qi deficiency",
+      "C": "Blood deficiency",
+      "D": "Qi sinking"
+    },
+    "correct": "B",
+    "explanation": "Tiredness, shortness of breath on exertion, a weak voice, spontaneous or exertional sweating, poor appetite, a pale tongue and an empty pulse are the general signs of Qi deficiency, reflecting weakness of the Spleen and Lung in producing and governing Qi. The warm limbs are the discriminating finding: they show that Qi, rather than Yang, is deficient, since Yang deficiency adds cold signs to the same picture.",
+    "distractorExplanations": {
+      "A": "Yang deficiency includes all Qi deficiency signs plus cold limbs, aversion to cold, a wet swollen tongue and a slow pulse; the warm limbs rule it out. A learner who treats Qi and Yang deficiency as interchangeable would pick this.",
+      "C": "Blood deficiency shows dizziness, blurred vision, pale lips, numbness and a thin pulse rather than breathlessness, weak voice and sweating.",
+      "D": "Qi sinking requires bearing-down sensations, prolapse or chronic diarrhea in addition to Qi deficiency signs; none is present."
+    },
+    "learningObjective": "Differentiate Qi deficiency from Yang deficiency using the presence or absence of cold signs.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "qi-deficiency",
+      "yang-deficiency",
+      "empty-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "qi-deficiency",
+        "yang-deficiency"
+      ],
+      "key": "Qi deficiency shows tiredness, breathlessness and a weak pulse with warm limbs; Yang deficiency adds cold limbs, aversion to cold and a slow pulse."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to Qi, Blood and Body Fluids: Qi deficiency"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of qi and blood: deficiency of qi"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IId-0009",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 61-year-old woman reports a bearing-down sensation in the lower abdomen that worsens after standing for long periods, chronic loose stools, urinary frequency with dribbling after urination, and tiredness. Examination reveals a uterine prolapse. The tongue is pale. The pulse is weak. Which of the following is the most appropriate pattern?",
+    "options": {
+      "A": "Qi deficiency",
+      "B": "Qi stagnation",
+      "C": "Qi sinking",
+      "D": "Blood deficiency"
+    },
+    "correct": "C",
+    "explanation": "Qi sinking is a variety of Qi deficiency in which the raising function of Qi (especially Spleen Qi) fails, so the organs are no longer held in place. The bearing-down sensation worse on standing, uterine prolapse, chronic loose stools and post-urination dribbling, on a background of tiredness, a pale tongue and a weak pulse, are its defining signs. The prolapse and bearing-down sensation are the discriminating findings that separate sinking from simple Qi deficiency.",
+    "distractorExplanations": {
+      "A": "Simple Qi deficiency explains the tiredness and weak pulse but not the prolapse and bearing-down sensation, which require failure of the raising function.",
+      "B": "Qi stagnation produces distension that moves and varies with emotion, with a wiry pulse; this patient's pulse is weak and the sensation is of dropping rather than distension.",
+      "D": "Blood deficiency shows dizziness, blurred vision, pale lips and a thin pulse; it does not cause organ prolapse."
+    },
+    "learningObjective": "Differentiate Qi sinking from Qi deficiency by the presence of prolapse and bearing-down sensations.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "qi-sinking",
+      "qi-deficiency",
+      "prolapse"
+    ],
+    "distinction": {
+      "between": [
+        "qi-sinking",
+        "qi-deficiency"
+      ],
+      "key": "Prolapse and a bearing-down sensation on a Qi-deficient background mark Qi sinking."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to Qi, Blood and Body Fluids: Qi sinking"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of qi and blood: sinking of qi"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IId-0010",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 34-year-old patient reports abdominal and hypochondrial distension and pain that moves from place to place, comes and goes with emotional upset, and eases after belching or passing gas. Appetite fluctuates. The tongue is normal in color. The pulse is wiry. Which of the following is the most appropriate pattern?",
+    "options": {
+      "A": "Blood stasis",
+      "B": "Qi rebellion",
+      "C": "Retention of Food in the Stomach",
+      "D": "Qi stagnation"
+    },
+    "correct": "D",
+    "explanation": "Qi stagnation produces distension more than pain, in a location that moves and changes with emotional state, relieved when Qi moves (belching, passing gas, sighing), with a wiry pulse and a tongue that is often unchanged in color because the Blood is not yet affected. The moving quality of the discomfort and the normal tongue color are the discriminating findings against Blood stasis.",
+    "distractorExplanations": {
+      "A": "Blood stasis causes fixed, stabbing pain that is worse at night and worse with pressure, with a purple tongue and a choppy pulse; this pain moves and the tongue is normal. A learner who hears 'pain' and jumps to stasis would pick this.",
+      "B": "Qi rebellion produces symptoms of Qi moving in the wrong direction, such as vomiting, hiccup, cough or wheezing, rather than distension that moves around.",
+      "C": "Retention of Food produces fixed epigastric fullness after overeating, sour regurgitation, foul belching and a thick greasy coating; here the distension varies with emotion and the tongue is normal."
+    },
+    "learningObjective": "Differentiate Qi stagnation from Blood stasis by the moving, emotion-linked character of distension and the normal tongue color.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "qi-stagnation",
+      "blood-stasis",
+      "wiry-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "qi-stagnation",
+        "blood-stasis"
+      ],
+      "key": "Distension that moves and varies with emotion, with a wiry pulse and normal tongue, marks Qi stagnation; fixed stabbing pain with a purple tongue and choppy pulse marks Blood stasis."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to Qi, Blood and Body Fluids: Qi stagnation"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of qi and blood: stagnation of qi"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IId-0011",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "Which pair of symptoms most directly reflects rebellious Qi?",
+    "options": {
+      "A": "cough and hiccup",
+      "B": "prolapse and chronic diarrhea",
+      "C": "distension and frequent sighing",
+      "D": "tiredness and spontaneous sweating"
+    },
+    "correct": "A",
+    "explanation": "Rebellious Qi is Qi flowing counter to its normal direction. Lung Qi should descend; when it rebels upward it produces cough and wheezing. Stomach Qi should descend; when it rebels upward it produces hiccup, belching, nausea and vomiting. Cough and hiccup together are therefore the pair that directly expresses Qi rebellion.",
+    "distractorExplanations": {
+      "B": "Prolapse and chronic diarrhea reflect Qi sinking, the failure of the raising function.",
+      "C": "Distension and sighing reflect Qi stagnation, in which Qi fails to move smoothly rather than moving in the wrong direction.",
+      "D": "Tiredness and spontaneous sweating reflect Qi deficiency, a lack of Qi rather than a disorder of its direction."
+    },
+    "learningObjective": "Identify the clinical expressions of Qi rebellion and distinguish them from Qi deficiency, sinking and stagnation.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": false,
+    "concepts": [
+      "qi-rebellion",
+      "qi-pathology",
+      "qi-sinking"
+    ],
+    "distinction": {
+      "between": [
+        "qi-rebellion",
+        "qi-stagnation"
+      ],
+      "key": "Rebellion is Qi moving in the wrong direction (cough, vomiting, hiccup); stagnation is Qi failing to move (distension, sighing)."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to Qi, Blood and Body Fluids: rebellious Qi"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of qi and blood: perversion of qi"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IId-0012",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 27-year-old woman reports dizziness, blurred vision, numbness of the hands, difficulty falling asleep, and scanty, light-colored periods. Her complexion is pale and dull and her lips are pale. She has no thirst and no night sweats. The tongue is pale and thin. The pulse is thin (thready). Which of the following is the most appropriate pattern?",
+    "options": {
+      "A": "Yin deficiency",
+      "B": "Qi deficiency",
+      "C": "Blood deficiency",
+      "D": "Blood stasis"
+    },
+    "correct": "C",
+    "explanation": "Blood deficiency produces failure of nourishment: dizziness and blurred vision (Blood failing to reach the head and eyes), numbness (Blood failing to nourish the channels), difficulty falling asleep (Blood failing to root the Shen), scanty pale periods, a pale dull complexion, pale lips, a pale thin tongue and a thin pulse. The absence of thirst, night sweats and other heat signs, together with the pale rather than red tongue, is the discriminating finding against Yin deficiency.",
+    "distractorExplanations": {
+      "A": "Yin deficiency shares the dizziness and insomnia but adds Empty Heat signs: night sweats, five-palm heat, a dry mouth, a red peeled tongue and a thin-rapid pulse. A learner who reads 'thin pulse' as automatic Yin deficiency would pick this.",
+      "B": "Qi deficiency shows tiredness, breathlessness, a weak voice and sweating with an empty pulse; it does not produce the pale lips, numbness and blurred vision of failed nourishment.",
+      "D": "Blood stasis shows fixed stabbing pain, dark clotted periods and a purple tongue with a choppy pulse; the periods here are scanty and pale and the tongue pale."
+    },
+    "learningObjective": "Differentiate Blood deficiency from Yin deficiency by the absence of Empty Heat signs and the pale tongue.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "blood-deficiency",
+      "yin-deficiency",
+      "thin-pulse",
+      "pale-tongue"
+    ],
+    "distinction": {
+      "between": [
+        "blood-deficiency",
+        "yin-deficiency"
+      ],
+      "key": "A pale tongue with no heat signs marks Blood deficiency; a red peeled tongue with night sweats and five-palm heat marks Yin deficiency."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to Qi, Blood and Body Fluids: Blood deficiency"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of qi and blood: deficiency of blood"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IId-0013",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 48-year-old patient reports a stabbing pain in a fixed location in the lower abdomen for several months, worse at night and worse with pressure, with dark menstrual blood containing clots and a dusky complexion. The tongue is purple with dark spots and distended sublingual veins. The pulse is choppy. Which of the following is the most appropriate pattern?",
+    "options": {
+      "A": "Blood stasis",
+      "B": "Qi stagnation",
+      "C": "Blood Cold",
+      "D": "Blood deficiency"
+    },
+    "correct": "A",
+    "explanation": "Blood stasis produces pain that is stabbing, fixed, worse at night (when Blood returns to the interior and moves less) and worse with pressure, with dark clotted menstrual blood, a dusky complexion, a purple tongue with stasis spots and distended sublingual veins, and a choppy pulse. The purple tongue with distended sublingual veins and the fixed stabbing quality of the pain are the discriminating findings.",
+    "distractorExplanations": {
+      "B": "Qi stagnation causes distension rather than stabbing pain, moving rather than fixed, with a wiry pulse and a tongue of normal color.",
+      "C": "Blood Cold also produces clots and pain, but the pain is cramping, relieved by warmth, with cold limbs, a pale tongue and a deep tight pulse; nothing here points to Cold. A learner who associates clots only with Cold would pick this.",
+      "D": "Blood deficiency shows dizziness, scanty pale periods, a pale thin tongue and a thin pulse, with no pain of a stabbing character."
+    },
+    "learningObjective": "Identify Blood stasis from fixed stabbing pain, dark clotted blood, a purple tongue and a choppy pulse.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "blood-stasis",
+      "purple-tongue",
+      "choppy-pulse",
+      "sublingual-veins"
+    ],
+    "distinction": {
+      "between": [
+        "blood-stasis",
+        "qi-stagnation"
+      ],
+      "key": "Fixed stabbing pain with a purple tongue and choppy pulse marks Blood stasis; moving distension with a normal tongue and wiry pulse marks Qi stagnation."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to Qi, Blood and Body Fluids: Blood stasis"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of qi and blood: stagnation of blood"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IId-0014",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 22-year-old patient reports recurrent nosebleeds of bright-red blood, itchy red skin eruptions, heavy periods, a subjective feeling of heat, mental restlessness, and thirst. The tongue is red. The pulse is rapid. Which of the following is the most appropriate pattern?",
+    "options": {
+      "A": "Blood deficiency",
+      "B": "Blood Heat",
+      "C": "Blood stasis",
+      "D": "Blood Cold"
+    },
+    "correct": "B",
+    "explanation": "Heat in the Blood accelerates and agitates the Blood, forcing it out of the vessels (bright-red nosebleeds, heavy periods), erupting at the skin (red itchy eruptions) and disturbing the Shen (restlessness), with a feeling of heat, thirst, a red tongue and a rapid pulse. The bright-red color of the bleeding together with the red tongue and rapid pulse is the discriminating finding.",
+    "distractorExplanations": {
+      "A": "Blood deficiency shows a pale tongue, pale lips and a thin pulse, and bleeding from deficiency (Qi failing to hold Blood) is pale and thin rather than bright red.",
+      "C": "Blood stasis causes dark, clotted bleeding with fixed pain and a purple tongue; the bright-red bleeding and red tongue show Heat rather than stasis.",
+      "D": "Blood Cold produces cramping pain relieved by warmth, scanty dark menses, cold limbs, a pale tongue and a slow or tight pulse, the opposite of every finding here."
+    },
+    "learningObjective": "Identify Blood Heat from bright-red bleeding, red skin eruptions, restlessness, a red tongue and a rapid pulse.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "blood-heat",
+      "bleeding",
+      "red-tongue",
+      "rapid-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "blood-heat",
+        "blood-stasis"
+      ],
+      "key": "Bright-red bleeding with a red tongue and rapid pulse marks Blood Heat; dark clotted bleeding with a purple tongue and choppy pulse marks Blood stasis."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to Qi, Blood and Body Fluids: Blood Heat"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of qi and blood: heat in the blood"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IId-0015",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 25-year-old woman reports painful periods with a cramping, cold sensation in the lower abdomen that is markedly relieved by a hot-water bottle, scanty dark menstrual flow with small clots, cold hands and feet, and a preference for warm drinks. The tongue is pale with a bluish-purple tinge. The pulse is deep and tight. Which of the following is the most appropriate pattern?",
+    "options": {
+      "A": "Blood stasis",
+      "B": "Blood deficiency",
+      "C": "Blood Heat",
+      "D": "Blood Cold"
+    },
+    "correct": "D",
+    "explanation": "Cold in the Blood (Cold in the Uterus) congeals the Blood and contracts the vessels: cramping cold pain that is relieved by warmth, scanty dark menses with small clots, cold limbs, a preference for warm drinks, a pale tongue with a bluish tinge and a deep tight pulse. The marked relief by warmth together with the tight pulse and pale-bluish tongue is the discriminating finding against Blood stasis, in which clots and pain are present but without the Cold signs.",
+    "distractorExplanations": {
+      "A": "Blood stasis alone causes fixed stabbing pain with a purple tongue and a choppy pulse, without the cold sensation, relief by warmth and tight pulse that identify Cold as the cause of the congealing. A learner who stops at 'clots' would pick this.",
+      "B": "Blood deficiency produces scanty pale periods with dull pain after the period, dizziness and a thin pulse; cramping pain with clots and a tight pulse is an Excess finding.",
+      "C": "Blood Heat produces heavy bright-red periods, a feeling of heat, a red tongue and a rapid pulse; every finding here is Cold."
+    },
+    "learningObjective": "Differentiate Blood Cold from Blood stasis by the cold sensation, relief with warmth, bluish-pale tongue and tight pulse.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "blood-cold",
+      "blood-stasis",
+      "tight-pulse",
+      "dysmenorrhea"
+    ],
+    "distinction": {
+      "between": [
+        "blood-cold",
+        "blood-stasis"
+      ],
+      "key": "Cramping pain relieved by warmth with cold limbs, a pale-bluish tongue and a tight pulse marks Blood Cold; fixed stabbing pain with a purple tongue and choppy pulse marks Blood stasis."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to Qi, Blood and Body Fluids: Blood Cold"
+      },
+      {
+        "source": "Maciocia, The Practice of Chinese Medicine, 3rd ed.",
+        "locator": "Painful periods: Cold in the Uterus"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IId-0016",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 54-year-old man has had four days of vomiting and watery diarrhea. He now reports a dry mouth and throat, dry lips and skin, scanty dark urine, and thirst. Before this episode he was in good health, and he reports no night sweats and no heat in the palms. The tongue is dry with a thin coating. The pulse is thin and slightly rapid. Which of the following is the most appropriate pattern?",
+    "options": {
+      "A": "Yin deficiency",
+      "B": "Body Fluid deficiency",
+      "C": "Blood deficiency",
+      "D": "exterior Dryness"
+    },
+    "correct": "B",
+    "explanation": "Acute loss of fluids through vomiting and diarrhea injures the Body Fluids (Jin Ye) directly. The result is dryness of the mouth, throat, lips and skin, thirst, scanty dark urine and a dry tongue, with a thin pulse that may be slightly rapid from the relative excess of Yang. The acute onset in a previously healthy patient, with dryness but without the chronic Empty Heat signs of Yin deficiency, is the discriminating finding; untreated, prolonged Fluid injury can progress to Yin deficiency.",
+    "distractorExplanations": {
+      "A": "Yin deficiency is chronic and includes Empty Heat signs (night sweats, five-palm heat, malar flush, a red peeled tongue); this patient's dryness is acute and he has none of those signs. A learner who equates all dryness with Yin deficiency would pick this.",
+      "C": "Blood deficiency shows dizziness, pale lips, a pale tongue and numbness; it does not produce thirst, dry skin and scanty urine after fluid loss.",
+      "D": "Exterior Dryness is a seasonal pathogen producing a dry cough, dry nose and throat with mild fever and aversion to cold; this dryness follows internal fluid loss with no exterior signs."
+    },
+    "learningObjective": "Differentiate acute Body Fluid deficiency from chronic Yin deficiency by onset, cause and the absence of Empty Heat signs.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "body-fluid-deficiency",
+      "yin-deficiency",
+      "dry-tongue",
+      "jin-ye"
+    ],
+    "distinction": {
+      "between": [
+        "body-fluid-deficiency",
+        "yin-deficiency"
+      ],
+      "key": "Acute dryness following fluid loss without night sweats, five-palm heat or a peeled tongue marks Body Fluid deficiency; chronic dryness with those Empty Heat signs marks Yin deficiency."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to Qi, Blood and Body Fluids: deficiency of Body Fluids"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Qi, Blood and Body Fluid: Body Fluid"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IId-0017",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 50-year-old patient has several soft, movable, painless lumps under the skin of the neck and forearms, a feeling of heaviness and muzziness in the head, and occasional dizziness. He produces no sputum. The tongue is swollen with a greasy white coating. The pulse is slippery. Which concept best explains the lumps?",
+    "options": {
+      "A": "Blood stasis",
+      "B": "Dampness",
+      "C": "substantial Phlegm",
+      "D": "non-substantial Phlegm"
+    },
+    "correct": "D",
+    "explanation": "Phlegm that is visible and expectorated from the Lung is called substantial Phlegm; Phlegm that lodges invisibly under the skin, in the channels, in the head or in the organs is called non-substantial Phlegm. Soft, movable, painless subcutaneous lumps with a heavy muzzy head and dizziness, a swollen tongue with a greasy coating and a slippery pulse are the classic presentation of non-substantial Phlegm, here settling under the skin and obstructing the clear orifices. The absence of sputum does not exclude Phlegm.",
+    "distractorExplanations": {
+      "A": "Blood stasis produces hard, fixed, often painful masses with a purple tongue and a choppy pulse; these lumps are soft, movable and painless with a slippery pulse.",
+      "B": "Dampness produces heaviness, fullness and a sticky coating, but it is diffuse and does not condense into discrete lumps; lumps indicate that Dampness has thickened into Phlegm.",
+      "C": "Substantial Phlegm is sputum that can be coughed up; this patient produces no sputum, so the Phlegm is of the non-substantial kind. A learner who believes Phlegm must be visible would pick this."
+    },
+    "learningObjective": "Differentiate non-substantial Phlegm from substantial Phlegm, Dampness and Blood stasis in a patient with subcutaneous nodules.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "non-substantial-phlegm",
+      "phlegm",
+      "slippery-pulse",
+      "greasy-coating"
+    ],
+    "distinction": {
+      "between": [
+        "non-substantial-phlegm",
+        "dampness"
+      ],
+      "key": "Discrete soft lumps with a slippery pulse mark Phlegm that has condensed; diffuse heaviness and fullness without lumps mark Dampness."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to Qi, Blood and Body Fluids: Phlegm"
+      },
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Observation of the body: lumps and swellings"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IId-0018",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 37-year-old woman reports heaviness of the limbs and head, a feeling of fullness in the epigastrium, poor appetite, a sticky taste, sticky loose stools, and a white vaginal discharge, all worse in humid weather. The tongue has a sticky (greasy) white coating. The pulse is soggy (soft). Which of the following is the most appropriate pattern?",
+    "options": {
+      "A": "Dampness",
+      "B": "Phlegm",
+      "C": "Qi deficiency",
+      "D": "Qi stagnation"
+    },
+    "correct": "A",
+    "explanation": "Dampness is heavy, sticky, turbid and lingering, tends to sink, and obstructs the movement of Qi. Heaviness of limbs and head, epigastric fullness, poor appetite, a sticky taste, sticky stools, a white vaginal discharge (Dampness sinking to the lower burner), aggravation in humid weather, a greasy white coating and a soggy pulse together define the pattern. Diffuse heaviness and fullness with a soggy pulse, rather than sputum, lumps or a slippery pulse, is the discriminating finding against Phlegm.",
+    "distractorExplanations": {
+      "B": "Phlegm is a thicker, condensed form of Dampness that produces sputum, lumps or nodules, dizziness or mental clouding, with a slippery pulse; this patient has diffuse heaviness and discharge with a soggy pulse.",
+      "C": "Qi deficiency explains tiredness and poor appetite but not heaviness, fullness, sticky taste and discharge, which are signs of an accumulated pathogenic factor; the greasy coating is an Excess sign.",
+      "D": "Qi stagnation produces distension that moves and varies with emotion, with a wiry pulse and a normal coating; here the coating is greasy and the sensations are heavy and sticky."
+    },
+    "learningObjective": "Identify Dampness from heaviness, fullness, sticky secretions, a greasy coating and a soggy pulse, and distinguish it from Phlegm.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "dampness",
+      "phlegm",
+      "soggy-pulse",
+      "greasy-white-coating"
+    ],
+    "distinction": {
+      "between": [
+        "dampness",
+        "phlegm"
+      ],
+      "key": "Diffuse heaviness and sticky secretions with a soggy pulse mark Dampness; sputum, nodules or mental clouding with a slippery pulse mark Phlegm."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to Qi, Blood and Body Fluids: Dampness"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Etiology: six exogenous factors, damp"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IId-0019",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 19-year-old develops sudden swelling of the eyelids and face that spreads to the arms within two days, with aversion to wind, fever, a sore throat, and reduced urination. The tongue has a thin white coating. The pulse is floating and rapid. Which pathomechanism best explains the edema?",
+    "options": {
+      "A": "Spleen Qi fails to transform and transport the Fluids",
+      "B": "Kidney Yang fails to steam and excrete the Fluids",
+      "C": "Lung Qi fails to disperse and descend the Fluids after invasion of Wind",
+      "D": "Blood stasis obstructs the water passages"
+    },
+    "correct": "C",
+    "explanation": "The Lung governs the dispersing and descending of Body Fluids and regulates the water passages down to the Bladder. When Wind invades the Lung (aversion to wind, fever, sore throat, floating pulse), the Lung can no longer disperse Fluids to the skin or send them down to the Bladder, so Fluids overflow under the skin of the upper body and urination falls. Sudden onset, swelling beginning in the face and eyelids, and concurrent exterior signs are the discriminating findings for this Yang-type edema; Spleen and Kidney edema is chronic and begins in the lower body.",
+    "distractorExplanations": {
+      "A": "Spleen edema develops gradually, affects the abdomen and legs, and is accompanied by tiredness, loose stools and a swollen pale tongue; it does not start suddenly in the face with fever.",
+      "B": "Kidney Yang edema is chronic, pitting, worst in the legs and ankles, with cold, backache, nocturia and a deep weak pulse; the floating rapid pulse and acute facial onset exclude it. A learner who assigns all edema to the Kidney would pick this.",
+      "D": "Blood stasis is not a usual mechanism of acute generalized edema; it shows fixed pain, a purple tongue and a choppy pulse, none of which is present."
+    },
+    "learningObjective": "Attribute acute upper-body edema with exterior signs to the Lung's failure to disperse and descend Fluids.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "edema",
+      "lung-regulates-water-passages",
+      "qi-transforms-fluids",
+      "wind-invasion"
+    ],
+    "distinction": {
+      "between": [
+        "yang-edema",
+        "yin-edema"
+      ],
+      "key": "Sudden facial and upper-body edema with exterior signs is Yang edema from the Lung; gradual lower-body edema with cold and deficiency signs is Yin edema from the Spleen and Kidney."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Practice of Chinese Medicine, 3rd ed.",
+        "locator": "Oedema: Wind-Water invading the Lung"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Edema: yang edema and yin edema"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IId-0020",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 72-year-old man reports a year of chest pain that is fixed and stabbing, brought on by exertion, with tiredness, shortness of breath, and spontaneous sweating. His complexion is pale with a dull, dark hue around the lips. The tongue is pale and slightly purple. The pulse is weak and choppy. Which of the following is the most appropriate pattern?",
+    "options": {
+      "A": "Qi deficiency with Blood stasis",
+      "B": "Qi stagnation with Blood stasis",
+      "C": "Qi and Blood deficiency",
+      "D": "Blood Cold with stasis"
+    },
+    "correct": "A",
+    "explanation": "Qi commands the Blood: when Qi is deficient (tiredness, shortness of breath, spontaneous sweating, pale complexion, pale tongue, weak pulse) it lacks the strength to move the Blood, and stasis develops (fixed stabbing chest pain, dark hue around the lips, purplish tongue, choppy pulse). Pain triggered by exertion is characteristic: effort further depletes Qi and the Blood moves even less. The combination of deficiency signs with stasis signs, and the weak rather than wiry pulse, is the discriminating finding.",
+    "distractorExplanations": {
+      "B": "Qi stagnation with Blood stasis shows distension, irritability, aggravation by emotion and a wiry-choppy pulse, with no deficiency signs; this patient is tired, sweats spontaneously and has a weak pulse. A learner who assumes stasis is always preceded by stagnation would pick this.",
+      "C": "Qi and Blood deficiency would show dizziness, pale lips and a thin weak pulse with no stasis signs; the stabbing pain, purplish tongue and choppy pulse show Blood stasis.",
+      "D": "Blood Cold would require a cold sensation, relief by warmth, cold limbs and a tight pulse; none is present."
+    },
+    "learningObjective": "Identify Qi deficiency with Blood stasis and explain it through the principle that Qi commands and moves the Blood.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "qi-deficiency-with-blood-stasis",
+      "qi-commands-blood",
+      "choppy-pulse",
+      "chest-pain"
+    ],
+    "distinction": {
+      "between": [
+        "qi-deficiency-with-blood-stasis",
+        "qi-stagnation-with-blood-stasis"
+      ],
+      "key": "Stasis signs on a background of tiredness, sweating and a weak pulse mark Qi deficiency with stasis; stasis with distension, emotional aggravation and a wiry pulse marks Qi stagnation with stasis."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to Qi, Blood and Body Fluids: combined Qi and Blood patterns"
+      },
+      {
+        "source": "Maclean and Lyttleton, Clinical Handbook of Internal Medicine, 2nd ed.",
+        "locator": "Chest pain: Qi deficiency and Blood stasis"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IId-0021",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 40-year-old woman who has been dieting severely for a year reports tiredness, shortness of breath on exertion, palpitations, dizziness, difficulty sleeping, and scanty pale periods. Her complexion and lips are pale. The tongue is pale and thin. The pulse is thin and weak. Which of the following is the most appropriate pattern?",
+    "options": {
+      "A": "Qi deficiency",
+      "B": "Blood deficiency",
+      "C": "Qi and Blood deficiency",
+      "D": "Qi deficiency with Blood stasis"
+    },
+    "correct": "C",
+    "explanation": "Both Qi and Blood derive from Gu Qi, which the Spleen extracts from food; a year of severe dieting starves their common source. Tiredness, shortness of breath and a weak pulse are Qi deficiency; palpitations, dizziness, insomnia, scanty pale periods, pale lips, a pale thin tongue and a thin pulse are Blood deficiency. Because Qi generates Blood and Blood is the mother of Qi, deficiency of one readily leads to deficiency of the other, and the full set of findings from both groups identifies the combined pattern.",
+    "distractorExplanations": {
+      "A": "Qi deficiency alone accounts for the tiredness, breathlessness and weak pulse but not for the palpitations, dizziness, insomnia, pale lips and scanty periods, which show the Blood is also deficient.",
+      "B": "Blood deficiency alone accounts for the pale findings, dizziness and thin pulse but not for the breathlessness on exertion and the weakness of the pulse, which show Qi deficiency. A learner who stops at the first matching pattern would pick this.",
+      "D": "Blood stasis would require fixed stabbing pain, a purple tongue and a choppy pulse; this patient's tongue is pale and her pulse thin and weak without any stasis sign."
+    },
+    "learningObjective": "Identify combined Qi and Blood deficiency and relate it to the shared dietary source of Qi and Blood.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "qi-and-blood-deficiency",
+      "gu-qi",
+      "qi-generates-blood",
+      "thin-weak-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "qi-and-blood-deficiency",
+        "blood-deficiency"
+      ],
+      "key": "Blood deficiency signs plus breathlessness, tiredness and a weak pulse mark combined Qi and Blood deficiency."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to Qi, Blood and Body Fluids: combined Qi and Blood patterns"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of qi and blood: deficiency of both qi and blood"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IId-0022",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 44-year-old woman has had premenstrual breast distension and irritability for many years. Over the last year her period pain has changed from a distending ache to sharp, stabbing, fixed pain in the lower abdomen, with dark clots. The tongue is slightly purple with dark spots on the sides. The pulse is wiry and choppy. Which of the following best describes the pathomechanism?",
+    "options": {
+      "A": "Qi stagnation has progressed to Blood stasis",
+      "B": "Blood deficiency has failed to nourish the Qi",
+      "C": "Cold has congealed the Blood",
+      "D": "Blood stasis has obstructed the movement of Qi"
+    },
+    "correct": "A",
+    "explanation": "Qi is the commander of Blood: when Qi moves, Blood moves, and when Qi stagnates for a long time, Blood eventually stagnates too. The history shows years of pure Qi stagnation (premenstrual breast distension, irritability, distending pain) followed by the appearance of stasis signs (fixed stabbing pain, dark clots, purple tongue with stasis spots, choppy pulse) while the wiry pulse of stagnation persists. The order in which the findings appeared establishes the direction of the mechanism.",
+    "distractorExplanations": {
+      "B": "Blood deficiency would show a pale tongue, pale lips, scanty pale periods and a thin pulse; the purple tongue, clots and wiry-choppy pulse are Excess findings.",
+      "C": "Cold congealing the Blood produces cramping pain relieved by warmth with cold limbs, a pale-bluish tongue and a tight pulse; there is no Cold sign and the long emotional history points to stagnation.",
+      "D": "Blood stasis can obstruct Qi, but here the Qi stagnation (breast distension, irritability, wiry pulse) preceded the stasis signs by years, so the mechanism runs from Qi to Blood. A learner who ignores the sequence in the history would pick this."
+    },
+    "learningObjective": "Explain the progression from Qi stagnation to Blood stasis using the history and the principle that Qi moves the Blood.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "qi-stagnation-with-blood-stasis",
+      "qi-commands-blood",
+      "wiry-choppy-pulse",
+      "dysmenorrhea"
+    ],
+    "distinction": {
+      "between": [
+        "qi-stagnation",
+        "blood-stasis"
+      ],
+      "key": "Distending pain with a wiry pulse marks Qi stagnation; the later appearance of fixed stabbing pain, clots, a purple tongue and a choppy pulse marks progression to Blood stasis."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Blood: Qi is the commander of Blood"
+      },
+      {
+        "source": "Maciocia, The Practice of Chinese Medicine, 3rd ed.",
+        "locator": "Painful periods: Qi stagnation and Blood stasis"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IId-0023",
+    "domain": "II",
+    "subdomain": "II-d",
+    "task": "II-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 5-year-old child shows delayed walking and speech, late eruption of the teeth, soft bones, and a fontanelle that closed late. Growth is below that of other children of the same age. Deficiency of which substance most directly explains these findings?",
+    "options": {
+      "A": "Gu Qi",
+      "B": "Wei Qi",
+      "C": "Jin Ye",
+      "D": "Jing"
+    },
+    "correct": "D",
+    "explanation": "Jing (Essence), stored in the Kidney, governs birth, growth, development, maturation and reproduction, and produces Marrow, which fills the bones, brain and spinal cord. When Pre-Heaven Jing is weak, a child shows the 'five delays': late standing, walking, hair growth, teeth and speech, with soft bones and a late-closing fontanelle. These are developmental failures of the deepest Yin substance rather than disorders of Qi or Fluids.",
+    "distractorExplanations": {
+      "A": "Gu Qi is the Qi extracted from food by the Spleen; its deficiency produces tiredness, poor appetite and loose stools in a child, not failure of bone and brain development. A learner who attributes every childhood weakness to digestion would pick this.",
+      "B": "Wei Qi protects the surface; its weakness shows as frequent colds and sweating, not developmental delay.",
+      "C": "Jin Ye (Body Fluids) moisten and lubricate; their deficiency produces dryness of skin, mouth and stools rather than soft bones and delayed milestones."
+    },
+    "learningObjective": "Identify developmental delay with soft bones and late fontanelle closure as a manifestation of Jing deficiency.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "jing-deficiency",
+      "essence",
+      "kidney-governs-bones",
+      "five-delays"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Essence: functions of Essence"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Zang Fu: the Kidney stores essence and dominates development"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IIa-0001",
+    "domain": "II",
+    "subdomain": "II-a",
+    "task": "II-1-a",
+    "theory": "Yin/Yang",
+    "stem": "According to Yin/Yang theory, Empty Heat arises from which of the following?",
+    "options": {
+      "A": "excess of Yang",
+      "B": "deficiency of Yin",
+      "C": "excess of Yin",
+      "D": "deficiency of Yang"
+    },
+    "correct": "B",
+    "explanation": "Yin and Yang control each other. When Yin is deficient it can no longer restrain Yang, so Yang appears relatively excessive and produces Heat signs that are mild, intermittent and worse at the Yin time of day (afternoon, night). Because the Heat comes from a deficiency rather than from a real surplus of Yang, it is called Empty Heat. The four-pattern grid is: Yang excess produces Full Heat, Yin excess produces Full Cold, Yin deficiency produces Empty Heat, Yang deficiency produces Empty Cold.",
+    "distractorExplanations": {
+      "A": "A true excess of Yang produces Full Heat, with high fever, intense thirst, a thick yellow coating and a full rapid pulse. A learner who conflates relative and absolute excess of Yang would pick this.",
+      "C": "Excess of Yin produces Full Cold, from invasion of a Cold pathogen.",
+      "D": "Deficiency of Yang produces Empty Cold, because Yang fails to warm the body."
+    },
+    "learningObjective": "Identify Yin deficiency as the origin of Empty Heat within the four-pattern Yin/Yang grid.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "yin-deficiency",
+      "empty-heat",
+      "yin-yang-four-patterns"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Yin-Yang: application of Yin-Yang to medicine, pathology"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Yin-Yang and the Five Elements: application in pathology"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IIa-0002",
+    "domain": "II",
+    "subdomain": "II-a",
+    "task": "II-1-a",
+    "theory": "Yin/Yang",
+    "stem": "A 63-year-old patient reports a chronic feeling of cold, cold limbs, a bright-pale complexion, tiredness, loose stools, and frequent pale urine; the symptoms have developed slowly over several years. The tongue is pale, swollen, and wet. The pulse is deep, slow, and weak. In Yin/Yang terms, the Cold in this patient arises from which of the following?",
+    "options": {
+      "A": "deficiency of Yang",
+      "B": "excess of Yin",
+      "C": "deficiency of Yin",
+      "D": "excess of Yang"
+    },
+    "correct": "A",
+    "explanation": "This is Empty Cold from Yang deficiency. Yang warms, moves and transforms; when it is deficient the body cannot warm itself (feeling of cold, cold limbs, pale face), cannot transform fluids (loose stools, pale frequent urine, wet swollen tongue) and lacks drive (tiredness, weak pulse). The slow insidious onset, the weakness of the pulse and the deficiency signs are the discriminating findings against Full Cold from an excess of Yin, which is acute and forceful.",
+    "distractorExplanations": {
+      "B": "Excess of Yin is Full Cold from a Cold pathogen: acute onset, severe pain worse with pressure and a tight, forceful pulse. A learner who equates all Cold with 'excess Yin' would pick this.",
+      "C": "Deficiency of Yin produces Empty Heat (night sweats, five-palm heat, red peeled tongue, thin rapid pulse), the opposite of this picture.",
+      "D": "Excess of Yang produces Full Heat with fever, thirst and a rapid full pulse."
+    },
+    "learningObjective": "Attribute chronic Empty Cold to deficiency of Yang rather than excess of Yin.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "yang-deficiency",
+      "empty-cold",
+      "yin-yang-four-patterns",
+      "deep-slow-weak-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "yang-deficiency",
+        "yin-excess"
+      ],
+      "key": "Chronic Cold with deficiency signs and a weak pulse arises from Yang deficiency; acute Cold with forceful pain and a tight pulse arises from Yin excess."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Yin-Yang: application of Yin-Yang to medicine, pathology"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Yin-Yang and the Five Elements: application in pathology"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IIa-0003",
+    "domain": "II",
+    "subdomain": "II-a",
+    "task": "II-1-a",
+    "theory": "Yin/Yang",
+    "stem": "A 36-year-old patient develops severe, fixed pain in the right knee after wading in a cold river. The pain is intense, worse with exposure to cold, relieved by warmth, and limits movement; the patient otherwise feels well, with normal energy and appetite. The tongue has a thin white coating. The pulse is tight. In Yin/Yang terms, the Cold in this patient arises from which of the following?",
+    "options": {
+      "A": "deficiency of Yang",
+      "B": "deficiency of Yin",
+      "C": "excess of Yin",
+      "D": "excess of Yang"
+    },
+    "correct": "C",
+    "explanation": "An external Cold pathogen has invaded the channel of the knee. Cold is Yin in nature, so this is an excess of Yin producing Full Cold: acute onset after cold exposure, severe fixed contracting pain that worsens with cold and eases with warmth, and a tight pulse, in a patient with otherwise intact Qi and Yang. The preserved general health and the forceful tight pulse are the discriminating findings against Cold from Yang deficiency.",
+    "distractorExplanations": {
+      "A": "Yang deficiency produces chronic, dull, generalized cold with tiredness, a pale swollen tongue and a weak pulse; this patient is otherwise well with a tight pulse and an acute local complaint. A learner who assumes all Cold is deficiency would pick this.",
+      "B": "Yin deficiency produces Empty Heat, not Cold.",
+      "D": "Excess of Yang produces Full Heat with redness, warmth and a rapid pulse; this joint is cold, pain eases with warmth and the pulse is tight."
+    },
+    "learningObjective": "Attribute acute local Cold pain after cold exposure to excess of Yin (Full Cold).",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "yin-excess",
+      "full-cold",
+      "yin-yang-four-patterns",
+      "tight-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "yin-excess",
+        "yang-deficiency"
+      ],
+      "key": "Acute, forceful, localized Cold pain with a tight pulse and intact general health is excess of Yin; chronic generalized cold with weakness is Yang deficiency."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Yin-Yang: application of Yin-Yang to medicine, pathology"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Etiology: six exogenous factors, cold"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IIa-0004",
+    "domain": "II",
+    "subdomain": "II-a",
+    "task": "II-1-a",
+    "theory": "Yin/Yang",
+    "stem": "A 28-year-old patient has had a high fever with sweating and a full, rapid pulse for five days. She now also reports a dry mouth, cracked lips, scanty dark urine, and dry stools. Which Yin/Yang relationship best explains the new findings?",
+    "options": {
+      "A": "opposition",
+      "B": "interdependence",
+      "C": "inter-transformation",
+      "D": "mutual consumption"
+    },
+    "correct": "D",
+    "explanation": "Yin and Yang consume each other: an excess of one depletes the other. Five days of Full Heat (excess Yang) with sweating has burned and drained the Yin fluids, producing dryness of the mouth, lips, stools and urine. This is the mutual-consumption relationship, in which excess Yang consumes Yin; the pattern is an excess of Yang beginning to injure Yin, which is why clearing Heat is combined with protecting the fluids.",
+    "distractorExplanations": {
+      "A": "Opposition (control) describes the normal restraint of each by the other; it explains why a Heat pattern shows the opposite signs to a Cold pattern, but not why dryness appears after prolonged fever.",
+      "B": "Interdependence states that neither Yin nor Yang can exist without the other; it explains how deficiency of one eventually leads to deficiency of the other, but here the mechanism is an excess actively depleting its opposite.",
+      "C": "Inter-transformation describes Yin changing into Yang or Yang into Yin at an extreme (for example, Full Heat collapsing into Yang collapse); here the Yang excess is still present and the Yin is being consumed, not transformed. A learner who treats every change in a pattern as transformation would pick this."
+    },
+    "learningObjective": "Recognize excess Yang injuring Yin fluids as an instance of the mutual consumption of Yin and Yang.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "comprehension",
+    "vignette": true,
+    "concepts": [
+      "mutual-consumption",
+      "yang-excess",
+      "yin-yang-relationships",
+      "fluid-injury"
+    ],
+    "distinction": {
+      "between": [
+        "mutual-consumption",
+        "inter-transformation"
+      ],
+      "key": "An excess of one depleting the other is mutual consumption; one turning into the other at an extreme is inter-transformation."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Yin-Yang: mutual consumption of Yin and Yang"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Yin-Yang and the Five Elements: the waning and waxing of yin and yang"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IIa-0005",
+    "domain": "II",
+    "subdomain": "II-a",
+    "task": "II-1-a",
+    "theory": "Yin/Yang",
+    "stem": "A 6-year-old child with a febrile illness has had a high fever, a red face, and a full, rapid pulse for three days. This morning the child suddenly became pale and limp, with cold limbs, cold sweat, and a minute (faint) pulse, and the fever has subsided. Which Yin/Yang relationship best explains this change?",
+    "options": {
+      "A": "opposition, with Yin restraining the excessive Yang",
+      "B": "mutual consumption, with excess Yang consuming Yin",
+      "C": "inter-transformation, with extreme Yang turning into Yin",
+      "D": "interdependence, with Yin providing the material basis for Yang"
+    },
+    "correct": "C",
+    "explanation": "When Yang reaches an extreme it can transform into its opposite. Three days of intense Full Heat (extreme Yang) have exhausted the child's Yang Qi, so the Heat pattern abruptly turns into a Cold, deficient collapse: pallor, limpness, cold limbs, cold sweat and a minute pulse with the fever gone. This is the classic clinical illustration of inter-transformation ('extreme Heat generates Cold'), and it is a collapse of Yang that requires urgent rescue of Yang.",
+    "distractorExplanations": {
+      "A": "Opposition is the normal mutual restraint of Yin and Yang; it does not describe a sudden reversal of a Heat pattern into a Cold one.",
+      "B": "Mutual consumption would show the Heat persisting while Yin fluids dry out (thirst, cracked lips, dark urine); here the Heat has vanished and been replaced by Cold and collapse. A learner who sees 'sweat' and assumes fluid consumption would pick this.",
+      "D": "Interdependence explains why chronic deficiency of one aspect leads to deficiency of the other over time; it does not account for an abrupt qualitative reversal from extreme Heat to Cold."
+    },
+    "learningObjective": "Recognize the abrupt reversal of extreme Heat into Yang collapse as inter-transformation of Yin and Yang.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "inter-transformation",
+      "collapse-of-yang",
+      "yin-yang-relationships",
+      "minute-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "inter-transformation",
+        "true-heat-false-cold"
+      ],
+      "key": "In inter-transformation the Heat signs disappear and the pulse becomes minute; in true Heat with false Cold the fever, red tongue and forceful pulse persist alongside cold limbs."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Yin-Yang: inter-transformation of Yin and Yang"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Yin-Yang and the Five Elements: the inter-transformation of yin and yang"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IIa-0006",
+    "domain": "II",
+    "subdomain": "II-a",
+    "task": "II-1-a",
+    "theory": "Yin/Yang",
+    "stem": "A 58-year-old man has had cold lower back and knees, cold limbs, reduced libido, and nocturia for many years. Over the past six months he has also developed night sweats, a dry throat at night, and heat in the palms, while the cold symptoms persist. The tongue is pale with a scanty coating. The pulse is deep, thin, and weak. Which Yin/Yang relationship best explains the new symptoms?",
+    "options": {
+      "A": "opposition, with Cold restraining Heat",
+      "B": "interdependence, with Yang deficiency leading to Yin deficiency",
+      "C": "mutual consumption, with excess Yin consuming Yang",
+      "D": "inter-transformation, with Cold transforming into Heat"
+    },
+    "correct": "B",
+    "explanation": "Yin and Yang are interdependent (mutually rooted): Yang is the activity that generates Yin substance, and Yin is the material basis of Yang. Long-standing Kidney Yang deficiency (cold back and knees, cold limbs, low libido, nocturia, pale tongue, deep weak pulse) eventually fails to generate Yin, so Yin-deficient signs (night sweats, dry throat at night, heat in the palms, scanty coating, thin pulse) appear while the cold persists. The coexistence of both sets of findings, with the Yang-deficient history coming first, identifies Yang deficiency leading to Yin deficiency.",
+    "distractorExplanations": {
+      "A": "Opposition would predict that strong Cold suppresses Heat signs; here Heat signs have appeared on top of the Cold, which opposition cannot explain.",
+      "C": "There is no excess of Yin here; the Cold is from Yang deficiency, and the new signs are Yin deficiency rather than further loss of Yang.",
+      "D": "Inter-transformation would mean the Cold pattern has become a Heat pattern; here the Cold symptoms persist alongside the new Yin-deficient signs, so nothing has transformed. A learner who hears 'now also has heat' and assumes transformation would pick this."
+    },
+    "learningObjective": "Explain the development of Yin deficiency on a background of chronic Yang deficiency through the interdependence of Yin and Yang.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "interdependence",
+      "yang-deficiency",
+      "yin-deficiency",
+      "yin-and-yang-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "interdependence",
+        "inter-transformation"
+      ],
+      "key": "When the original deficiency persists and the opposite deficiency is added, it is interdependence; when one pattern is replaced by its opposite, it is inter-transformation."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Yin-Yang: interdependence of Yin and Yang"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Kidney patterns: Kidney Yin and Yang deficiency"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IIa-0007",
+    "domain": "II",
+    "subdomain": "II-a",
+    "task": "II-1-a",
+    "theory": "Yin/Yang",
+    "stem": "A 75-year-old patient near the end of a prolonged febrile illness becomes restless and agitated, with profuse hot, sticky sweat, hot limbs, a flushed face, extreme thirst for cold drinks, and rapid shallow breathing. The tongue is red, dry, and peeled. The pulse is floating, empty, and rapid. Which of the following is the most appropriate pattern?",
+    "options": {
+      "A": "collapse of Yin",
+      "B": "collapse of Yang",
+      "C": "excess of Yang producing Full Heat",
+      "D": "true Cold with false Heat"
+    },
+    "correct": "A",
+    "explanation": "Collapse of Yin is the extreme exhaustion of Yin fluids at the end of a febrile disease, when Yang is left unanchored and floats outward. Its signs are profuse hot sticky sweat, hot limbs, a flushed face, agitation, extreme thirst for cold drinks, rapid breathing, a red dry peeled tongue and a floating-empty rapid pulse. The hot quality of the sweat, the hot limbs and the red peeled tongue are the discriminating findings against collapse of Yang; both are emergencies in which Yin and Yang are about to separate.",
+    "distractorExplanations": {
+      "B": "Collapse of Yang shows profuse cold, oily sweat, cold limbs, a pale face, a pale tongue and a minute pulse; the hot sweat, hot limbs and red tongue here are the opposite. A learner who attributes every collapse with sweating to Yang would pick this.",
+      "C": "Full Heat shows a thick yellow coating and a full forceful pulse in a patient with intact Qi; here the tongue is peeled and the pulse empty, showing exhaustion rather than excess.",
+      "D": "True Cold with false Heat shows a pale moist tongue, clear urine, a desire for warmth and a rootless pulse without heat in the limbs; the red peeled tongue and thirst for cold drinks show true Heat."
+    },
+    "learningObjective": "Differentiate collapse of Yin from collapse of Yang by the quality of the sweat, limb temperature, tongue and pulse.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "collapse-of-yin",
+      "collapse-of-yang",
+      "yin-yang-separation",
+      "floating-empty-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "collapse-of-yin",
+        "collapse-of-yang"
+      ],
+      "key": "Hot sticky sweat, hot limbs and a red peeled tongue mark collapse of Yin; cold oily sweat, cold limbs and a pale tongue with a minute pulse mark collapse of Yang."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles: Collapse of Yin and Collapse of Yang"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Differentiation according to the Eight Principles: yin and yang"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IIa-0008",
+    "domain": "II",
+    "subdomain": "II-a",
+    "task": "II-1-a",
+    "theory": "Yin/Yang",
+    "stem": "Which of the following clinical findings belongs to the Yin category?",
+    "options": {
+      "A": "a loud voice",
+      "B": "a red complexion",
+      "C": "a preference for lying curled up",
+      "D": "a rapid pulse"
+    },
+    "correct": "C",
+    "explanation": "Yin corresponds to stillness, cold, contraction, inward movement and reduced activity. A patient who prefers to lie curled up, withdrawn and still, displays a Yin finding, typical of Cold and Deficiency patterns. A loud voice, red complexion and rapid pulse all express activity, heat and outward movement, which belong to Yang.",
+    "distractorExplanations": {
+      "A": "A loud voice expresses abundant Qi and activity and is a Yang finding.",
+      "B": "A red complexion expresses Heat and outward movement of Yang and is a Yang finding.",
+      "D": "A rapid pulse expresses Heat and acceleration and is a Yang finding."
+    },
+    "learningObjective": "Classify individual clinical findings as Yin or Yang according to their quality of activity, temperature and direction.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "yin-yang-classification",
+      "yin-pattern",
+      "observation"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Yin-Yang: application of Yin-Yang to medicine, clinical manifestations"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Yin-Yang and the Five Elements: application in diagnosis"
+      }
+    ]
+  },
+  {
+    "id": "FOM-IIa-0009",
+    "domain": "II",
+    "subdomain": "II-a",
+    "task": "II-1-a",
+    "theory": "Yin/Yang",
+    "stem": "According to Yin/Yang theory, a fever that intensifies at night and eases during the day most suggests Heat located in which aspect of the body?",
+    "options": {
+      "A": "the exterior, where Wei Qi circulates by day",
+      "B": "the Qi level, where Heat peaks in the afternoon",
+      "C": "the Yang organs, with Heat accumulating in the Stomach",
+      "D": "the Yin portion, at the level of Blood and Yin"
+    },
+    "correct": "D",
+    "explanation": "Day is Yang and night is Yin. A fever that worsens at night, the Yin time, indicates that the Heat is in the Yin portion of the body, that is, at the level of Blood and Yin (as in Yin deficiency with Empty Heat, or Heat in the Ying and Blood levels of a febrile disease). Heat in the Yang portion (exterior, Qi level) is worse during the day or in the afternoon when Yang is at its peak.",
+    "distractorExplanations": {
+      "A": "Exterior Heat produces fever with aversion to wind during the day, when Wei Qi circulates on the surface; it does not characteristically rise at night.",
+      "B": "Qi-level Heat produces a high fever that peaks in the afternoon (the Yang Ming tidal fever), not at night. A learner who confuses afternoon with night fever would pick this.",
+      "C": "Heat in the Stomach, a Yang organ, is Qi-level Full Heat with daytime fever, thirst and constipation rather than night fever."
+    },
+    "learningObjective": "Use the Yin/Yang division of day and night to locate Heat that intensifies at night in the Yin portion of the body.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": false,
+    "concepts": [
+      "yin-yang-classification",
+      "night-fever",
+      "heat-in-blood-level",
+      "empty-heat"
+    ],
+    "distinction": {
+      "between": [
+        "heat-in-yin-portion",
+        "heat-in-yang-portion"
+      ],
+      "key": "Night fever places Heat in the Yin portion (Blood and Yin); afternoon or daytime fever places Heat in the Yang portion (exterior or Qi level)."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Chapter on Yin-Yang: application of Yin-Yang to medicine, pathology"
+      },
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Interrogation: feeling of heat, fever at night"
+      }
+    ]
+  }
+]

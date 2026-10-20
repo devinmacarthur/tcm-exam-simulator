@@ -1,0 +1,530 @@
+[
+  {
+    "id": "FOM-IIm-0002",
+    "subdomain": "II-m",
+    "stem": "A 39-year-old woman reports that for three months she wakes almost every night between 1 and 3 am and has difficulty returning to sleep. She is irritable, has distension under the ribs, and sighs frequently; her periods are painful. The tongue is slightly red on the sides. The pulse is wiry. Using the organ clock as a diagnostic clue, which organ does the timing of waking most strongly implicate?",
+    "options": {
+      "A": "Gallbladder",
+      "B": "Lung",
+      "C": "Liver",
+      "D": "Heart"
+    }
+  },
+  {
+    "id": "FOM-IIm-0003",
+    "subdomain": "II-m",
+    "stem": "A 62-year-old man with a chronic cough notices that his coughing is most severe between 3 and 5 am and eases by dawn. He has shortness of breath and a weak voice. The tongue is pale. The pulse is weak. Which channel's period of peak Qi coincides with the aggravation?",
+    "options": {
+      "A": "Large Intestine",
+      "B": "Kidney",
+      "C": "Liver",
+      "D": "Lung"
+    }
+  },
+  {
+    "id": "FOM-IIm-0004",
+    "subdomain": "II-m",
+    "stem": "A 70-year-old man reports diarrhea every morning between 5 and 7 am, with undigested food in the stool, coldness of the lower back and knees, and a preference for warmth. The tongue is pale and swollen with a white coating. The pulse is deep and weak. Which option best integrates the organ-clock timing with the underlying pattern?",
+    "options": {
+      "A": "Large Intestine period; Spleen and Kidney Yang deficiency failing to warm the intestines",
+      "B": "Spleen period; Spleen Qi deficiency with Dampness failing to transform food",
+      "C": "Kidney period; Kidney Yin deficiency with Empty Heat disturbing the intestines",
+      "D": "Stomach period; Retention of Food in the Stomach with rebellious Stomach Qi"
+    }
+  },
+  {
+    "id": "FOM-IIc-0001",
+    "subdomain": "II-c",
+    "stem": "Within the Eight Principles (Ba Gang), which pair of principles primarily identifies the depth and location of a disease?",
+    "options": {
+      "A": "Heat and Cold",
+      "B": "Exterior and Interior",
+      "C": "Excess and Deficiency",
+      "D": "Yin and Yang"
+    }
+  },
+  {
+    "id": "FOM-IIc-0002",
+    "subdomain": "II-c",
+    "stem": "A 29-year-old patient reports two days of mild aversion to wind, a low-grade fever, headache, and nasal congestion with clear discharge. The patient has been sweating slightly, without relief of the symptoms, and has no thirst. The tongue has a thin white coating. The pulse is floating and slightly slow. Which of the following is the most appropriate Eight Principle classification?",
+    "options": {
+      "A": "exterior, Excess, Cold",
+      "B": "interior, Deficiency, Cold",
+      "C": "exterior, Excess, Heat",
+      "D": "exterior, Deficiency, Cold"
+    }
+  },
+  {
+    "id": "FOM-IIc-0003",
+    "subdomain": "II-c",
+    "stem": "A 41-year-old patient has had one day of pronounced aversion to cold, fever, occipital headache, stiff neck, and generalized body aches. There is no sweating and no thirst. The tongue has a thin white coating. The pulse is floating and tight. Which of the following is the most appropriate Eight Principle classification?",
+    "options": {
+      "A": "exterior, Excess, Cold",
+      "B": "exterior, Deficiency, Cold",
+      "C": "interior, Excess, Cold",
+      "D": "exterior, Excess, Heat"
+    }
+  },
+  {
+    "id": "FOM-IIc-0004",
+    "subdomain": "II-c",
+    "stem": "A 35-year-old patient, one week into a cold, now reports alternating chills and fever, a bitter taste, a dry throat, fullness and discomfort beneath the ribs, nausea, and loss of appetite. The tongue has a thin white coating. The pulse is wiry. Which classification best describes the location of the pathogenic factor?",
+    "options": {
+      "A": "exterior",
+      "B": "interior",
+      "C": "half-exterior half-interior",
+      "D": "exterior with concurrent interior Deficiency"
+    }
+  },
+  {
+    "id": "FOM-IIc-0005",
+    "subdomain": "II-c",
+    "stem": "A 58-year-old patient reports several years of loose stools, poor appetite, dull abdominal pain that is relieved by warmth and by pressure, cold hands and feet, and tiredness. The tongue is pale and swollen with a thin white, moist coating. The pulse is deep, slow, and weak. Which of the following is the most appropriate Eight Principle classification?",
+    "options": {
+      "A": "interior, Deficiency, Cold",
+      "B": "interior, Excess, Cold",
+      "C": "interior, Deficiency, Heat",
+      "D": "exterior, Deficiency, Cold"
+    }
+  },
+  {
+    "id": "FOM-IIc-0006",
+    "subdomain": "II-c",
+    "stem": "A 33-year-old patient reports three days of burning epigastric pain, intense thirst with a desire for cold drinks, bad breath, bleeding gums, and constipation with dark, scanty urine. The tongue is red with a thick, dry, yellow coating. The pulse is rapid and full (excess). Which of the following is the most appropriate Eight Principle classification?",
+    "options": {
+      "A": "interior, Deficiency, Heat",
+      "B": "exterior, Excess, Heat",
+      "C": "interior, Excess, Heat",
+      "D": "interior, Excess, Cold"
+    }
+  },
+  {
+    "id": "FOM-IIc-0007",
+    "subdomain": "II-c",
+    "stem": "A 52-year-old woman reports six months of night sweats, a feeling of heat in the palms and soles in the evening, a malar flush in the afternoon, a dry mouth at night with a desire for small sips, and restless sleep. The tongue is red and thin with no coating. The pulse is thin (thready) and rapid. Which of the following best characterizes the Heat in this patient?",
+    "options": {
+      "A": "Full Heat from an exterior pathogen penetrating the interior",
+      "B": "Full Heat from stagnation transforming into Fire",
+      "C": "false Heat masking underlying Cold",
+      "D": "Empty Heat from deficiency of Yin"
+    }
+  },
+  {
+    "id": "FOM-IIc-0008",
+    "subdomain": "II-c",
+    "stem": "A 24-year-old patient develops sudden, severe, cramping abdominal pain a few hours after eating a large quantity of iced food on a cold day. The pain is worse with pressure and is accompanied by vomiting of clear fluid and watery diarrhea. The patient feels cold and has no thirst. The tongue is pale with a thick white coating. The pulse is deep and tight. Which of the following best characterizes the Cold in this patient?",
+    "options": {
+      "A": "Empty Cold arising from deficiency of Yang",
+      "B": "Full Cold arising from a Cold pathogen lodged in the interior",
+      "C": "false Cold arising from Heat trapped in the interior",
+      "D": "Empty Cold arising from deficiency of Blood"
+    }
+  },
+  {
+    "id": "FOM-IIc-0009",
+    "subdomain": "II-c",
+    "stem": "A 45-year-old patient in the second week of a febrile illness has a high fever, a burning sensation in the chest and abdomen, foul-smelling constipation, scanty dark urine, and intermittent delirium. The hands and feet, however, are cold to the touch, and the patient pushes the bedcovers away. The tongue is deep red with a dry yellow coating. The pulse is deep, rapid, and forceful. Which of the following is the most appropriate interpretation of the cold extremities?",
+    "options": {
+      "A": "true Cold with false Heat",
+      "B": "exterior Cold with interior Heat",
+      "C": "collapse of Yang following excess Heat",
+      "D": "true Heat with false Cold"
+    }
+  },
+  {
+    "id": "FOM-IIc-0010",
+    "subdomain": "II-c",
+    "stem": "A 70-year-old patient with a long chronic illness reports a flush that comes and goes in patches on the cheeks, mild restlessness, and a sensation of heat in the face. The patient nevertheless prefers to be well covered, wants hot drinks in small sips, has clear copious urine and loose stools, and has cold legs. The tongue is pale and moist. The pulse is floating and empty, lacking root on deep pressure. Which of the following is most consistent with these findings?",
+    "options": {
+      "A": "Empty Heat from Yin deficiency",
+      "B": "true Heat with false Cold",
+      "C": "true Cold with false Heat",
+      "D": "Full Heat from Liver Fire rising"
+    }
+  },
+  {
+    "id": "FOM-IIc-0011",
+    "subdomain": "II-c",
+    "stem": "A 47-year-old patient reports two years of tiredness, poor appetite, and loose stools, and in recent months heaviness of the limbs, a feeling of fullness in the epigastrium after meals, and a sticky taste. The tongue is pale and swollen with a thick, greasy white coating. The pulse is soggy (soft) and weak. In terms of Excess and Deficiency, this presentation is best characterized as which of the following?",
+    "options": {
+      "A": "a pure Deficiency pattern",
+      "B": "a pure Excess pattern",
+      "C": "a Deficiency pattern complicated by Excess",
+      "D": "an Excess pattern that has transformed into Deficiency"
+    }
+  },
+  {
+    "id": "FOM-IIc-0012",
+    "subdomain": "II-c",
+    "stem": "A 30-year-old patient caught a cold four days ago with chills, absence of sweating, and a thin white tongue coating. Today the aversion to cold has disappeared; the patient now has a high fever with sweating, thirst for cold drinks, and a cough with thick yellow sputum. The tongue is red with a yellow coating. The pulse is rapid. Which pathomechanism best explains the change?",
+    "options": {
+      "A": "the exterior Cold remains on the surface and has intensified",
+      "B": "the exterior Cold has penetrated the interior and transformed into Heat",
+      "C": "Wind-Heat was present from the beginning and is now fully expressed",
+      "D": "Yin deficiency has generated Empty Heat during the illness"
+    }
+  },
+  {
+    "id": "FOM-IIc-0013",
+    "subdomain": "II-c",
+    "stem": "A 38-year-old patient had ten days of high fever, profuse sweating, great thirst, and a full rapid pulse. Three weeks later the high fever has gone, but the patient reports a low-grade afternoon fever, dry mouth and throat, a dry cough, dry stools, and fatigue. The tongue is red and dry with a peeled coating. The pulse is thin and slightly rapid. Which of the following best describes the course of this disorder?",
+    "options": {
+      "A": "an Excess Heat pattern has consumed Yin and become a Deficiency pattern",
+      "B": "an Excess Heat pattern persists at the same depth",
+      "C": "a Deficiency pattern has generated an Excess pattern",
+      "D": "an exterior pattern has become an interior Excess pattern"
+    }
+  },
+  {
+    "id": "FOM-IIc-0014",
+    "subdomain": "II-c",
+    "stem": "A 44-year-old patient of robust constitution first presented, after weeks of damp cold weather and heavy meals, with epigastric fullness, loose stools, absence of thirst, a thick white greasy coating, and a soggy pulse. Two months later the patient reports a bitter sticky taste, thirst without desire to drink, foul-smelling burning diarrhea, and scanty dark urine. The tongue is red with a greasy yellow coating. The pulse is slippery and rapid. Which of the following best explains the change?",
+    "options": {
+      "A": "Yin deficiency has given rise to Empty Heat",
+      "B": "Cold-Damp has transformed into Damp-Heat through prolonged retention",
+      "C": "Spleen Yang deficiency has deepened into Kidney Yang deficiency",
+      "D": "Dampness has resolved and been replaced by exterior Wind-Heat"
+    }
+  },
+  {
+    "id": "FOM-IIc-0015",
+    "subdomain": "II-c",
+    "stem": "Within the Eight Principles, which three principles are grouped under the Yang category?",
+    "options": {
+      "A": "exterior, Heat, Excess",
+      "B": "interior, Cold, Deficiency",
+      "C": "exterior, Cold, Deficiency",
+      "D": "interior, Heat, Excess"
+    }
+  },
+  {
+    "id": "FOM-IIc-0016",
+    "subdomain": "II-c",
+    "stem": "A 66-year-old patient is quiet and withdrawn, lies curled up, and speaks in a low, weak voice. The complexion is pale, the limbs are cold, the breathing is shallow, and the patient prefers warm drinks. The tongue is pale and moist. The pulse is deep, slow, and weak. In Eight Principle terms, this presentation is best summarized as which type of pattern?",
+    "options": {
+      "A": "Yang pattern",
+      "B": "exterior pattern",
+      "C": "Heat pattern",
+      "D": "Yin pattern"
+    }
+  },
+  {
+    "id": "FOM-IIc-0017",
+    "subdomain": "II-c",
+    "stem": "In a patient with fever, which finding most strongly indicates that the pattern is still on the exterior rather than in the interior?",
+    "options": {
+      "A": "aversion to cold occurring at the same time as the fever",
+      "B": "a high fever that persists throughout the whole day",
+      "C": "thirst with a strong desire for cold drinks",
+      "D": "sweating that is profuse and relieves the fever"
+    }
+  },
+  {
+    "id": "FOM-IIc-0018",
+    "subdomain": "II-c",
+    "stem": "Which of the following findings most strongly supports classifying a pattern as Cold rather than Heat?",
+    "options": {
+      "A": "dark, scanty urine",
+      "B": "thirst with a desire for cold drinks",
+      "C": "clear, copious urine",
+      "D": "a red complexion"
+    }
+  },
+  {
+    "id": "FOM-IIc-0019",
+    "subdomain": "II-c",
+    "stem": "A patient reports abdominal pain. Which characteristic of the pain most strongly supports classifying the pattern as Excess rather than Deficiency?",
+    "options": {
+      "A": "the pain is relieved by pressure",
+      "B": "the pain is dull and intermittent",
+      "C": "the pain is relieved by eating",
+      "D": "the pain is aggravated by pressure"
+    }
+  },
+  {
+    "id": "FOM-IId-0001",
+    "subdomain": "II-d",
+    "stem": "A patient catches colds easily and sweats spontaneously during the day without exertion. These findings most directly reflect weakness of which type of Qi?",
+    "options": {
+      "A": "Yuan Qi",
+      "B": "Wei Qi",
+      "C": "Ying Qi",
+      "D": "Zong Qi"
+    }
+  },
+  {
+    "id": "FOM-IId-0002",
+    "subdomain": "II-d",
+    "stem": "Which type of Qi accumulates in the chest, promotes respiration and the circulation of Blood by the Heart, and when deficient produces a weak voice and a feeble pulse?",
+    "options": {
+      "A": "Wei Qi",
+      "B": "Gu Qi",
+      "C": "Zong Qi",
+      "D": "Zhen Qi"
+    }
+  },
+  {
+    "id": "FOM-IId-0003",
+    "subdomain": "II-d",
+    "stem": "Which of the following statements best describes the Ye component of the Body Fluids?",
+    "options": {
+      "A": "light and clear, circulating with Wei Qi to moisten the skin and muscles",
+      "B": "turbid and heavy, nourishing the joints, spine, brain and bone marrow",
+      "C": "transformed into sweat and urine under the control of the Lung and Bladder",
+      "D": "entering the vessels to thin the Blood and keep it flowing"
+    }
+  },
+  {
+    "id": "FOM-IId-0004",
+    "subdomain": "II-d",
+    "stem": "A 39-year-old woman reports heavy, prolonged menstrual bleeding of pale, thin blood for four cycles, with tiredness, shortness of breath, a pale complexion, and easy bruising. The tongue is pale. The pulse is weak. Which relationship between Qi and Blood best explains the bleeding?",
+    "options": {
+      "A": "Qi fails to hold the Blood within the vessels",
+      "B": "Qi fails to move the Blood, producing stasis",
+      "C": "Heat in the Blood drives the Blood out recklessly",
+      "D": "Blood fails to nourish and anchor the Qi"
+    }
+  },
+  {
+    "id": "FOM-IId-0005",
+    "subdomain": "II-d",
+    "stem": "A 31-year-old woman had a sudden, massive hemorrhage after childbirth. Within minutes she became pale and faint, drenched in cold sweat, with shallow breathing and cold limbs. The tongue is pale. The pulse is minute (faint) and barely perceptible. Which pathomechanism best explains the sudden shortness of breath, sweating, and cold limbs?",
+    "options": {
+      "A": "Blood stasis obstructs the chest and blocks the circulation of Qi",
+      "B": "Qi stagnation forces the Blood out of the vessels",
+      "C": "Qi collapses along with the lost Blood, because Blood is the mother of Qi",
+      "D": "Heat in the Blood scatters the Qi outward through the pores"
+    }
+  },
+  {
+    "id": "FOM-IId-0006",
+    "subdomain": "II-d",
+    "stem": "A 36-year-old landscaper sweated heavily for two weeks while working outdoors during a heat wave. He now reports palpitations, dizziness on standing, blurred vision, and poor sleep. His lips and nails are pale. The tongue is pale and slightly dry. The pulse is thin (thready). Which relationship best explains these findings?",
+    "options": {
+      "A": "Dampness generated by the humid weather has obstructed the Blood",
+      "B": "Summer-Heat has entered the Blood level and is scorching the Blood",
+      "C": "Qi has sunk after prolonged exertion and fails to carry Blood to the head",
+      "D": "Fluids and Blood share a common source, so heavy loss of sweat has depleted the Blood"
+    }
+  },
+  {
+    "id": "FOM-IId-0007",
+    "subdomain": "II-d",
+    "stem": "The Spleen fails to turn ingested fluids into usable Body Fluids and refined essence, and the untransformed fluids gather as Dampness. This process illustrates impairment of which function of Qi?",
+    "options": {
+      "A": "holding",
+      "B": "transforming",
+      "C": "raising",
+      "D": "protecting"
+    }
+  },
+  {
+    "id": "FOM-IId-0008",
+    "subdomain": "II-d",
+    "stem": "A 42-year-old patient reports four months of tiredness that is worse in the afternoon, shortness of breath when climbing stairs, a low weak voice, sweating on mild exertion, and reduced appetite. The limbs are warm. The tongue is pale with a thin white coating. The pulse is empty (deficient). Which of the following is the most appropriate pattern?",
+    "options": {
+      "A": "Yang deficiency",
+      "B": "Qi deficiency",
+      "C": "Blood deficiency",
+      "D": "Qi sinking"
+    }
+  },
+  {
+    "id": "FOM-IId-0009",
+    "subdomain": "II-d",
+    "stem": "A 61-year-old woman reports a bearing-down sensation in the lower abdomen that worsens after standing for long periods, chronic loose stools, urinary frequency with dribbling after urination, and tiredness. Examination reveals a uterine prolapse. The tongue is pale. The pulse is weak. Which of the following is the most appropriate pattern?",
+    "options": {
+      "A": "Qi deficiency",
+      "B": "Qi stagnation",
+      "C": "Qi sinking",
+      "D": "Blood deficiency"
+    }
+  },
+  {
+    "id": "FOM-IId-0010",
+    "subdomain": "II-d",
+    "stem": "A 34-year-old patient reports abdominal and hypochondrial distension and pain that moves from place to place, comes and goes with emotional upset, and eases after belching or passing gas. Appetite fluctuates. The tongue is normal in color. The pulse is wiry. Which of the following is the most appropriate pattern?",
+    "options": {
+      "A": "Blood stasis",
+      "B": "Qi rebellion",
+      "C": "Retention of Food in the Stomach",
+      "D": "Qi stagnation"
+    }
+  },
+  {
+    "id": "FOM-IId-0011",
+    "subdomain": "II-d",
+    "stem": "Which pair of symptoms most directly reflects rebellious Qi?",
+    "options": {
+      "A": "cough and hiccup",
+      "B": "prolapse and chronic diarrhea",
+      "C": "distension and frequent sighing",
+      "D": "tiredness and spontaneous sweating"
+    }
+  },
+  {
+    "id": "FOM-IId-0012",
+    "subdomain": "II-d",
+    "stem": "A 27-year-old woman reports dizziness, blurred vision, numbness of the hands, difficulty falling asleep, and scanty, light-colored periods. Her complexion is pale and dull and her lips are pale. She has no thirst and no night sweats. The tongue is pale and thin. The pulse is thin (thready). Which of the following is the most appropriate pattern?",
+    "options": {
+      "A": "Yin deficiency",
+      "B": "Qi deficiency",
+      "C": "Blood deficiency",
+      "D": "Blood stasis"
+    }
+  },
+  {
+    "id": "FOM-IId-0013",
+    "subdomain": "II-d",
+    "stem": "A 48-year-old patient reports a stabbing pain in a fixed location in the lower abdomen for several months, worse at night and worse with pressure, with dark menstrual blood containing clots and a dusky complexion. The tongue is purple with dark spots and distended sublingual veins. The pulse is choppy. Which of the following is the most appropriate pattern?",
+    "options": {
+      "A": "Blood stasis",
+      "B": "Qi stagnation",
+      "C": "Blood Cold",
+      "D": "Blood deficiency"
+    }
+  },
+  {
+    "id": "FOM-IId-0014",
+    "subdomain": "II-d",
+    "stem": "A 22-year-old patient reports recurrent nosebleeds of bright-red blood, itchy red skin eruptions, heavy periods, a subjective feeling of heat, mental restlessness, and thirst. The tongue is red. The pulse is rapid. Which of the following is the most appropriate pattern?",
+    "options": {
+      "A": "Blood deficiency",
+      "B": "Blood Heat",
+      "C": "Blood stasis",
+      "D": "Blood Cold"
+    }
+  },
+  {
+    "id": "FOM-IId-0015",
+    "subdomain": "II-d",
+    "stem": "A 25-year-old woman reports painful periods with a cramping, cold sensation in the lower abdomen that is markedly relieved by a hot-water bottle, scanty dark menstrual flow with small clots, cold hands and feet, and a preference for warm drinks. The tongue is pale with a bluish-purple tinge. The pulse is deep and tight. Which of the following is the most appropriate pattern?",
+    "options": {
+      "A": "Blood stasis",
+      "B": "Blood deficiency",
+      "C": "Blood Heat",
+      "D": "Blood Cold"
+    }
+  },
+  {
+    "id": "FOM-IId-0016",
+    "subdomain": "II-d",
+    "stem": "A 54-year-old man has had four days of vomiting and watery diarrhea. He now reports a dry mouth and throat, dry lips and skin, scanty dark urine, and thirst. Before this episode he was in good health, and he reports no night sweats and no heat in the palms. The tongue is dry with a thin coating. The pulse is thin and slightly rapid. Which of the following is the most appropriate pattern?",
+    "options": {
+      "A": "Yin deficiency",
+      "B": "Body Fluid deficiency",
+      "C": "Blood deficiency",
+      "D": "exterior Dryness"
+    }
+  },
+  {
+    "id": "FOM-IId-0017",
+    "subdomain": "II-d",
+    "stem": "A 50-year-old patient has several soft, movable, painless lumps under the skin of the neck and forearms, a feeling of heaviness and muzziness in the head, and occasional dizziness. He produces no sputum. The tongue is swollen with a greasy white coating. The pulse is slippery. Which concept best explains the lumps?",
+    "options": {
+      "A": "Blood stasis",
+      "B": "Dampness",
+      "C": "substantial Phlegm",
+      "D": "non-substantial Phlegm"
+    }
+  },
+  {
+    "id": "FOM-IId-0018",
+    "subdomain": "II-d",
+    "stem": "A 37-year-old woman reports heaviness of the limbs and head, a feeling of fullness in the epigastrium, poor appetite, a sticky taste, sticky loose stools, and a white vaginal discharge, all worse in humid weather. The tongue has a sticky (greasy) white coating. The pulse is soggy (soft). Which of the following is the most appropriate pattern?",
+    "options": {
+      "A": "Dampness",
+      "B": "Phlegm",
+      "C": "Qi deficiency",
+      "D": "Qi stagnation"
+    }
+  },
+  {
+    "id": "FOM-IId-0019",
+    "subdomain": "II-d",
+    "stem": "A 19-year-old develops sudden swelling of the eyelids and face that spreads to the arms within two days, with aversion to wind, fever, a sore throat, and reduced urination. The tongue has a thin white coating. The pulse is floating and rapid. Which pathomechanism best explains the edema?",
+    "options": {
+      "A": "Spleen Qi fails to transform and transport the Fluids",
+      "B": "Kidney Yang fails to steam and excrete the Fluids",
+      "C": "Lung Qi fails to disperse and descend the Fluids after invasion of Wind",
+      "D": "Blood stasis obstructs the water passages"
+    }
+  },
+  {
+    "id": "FOM-IId-0020",
+    "subdomain": "II-d",
+    "stem": "A 72-year-old man reports a year of chest pain that is fixed and stabbing, brought on by exertion, with tiredness, shortness of breath, and spontaneous sweating. His complexion is pale with a dull, dark hue around the lips. The tongue is pale and slightly purple. The pulse is weak and choppy. Which of the following is the most appropriate pattern?",
+    "options": {
+      "A": "Qi deficiency with Blood stasis",
+      "B": "Qi stagnation with Blood stasis",
+      "C": "Qi and Blood deficiency",
+      "D": "Blood Cold with stasis"
+    }
+  },
+  {
+    "id": "FOM-IId-0021",
+    "subdomain": "II-d",
+    "stem": "A 40-year-old woman who has been dieting severely for a year reports tiredness, shortness of breath on exertion, palpitations, dizziness, difficulty sleeping, and scanty pale periods. Her complexion and lips are pale. The tongue is pale and thin. The pulse is thin and weak. Which of the following is the most appropriate pattern?",
+    "options": {
+      "A": "Qi deficiency",
+      "B": "Blood deficiency",
+      "C": "Qi and Blood deficiency",
+      "D": "Qi deficiency with Blood stasis"
+    }
+  },
+  {
+    "id": "FOM-IId-0022",
+    "subdomain": "II-d",
+    "stem": "A 44-year-old woman has had premenstrual breast distension and irritability for many years. Over the last year her period pain has changed from a distending ache to sharp, stabbing, fixed pain in the lower abdomen, with dark clots. The tongue is slightly purple with dark spots on the sides. The pulse is wiry and choppy. Which of the following best describes the pathomechanism?",
+    "options": {
+      "A": "Qi stagnation has progressed to Blood stasis",
+      "B": "Blood deficiency has failed to nourish the Qi",
+      "C": "Cold has congealed the Blood",
+      "D": "Blood stasis has obstructed the movement of Qi"
+    }
+  },
+  {
+    "id": "FOM-IId-0023",
+    "subdomain": "II-d",
+    "stem": "A 5-year-old child shows delayed walking and speech, late eruption of the teeth, soft bones, and a fontanelle that closed late. Growth is below that of other children of the same age. Deficiency of which substance most directly explains these findings?",
+    "options": {
+      "A": "Gu Qi",
+      "B": "Wei Qi",
+      "C": "Jin Ye",
+      "D": "Jing"
+    }
+  },
+  {
+    "id": "FOM-IIa-0001",
+    "subdomain": "II-a",
+    "stem": "According to Yin/Yang theory, Empty Heat arises from which of the following?",
+    "options": {
+      "A": "excess of Yang",
+      "B": "deficiency of Yin",
+      "C": "excess of Yin",
+      "D": "deficiency of Yang"
+    }
+  },
+  {
+    "id": "FOM-IIa-0002",
+    "subdomain": "II-a",
+    "stem": "A 63-year-old patient reports a chronic feeling of cold, cold limbs, a bright-pale complexion, tiredness, loose stools, and frequent pale urine; the symptoms have developed slowly over several years. The tongue is pale, swollen, and wet. The pulse is deep, slow, and weak. In Yin/Yang terms, the Cold in this patient arises from which of the following?",
+    "options": {
+      "A": "deficiency of Yang",
+      "B": "excess of Yin",
+      "C": "deficiency of Yin",
+      "D": "excess of Yang"
+    }
+  },
+  {
+    "id": "FOM-IIa-0003",
+    "subdomain": "II-a",
+    "stem": "A 36-year-old patient develops severe, fixed pain in the right knee after wading in a cold river. The pain is intense, worse with exposure to cold, relieved by warmth, and limits movement; the patient otherwise feels well, with normal energy and appetite. The tongue has a thin white coating. The pulse is tight. In Yin/Yang terms, the Cold in this patient arises from which of the following?",
+    "options": {
+      "A": "deficiency of Yang",
+      "B": "deficiency of Yin",
+      "C": "excess of Yin",
+      "D": "excess of Yang"
+    }
+  }
+]

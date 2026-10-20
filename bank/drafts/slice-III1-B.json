@@ -1,0 +1,1699 @@
+[
+  {
+    "id": "FOM-III1-0048",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-c",
+    "theory": "Eight Principles",
+    "stem": "A 29-year-old patient reports one day of chills, mild fever, absence of sweating, a stiff neck, and body aches after cycling home in cold rain. There is no thirst. The tongue has a thin white coating. The pulse is floating and tight. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear interior Heat and generate fluids",
+      "B": "release the exterior and expel Wind-Cold",
+      "C": "warm the interior and dispel Cold",
+      "D": "tonify Qi and consolidate the exterior"
+    },
+    "correct": "B",
+    "explanation": "Under the Eight Principles this is an exterior, Cold, Excess pattern. Chills predominating over fever, absence of sweating, body aches, and a floating tight pulse all place the pathogen in the exterior, and the thin white coating with no thirst confirms Cold rather than Heat. An exterior Excess pattern is treated by releasing the exterior, here with warming methods to expel Wind-Cold.",
+    "distractorExplanations": {
+      "A": "Clearing interior Heat would be chosen by a learner who treats every fever as Heat; the absence of thirst, the white coating, and the floating pulse show an exterior Cold pattern, with no interior Heat present.",
+      "C": "Warming the interior addresses interior Cold (for example, Cold in the Stomach or Spleen); the floating pulse and stiff neck place this Cold in the exterior, where it must be released outward rather than warmed internally.",
+      "D": "Tonifying Qi and consolidating the exterior treats deficiency-type spontaneous sweating; this patient has no sweating and a tight (Excess) pulse, so consolidating would trap the pathogen."
+    },
+    "learningObjective": "Formulate the treatment principle for an exterior Cold Excess pattern using Eight Principle classification.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "eight-principles",
+      "exterior-pattern",
+      "wind-cold",
+      "release-the-exterior"
+    ],
+    "distinction": {
+      "between": [
+        "exterior-pattern",
+        "interior-pattern"
+      ],
+      "key": "A floating pulse with chills, absence of sweating, and body aches of one day's duration places the pathogen in the exterior."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles"
+      }
+    ]
+  },
+  {
+    "id": "FOM-III1-0049",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-c",
+    "theory": "Eight Principles",
+    "stem": "A 41-year-old patient reports sudden severe epigastric pain that began after eating a large bowl of ice cream. The pain is relieved by a hot-water bottle and worsened by cold drinks. There is nausea and no thirst. The tongue is pale with a thick white coating. The pulse is deep and tight. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear Stomach Heat and descend rebellious Qi",
+      "B": "tonify Spleen Yang and warm the Middle",
+      "C": "warm the interior and dispel Cold",
+      "D": "release the exterior and dispel Cold"
+    },
+    "correct": "C",
+    "explanation": "This is an interior, Cold, Excess pattern: Cold invading the Stomach. The acute onset after cold food, severe pain relieved by warmth and worsened by cold, thick white coating, and deep tight pulse all indicate pathogenic Cold lodged internally. The Eight Principle treatment for interior Full Cold is to warm the interior and dispel the Cold.",
+    "distractorExplanations": {
+      "A": "A learner who equates severe epigastric pain with Stomach Fire would clear Heat; the relief from warmth, absence of thirst, pale tongue, and white coating exclude Heat.",
+      "B": "Tonifying Spleen Yang treats interior Empty Cold, which presents as a dull, chronic pain with fatigue and a weak pulse; the sudden onset, severe pain, and tight (Excess) pulse show Full Cold, where tonifying is inappropriate.",
+      "D": "Releasing the exterior is for Cold that lodges in the surface with a floating pulse and chills; the deep pulse and epigastric location show the Cold is interior, not exterior."
+    },
+    "learningObjective": "Differentiate interior Full Cold from interior Empty Cold and select the warming principle appropriate to each.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "eight-principles",
+      "full-cold",
+      "cold-invading-the-stomach",
+      "warm-the-interior"
+    ],
+    "distinction": {
+      "between": [
+        "full-cold",
+        "empty-cold"
+      ],
+      "key": "Sudden onset, severe pain, and a tight pulse mark Full Cold to be dispelled; dull chronic pain with a weak pulse marks Empty Cold to be warmed and tonified."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the Eight Principles"
+      }
+    ]
+  },
+  {
+    "id": "FOM-III1-0050",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-c",
+    "theory": "Eight Principles",
+    "stem": "A 58-year-old patient reports loose stools several times daily for two years, worse after meals, with poor appetite, abdominal distension after eating, fatigue, and a sallow complexion. The stools have no foul odor and there is no burning. The tongue is pale and teeth-marked with a thin white coating. The pulse is weak. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "tonify Spleen Qi and lift the clear Yang",
+      "B": "clear Damp-Heat from the Large Intestine",
+      "C": "drain Dampness and promote urination",
+      "D": "resolve Food stagnation and harmonize the Stomach"
+    },
+    "correct": "A",
+    "explanation": "Under the Eight Principles this is an interior, Deficient pattern: Spleen Qi deficiency with failure of the Spleen to raise clear Yang. Chronic loose stools that are not foul, poor appetite, post-prandial distension, fatigue, sallow complexion, a pale teeth-marked tongue, and a weak pulse are all signs of Deficiency. A Deficient pattern calls for tonification; draining methods would further weaken the Spleen.",
+    "distractorExplanations": {
+      "B": "A learner who treats all diarrhea as Damp-Heat would choose this; Damp-Heat diarrhea is foul-smelling, burning, and urgent, with a yellow greasy coating and a rapid pulse, none of which are present.",
+      "C": "Draining Dampness through urination is a method for an Excess accumulation of Dampness, typically with a thick greasy coating and a slippery or soggy pulse; the thin coating and weak pulse show that the Spleen's transportive function, not retained Dampness, is the problem.",
+      "D": "Resolving Food stagnation treats an acute Excess pattern with foul belching, sour regurgitation, and a thick coating after overeating; this chronic two-year history with a thin coating is Deficiency, not Food retention."
+    },
+    "learningObjective": "Apply the tonify-versus-drain principle by recognizing a chronic Deficient pattern.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "eight-principles",
+      "spleen-qi-deficiency",
+      "deficiency-pattern",
+      "tonify-versus-drain"
+    ],
+    "distinction": {
+      "between": [
+        "spleen-qi-deficiency",
+        "large-intestine-damp-heat"
+      ],
+      "key": "Non-foul loose stools with a pale teeth-marked tongue and weak pulse indicate Deficiency; foul, burning diarrhea with a yellow greasy coating indicates Damp-Heat Excess."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles; Spleen patterns"
+      }
+    ]
+  },
+  {
+    "id": "FOM-III1-0051",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-c",
+    "theory": "Eight Principles",
+    "stem": "A 72-year-old patient with long-standing chronic illness reports feeling hot in the face with flushed cheeks and a desire to remove clothing, yet the limbs are cold and the patient curls up under blankets. There is restlessness, thirst for only small sips of warm water, long clear urination, and watery diarrhea. The tongue is pale with a moist coating. The pulse is deep, minute (faint), and forceless. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear Heat and drain Fire",
+      "B": "nourish Yin and clear Empty Heat",
+      "C": "release the exterior and clear the interior",
+      "D": "warm Yang and dispel Cold"
+    },
+    "correct": "D",
+    "explanation": "This is true Cold with false Heat: exuberant interior Yin Cold forces the weakened Yang to float outward, producing a flushed face and restlessness that mimic Heat. The findings that reveal the true nature are the cold limbs, desire for warmth and warm drinks, clear copious urine, watery diarrhea, pale moist tongue, and a deep faint forceless pulse. Treatment follows the true nature, so the Yang is warmed and the Cold dispelled; the false Heat resolves as the Yang returns to its root.",
+    "distractorExplanations": {
+      "A": "A learner who treats the flushed face and restlessness at face value would clear Heat; the clear urine, watery diarrhea, pale moist tongue, and faint forceless pulse show these are false signs and clearing would further damage the collapsing Yang.",
+      "B": "Nourishing Yin treats Empty Heat, which presents with a red peeled tongue, scanty dark urine, and a thin rapid pulse; this patient's tongue is pale and moist and the pulse is faint and forceless, pointing to Yang deficiency, not Yin deficiency.",
+      "C": "There is no exterior pattern (no chills with fever, no floating pulse); the deep pulse and chronic history place everything in the interior."
+    },
+    "learningObjective": "Identify true Cold with false Heat and formulate treatment according to the true nature of the pattern.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "eight-principles",
+      "true-cold-false-heat",
+      "yang-deficiency",
+      "warm-yang"
+    ],
+    "distinction": {
+      "between": [
+        "true-cold-false-heat",
+        "full-heat"
+      ],
+      "key": "False Heat shows a flushed face but with a pale moist tongue, clear urine, and a forceless pulse; true Heat shows a red tongue, dark urine, and a forceful pulse."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles: Hot/Cold, true and false"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Eight-principle differentiation: true and false cold and heat"
+      }
+    ]
+  },
+  {
+    "id": "FOM-III1-0052",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-c",
+    "theory": "Eight Principles",
+    "stem": "A 35-year-old patient on the fifth day of a febrile illness has a high fever with ice-cold hands and feet. There is marked thirst with a desire for cold drinks, irritability, foul breath, constipation for four days, and scanty dark urine. The tongue is red with a dry yellow coating. The pulse is deep but forceful and rapid. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "warm Yang and rescue from collapse",
+      "B": "clear interior Heat and purge accumulation",
+      "C": "warm the Middle and dispel interior Cold",
+      "D": "release the exterior and clear interior Heat"
+    },
+    "correct": "B",
+    "explanation": "This is true Heat with false Cold: intense interior Heat blocks the Yang Qi from reaching the extremities, producing cold limbs. The true nature is shown by the high fever, thirst for cold drinks, irritability, foul breath, constipation, scanty dark urine, red tongue with a dry yellow coating, and a forceful rapid pulse. Treatment addresses the true Heat by clearing it and purging the accumulated Heat from the interior.",
+    "distractorExplanations": {
+      "A": "A learner who sees cold limbs with a deep pulse and assumes Yang collapse would warm Yang; here the pulse is forceful and rapid and the tongue is red and dry, so the cold limbs are a false sign and warming would intensify the Heat.",
+      "C": "Warming the Middle treats interior Cold with a pale tongue, white coating, and absence of thirst; every finding except the cold limbs shows Heat.",
+      "D": "The illness is in its fifth day with a deep pulse and no aversion to cold, so there is no exterior to release; the pathogen is entirely interior."
+    },
+    "learningObjective": "Identify true Heat with false Cold and formulate treatment according to the true nature of the pattern.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "eight-principles",
+      "true-heat-false-cold",
+      "full-heat",
+      "clear-heat"
+    ],
+    "distinction": {
+      "between": [
+        "true-heat-false-cold",
+        "yang-collapse"
+      ],
+      "key": "Cold limbs with a forceful rapid pulse, red dry tongue, and thirst for cold drinks mark blocked Heat; cold limbs with a faint forceless pulse and pale moist tongue mark Yang collapse."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles: Hot/Cold, true and false"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Eight-principle differentiation: true and false cold and heat"
+      }
+    ]
+  },
+  {
+    "id": "FOM-III1-0053",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-c",
+    "theory": "Eight Principles",
+    "stem": "A 68-year-old patient reports a chronic cough for three years with copious white sticky sputum, shortness of breath on exertion, a weak voice, and a tendency to catch colds. The complexion is pale. The tongue is pale and slightly swollen with a white greasy coating. The pulse is weak and slippery. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "tonify Lung Qi and resolve Phlegm",
+      "B": "tonify Lung Qi and consolidate the exterior",
+      "C": "descend Lung Qi and resolve Phlegm",
+      "D": "clear Lung Heat and resolve Phlegm"
+    },
+    "correct": "A",
+    "explanation": "This is a mixed pattern of Deficiency and Excess: Lung Qi deficiency (shortness of breath, weak voice, frequent colds, pale complexion, pale tongue, weak pulse) together with retained Phlegm (copious sticky sputum, swollen tongue, greasy coating, slippery pulse). When Deficiency and Excess coexist, the Eight Principle approach supports the upright Qi while dispelling the pathogen, so Lung Qi is tonified and Phlegm resolved at the same time.",
+    "distractorExplanations": {
+      "B": "This addresses only the Deficiency; it ignores the copious sputum, greasy coating, and slippery pulse, and consolidating the exterior without resolving Phlegm would retain the pathogen.",
+      "C": "Descending Lung Qi and resolving Phlegm treats an Excess pattern of Phlegm obstructing the Lung; it ignores the weak voice, weak pulse, and pale tongue, and purely dispersing methods would further deplete Lung Qi.",
+      "D": "Clearing Lung Heat is for Phlegm-Heat, which shows yellow sputum, a red tongue, a yellow greasy coating, and a rapid pulse; the sputum is white and the tongue pale, so there is no Heat."
+    },
+    "learningObjective": "Formulate a treatment principle for a mixed Deficiency-Excess pattern that supports the upright Qi while dispelling the pathogen.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "eight-principles",
+      "mixed-deficiency-excess",
+      "lung-qi-deficiency",
+      "phlegm"
+    ],
+    "distinction": {
+      "between": [
+        "lung-qi-deficiency",
+        "phlegm-obstructing-the-lung"
+      ],
+      "key": "Weak voice, weak pulse, and pale tongue show Deficiency; copious sputum, greasy coating, and slippery pulse show Excess; both are present, so both are treated."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles: Full/Empty, combined patterns"
+      }
+    ]
+  },
+  {
+    "id": "FOM-III1-0054",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-c",
+    "theory": "Eight Principles",
+    "stem": "A 63-year-old patient who catches colds several times each winter presents with two days of aversion to cold, mild fever, a runny nose with clear discharge, and body aches. The patient also reports chronic fatigue, spontaneous daytime sweating, and shortness of breath on climbing stairs. The tongue is pale with a thin white coating. The pulse is floating and weak. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "release the exterior and expel Wind-Cold",
+      "B": "tonify Qi and consolidate the exterior",
+      "C": "warm Kidney Yang and release the exterior",
+      "D": "tonify Qi and release the exterior"
+    },
+    "correct": "D",
+    "explanation": "This is an exterior Wind-Cold invasion in a patient with underlying Qi deficiency. The aversion to cold, fever, clear nasal discharge, and floating pulse show the exterior pattern, while the recurrent colds, chronic fatigue, spontaneous sweating, shortness of breath, pale tongue, and weak quality of the pulse show deficient Qi that cannot expel the pathogen. The exterior is released while Qi is tonified so that the upright Qi can drive the pathogen out without being further depleted by diaphoresis.",
+    "distractorExplanations": {
+      "A": "Releasing the exterior alone is the principle for Wind-Cold in a patient with sound upright Qi; here the weak pulse and chronic deficiency signs mean strong diaphoresis would further damage Qi and the pathogen would linger.",
+      "B": "Consolidating the exterior is the preventive principle between episodes; applied while Wind-Cold is present it would lock the pathogen inside.",
+      "C": "Warming Kidney Yang with exterior release is for Wind-Cold on a background of Yang deficiency, which shows cold limbs, a deep pulse that does not float, and a desire to lie curled up; this patient's spontaneous sweating, shortness of breath, and floating weak pulse indicate Qi deficiency."
+    },
+    "learningObjective": "Formulate the treatment principle for an exterior pattern occurring with interior deficiency.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "eight-principles",
+      "exterior-with-interior-deficiency",
+      "wind-cold",
+      "qi-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "exterior-with-interior-deficiency",
+        "exterior-excess"
+      ],
+      "key": "A floating pulse that is weak rather than tight, with spontaneous sweating and chronic fatigue, shows that Qi must be tonified while the exterior is released."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles: combined exterior and interior patterns"
+      }
+    ]
+  },
+  {
+    "id": "FOM-III1-0055",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-c",
+    "theory": "Eight Principles",
+    "stem": "Using the Eight Principles (Ba Gang), a patient's condition is classified as interior, Cold, and Deficient. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "warm the interior and dispel Cold",
+      "B": "nourish Yin and clear Empty Heat",
+      "C": "warm and tonify the Yang",
+      "D": "release the exterior and dispel Cold"
+    },
+    "correct": "C",
+    "explanation": "An interior, Cold, Deficient pattern is Empty Cold, which arises from deficiency of Yang that fails to warm the body. Because the Cold is produced by Deficiency rather than by an invading pathogen, the principle is to warm and tonify the Yang; restoring Yang removes the Cold at its source.",
+    "distractorExplanations": {
+      "A": "Warming the interior and dispelling Cold is the principle for interior Full Cold, where a pathogenic Cold factor must be driven out; in a Deficient pattern there is no pathogen to dispel and tonification is required.",
+      "B": "Nourishing Yin and clearing Empty Heat is the principle for the mirror-image pattern, interior Heat Deficiency; a learner confusing the two Deficient patterns would choose it.",
+      "D": "Releasing the exterior is for an exterior pattern; the classification here is interior."
+    },
+    "learningObjective": "Derive the treatment principle directly from an Eight Principle classification.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "eight-principles",
+      "empty-cold",
+      "yang-deficiency",
+      "warm-yang"
+    ],
+    "distinction": {
+      "between": [
+        "empty-cold",
+        "full-cold"
+      ],
+      "key": "Empty Cold is treated by tonifying Yang; Full Cold is treated by dispelling the Cold pathogen."
+    },
+    "references": [
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the Eight Principles"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles"
+      }
+    ]
+  },
+  {
+    "id": "FOM-III1-0056",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-c",
+    "theory": "Eight Principles",
+    "stem": "A 49-year-old patient reports night sweats for six months, a sensation of heat in the palms, soles, and chest in the late afternoon, a dry mouth at night, and a flushed malar area. Daytime energy is fair and there is no daytime sweating. The tongue is red with a peeled coating. The pulse is thin (thready) and rapid. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "nourish Yin and clear Empty Heat",
+      "B": "clear Heat and drain Fire",
+      "C": "tonify Qi and consolidate the exterior",
+      "D": "warm Yang and consolidate the exterior"
+    },
+    "correct": "A",
+    "explanation": "This is an interior, Heat, Deficient pattern: Yin deficiency with Empty Heat. The night sweats, five-palm heat, dry mouth at night, malar flush, red peeled tongue, and thin rapid pulse all arise from Yin failing to restrain Yang. Because the Heat is relative rather than pathogenic, the principle is to nourish Yin, which clears the Empty Heat at its source, rather than to drain Heat with cooling, purging methods that would injure Yin further.",
+    "distractorExplanations": {
+      "B": "Clearing Heat and draining Fire is for Full Heat, which shows a red tongue with a thick yellow coating and a full rapid pulse, high fever, and great thirst; the peeled coating and thin pulse show Deficiency, and draining methods would damage Yin.",
+      "C": "A learner who treats all sweating as exterior Qi deficiency would consolidate the exterior; that pattern shows daytime spontaneous sweating with a pale tongue and weak pulse, not night sweats with a red peeled tongue.",
+      "D": "Warming Yang is contraindicated: it treats Empty Cold, and here every finding is one of Heat."
+    },
+    "learningObjective": "Differentiate Empty Heat from Full Heat and select the nourishing rather than the draining principle.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "eight-principles",
+      "empty-heat",
+      "yin-deficiency",
+      "nourish-yin"
+    ],
+    "distinction": {
+      "between": [
+        "empty-heat",
+        "full-heat"
+      ],
+      "key": "A peeled coating with a thin rapid pulse and night-time symptoms marks Empty Heat; a thick yellow coating with a full rapid pulse marks Full Heat."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles: Hot/Cold, Full/Empty"
+      }
+    ]
+  },
+  {
+    "id": "FOM-III1-0057",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-c",
+    "theory": "Eight Principles",
+    "stem": "A 44-year-old patient with a two-year history of fatigue, poor appetite, and loose stools attends the day after a large celebratory meal with acute epigastric fullness and pain that refuses pressure, foul belching, sour regurgitation, and complete loss of appetite. The tongue is pale with a thick greasy coating. The pulse is slippery and full. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "tonify Spleen Qi, then resolve Food stagnation",
+      "B": "resolve Food stagnation, then tonify Spleen Qi",
+      "C": "clear Stomach Heat, then tonify Spleen Qi",
+      "D": "tonify Spleen Qi and lift the clear Yang"
+    },
+    "correct": "B",
+    "explanation": "This is a mixed pattern: a chronic Deficiency of Spleen Qi (fatigue, poor appetite, loose stools, pale tongue) with an acute Excess of Food stagnation (fullness refusing pressure, foul belching, sour regurgitation, thick greasy coating, slippery full pulse). When the Excess is acute and currently dominant, the Eight Principle approach dispels the pathogen first, then tonifies; tonifying while the Stomach is obstructed would aggravate the stagnation.",
+    "distractorExplanations": {
+      "A": "Tonifying first is chosen by a learner who prioritizes the long-standing root; tonifying into an acutely obstructed Stomach increases fullness and 'feeds the pathogen', so the Excess is cleared first.",
+      "C": "Foul belching and sour regurgitation come from retained food rather than Stomach Heat; the pale tongue and absence of thirst exclude a Heat pattern.",
+      "D": "This treats only the chronic Deficiency and ignores the acute Excess shown by the thick greasy coating and full slippery pulse."
+    },
+    "learningObjective": "Sequence treatment in a mixed Deficiency-Excess pattern when the Excess is acute and dominant.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "evaluation",
+    "vignette": true,
+    "concepts": [
+      "eight-principles",
+      "mixed-deficiency-excess",
+      "retention-of-food-in-the-stomach",
+      "spleen-qi-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "retention-of-food-in-the-stomach",
+        "spleen-qi-deficiency"
+      ],
+      "key": "Pain refusing pressure with a thick greasy coating and full pulse marks the acute Excess that must be dispelled before the chronic Deficiency is tonified."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Eight Principles: Full/Empty, combined patterns"
+      }
+    ]
+  },
+  {
+    "id": "FOM-III1-0058",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-b",
+    "theory": "Five Elements",
+    "stem": "A practitioner decides to treat chronic Lung Qi deficiency by applying the Five Element rule 'in deficiency, tonify the mother'. Which of the following treatment principles expresses this decision?",
+    "options": {
+      "A": "nourish Water to moisten Wood",
+      "B": "clear Fire to protect Metal",
+      "C": "support Earth to restrain Water",
+      "D": "strengthen Earth to generate Metal"
+    },
+    "correct": "D",
+    "explanation": "In the generating (Sheng) cycle, Earth is the mother of Metal. Tonifying the mother of a deficient Element means strengthening the Spleen (Earth) so that it generates Qi for the Lung (Metal); this is the classical principle 'strengthen Earth to generate Metal'.",
+    "distractorExplanations": {
+      "A": "Nourishing Water to moisten Wood tonifies the Kidney as the mother of the Liver; this applies to Liver deficiency, not Lung deficiency.",
+      "B": "Clearing Fire to protect Metal addresses Fire overacting on the Lung, an Excess relationship on the controlling cycle; it does not tonify a mother.",
+      "C": "Supporting Earth to restrain Water uses the controlling cycle to manage Water overflow (edema); it is unrelated to tonifying the Lung's mother."
+    },
+    "learningObjective": "Identify the Five Element treatment principle derived from 'tonify the mother in deficiency' for a given organ.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "five-elements",
+      "generating-cycle",
+      "tonify-the-mother",
+      "lung-qi-deficiency"
+    ],
+    "references": [
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "The Five Elements: application in treatment"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The Five Elements: clinical application"
+      }
+    ]
+  },
+  {
+    "id": "FOM-III1-0059",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-b",
+    "theory": "Five Elements",
+    "stem": "A 56-year-old patient reports dizziness, tinnitus, dry eyes, and blurred vision for a year, together with soreness of the lower back and knees, night sweats, and headaches at the vertex. The tongue is red with scanty coating. The pulse is thin (thready) and wiry. Using Five Element theory, which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "strengthen Earth to generate Metal",
+      "B": "drain Fire to reduce Wood excess",
+      "C": "nourish Water to moisten Wood",
+      "D": "support Earth to restrain Water"
+    },
+    "correct": "C",
+    "explanation": "The lower back and knee soreness, night sweats, red tongue with scanty coating, and thin pulse show Kidney Yin deficiency (Water), while the dizziness, tinnitus, dry eyes, vertex headache, and wiry quality show that Liver Yin is undernourished and Liver Yang is rising (Wood). Water is the mother of Wood, so the principle is to tonify the mother: nourish Kidney Water to moisten and anchor the Liver Wood.",
+    "distractorExplanations": {
+      "A": "Strengthening Earth to generate Metal treats Lung deficiency through the Spleen; there are no Lung or Spleen findings here.",
+      "B": "Draining the child (Fire) is the rule for an Excess of Wood such as Liver Fire blazing, which shows a thick yellow coating and a full wiry rapid pulse; the scanty coating and thin pulse show that this Wood disturbance is rooted in Deficiency and should be nourished, not drained.",
+      "D": "Supporting Earth to restrain Water is for edema from Water overflowing; there is no edema or Spleen deficiency."
+    },
+    "learningObjective": "Apply the mother-child relationship to formulate a principle for Liver Yang rising rooted in Kidney Yin deficiency.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "five-elements",
+      "generating-cycle",
+      "kidney-yin-deficiency",
+      "liver-yang-rising"
+    ],
+    "distinction": {
+      "between": [
+        "liver-yang-rising",
+        "liver-fire-blazing"
+      ],
+      "key": "A scanty coating with a thin wiry pulse and Kidney signs marks Yang rising from Deficiency, treated by nourishing the mother; a thick yellow coating with a full pulse marks Fire Excess, treated by draining."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The Five Elements: clinical application; Liver patterns"
+      }
+    ]
+  },
+  {
+    "id": "FOM-III1-0060",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-b",
+    "theory": "Five Elements",
+    "stem": "A 61-year-old patient reports pitting edema of both lower legs for eight months, abdominal distension, poor appetite, loose stools, and heaviness of the limbs. There is no low back pain, and the patient does not report cold limbs or early-morning diarrhea. The tongue is pale and swollen with a white slippery coating. The pulse is deep and weak. Using Five Element theory, which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "support Earth to restrain Water",
+      "B": "warm Fire to generate Earth",
+      "C": "nourish Water to moisten Wood",
+      "D": "strengthen Earth to generate Metal"
+    },
+    "correct": "A",
+    "explanation": "The edema, abdominal distension, poor appetite, loose stools, heavy limbs, pale swollen tongue, and deep weak pulse indicate that the Spleen (Earth) is failing to transform and transport fluids, so Water overflows. On the controlling (Ke) cycle Earth controls Water; the principle is therefore to support Earth so that it restrains the overflowing Water.",
+    "distractorExplanations": {
+      "B": "Warming Fire to generate Earth is chosen when Kidney Yang (Fire at the Gate of Life) fails to warm the Spleen, which shows cold limbs, low back pain, and early-morning diarrhea; the stem explicitly excludes these findings, so the disorder is located in Earth itself.",
+      "C": "Nourishing Water to moisten Wood treats Liver deficiency rooted in Kidney Yin; it has no relation to edema from Spleen weakness.",
+      "D": "Strengthening Earth to generate Metal treats Lung deficiency via the Spleen; the problem here is fluid overflow (Water), not a Lung deficiency."
+    },
+    "learningObjective": "Apply the controlling cycle to formulate a principle for edema due to Spleen deficiency.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "five-elements",
+      "controlling-cycle",
+      "spleen-yang-deficiency",
+      "edema"
+    ],
+    "distinction": {
+      "between": [
+        "spleen-yang-deficiency",
+        "kidney-yang-deficiency"
+      ],
+      "key": "Edema with digestive weakness but no low back pain, cold limbs, or early-morning diarrhea is rooted in Earth, not Fire."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The Five Elements: clinical application"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "The Five Elements: application in treatment"
+      }
+    ]
+  },
+  {
+    "id": "FOM-III1-0061",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-b",
+    "theory": "Five Elements",
+    "stem": "A 38-year-old patient reports a dry barking cough for three weeks that worsens during arguments, with pain in the right hypochondrium on coughing, a bitter taste, red eyes, irritability, and scanty sticky sputum that is occasionally streaked with blood. The tongue is red on the sides with a thin yellow coating. The pulse is wiry and rapid. Using Five Element theory, which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "strengthen Earth to generate Metal",
+      "B": "clear Liver Fire to protect Lung Metal",
+      "C": "nourish Water to moisten Wood",
+      "D": "tonify Metal to restrain Wood"
+    },
+    "correct": "B",
+    "explanation": "The cough triggered by anger, hypochondriac pain, bitter taste, red eyes, irritability, red tongue sides, and wiry rapid pulse show Liver Fire (Wood) that has reversed the normal controlling relationship and insulted the Lung (Metal), scorching Lung fluids and injuring Lung vessels. The principle is to clear the Fire of Wood so that Metal is protected: clear Liver Fire to protect the Lung.",
+    "distractorExplanations": {
+      "A": "Strengthening Earth to generate Metal tonifies a deficient Lung through the Spleen; here the Lung is being attacked by an Excess of Liver Fire, and tonifying would not remove the Fire.",
+      "C": "Nourishing Water to moisten Wood treats Liver deficiency with Yang rising; the full wiry rapid pulse and yellow coating show Liver Fire Excess rather than Deficiency.",
+      "D": "Tonifying Metal to restrain Wood describes using the Lung's controlling function on the Liver; with Wood already in Excess and actively insulting Metal, the Excess must be drained rather than the victim merely supported."
+    },
+    "learningObjective": "Formulate a Five Element principle for Liver Fire insulting the Lung along the reverse controlling sequence.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "five-elements",
+      "insulting-cycle",
+      "liver-fire-blazing",
+      "liver-fire-insulting-the-lung"
+    ],
+    "distinction": {
+      "between": [
+        "liver-fire-insulting-the-lung",
+        "lung-yin-deficiency"
+      ],
+      "key": "A cough that worsens with anger, with hypochondriac pain and a wiry rapid pulse, is Wood insulting Metal; a chronic dry cough with a thin rapid pulse and peeled coating is Metal deficiency."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The Five Elements: the Insulting sequence; Liver patterns"
+      }
+    ]
+  },
+  {
+    "id": "FOM-III1-0062",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-b",
+    "theory": "Five Elements",
+    "stem": "A 33-year-old patient reports four months of premenstrual breast and hypochondriac distension, irritability, and sighing following a stressful job change. The appetite has recently become slightly reduced before menses, though stools remain formed and energy is good. The tongue is normal in color with a thin white coating. The pulse is wiry on the left and of normal strength on the right. Which of the following treatment principles best reflects the Five Element teaching on preventing transmission of disease?",
+    "options": {
+      "A": "course the Liver and clear Liver Heat",
+      "B": "tonify Spleen Qi and lift the clear Yang",
+      "C": "nourish Liver Blood and extinguish Wind",
+      "D": "course the Liver and support the Spleen"
+    },
+    "correct": "D",
+    "explanation": "The findings show Liver Qi stagnation (Wood) with only the earliest hint of Spleen (Earth) involvement. The classical teaching, 'when Liver disease is seen, know that it will be transmitted to the Spleen, so first strengthen the Spleen', directs the practitioner to treat the present pattern while supporting the Element that Wood overacts on along the controlling cycle. Coursing the Liver while supporting the Spleen prevents Wood from overacting on Earth.",
+    "distractorExplanations": {
+      "A": "Clearing Liver Heat is for stagnation that has transformed into Heat, shown by a red tongue, yellow coating, and rapid pulse; the normal tongue and thin white coating show no Heat, and this option ignores the preventive principle.",
+      "B": "Tonifying and lifting the Spleen alone treats established Spleen Qi deficiency; stools are formed and energy is good, so the Spleen is not yet deficient, and the primary Liver stagnation would be left untreated.",
+      "C": "Nourishing Liver Blood and extinguishing Wind treats internal Wind from Blood deficiency; there is no tremor, numbness, or pale tongue to support it."
+    },
+    "learningObjective": "Apply the Five Element principle of treating the Element that a diseased Element will overact on to prevent transmission.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "five-elements",
+      "overacting-cycle",
+      "liver-qi-stagnation",
+      "prevent-transmission"
+    ],
+    "distinction": {
+      "between": [
+        "liver-qi-stagnation",
+        "liver-overacting-on-spleen"
+      ],
+      "key": "A wiry left pulse with formed stools and good energy shows Wood stagnation before Earth has been damaged; supporting Earth is preventive rather than curative."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The Five Elements: the Overacting sequence and prevention"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "The Five Elements: application in treatment"
+      }
+    ]
+  },
+  {
+    "id": "FOM-III1-0063",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-b",
+    "theory": "Five Elements",
+    "stem": "A 46-year-old patient reports two weeks of splitting temporal headaches, red eyes, a bitter taste, outbursts of anger, tinnitus like the roar of the sea, and constipation with dark urine. The tongue is red with a thick dry yellow coating. The pulse is wiry, rapid, and full. A practitioner chooses to apply the Five Element rule for Excess. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "tonify Kidney Water to nourish Liver Wood",
+      "B": "tonify Lung Metal to restrain Liver Wood",
+      "C": "drain Heart Fire to reduce Liver Wood excess",
+      "D": "strengthen Spleen Earth to generate Lung Metal"
+    },
+    "correct": "C",
+    "explanation": "The splitting headache, red eyes, bitter taste, anger, roaring tinnitus, constipation, dark urine, red tongue with dry yellow coating, and full wiry rapid pulse are Liver Fire blazing, an Excess of Wood. The Five Element rule for Excess is 'drain the child'. On the generating cycle the child of Wood is Fire (the Heart), so draining Heart Fire reduces the excess of the Liver.",
+    "distractorExplanations": {
+      "A": "Tonifying the mother (Water) is the rule for Deficiency; this pattern shows a full pulse and thick yellow coating, so tonifying would feed the Fire.",
+      "B": "Tonifying Metal to restrain Wood invokes the controlling cycle rather than the mother-child rule the stem specifies, and it supports an uninvolved Element instead of draining the Excess directly.",
+      "D": "Strengthening Earth to generate Metal treats Lung deficiency; it has no relation to a Liver Excess."
+    },
+    "learningObjective": "Apply the 'drain the child in Excess' rule to a Liver Fire pattern.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "five-elements",
+      "generating-cycle",
+      "drain-the-child",
+      "liver-fire-blazing"
+    ],
+    "distinction": {
+      "between": [
+        "drain-the-child",
+        "tonify-the-mother"
+      ],
+      "key": "A full wiry rapid pulse with a thick yellow coating marks Excess, so the child is drained; Deficiency with a thin pulse and scanty coating would call for tonifying the mother."
+    },
+    "references": [
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "The Five Elements: application in treatment"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The Five Elements: clinical application; Liver patterns"
+      }
+    ]
+  },
+  {
+    "id": "FOM-III1-0064",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-b",
+    "theory": "Five Elements",
+    "stem": "The treatment principle 'nourish Water to moisten Wood' is derived from which Five Element relationship?",
+    "options": {
+      "A": "the generating (Sheng) sequence",
+      "B": "the controlling (Ke) sequence",
+      "C": "the overacting (Cheng) sequence",
+      "D": "the insulting (Wu) sequence"
+    },
+    "correct": "A",
+    "explanation": "In the generating sequence Water is the mother of Wood: the Kidney nourishes the Liver. 'Nourish Water to moisten Wood' tonifies the mother to benefit a deficient child, which is the generating relationship applied to treatment.",
+    "distractorExplanations": {
+      "B": "The controlling sequence links Water to Fire (Water controls Fire), not Water to Wood; principles such as 'support Earth to restrain Water' derive from it.",
+      "C": "The overacting sequence is a pathological exaggeration of control; Water does not control Wood, so it cannot overact on it.",
+      "D": "The insulting sequence is control in reverse (for example, Wood insulting Metal); it describes a pathology, and does not involve the Water-Wood pair."
+    },
+    "learningObjective": "Identify the Five Element sequence underlying a named treatment principle.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "five-elements",
+      "generating-cycle",
+      "tonify-the-mother"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The Five Elements: the Generating sequence and its clinical application"
+      }
+    ]
+  },
+  {
+    "id": "FOM-III1-0065",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-b",
+    "theory": "Five Elements",
+    "stem": "A 52-year-old patient reports insomnia with difficulty falling asleep, palpitations, mental restlessness, and recurrent mouth ulcers for a year, together with soreness of the lower back, night sweats, dizziness, and a dry throat at night. The tongue is red, especially at the tip, with no coating. The pulse is thin (thready) and rapid. Using Five Element theory, which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear Heart Fire and drain it through the urine",
+      "B": "tonify Heart Qi and calm the Shen",
+      "C": "warm Kidney Yang to steam Heart Fire",
+      "D": "nourish Kidney Water to restrain Heart Fire"
+    },
+    "correct": "D",
+    "explanation": "The lower back soreness, night sweats, dizziness, dry throat at night, peeled tongue, and thin rapid pulse show Kidney Yin deficiency (Water), while the insomnia, palpitations, restlessness, mouth ulcers, and red tongue tip show Heart Fire flaring (Fire). On the controlling cycle Water restrains Fire; when Water is deficient, Fire is unrestrained. The principle is to nourish Kidney Water so that it can once more control Heart Fire.",
+    "distractorExplanations": {
+      "A": "Clearing and draining Heart Fire is the principle for Full Heart Fire, which shows a red tongue with a yellow coating and a full rapid pulse; the peeled tongue and thin pulse show the Fire is relative to deficient Water, so draining alone would further injure Yin.",
+      "B": "Tonifying Heart Qi treats Heart Qi deficiency with a pale tongue and weak pulse; the red tongue and rapid pulse show Heat, not deficient Qi.",
+      "C": "Warming Kidney Yang is contraindicated in Yin deficiency with Heat signs; it would aggravate the Fire."
+    },
+    "learningObjective": "Apply the controlling cycle to formulate a principle for Heart Fire arising from deficient Kidney Water.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "five-elements",
+      "controlling-cycle",
+      "kidney-yin-deficiency",
+      "heart-fire-blazing"
+    ],
+    "distinction": {
+      "between": [
+        "heart-and-kidney-not-harmonized",
+        "heart-fire-blazing"
+      ],
+      "key": "Heart Heat signs with a peeled tongue, thin pulse, and lower back soreness are Fire unrestrained by deficient Water; Heart Fire with a yellow coating and full pulse is Full Fire to be drained."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The Five Elements: the Controlling sequence; Heart and Kidney patterns"
+      }
+    ]
+  },
+  {
+    "id": "FOM-III1-0066",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-e",
+    "theory": "Channels",
+    "stem": "A 26-year-old patient reports an occipital headache with stiffness and aching along the back of the neck and upper back, chills, and absence of sweating that began the morning after sleeping near an open window. The tongue has a thin white coating. The pulse is floating and tight. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear Heat from the Yang Ming channel",
+      "B": "expel Wind-Cold from the Tai Yang channel",
+      "C": "harmonize the Shao Yang channel",
+      "D": "course Qi in the Liver channel"
+    },
+    "correct": "B",
+    "explanation": "The occiput, nape, and upper back lie on the pathway of the Tai Yang channels, and the chills, absence of sweating, thin white coating, and floating tight pulse show an exterior Wind-Cold invasion. The channel-based principle is to expel the Wind-Cold from the Tai Yang channel to relieve the obstruction along its course.",
+    "distractorExplanations": {
+      "A": "The Yang Ming channel governs the forehead and face; a Yang Ming channel disorder would present with frontal headache, thirst, and a rapid pulse, none of which is present.",
+      "C": "The Shao Yang channel governs the temples and sides of the head; a Shao Yang headache is temporal and lateral, often with a wiry pulse.",
+      "D": "The Liver channel reaches the vertex; a Liver channel headache is at the top of the head and is related to emotional stress with a wiry pulse, not to an exterior invasion."
+    },
+    "learningObjective": "Identify the channel implicated by headache location and formulate the corresponding channel principle.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "channels",
+      "tai-yang-channel",
+      "wind-cold",
+      "headache-by-channel"
+    ],
+    "distinction": {
+      "between": [
+        "tai-yang-channel",
+        "yang-ming-channel"
+      ],
+      "key": "Occipital and nape pain places the disorder in Tai Yang; frontal pain places it in Yang Ming."
+    },
+    "references": [
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of meridians and collaterals"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The channels: identification of patterns according to the channels"
+      }
+    ]
+  },
+  {
+    "id": "FOM-III1-0067",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-e",
+    "theory": "Channels",
+    "stem": "A 37-year-old patient reports two days of throbbing frontal headache, swelling and pain of the gums with toothache in the upper jaw, redness and swelling of the cheek, thirst with a desire for cold drinks, and foul breath. Bowel movements are normal and there is no abdominal pain. The tongue is red with a yellow coating. The pulse is rapid and full. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "purge Heat accumulation from the Yang Ming Fu",
+      "B": "expel Wind-Cold from the Tai Yang channel",
+      "C": "clear Heat from the Yang Ming channel",
+      "D": "course Qi in the Liver channel"
+    },
+    "correct": "C",
+    "explanation": "The forehead, cheek, upper gums, and teeth lie on the pathway of the Yang Ming channels, and the throbbing pain, redness, swelling, thirst for cold drinks, foul breath, red tongue, yellow coating, and rapid full pulse indicate Heat. With normal bowels and no abdominal pain, the Heat is in the channel rather than accumulated in the bowel, so the principle is to clear Heat from the Yang Ming channel.",
+    "distractorExplanations": {
+      "A": "Purging the Fu is indicated when Heat has bound in the Stomach and Intestines, producing constipation and abdominal fullness that refuses pressure; the normal bowels and absence of abdominal pain show the Heat is in the channel, not the Fu.",
+      "B": "The Tai Yang channel governs the occiput and nape, and Wind-Cold presents with chills, a white coating, and a floating tight pulse; the frontal location, thirst, and rapid pulse exclude it.",
+      "D": "The Liver channel reaches the vertex and the hypochondrium; frontal and facial Heat is not on its pathway."
+    },
+    "learningObjective": "Differentiate Heat in the Yang Ming channel from Heat in the Yang Ming Fu and select the clearing principle.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "channels",
+      "yang-ming-channel",
+      "full-heat",
+      "headache-by-channel"
+    ],
+    "distinction": {
+      "between": [
+        "yang-ming-channel-heat",
+        "yang-ming-fu-heat"
+      ],
+      "key": "Facial and gum Heat with normal bowels is channel Heat to be cleared; constipation with abdominal fullness is Fu Heat to be purged."
+    },
+    "references": [
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of meridians and collaterals"
+      }
+    ]
+  },
+  {
+    "id": "FOM-III1-0068",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-e",
+    "theory": "Channels",
+    "stem": "A 31-year-old patient reports a week of painful mouth and tongue ulcers, mental restlessness, insomnia, and thirst, followed three days ago by burning pain on urination with scanty dark urine and no low back pain. The tongue is red with a redder tip and a thin yellow coating. The pulse is rapid. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear Heart Fire and drain it through the paired Small Intestine channel",
+      "B": "clear Damp-Heat from the Bladder and promote urination",
+      "C": "nourish Heart Yin and clear Empty Heat",
+      "D": "course the Liver channel and clear Damp-Heat"
+    },
+    "correct": "A",
+    "explanation": "The mouth and tongue ulcers, restlessness, insomnia, thirst, and red tongue tip show Heart Fire. The Heart and Small Intestine are an interior-exterior channel pair, and Heart Fire transmits along this pairing to the Small Intestine, producing burning, scanty urination. The channel-based principle is to clear the Heart Fire and drain it downward through its paired Small Intestine channel so that the Heat leaves with the urine.",
+    "distractorExplanations": {
+      "B": "A learner who sees burning urination alone would treat Bladder Damp-Heat; that pattern shows a greasy yellow coating, urgency, and turbid urine, and it does not explain the preceding mouth ulcers and red tongue tip that identify the Heart as the source.",
+      "C": "Nourishing Heart Yin treats Empty Heat with a peeled coating and a thin pulse; here the coating is yellow and the pulse full and rapid, indicating Full Fire.",
+      "D": "Liver channel Damp-Heat produces genital itching, hypochondriac pain, and a wiry pulse; there are no Liver channel findings."
+    },
+    "learningObjective": "Apply the interior-exterior channel pairing to formulate a principle for Heart Fire transmitted to the Small Intestine.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "channels",
+      "interior-exterior-pairing",
+      "heart-fire-blazing",
+      "small-intestine-full-heat"
+    ],
+    "distinction": {
+      "between": [
+        "heart-fire-transferred-to-small-intestine",
+        "bladder-damp-heat"
+      ],
+      "key": "Burning urination preceded by mouth ulcers and a red tongue tip points to Heart Fire draining through its paired channel rather than Dampness in the Bladder."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Heart patterns; Small Intestine patterns; the interiorly-exteriorly related channels"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "The twelve regular meridians: exterior-interior relationships"
+      }
+    ]
+  },
+  {
+    "id": "FOM-III1-0069",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-e",
+    "theory": "Channels",
+    "stem": "A 43-year-old patient reports six weeks of distending pain in the lower lateral abdomen that extends into the groin and testicles, worse with emotional stress and relieved by walking and sighing. There is no burning on urination and no scrotal swelling or redness. The tongue is normal with a thin white coating. The pulse is wiry. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "warm the Kidney channel and dispel Cold",
+      "B": "clear Damp-Heat from the Bladder channel",
+      "C": "harmonize the Shao Yang channel",
+      "D": "course Qi in the Liver channel and relieve constraint"
+    },
+    "correct": "D",
+    "explanation": "The Liver channel encircles the external genitalia and passes through the lower lateral abdomen. Distending pain along this pathway that fluctuates with emotion, is relieved by movement and sighing, and is accompanied by a wiry pulse indicates Qi stagnation in the Liver channel. The principle is to course the Qi of the Liver channel and relieve the constraint.",
+    "distractorExplanations": {
+      "A": "Warming the Kidney channel treats Cold contracting the channel, which produces a tight, pulling pain worse with cold and relieved by warmth, with a tight or deep slow pulse; this pain is distending and emotion-related.",
+      "B": "Bladder Damp-Heat presents with burning urination and a yellow greasy coating, both explicitly absent.",
+      "C": "The Shao Yang channel governs the sides of the head and trunk and the hypochondrium, not the groin and genitalia."
+    },
+    "learningObjective": "Identify Liver channel involvement from the location and character of pain and formulate the coursing principle.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "channels",
+      "liver-channel",
+      "liver-qi-stagnation",
+      "channel-pathway"
+    ],
+    "distinction": {
+      "between": [
+        "liver-channel-qi-stagnation",
+        "cold-in-the-liver-channel"
+      ],
+      "key": "Distending pain relieved by movement and sighing with a wiry pulse marks Qi stagnation; contracting pain relieved by warmth with a tight pulse marks Cold."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Liver patterns; the channels: Liver channel pathway"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "The Liver Meridian of Foot-Jueyin: pathology"
+      }
+    ]
+  },
+  {
+    "id": "FOM-III1-0070",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-e",
+    "theory": "Channels",
+    "stem": "A 34-year-old patient reports irregular menstrual cycles ranging from 24 to 45 days for two years, with variable flow and two years of difficulty conceiving. There is no vaginal discharge and no low back heaviness. The tongue is pale with a thin white coating. The pulse is thin (thready). Which of the following is the most appropriate treatment principle based on the extraordinary channels?",
+    "options": {
+      "A": "consolidate the Dai Mai and resolve Dampness",
+      "B": "regulate the Chong Mai and Ren Mai",
+      "C": "course Qi in the Liver channel",
+      "D": "open the Du Mai and warm the Yang"
+    },
+    "correct": "B",
+    "explanation": "The Chong Mai (Sea of Blood) and Ren Mai (Sea of Yin and governor of the uterus) together control menstruation and conception. Irregular cycles with variable flow and infertility, in the absence of findings that implicate another extraordinary channel, indicate that these two channels are not regulated; the pale tongue and thin pulse point to insufficiency of the Blood they govern. The principle is to regulate and nourish the Chong and Ren.",
+    "distractorExplanations": {
+      "A": "The Dai Mai is implicated by vaginal discharge and a sensation of heaviness or sagging around the waist, both explicitly absent.",
+      "C": "Coursing the Liver channel treats menstrual irregularity from Qi stagnation, which presents with premenstrual distension, irritability, and a wiry pulse; the thin pulse and pale tongue show insufficiency rather than stagnation.",
+      "D": "The Du Mai governs the Yang of the body and the spine; opening it and warming Yang treats spinal stiffness and cold with a deep weak pulse, not menstrual irregularity."
+    },
+    "learningObjective": "Identify the extraordinary channels responsible for menstruation and formulate the regulating principle.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "channels",
+      "extraordinary-channels",
+      "chong-mai",
+      "ren-mai"
+    ],
+    "distinction": {
+      "between": [
+        "chong-and-ren-disharmony",
+        "dai-mai-disharmony"
+      ],
+      "key": "Cycle and flow irregularity with no discharge or waist heaviness points to the Chong and Ren rather than the Dai Mai."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The eight extraordinary vessels: Chong Mai and Ren Mai"
+      }
+    ]
+  },
+  {
+    "id": "FOM-III1-0071",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-e",
+    "theory": "Channels",
+    "stem": "A 47-year-old patient reports eight months of persistent thin white vaginal discharge without odor, a sensation of heaviness and sagging around the waist as if sitting in water, weakness of the lower back, and fatigue. The tongue is pale and swollen with a white greasy coating. The pulse is soggy (soft). Which of the following is the most appropriate treatment principle based on the extraordinary channels?",
+    "options": {
+      "A": "regulate the Chong Mai and Ren Mai",
+      "B": "clear Damp-Heat from the Liver channel",
+      "C": "consolidate the Dai Mai and resolve Dampness",
+      "D": "open the Yin Qiao Mai and nourish Yin"
+    },
+    "correct": "C",
+    "explanation": "The Dai Mai encircles the waist and binds the vertical channels; when it loses its consolidating function, Dampness leaks downward as discharge and the waist feels heavy and sagging, classically described as sitting in water. The thin white odorless discharge, waist heaviness, lower back weakness, pale swollen tongue, greasy coating, and soggy pulse show Dampness with Spleen weakness leaking through an unconsolidated Dai Mai. The principle is to consolidate the Dai Mai and resolve the Dampness.",
+    "distractorExplanations": {
+      "A": "The Chong and Ren govern menstruation and conception; the complaint here is discharge with waist heaviness, the hallmark of the Dai Mai, and there are no menstrual findings.",
+      "B": "Liver channel Damp-Heat produces yellow, odorous discharge with genital itching, a yellow greasy coating, and a wiry rapid pulse; the discharge is white and odorless and the pulse soggy.",
+      "D": "The Yin Qiao Mai relates to the inner leg, eye closure, and sleep; it has no role in discharge or waist heaviness."
+    },
+    "learningObjective": "Identify Dai Mai disharmony from characteristic findings and formulate the consolidating principle.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "channels",
+      "extraordinary-channels",
+      "dai-mai",
+      "dampness"
+    ],
+    "distinction": {
+      "between": [
+        "dai-mai-disharmony",
+        "liver-channel-damp-heat"
+      ],
+      "key": "White odorless discharge with a soggy pulse and waist sagging is Dai Mai leakage of Dampness; yellow odorous discharge with itching and a wiry rapid pulse is Liver channel Damp-Heat."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The eight extraordinary vessels: Dai Mai"
+      }
+    ]
+  },
+  {
+    "id": "FOM-III1-0072",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-e",
+    "theory": "Channels",
+    "stem": "A 54-year-old patient reports three weeks of distending pain and a sensation of fullness along the inner aspect of the forearm, with visibly engorged dark superficial veins over the area. The pain is constant, worse with pressure, and is accompanied by a feeling of heat in the palm. The tongue is slightly purple. The pulse is full. According to Luo-connecting channel theory, which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "tonify the Luo-connecting channel",
+      "B": "warm the primary channel and dispel Cold",
+      "C": "tonify the mother channel on the generating cycle",
+      "D": "drain the Luo-connecting channel"
+    },
+    "correct": "D",
+    "explanation": "Luo-connecting channel pathology is classified as fullness or emptiness. Fullness presents with distension, pain that refuses pressure, heat, and visibly engorged superficial vessels along the Luo pathway, as seen here along the inner forearm with heat in the palm and a full pulse. The classical rule is that fullness of a Luo channel is drained and emptiness is tonified; this presentation is fullness, so the Luo-connecting channel is drained.",
+    "distractorExplanations": {
+      "A": "Tonifying the Luo channel is the principle for emptiness, which presents with flaccidity, numbness, cold or sagging in the area, pain that likes pressure, and a weak pulse; the engorged veins and full pulse show fullness.",
+      "B": "Warming and dispelling Cold is chosen by a learner who treats every channel obstruction as Cold; the heat in the palm, engorged veins, and full pulse indicate stagnant fullness rather than Cold contraction.",
+      "C": "Tonifying the mother channel is a Five Element rule for deficiency of a primary channel; it does not address fullness in a Luo channel."
+    },
+    "learningObjective": "Differentiate fullness from emptiness of a Luo-connecting channel and select drain versus tonify accordingly.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "channels",
+      "luo-connecting-channels",
+      "luo-fullness",
+      "drain-versus-tonify"
+    ],
+    "distinction": {
+      "between": [
+        "luo-fullness",
+        "luo-emptiness"
+      ],
+      "key": "Engorged superficial veins with distension, pain refusing pressure, and a full pulse mark Luo fullness; flaccidity, numbness, and a weak pulse mark emptiness."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The Connecting (Luo) channels: pathology of fullness and emptiness"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "The fifteen collaterals: pathological manifestations"
+      }
+    ]
+  },
+  {
+    "id": "FOM-III1-0073",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-g",
+    "theory": "Six Stages",
+    "stem": "A 39-year-old patient reports one day of fever with aversion to wind, a headache, and a stiff neck. The patient is sweating lightly without relief of the fever. There is no thirst. The tongue has a thin white coating. The pulse is floating and slowed-down (moderate). Using Six Stage theory, which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "release the exterior and harmonize Ying and Wei",
+      "B": "release the exterior and open the pores to induce sweating",
+      "C": "harmonize Shao Yang",
+      "D": "clear Heat from the Yang Ming channel"
+    },
+    "correct": "A",
+    "explanation": "This is a Tai Yang stage pattern, and within it the presence of sweating with aversion to wind and a floating slowed-down pulse identifies Tai Yang Wind-strike (Zhong Feng) rather than Cold-damage. In Wind-strike the Wei Qi is disharmonized with the Ying Qi so that the pores are loose and sweating occurs; the principle is to release the exterior while harmonizing Ying and Wei, not to force further sweating.",
+    "distractorExplanations": {
+      "B": "Opening the pores to induce sweating is the principle for Tai Yang Cold-damage (Shang Han), which presents with absence of sweating, body aches, and a floating tight pulse; forcing sweat in a patient already sweating would further injure Ying and Wei.",
+      "C": "Harmonizing Shao Yang is for alternating chills and fever with hypochondriac fullness, a bitter taste, and a wiry pulse, indicating the pathogen is half-exterior half-interior; the floating pulse and one-day history place this firmly in Tai Yang.",
+      "D": "Yang Ming channel Heat shows high fever, profuse sweating, great thirst, and an overflowing pulse; the absence of thirst and the floating pulse exclude it."
+    },
+    "learningObjective": "Differentiate Tai Yang Wind-strike from Tai Yang Cold-damage and formulate the corresponding principle.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "six-stages",
+      "tai-yang-stage",
+      "wind-strike",
+      "ying-and-wei"
+    ],
+    "distinction": {
+      "between": [
+        "tai-yang-wind-strike",
+        "tai-yang-cold-damage"
+      ],
+      "key": "Sweating with aversion to wind and a floating slowed-down pulse marks Wind-strike; absence of sweating with body aches and a floating tight pulse marks Cold-damage."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Six Stages: Greater Yang"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Six-channel pattern identification: Taiyang disease"
+      }
+    ]
+  },
+  {
+    "id": "FOM-III1-0074",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-g",
+    "theory": "Six Stages",
+    "stem": "A 45-year-old patient on the sixth day of a febrile illness has a fever that rises each afternoon, abdominal fullness and hard pain that refuses pressure, constipation for five days, and intermittent delirious speech. Sweating occurs on the hands and feet. The tongue is red with a dry, yellow, prickly coating. The pulse is deep, full, and forceful. Using Six Stage theory, which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear Heat from the Yang Ming channel and generate fluids",
+      "B": "release the exterior with pungent-warm methods",
+      "C": "purge Heat accumulation from the Yang Ming Fu",
+      "D": "nourish Yin and clear Heat in the Shao Yin stage"
+    },
+    "correct": "C",
+    "explanation": "This is the Yang Ming Fu (organ) pattern: Heat has bound with dry stool in the Intestines. The tidal afternoon fever, abdominal fullness and hardness refusing pressure, constipation, delirium, sweating on the extremities, red tongue with a dry prickly yellow coating, and deep full forceful pulse are the classical signs. The principle is to purge the Heat accumulation downward from the Fu.",
+    "distractorExplanations": {
+      "A": "Clearing Yang Ming channel Heat is for the pattern of 'four greats' (great fever, sweating, thirst, and an overflowing pulse) without bowel binding; the constipation, abdominal hardness, and deep pulse show the Heat has bound in the Fu and must be purged rather than only cleared.",
+      "B": "Releasing the exterior is for Tai Yang; there is no aversion to cold and the pulse is deep, so the pathogen is entirely interior.",
+      "D": "Nourishing Yin for Shao Yin Heat transformation is chosen by a learner who sees fever with a dry red tongue and assumes Yin deficiency; the full forceful pulse and hard abdomen show an Excess, and nourishing would retain the accumulation."
+    },
+    "learningObjective": "Differentiate the Yang Ming Fu pattern from the Yang Ming channel pattern and select purging over clearing.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "six-stages",
+      "yang-ming-stage",
+      "yang-ming-fu-pattern",
+      "purge-heat-accumulation"
+    ],
+    "distinction": {
+      "between": [
+        "yang-ming-fu-pattern",
+        "yang-ming-channel-pattern"
+      ],
+      "key": "Constipation with abdominal hardness refusing pressure and a deep full pulse marks the Fu pattern to be purged; profuse sweating with thirst and an overflowing pulse marks the channel pattern to be cleared."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Six Stages: Bright Yang"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Six-channel pattern identification: Yangming disease"
+      }
+    ]
+  },
+  {
+    "id": "FOM-III1-0075",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-g",
+    "theory": "Six Stages",
+    "stem": "A 28-year-old patient on the fourth day of a febrile illness reports chills alternating with fever several times a day, fullness and discomfort in the chest and hypochondrium, a bitter taste, a dry throat, nausea with no desire to eat, and dizziness. The tongue has a thin white coating. The pulse is wiry. Using Six Stage theory, which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "release the exterior and expel Wind-Cold",
+      "B": "harmonize Shao Yang",
+      "C": "purge Heat accumulation from the Yang Ming Fu",
+      "D": "warm the Middle and dispel Cold"
+    },
+    "correct": "B",
+    "explanation": "Alternating chills and fever, chest and hypochondriac fullness, bitter taste, dry throat, nausea, dizziness, and a wiry pulse are the defining signs of the Shao Yang stage, in which the pathogen lodges half-exterior and half-interior. Because it can be neither released by sweating nor purged downward, the principle is to harmonize Shao Yang.",
+    "distractorExplanations": {
+      "A": "Releasing the exterior is for Tai Yang, where chills and fever occur simultaneously with a floating pulse; alternation of chills and fever with a wiry pulse shows the pathogen has left the exterior.",
+      "C": "Purging is for Yang Ming Fu accumulation with constipation and abdominal hardness; purging a Shao Yang pattern drives the pathogen inward.",
+      "D": "Warming the Middle is for the Tai Yin stage with abdominal fullness, diarrhea, and a slow weak pulse; the bitter taste and wiry pulse exclude interior Cold deficiency."
+    },
+    "learningObjective": "Identify the Shao Yang stage and formulate the harmonizing principle.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "six-stages",
+      "shao-yang-stage",
+      "harmonize-shao-yang",
+      "half-exterior-half-interior"
+    ],
+    "distinction": {
+      "between": [
+        "shao-yang-stage",
+        "tai-yang-stage"
+      ],
+      "key": "Alternating chills and fever with a wiry pulse marks Shao Yang; simultaneous chills and fever with a floating pulse marks Tai Yang."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Six Stages: Lesser Yang"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the six meridians"
+      }
+    ]
+  },
+  {
+    "id": "FOM-III1-0076",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-g",
+    "theory": "Six Stages",
+    "stem": "A 66-year-old patient, a week into an illness that began with chills and fever, now reports abdominal fullness, intermittent dull abdominal pain that likes warmth and pressure, vomiting, watery diarrhea, and no thirst. The fever has subsided. The tongue is pale with a white moist coating. The pulse is slow and weak. Using Six Stage theory, which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "purge Heat accumulation from the Yang Ming Fu",
+      "B": "harmonize Shao Yang",
+      "C": "warm Yang and rescue from collapse",
+      "D": "warm the Middle and dispel Cold"
+    },
+    "correct": "D",
+    "explanation": "This is the Tai Yin stage: the pathogen has entered the interior and transformed into Cold, damaging Spleen Yang. Abdominal fullness, dull pain liking warmth and pressure, vomiting, watery diarrhea, absence of thirst, pale tongue with a white moist coating, and a slow weak pulse are its signs. The principle is to warm the Middle burner and dispel Cold.",
+    "distractorExplanations": {
+      "A": "A learner who treats abdominal fullness as Yang Ming accumulation would purge; Yang Ming fullness refuses pressure and comes with constipation, a dry yellow coating, and a full pulse, whereas this fullness likes pressure and is accompanied by diarrhea and a weak pulse.",
+      "B": "Harmonizing Shao Yang is for alternating chills and fever with hypochondriac fullness and a wiry pulse; the fever has gone and the pulse is slow and weak.",
+      "C": "Rescuing from collapse is the Shao Yin Cold-transformation principle for cold limbs, a desire to lie curled up with extreme sleepiness, and a minute (faint) pulse; this patient's deficiency is confined to the Spleen and the pulse is weak but not faint."
+    },
+    "learningObjective": "Identify the Tai Yin stage and differentiate its warming principle from the Shao Yin rescue principle.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "six-stages",
+      "tai-yin-stage",
+      "spleen-yang-deficiency",
+      "warm-the-middle"
+    ],
+    "distinction": {
+      "between": [
+        "tai-yin-stage",
+        "shao-yin-cold-transformation"
+      ],
+      "key": "Digestive Cold signs with a slow weak pulse mark Tai Yin; cold limbs, extreme sleepiness, and a minute pulse mark Shao Yin Cold."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Six Stages: Greater Yin"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Six-channel pattern identification: Taiyin disease"
+      }
+    ]
+  },
+  {
+    "id": "FOM-III1-0077",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-g",
+    "theory": "Six Stages",
+    "stem": "An 81-year-old patient, ten days into a febrile illness, is now cold to the touch with icy limbs, lies curled up on the side, is extremely drowsy and difficult to rouse, and has watery diarrhea with undigested food. There is no fever and no thirst, though the patient wants small sips of warm water. The tongue is pale and moist. The pulse is minute (faint) and about to disappear. Using Six Stage theory, which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "warm Yang and rescue from collapse",
+      "B": "nourish Yin and clear Heat",
+      "C": "warm the Middle and dispel Cold",
+      "D": "harmonize Shao Yang"
+    },
+    "correct": "A",
+    "explanation": "This is the Shao Yin stage with Cold transformation: the pathogen has reached the Heart and Kidney and Yang is on the point of collapse. Cold limbs, lying curled up, extreme drowsiness, diarrhea with undigested food, desire for warm drinks, pale moist tongue, and a minute pulse about to disappear are its defining signs. The principle is urgently to warm Yang and rescue it from collapse.",
+    "distractorExplanations": {
+      "B": "Nourishing Yin and clearing Heat is the principle for the Heat transformation of Shao Yin, which shows irritability, insomnia, a dry mouth, a red tongue, and a thin rapid pulse; every finding here is Cold.",
+      "C": "Warming the Middle is the Tai Yin principle, in which deficiency is confined to the Spleen with a slow weak but still palpable pulse; here the drowsiness, icy limbs, and faint disappearing pulse show that Kidney and Heart Yang are collapsing, requiring rescue rather than gentle warming.",
+      "D": "Harmonizing Shao Yang is for alternating chills and fever with a wiry pulse; no such findings are present."
+    },
+    "learningObjective": "Differentiate the Cold transformation of Shao Yin from the Tai Yin stage and formulate the rescue principle.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "six-stages",
+      "shao-yin-stage",
+      "yang-collapse",
+      "warm-yang"
+    ],
+    "distinction": {
+      "between": [
+        "shao-yin-cold-transformation",
+        "tai-yin-stage"
+      ],
+      "key": "Extreme drowsiness, icy limbs, and a minute pulse about to disappear mark Shao Yin Yang collapse; digestive Cold with a slow weak pulse marks Tai Yin."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Six Stages: Lesser Yin"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Six-channel pattern identification: Shaoyin disease"
+      }
+    ]
+  },
+  {
+    "id": "FOM-III1-0078",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-g",
+    "theory": "Six Stages",
+    "stem": "A 50-year-old patient late in a prolonged febrile illness reports a sensation of heat and pain in the chest, thirst that is not relieved by drinking, and hunger with no desire to eat, together with cold hands and feet, watery diarrhea, and vomiting after meals. The tongue is red at the tip and pale at the root with a thin coating. The pulse is thin (thready) and wiry. Using Six Stage theory, which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "nourish Yin and clear Heat",
+      "B": "warm the Middle and dispel Cold",
+      "C": "clear Heat above and warm Cold below",
+      "D": "purge Heat accumulation from the Yang Ming Fu"
+    },
+    "correct": "C",
+    "explanation": "This is the Jue Yin stage, characterized by a mixed pattern of Heat above and Cold below. Heat and pain in the chest, unquenchable thirst, hunger without desire to eat, and a red tongue tip show Heat in the upper body, while cold limbs, watery diarrhea, vomiting, and a pale tongue root show Cold in the lower body. Because the two are present simultaneously, the principle is to clear the Heat above while warming the Cold below.",
+    "distractorExplanations": {
+      "A": "Nourishing Yin and clearing Heat is the Shao Yin Heat transformation principle; it addresses the upper Heat but ignores the diarrhea, vomiting, and cold limbs, and cooling methods alone would aggravate the Cold below.",
+      "B": "Warming the Middle is the Tai Yin principle; it addresses the Cold below but ignores the chest heat and thirst, and warming alone would aggravate the Heat above.",
+      "D": "Purging is for Yang Ming bowel accumulation with constipation and a full pulse; this patient has diarrhea and a thin pulse."
+    },
+    "learningObjective": "Identify the Jue Yin stage of mixed Heat above and Cold below and formulate the dual principle.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "six-stages",
+      "jue-yin-stage",
+      "heat-above-cold-below",
+      "mixed-cold-heat"
+    ],
+    "distinction": {
+      "between": [
+        "jue-yin-stage",
+        "shao-yin-heat-transformation"
+      ],
+      "key": "Upper Heat signs combined with diarrhea, vomiting, and cold limbs mark Jue Yin; isolated Yin-deficient Heat with insomnia and a thin rapid pulse marks Shao Yin Heat."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Six Stages: Terminal Yin"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Six-channel pattern identification: Jueyin disease"
+      }
+    ]
+  },
+  {
+    "id": "FOM-III1-0079",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-h",
+    "theory": "Four Levels",
+    "stem": "A 24-year-old patient reports one day of fever with slight aversion to cold, a sore and swollen throat, a mild headache, slight thirst, and a dry cough. There is a little sweating. The tongue is red at the tip with a thin white coating. The pulse is floating and rapid. Using Four Level theory, which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "release the exterior with pungent-warm methods",
+      "B": "release the exterior with pungent-cool methods",
+      "C": "clear Heat from the Qi level",
+      "D": "clear Heat from the Ying level and vent it outward"
+    },
+    "correct": "B",
+    "explanation": "This is Wind-Heat at the Wei (Defensive) level. Fever predominating over a slight aversion to cold, sore throat, slight thirst, red tongue tip, and a floating rapid pulse show a Heat pathogen still at the surface. The Wei level principle is to release the exterior with pungent-cool methods, which disperse the exterior while clearing the Heat.",
+    "distractorExplanations": {
+      "A": "Pungent-warm release is for exterior Wind-Cold, which shows marked aversion to cold, absence of thirst and sore throat, and a floating tight pulse; warming methods would aggravate the Heat.",
+      "C": "Clearing the Qi level is for Heat that has gone interior with high fever, no aversion to cold, profuse sweating, great thirst, and a yellow coating; the aversion to cold and floating pulse show the pathogen is still at the Wei level.",
+      "D": "Clearing the Ying level is for Heat that has penetrated deeply, with night fever, restlessness, faint rashes, and a deep-red tongue without coating; this patient's presentation is superficial."
+    },
+    "learningObjective": "Identify the Wei level of a Warm disease and formulate the pungent-cool releasing principle.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "four-levels",
+      "wei-level",
+      "wind-heat",
+      "release-the-exterior"
+    ],
+    "distinction": {
+      "between": [
+        "wei-level-wind-heat",
+        "exterior-wind-cold"
+      ],
+      "key": "Fever predominating with sore throat, slight thirst, and a floating rapid pulse marks Wind-Heat; chills predominating with no thirst and a floating tight pulse marks Wind-Cold."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Four Levels: Defensive-Qi level"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to wei, qi, ying and xue"
+      }
+    ]
+  },
+  {
+    "id": "FOM-III1-0080",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-h",
+    "theory": "Four Levels",
+    "stem": "A 36-year-old patient on the third day of a Warm disease has a high fever without aversion to cold, a cough with thick yellow sputum, chest pain on coughing, shortness of breath, sweating, and thirst. There is no rash and the mind is clear. The tongue is red with a yellow coating. The pulse is rapid and slippery. Using Four Level theory, which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "release the exterior with pungent-cool methods",
+      "B": "clear Heat from the Ying level and vent it outward",
+      "C": "cool the Blood and stop bleeding",
+      "D": "clear Qi-level Heat from the Lung and resolve Phlegm"
+    },
+    "correct": "D",
+    "explanation": "The high fever without aversion to cold, sweating, thirst, red tongue, yellow coating, and rapid pulse show that Heat has moved from the Wei level into the Qi level, and the cough with thick yellow sputum, chest pain, and slippery pulse locate the Heat in the Lung with Phlegm. The principle at the Qi level is to clear the Heat, here specifically from the Lung while resolving the Phlegm-Heat.",
+    "distractorExplanations": {
+      "A": "Pungent-cool release is the Wei level principle; with no aversion to cold and a yellow coating the pathogen has left the exterior, and dispersing methods would be ineffective.",
+      "B": "The Ying level shows night fever, restlessness, faint rashes, and a deep-red tongue with little coating; the clear mind, yellow coating, and absence of rash show the Heat has not reached the Ying.",
+      "C": "Cooling the Blood is the Xue level principle for bleeding and dense purple rashes; there is no bleeding and no rash."
+    },
+    "learningObjective": "Identify Qi-level Heat located in the Lung and formulate the clearing principle.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "four-levels",
+      "qi-level",
+      "lung-heat",
+      "phlegm-heat"
+    ],
+    "distinction": {
+      "between": [
+        "qi-level-heat",
+        "wei-level-heat"
+      ],
+      "key": "Absence of aversion to cold with a yellow coating marks the Qi level; aversion to cold with a thin white coating and floating pulse marks the Wei level."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Four Levels: Qi level"
+      }
+    ]
+  },
+  {
+    "id": "FOM-III1-0081",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-h",
+    "theory": "Four Levels",
+    "stem": "A 42-year-old patient on the seventh day of a Warm disease has a fever that is worse at night, marked restlessness and intermittent incoherent speech, a dry mouth with little desire to drink, and a few faint, indistinct red spots on the chest. The tongue is deep red (crimson) with no coating. The pulse is thin (thready) and rapid. Using Four Level theory, which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear Heat from the Ying level and vent it outward to the Qi level",
+      "B": "clear Heat from the Qi level and generate fluids",
+      "C": "cool the Blood, stop bleeding, and resolve stasis",
+      "D": "nourish Yin and clear residual Heat"
+    },
+    "correct": "A",
+    "explanation": "Night fever, restlessness with incoherent speech, a dry mouth with little desire to drink, faint indistinct spots, a crimson tongue without coating, and a thin rapid pulse are the signs of Heat at the Ying (Nutritive) level, where Heat begins to injure Yin and disturb the Heart. The principle is to clear Ying-level Heat while venting it outward so that it is turned back toward the Qi level and expelled.",
+    "distractorExplanations": {
+      "B": "Clearing the Qi level is for daytime fever with profuse sweating, great thirst, and a yellow coating; the night fever, absent coating, and lack of desire to drink show the Heat has moved deeper than the Qi level.",
+      "C": "Cooling the Blood and stopping bleeding is the Xue level principle for dense purple maculae, bleeding, or convulsions; the spots here are faint and there is no bleeding.",
+      "D": "Nourishing Yin and clearing residual Heat is for the aftermath of a Warm disease with low-grade fever and no mental disturbance; this patient has active high Heat with restlessness and incoherent speech."
+    },
+    "learningObjective": "Identify Ying-level Heat and formulate the principle of clearing and venting outward.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "four-levels",
+      "ying-level",
+      "crimson-tongue",
+      "vent-heat-outward"
+    ],
+    "distinction": {
+      "between": [
+        "ying-level-heat",
+        "xue-level-heat"
+      ],
+      "key": "Faint indistinct spots with mental restlessness mark the Ying level; dense purple maculae with bleeding or convulsions mark the Xue level."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Four Levels: Nutritive-Qi level"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Pattern identification by the four aspects: ying-aspect patterns"
+      }
+    ]
+  },
+  {
+    "id": "FOM-III1-0082",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-h",
+    "theory": "Four Levels",
+    "stem": "A 30-year-old patient on the ninth day of a Warm disease has a high fever worse at night, dense purple-black maculae over the trunk and limbs, nosebleeds, and blood in the urine. The patient is agitated. The tongue is deep red (crimson) and dry. The pulse is rapid. Using Four Level theory, which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear Heat from the Qi level and generate fluids",
+      "B": "clear Heat from the Ying level and vent it outward",
+      "C": "cool the Blood and stop bleeding",
+      "D": "release the exterior with pungent-cool methods"
+    },
+    "correct": "C",
+    "explanation": "Dense purple-black maculae, nosebleeds, and blood in the urine with a crimson dry tongue and rapid pulse show that Heat has entered the Xue (Blood) level and is forcing Blood out of the vessels. The principle at this level is to cool the Blood and stop the bleeding, together with clearing the Heat that drives it.",
+    "distractorExplanations": {
+      "A": "Clearing the Qi level is for Heat with profuse sweating, thirst, and a yellow coating and no bleeding; the Heat here has gone far deeper.",
+      "B": "Venting Ying-level Heat is for faint indistinct spots and restlessness before bleeding begins; dense maculae and frank bleeding mark the Xue level, where cooling the Blood takes precedence.",
+      "D": "Pungent-cool release is the Wei level principle for the first day or two of illness with aversion to cold and a floating pulse; it has no place in a deep Blood-level pattern."
+    },
+    "learningObjective": "Identify Xue-level Heat forcing Blood out of the vessels and formulate the cooling and hemostatic principle.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "four-levels",
+      "xue-level",
+      "heat-in-the-blood",
+      "cool-the-blood"
+    ],
+    "distinction": {
+      "between": [
+        "xue-level-heat",
+        "ying-level-heat"
+      ],
+      "key": "Frank bleeding with dense purple maculae marks the Xue level; faint spots without bleeding mark the Ying level."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Four Levels: Blood level"
+      }
+    ]
+  },
+  {
+    "id": "FOM-III1-0083",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-h",
+    "theory": "Four Levels",
+    "stem": "A 7-year-old patient on the sixth day of a Warm disease has a high fever, neck stiffness, rigidity of the limbs, and two brief convulsions in the past hour, with upward-rolling eyes. There is no bleeding. The tongue is deep red (crimson) and dry. The pulse is wiry and rapid. Using Four Level theory, which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "nourish Yin and extinguish Wind",
+      "B": "cool the Blood and extinguish Wind",
+      "C": "cool the Blood and stop bleeding",
+      "D": "clear Heat from the Qi level and generate fluids"
+    },
+    "correct": "B",
+    "explanation": "High fever with neck stiffness, limb rigidity, convulsions, and upward-rolling eyes, together with a crimson dry tongue and a wiry rapid pulse, show that Heat at the Xue level has stirred internal Wind, the pattern of extreme Heat generating Wind. The principle is to cool the Blood, which removes the Heat that is generating the Wind, while extinguishing the Wind to stop the convulsions.",
+    "distractorExplanations": {
+      "A": "Nourishing Yin to extinguish Wind is for Empty Wind in the aftermath of a Warm disease, when exhausted Yin produces faint tremors and twitching with low-grade fever and a thin weak pulse; the high fever, crimson tongue, and wiry rapid pulse show Full Wind from extreme Heat.",
+      "C": "Stopping bleeding is the Xue level principle when Heat forces Blood out of the vessels; there is no bleeding, and the manifestation here is Wind.",
+      "D": "Clearing the Qi level treats high fever with sweating and thirst but no Wind signs; convulsions with a crimson tongue show the Heat has reached the Blood."
+    },
+    "learningObjective": "Differentiate Full Wind from extreme Heat at the Xue level from Empty Wind in the aftermath and select the corresponding principle.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "four-levels",
+      "xue-level",
+      "extreme-heat-generating-wind",
+      "extinguish-wind"
+    ],
+    "distinction": {
+      "between": [
+        "extreme-heat-generating-wind",
+        "empty-wind-from-yin-deficiency"
+      ],
+      "key": "Convulsions with high fever, a crimson tongue, and a wiry rapid pulse mark Full Wind to be cooled; faint tremors with low-grade fever and a thin weak pulse mark Empty Wind to be nourished."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Four Levels: Blood level; Liver Wind"
+      }
+    ]
+  },
+  {
+    "id": "FOM-III1-0084",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-h",
+    "theory": "Four Levels",
+    "stem": "A 59-year-old patient is recovering from a three-week Warm disease. The high fever has resolved, but a low-grade fever persists in the late afternoon and evening, with a dry mouth and throat, heat in the palms and soles, a feeling of heat in the bones, and mild fatigue. There is no sweating with the fever. The tongue is deep red (crimson) and dry with no coating. The pulse is thin (thready) and slightly rapid. Using Four Level theory, which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear Heat from the Ying level and vent it outward",
+      "B": "tonify Qi and consolidate the exterior",
+      "C": "cool the Blood and extinguish Wind",
+      "D": "nourish Yin and clear the lingering Heat"
+    },
+    "correct": "D",
+    "explanation": "In the aftermath of a Warm disease that reached the Ying and Blood levels, Heat has consumed Yin and a residual Heat lingers in the Yin sphere. The low-grade evening fever without sweating, dry mouth, heat in the palms and soles and in the bones, crimson dry peeled tongue, and thin slightly rapid pulse are the signs of this stage. The principle is to nourish Yin while gently clearing the lingering Heat from the Yin level.",
+    "distractorExplanations": {
+      "A": "Venting Ying-level Heat is for the active stage with high night fever, restlessness, and incoherent speech; here the high fever has resolved and the picture is one of consumed Yin with lingering Heat.",
+      "B": "Tonifying Qi and consolidating the exterior is chosen by a learner who treats all post-illness fatigue as Qi deficiency; the crimson dry tongue, absent coating, and rapid pulse show Yin injury with Heat, which consolidating methods would trap.",
+      "C": "Cooling the Blood and extinguishing Wind is for high fever with convulsions; there is no Wind here, and the Heat is residual rather than extreme."
+    },
+    "learningObjective": "Identify lingering Heat with Yin injury in the aftermath of a Warm disease and formulate the nourishing principle.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "four-levels",
+      "yin-injury-after-warm-disease",
+      "lingering-heat",
+      "nourish-yin"
+    ],
+    "distinction": {
+      "between": [
+        "lingering-heat-in-yin-level",
+        "ying-level-heat"
+      ],
+      "key": "Low-grade evening fever without sweating after the high fever has resolved marks lingering Heat with Yin injury; active night fever with restlessness and faint spots marks the Ying level."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Identification of patterns according to the Four Levels: aftermath of Warm diseases, Yin injury"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Pattern identification by the four aspects"
+      }
+    ]
+  }
+]

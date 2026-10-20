@@ -1,0 +1,530 @@
+[
+  {
+    "id": "FOM-III6-0007",
+    "subdomain": "III-6",
+    "stem": "A 29-year-old woman reports dizziness on standing, numbness of the hands, poor memory, and scanty, light-colored menstrual periods for eight months. Her complexion is pale and dull. The tongue is pale. The pulse is thin (thready). Which dietary recommendation is most appropriate for this patient?",
+    "options": {
+      "A": "Cooling foods such as mung bean and bitter melon to settle the dizziness",
+      "B": "Drying foods such as job's tears and barley to resolve the numbness",
+      "C": "Hot pungent foods such as chili and cinnamon to warm the extremities",
+      "D": "Blood-nourishing foods such as red dates, goji berry, and black sesame"
+    }
+  },
+  {
+    "id": "FOM-III6-0008",
+    "subdomain": "III-6",
+    "stem": "A 61-year-old man reports cold hands and feet, aversion to cold, a cold sensation in the lower back, and frequent clear urination for two years. His bowel movements are loose, especially in the early morning. The tongue is pale and swollen with a wet white coating. The pulse is deep, slow, and weak. Which dietary recommendation is most appropriate for this patient?",
+    "options": {
+      "A": "Cold-natured foods such as watermelon and mung bean soup, served chilled",
+      "B": "Warming foods such as lamb, walnuts, and cinnamon, served hot",
+      "C": "Raw salads and yogurt to supply lightness and ease digestion",
+      "D": "Cool, bland foods such as barley and cucumber to promote urination"
+    }
+  },
+  {
+    "id": "FOM-III6-0009",
+    "subdomain": "III-6",
+    "stem": "A 26-year-old man reports burning epigastric pain, intense thirst with a desire for cold drinks, bad breath, bleeding gums, and constipation for three weeks. He eats spicy lamb hot pot several times a week and drinks spirits nightly. The tongue is red with a thick, dry yellow coating. The pulse is rapid and full. Which dietary recommendation is most appropriate for this patient?",
+    "options": {
+      "A": "Warm pungent foods such as ginger and scallion to disperse the stagnation",
+      "B": "Rich sweet foods such as honey and red dates to tonify the Stomach",
+      "C": "Cooling foods such as mung bean, cucumber, and bitter melon, with fewer spirits",
+      "D": "Sour astringent foods such as vinegar and pickled plum to stop the bleeding"
+    }
+  },
+  {
+    "id": "FOM-III6-0010",
+    "subdomain": "III-6",
+    "stem": "A 38-year-old woman reports irritability, distension of the flanks and abdomen, and bowel movements that alternate between loose and constipated, worse during stressful weeks, for one year. She has a poor appetite and sighs often. The tongue is pale with slightly red sides. The pulse is wiry on the left and weak on the right. Which dietary recommendation is most appropriate for this patient?",
+    "options": {
+      "A": "Regular warm meals with lightly pungent foods such as radish and scallion, and little greasy food",
+      "B": "Cooling foods such as cucumber and mung bean soup to clear the Liver",
+      "C": "Sweet, rich foods such as honey, cream, and pastries to tonify the Spleen",
+      "D": "Large amounts of sour foods such as vinegar and pickles to enter the Liver"
+    }
+  },
+  {
+    "id": "FOM-III6-0011",
+    "subdomain": "III-6",
+    "stem": "A 66-year-old woman reports a dull discomfort in the epigastrium, a dry mouth with a desire for small sips, little appetite, dry stools, and a mild sensation of heat in the afternoon for four months. On a friend's advice she has been drinking strong ginger tea and eating dry roasted foods. The tongue is red with a peeled coating in the center. The pulse is thin (thready) and rapid. Which dietary recommendation is most appropriate for this patient?",
+    "options": {
+      "A": "Warm pungent foods such as ginger and scallion to strengthen digestion",
+      "B": "Drying bland foods such as job's tears and barley to settle the Stomach",
+      "C": "Hot roasted foods such as grilled lamb to warm the middle",
+      "D": "Moist, lightly cooked foods such as rice congee, pear, and honey, served warm"
+    }
+  },
+  {
+    "id": "FOM-III6-0012",
+    "subdomain": "III-6",
+    "stem": "A 41-year-old man reports epigastric fullness, nausea, a bitter sticky taste in the mouth, thirst without desire to drink, and loose, foul-smelling stools with burning at the anus for three weeks. His urine is scanty and dark yellow. The tongue is red with a yellow greasy coating. The pulse is slippery and rapid. Which dietary recommendation is most appropriate for this patient?",
+    "options": {
+      "A": "Warm aromatic foods such as ginger, scallion, and cinnamon to disperse the Dampness",
+      "B": "Cool, bland, draining foods such as job's tears, mung bean, and cucumber",
+      "C": "Moistening foods such as honey, pear, and black sesame to relieve the thirst",
+      "D": "Warming tonics such as lamb and red dates to strengthen the Spleen"
+    }
+  },
+  {
+    "id": "FOM-III6-0013",
+    "subdomain": "III-6",
+    "stem": "Which eating habit is most consistent with Chinese dietary principles for protecting the function of the Spleen and Stomach?",
+    "options": {
+      "A": "Eating meals at regular times and chewing food thoroughly",
+      "B": "Drinking large amounts of iced water with each meal",
+      "C": "Eating the largest meal of the day late at night",
+      "D": "Skipping breakfast and eating only after midday"
+    }
+  },
+  {
+    "id": "FOM-III6-0014",
+    "subdomain": "III-6",
+    "stem": "In Chinese dietary theory, excessive consumption of the sweet taste most readily leads to which of the following?",
+    "options": {
+      "A": "Dryness injuring the Lung",
+      "B": "Blood stasis with fixed pain",
+      "C": "Dampness and Phlegm weakening the Spleen",
+      "D": "Yin deficiency with Empty Heat"
+    }
+  },
+  {
+    "id": "FOM-III6-0015",
+    "subdomain": "III-6",
+    "stem": "A 30-year-old woman was caught in cold rain yesterday. Today she reports chills, a stiff neck and headache, absence of sweating, and a clear runny nose. The tongue has a thin white coating. The pulse is floating and tight. Which food-based home remedy is most appropriate for this patient?",
+    "options": {
+      "A": "Chilled pear juice to moisten the throat",
+      "B": "Mung bean soup to clear the pathogen",
+      "C": "Honey and walnut paste to nourish the Lung",
+      "D": "Hot tea of fresh ginger and scallion to promote mild sweating"
+    }
+  },
+  {
+    "id": "FOM-III6-0016",
+    "subdomain": "III-6",
+    "stem": "A patient with Lung Yin deficiency presents with a dry cough, a dry throat, and a red tongue with scanty coating. Excess of which taste in the diet is most likely to aggravate this pattern?",
+    "options": {
+      "A": "Sweet",
+      "B": "Pungent",
+      "C": "Sour",
+      "D": "Salty"
+    }
+  },
+  {
+    "id": "FOM-III6-0017",
+    "subdomain": "III-6",
+    "stem": "A 74-year-old man reports constipation with dry, hard stools and straining for one year, along with dry skin, occasional dizziness, and a pale complexion. On a neighbor's advice he has eaten raw cold salads with wheat bran and iced water at every meal for two weeks; the stools are now harder and he feels more fatigued. The tongue is pale and dry. The pulse is thin (thready). Which dietary modification is most appropriate for this patient?",
+    "options": {
+      "A": "Moistening foods such as honey, black sesame, and walnuts, served warm",
+      "B": "Continuing the raw salads and bran but increasing the iced water",
+      "C": "Bitter cooling foods such as bitter melon to purge the Intestines",
+      "D": "Pungent hot foods such as chili and ginger to stimulate the bowels"
+    }
+  },
+  {
+    "id": "FOM-IIb-0001",
+    "subdomain": "II-b",
+    "stem": "According to Five Element theory, which odor corresponds to the Fire element?",
+    "options": {
+      "A": "rancid",
+      "B": "fragrant",
+      "C": "scorched",
+      "D": "putrid"
+    }
+  },
+  {
+    "id": "FOM-IIb-0002",
+    "subdomain": "II-b",
+    "stem": "In the Generating (Sheng) sequence of the Five Elements, which element is produced by Water?",
+    "options": {
+      "A": "Wood",
+      "B": "Fire",
+      "C": "Earth",
+      "D": "Metal"
+    }
+  },
+  {
+    "id": "FOM-IIb-0003",
+    "subdomain": "II-b",
+    "stem": "In the Controlling (Ke) sequence of the Five Elements, Earth is restrained by which element?",
+    "options": {
+      "A": "Water",
+      "B": "Wood",
+      "C": "Fire",
+      "D": "Metal"
+    }
+  },
+  {
+    "id": "FOM-IIb-0004",
+    "subdomain": "II-b",
+    "stem": "A patient with long-standing Lung Qi deficiency has dry, rough skin and sparse, lusterless body hair. Which Five Element correspondence best accounts for these findings?",
+    "options": {
+      "A": "The Spleen governs the muscles and flesh",
+      "B": "The Kidney governs the bones and manifests in the head hair",
+      "C": "The Liver governs the sinews and manifests in the nails",
+      "D": "The Lung governs the skin and manifests in the body hair"
+    }
+  },
+  {
+    "id": "FOM-IIb-0005",
+    "subdomain": "II-b",
+    "stem": "A 7-year-old child has wet the bed nightly for two months. The problem began after a frightening incident, and the child has been fearful since, startles easily, and has dark circles under the eyes. According to Five Element theory, which organ has been most directly injured by the precipitating emotion?",
+    "options": {
+      "A": "Heart",
+      "B": "Liver",
+      "C": "Kidney",
+      "D": "Spleen"
+    }
+  },
+  {
+    "id": "FOM-IIb-0006",
+    "subdomain": "II-b",
+    "stem": "Physiologically, the Lung's descending of Qi keeps the Liver's upward and outward movement of Qi in check. Which Five Element relationship does this describe?",
+    "options": {
+      "A": "Metal controlling Wood",
+      "B": "Wood insulting Metal",
+      "C": "Metal generating Water",
+      "D": "Wood overacting on Earth"
+    }
+  },
+  {
+    "id": "FOM-IIb-0007",
+    "subdomain": "II-b",
+    "stem": "A 34-year-old woman reports abdominal distension and loose stools for four months. Episodes follow arguments at work and come with irritability, distension under the ribs, and frequent sighing. Her appetite is reduced. The tongue is pale with a thin white coating. The pulse is wiry on the left and weak on the right. According to Five Element theory, which pathological relationship best explains this presentation?",
+    "options": {
+      "A": "Earth insulting Wood",
+      "B": "Water failing to generate Wood",
+      "C": "Wood failing to generate Fire",
+      "D": "Wood overacting on Earth"
+    }
+  },
+  {
+    "id": "FOM-IIb-0008",
+    "subdomain": "II-b",
+    "stem": "A 58-year-old woman reports dizziness, blurred vision, and dry eyes for one year. She also has tinnitus, soreness of the lower back, night sweats, and a sensation of heat in the palms and soles. The tongue is red with scanty coating. The pulse is thin (thready) and rapid. Which Five Element relationship best describes the pathomechanism?",
+    "options": {
+      "A": "Wood overacting on Earth",
+      "B": "Water failing to nourish Wood",
+      "C": "Fire insulting Water",
+      "D": "Metal failing to generate Water"
+    }
+  },
+  {
+    "id": "FOM-IIb-0009",
+    "subdomain": "II-b",
+    "stem": "A 46-year-old man has had a dry cough with scanty, blood-streaked sputum for three weeks. The cough is worse when he is angry. He reports pain in the chest and under the ribs, a bitter taste, a flushed face, and irritability. The tongue is red with a thin yellow coating. The pulse is wiry and rapid. Which Five Element relationship best accounts for this presentation?",
+    "options": {
+      "A": "Wood insulting Metal",
+      "B": "Metal overacting on Wood",
+      "C": "Fire overacting on Metal",
+      "D": "Earth failing to generate Metal"
+    }
+  },
+  {
+    "id": "FOM-IIb-0010",
+    "subdomain": "II-b",
+    "stem": "A 63-year-old man with a two-year history of poor appetite, loose stools, and fatigue after meals now reports shortness of breath on exertion, a weak voice, and daytime sweating without exertion. The tongue is pale with a thin white coating. The pulse is weak, especially on the right. Which Five Element relationship best describes how the later symptoms arose?",
+    "options": {
+      "A": "Metal failing to generate Water",
+      "B": "Fire failing to generate Earth",
+      "C": "Earth failing to generate Metal",
+      "D": "Metal overacting on Wood"
+    }
+  },
+  {
+    "id": "FOM-IIb-0011",
+    "subdomain": "II-b",
+    "stem": "A 29-year-old woman with scanty, pale menstrual flow, dry brittle nails, and occasional numbness of the limbs has in the past six months developed palpitations, difficulty falling asleep, and dream-disturbed sleep. The tongue is pale and slightly thin. The pulse is thin (thready) and choppy. Which Five Element relationship best explains the onset of the newer symptoms?",
+    "options": {
+      "A": "Fire overacting on Metal",
+      "B": "Wood failing to nourish Fire",
+      "C": "Water failing to control Fire",
+      "D": "Earth insulting Wood"
+    }
+  },
+  {
+    "id": "FOM-IIb-0012",
+    "subdomain": "II-b",
+    "stem": "A patient has chronic Lung Qi deficiency with a weak voice, shortness of breath, and frequent colds. Applying the Five Element rule 'in deficiency, treat the mother', which organ should be strengthened in addition to the Lung?",
+    "options": {
+      "A": "Kidney",
+      "B": "Heart",
+      "C": "Liver",
+      "D": "Spleen"
+    }
+  },
+  {
+    "id": "FOM-IIb-0013",
+    "subdomain": "II-b",
+    "stem": "A 67-year-old woman has had a dry cough with scanty sticky sputum, a dry throat, and a hoarse voice for three years. Over the past eight months she has developed soreness of the lower back, tinnitus, night sweats, and heat in the palms and soles. The tongue is red and dry, peeled at the root. The pulse is thin (thready) and rapid. Which option best identifies the Five Element relationship and the organ in which the disorder originated?",
+    "options": {
+      "A": "Metal failing to generate Water; it originated in the Lung",
+      "B": "Water failing to nourish Wood; it originated in the Kidney",
+      "C": "Water failing to control Fire; it originated in the Kidney",
+      "D": "Metal insulting Fire; it originated in the Lung"
+    }
+  },
+  {
+    "id": "FOM-IIb-0014",
+    "subdomain": "II-b",
+    "stem": "A 47-year-old man reports insomnia with mental restlessness and palpitations for six months. For several years before this he has had soreness of the lower back, night sweats, and dizziness, which have worsened. His mouth is dry at night. The tongue is red with a redder tip and little coating. The pulse is thin (thready) and rapid and weak at the proximal (chi) positions. Which Five Element relationship best describes the pathomechanism?",
+    "options": {
+      "A": "Fire insulting Water",
+      "B": "Wood failing to nourish Fire",
+      "C": "Water failing to control Fire",
+      "D": "Fire overacting on Metal"
+    }
+  },
+  {
+    "id": "FOM-IIb-0015",
+    "subdomain": "II-b",
+    "stem": "A 41-year-old man with a heavy body and a long history of poor appetite, loose stools, and heaviness after eating now reports fullness and distension under the ribs and a stifling sensation in the chest. He relates the fullness to large meals rather than to stress. The tongue is pale and swollen with a thick, greasy white coating. The pulse is slippery and soggy, slightly wiry on the left. Which Five Element relationship best explains the hypochondriac symptoms?",
+    "options": {
+      "A": "Wood overacting on Earth",
+      "B": "Earth insulting Wood",
+      "C": "Water insulting Earth",
+      "D": "Wood failing to generate Fire"
+    }
+  },
+  {
+    "id": "FOM-IIe-0001",
+    "subdomain": "II-e",
+    "stem": "Which primary channel runs along the posterior aspect of the thigh and lower leg?",
+    "options": {
+      "A": "Bladder",
+      "B": "Gallbladder",
+      "C": "Stomach",
+      "D": "Kidney"
+    }
+  },
+  {
+    "id": "FOM-IIe-0002",
+    "subdomain": "II-e",
+    "stem": "In the interior-exterior (Yin-Yang) pairing of the twelve primary channels, the Pericardium channel is paired with which channel?",
+    "options": {
+      "A": "Small Intestine",
+      "B": "Gallbladder",
+      "C": "San Jiao (Triple Burner)",
+      "D": "Large Intestine"
+    }
+  },
+  {
+    "id": "FOM-IIe-0003",
+    "subdomain": "II-e",
+    "stem": "A 52-year-old woman reports aching pain along the inner side of the left arm, running from the armpit down the posterior border of the forearm to the little finger. She also has a dry throat, thirst, and a sensation of heat in the palm. Based on channel pathways and channel symptomatology, which channel is affected?",
+    "options": {
+      "A": "Heart (Hand Shao Yin)",
+      "B": "Lung (Hand Tai Yin)",
+      "C": "Pericardium (Hand Jue Yin)",
+      "D": "Small Intestine (Hand Tai Yang)"
+    }
+  },
+  {
+    "id": "FOM-IIe-0004",
+    "subdomain": "II-e",
+    "stem": "In the circulation of Qi through the twelve primary channels, Qi flows from the Spleen channel directly into which channel?",
+    "options": {
+      "A": "Lung",
+      "B": "Stomach",
+      "C": "Small Intestine",
+      "D": "Heart"
+    }
+  },
+  {
+    "id": "FOM-IIe-0005",
+    "subdomain": "II-e",
+    "stem": "Which extraordinary vessel is known as the 'Sea of Blood' and the 'Sea of the twelve channels'?",
+    "options": {
+      "A": "Du Mai",
+      "B": "Ren Mai",
+      "C": "Chong Mai",
+      "D": "Dai Mai"
+    }
+  },
+  {
+    "id": "FOM-IIe-0006",
+    "subdomain": "II-e",
+    "stem": "The hand Yang Ming (Large Intestine) and foot Yang Ming (Stomach) channels connect with each other in which region of the body?",
+    "options": {
+      "A": "chest",
+      "B": "head and face",
+      "C": "hand",
+      "D": "foot"
+    }
+  },
+  {
+    "id": "FOM-IIe-0007",
+    "subdomain": "II-e",
+    "stem": "A 29-year-old man develops a headache at the back of the head extending down the nape after cycling in cold wind. He has stiffness of the neck, aversion to cold, and slight fever. The tongue has a thin white coating. The pulse is floating and tight. Based on channel theory, which channel is primarily affected?",
+    "options": {
+      "A": "Tai Yang",
+      "B": "Yang Ming",
+      "C": "Shao Yang",
+      "D": "Jue Yin"
+    }
+  },
+  {
+    "id": "FOM-IIe-0008",
+    "subdomain": "II-e",
+    "stem": "A 45-year-old woman reports pain that began in the right hip after a fall and now radiates along the outer side of the thigh and lower leg to the front of the lateral ankle bone, with tenderness along that line. Which channel is affected?",
+    "options": {
+      "A": "Bladder (Foot Tai Yang)",
+      "B": "Stomach (Foot Yang Ming)",
+      "C": "Gallbladder (Foot Shao Yang)",
+      "D": "Spleen (Foot Tai Yin)"
+    }
+  },
+  {
+    "id": "FOM-IIe-0009",
+    "subdomain": "II-e",
+    "stem": "A 34-year-old man reports frequent urination, occasional bed-wetting, and repeated yawning throughout the day. Which Luo-connecting channel disorder is most consistent with these findings?",
+    "options": {
+      "A": "fullness of the Lung Luo channel",
+      "B": "emptiness of the Lung Luo channel",
+      "C": "emptiness of the Kidney Luo channel",
+      "D": "fullness of the Bladder Luo channel"
+    }
+  },
+  {
+    "id": "FOM-IIe-0010",
+    "subdomain": "II-e",
+    "stem": "A 50-year-old woman reports a persistently distended abdomen that is drum-like on percussion; she describes fullness rather than pain. Which Luo-connecting channel condition is most consistent with this finding?",
+    "options": {
+      "A": "fullness of the Spleen Luo channel",
+      "B": "fullness of the Stomach Luo channel",
+      "C": "emptiness of the Stomach Luo channel",
+      "D": "emptiness of the Spleen Luo channel"
+    }
+  },
+  {
+    "id": "FOM-IIe-0011",
+    "subdomain": "II-e",
+    "stem": "A 37-year-old woman reports chronic thin, white vaginal discharge, fullness of the lower abdomen, and weakness of the lower back with a cold, heavy sensation she describes as 'sitting in water'. Her menses are irregular. The tongue is pale with a white coating. The pulse is soggy. Which extraordinary vessel is primarily affected?",
+    "options": {
+      "A": "Ren Mai",
+      "B": "Chong Mai",
+      "C": "Dai Mai",
+      "D": "Yin Qiao Mai"
+    }
+  },
+  {
+    "id": "FOM-IIe-0012",
+    "subdomain": "II-e",
+    "stem": "A 40-year-old man reports insomnia for a year; at night his eyes feel stretched open and he lies awake for hours. He also has tightness and cramping on the outer side of both lower legs with looseness and weakness on the inner side. Which extraordinary vessel disorder best accounts for this combination of findings?",
+    "options": {
+      "A": "Yin Qiao Mai",
+      "B": "Yang Wei Mai",
+      "C": "Du Mai",
+      "D": "Yang Qiao Mai"
+    }
+  },
+  {
+    "id": "FOM-IIe-0013",
+    "subdomain": "II-e",
+    "stem": "A 55-year-old man reports recurrent episodes of chills alternating with fever, with aching along the sides of the body and the lateral neck, continuing for two months after an initial cold resolved. There is no sweating during the episodes, and the tongue and pulse are unremarkable between them. Based on extraordinary vessel theory, which vessel is primarily affected?",
+    "options": {
+      "A": "Yin Wei Mai",
+      "B": "Yang Wei Mai",
+      "C": "Dai Mai",
+      "D": "Chong Mai"
+    }
+  },
+  {
+    "id": "FOM-IIe-0014",
+    "subdomain": "II-e",
+    "stem": "A 38-year-old woman reports headaches at the temples with pain at the outer corner of the eye, ringing in the ears, pain under the ribs on the right side, and a bitter taste on waking. During episodes she feels alternately chilly and feverish. The tongue has a thin yellow coating on the sides. The pulse is wiry. Which channel is primarily affected?",
+    "options": {
+      "A": "Gallbladder (Foot Shao Yang)",
+      "B": "San Jiao (Hand Shao Yang)",
+      "C": "Liver (Foot Jue Yin)",
+      "D": "Bladder (Foot Tai Yang)"
+    }
+  },
+  {
+    "id": "FOM-IIe-0015",
+    "subdomain": "II-e",
+    "stem": "A 49-year-old man reports stiffness and pain along the midline of the back from the sacrum to the base of the skull, with episodes in which the back arches backward, plus dizziness and heaviness of the head. Palpation finds tenderness directly on the spinous processes rather than beside them. The tongue is normal. The pulse is wiry. Which channel is primarily affected?",
+    "options": {
+      "A": "Bladder (Foot Tai Yang)",
+      "B": "Ren Mai",
+      "C": "Kidney (Foot Shao Yin)",
+      "D": "Du Mai"
+    }
+  },
+  {
+    "id": "FOM-IIi-0001",
+    "subdomain": "II-i",
+    "stem": "In the classical description of the Triple Burner (San Jiao), the Lower Burner is likened to which of the following?",
+    "options": {
+      "A": "a mist",
+      "B": "a maceration chamber",
+      "C": "a drainage ditch",
+      "D": "a bellows"
+    }
+  },
+  {
+    "id": "FOM-IIi-0002",
+    "subdomain": "II-i",
+    "stem": "The San Jiao is described as the avenue of Original Qi (Yuan Qi). Which statement best explains the meaning of this description?",
+    "options": {
+      "A": "it distributes Kidney-rooted Yuan Qi to all the organs and channels",
+      "B": "it produces Yuan Qi in the Middle Burner from food and drink",
+      "C": "it gathers Yuan Qi in the chest from inhaled air",
+      "D": "it stores Yuan Qi on behalf of the Pericardium"
+    }
+  },
+  {
+    "id": "FOM-IIi-0003",
+    "subdomain": "II-i",
+    "stem": "A 36-year-old woman in a humid summer reports two days of a heavy head 'as if wrapped in cloth', aching heaviness of the limbs, a stifling sensation in the chest, mild aversion to cold, and a low fever that rises in the afternoon. She has little thirst. The tongue has a white, sticky coating. The pulse is soggy. According to Three Burner differentiation, which pattern is most appropriate?",
+    "options": {
+      "A": "Damp-Heat in the Middle Burner",
+      "B": "Damp-Heat in the Lower Burner",
+      "C": "Wind-Cold invading the Lung",
+      "D": "Damp-Heat in the Upper Burner"
+    }
+  },
+  {
+    "id": "FOM-IIi-0004",
+    "subdomain": "II-i",
+    "stem": "A 44-year-old man reports burning, frequent, difficult urination with dark scanty urine, a dull ache in the lower abdomen, and loose stools with a burning sensation at the anus. He feels heavy and is thirsty with little desire to drink. The tongue has a yellow, greasy coating, thicker at the root. The pulse is slippery and rapid. Which pattern is most appropriate?",
+    "options": {
+      "A": "Damp-Heat in the Middle Burner",
+      "B": "Damp-Heat in the Lower Burner",
+      "C": "Damp-Heat in the Upper Burner",
+      "D": "Kidney Yin deficiency with Empty Heat"
+    }
+  },
+  {
+    "id": "FOM-IIi-0005",
+    "subdomain": "II-i",
+    "stem": "A 31-year-old woman was seen six days ago with a heavy head, aversion to cold, chest stuffiness, and a low afternoon fever during a humid spell; her coating was white and sticky. Today the aversion to cold has resolved, and she reports epigastric and abdominal fullness, nausea, poor appetite, a sticky taste, loose foul stools, and a fever that persists after sweating. The coating is now yellow and greasy. The pulse is soggy and rapid. Which statement best describes the current location and progression of the disorder?",
+    "options": {
+      "A": "it remains in the Upper Burner at the Wei portion",
+      "B": "it has sunk directly to the Lower Burner",
+      "C": "it has moved to the Middle Burner, with Heat increasing",
+      "D": "it has transformed into Dryness in the Yang Ming organ"
+    }
+  },
+  {
+    "id": "FOM-IIi-0006",
+    "subdomain": "II-i",
+    "stem": "Which of the following best describes the function of the Middle Burner?",
+    "options": {
+      "A": "rotting and ripening food and drink and transforming them into Gu Qi",
+      "B": "dispersing Wei Qi and Body Fluids to the skin and muscles",
+      "C": "separating the clear from the turbid and excreting urine and stool",
+      "D": "storing Essence and governing the reception of Qi"
+    }
+  },
+  {
+    "id": "FOM-IIm-0001",
+    "subdomain": "II-m",
+    "stem": "According to the Chinese organ clock, Qi in the channel system is at its peak in the Spleen channel during which two-hour period?",
+    "options": {
+      "A": "7 to 9 am",
+      "B": "9 to 11 am",
+      "C": "11 am to 1 pm",
+      "D": "1 to 3 pm"
+    }
+  }
+]

@@ -1,0 +1,530 @@
+[
+  {
+    "id": "FOM-IA-0001",
+    "subdomain": "I-A",
+    "stem": "During observation, which finding best indicates that the patient's Spirit (Shen) is present?",
+    "options": {
+      "A": "Dull, cloudy eyes with slow and inappropriate responses",
+      "B": "Sudden brightening of the eyes after weeks of lethargy",
+      "C": "Bright, clear eyes with alert and appropriate responses",
+      "D": "Fixed upward gaze with no response to questions"
+    }
+  },
+  {
+    "id": "FOM-IA-0002",
+    "subdomain": "I-A",
+    "stem": "An 82-year-old patient who has been bedridden, lethargic, and barely eating for several weeks suddenly becomes bright-eyed and talkative and asks for food. Both cheeks show a bright red flush like applied rouge. Which of the following best describes this presentation?",
+    "options": {
+      "A": "Recovery of Stomach Qi with a favorable prognosis",
+      "B": "False Spirit (Jia Shen) signaling imminent separation of Yin and Yang",
+      "C": "Liver Fire blazing upward and agitating the Spirit",
+      "D": "Yin deficiency with Empty Heat rising to the face"
+    }
+  },
+  {
+    "id": "FOM-IA-0003",
+    "subdomain": "I-A",
+    "stem": "In five-color observation of the complexion, a yellow color is primarily associated with which organ and pathogenic factor?",
+    "options": {
+      "A": "Spleen and Dampness",
+      "B": "Liver and Wind",
+      "C": "Kidney and Cold",
+      "D": "Lung and Dryness"
+    }
+  },
+  {
+    "id": "FOM-IA-0004",
+    "subdomain": "I-A",
+    "stem": "A patient has redness confined to the cheekbones that becomes more pronounced in the afternoon, while the rest of the face is pale. Which mechanism best explains this finding?",
+    "options": {
+      "A": "Full Heat in the Stomach flushing upward along its channel",
+      "B": "Wind-Heat invading the exterior and rising to the face",
+      "C": "Liver Fire blazing upward",
+      "D": "Yin deficiency with Empty Heat floating upward"
+    }
+  },
+  {
+    "id": "FOM-IA-0005",
+    "subdomain": "I-A",
+    "stem": "A patient's face is bright white and slightly puffy. Which pattern is most consistent with this complexion?",
+    "options": {
+      "A": "Blood deficiency",
+      "B": "Yang deficiency",
+      "C": "Blood stasis",
+      "D": "Yin deficiency"
+    }
+  },
+  {
+    "id": "FOM-IA-0006",
+    "subdomain": "I-A",
+    "stem": "A patient with a chronic illness has a complexion that, although pale, remains moist and lustrous. Which of the following is the best interpretation of the luster?",
+    "options": {
+      "A": "Stomach Qi is still intact and the prognosis is relatively favorable",
+      "B": "Pathogenic Heat is still confined to the exterior",
+      "C": "Dampness is accumulating in the face",
+      "D": "Yin and Yang are about to separate"
+    }
+  },
+  {
+    "id": "FOM-IA-0007",
+    "subdomain": "I-A",
+    "stem": "In observation of the eyes, redness of the inner and outer canthi is attributed to which organ?",
+    "options": {
+      "A": "Liver",
+      "B": "Lung",
+      "C": "Spleen",
+      "D": "Heart"
+    }
+  },
+  {
+    "id": "FOM-IA-0008",
+    "subdomain": "I-A",
+    "stem": "A patient's lips are bluish-purple. Which pattern is most consistent with this finding?",
+    "options": {
+      "A": "Spleen Qi deficiency",
+      "B": "Stomach Heat",
+      "C": "Blood stasis",
+      "D": "Blood deficiency"
+    }
+  },
+  {
+    "id": "FOM-IA-0009",
+    "subdomain": "I-A",
+    "stem": "A 52-year-old patient reports a mildly sore, dry throat for 4 months, worse in the evening, with a sensation of heat in the palms and soles. On observation the throat is slightly red without swelling or exudate. Which pattern is most likely?",
+    "options": {
+      "A": "Wind-Heat invading the Lung",
+      "B": "Kidney Yin deficiency with Empty Fire",
+      "C": "Lung and Stomach Heat",
+      "D": "Phlegm and Qi obstructing the throat"
+    }
+  },
+  {
+    "id": "FOM-IA-0010",
+    "subdomain": "I-A",
+    "stem": "A 3-year-old child with a high fever develops a fixed upward stare and stiffness of the neck. These eye findings most strongly indicate which of the following?",
+    "options": {
+      "A": "Liver Wind stirring internally",
+      "B": "Phlegm misting the Heart orifices",
+      "C": "Kidney Essence deficiency",
+      "D": "Spleen Qi sinking"
+    }
+  },
+  {
+    "id": "FOM-IA-0011",
+    "subdomain": "I-A",
+    "stem": "A tongue is pale, swollen, and wet, with teeth marks along the edges. Which pattern is most consistent with these findings?",
+    "options": {
+      "A": "Liver Blood deficiency",
+      "B": "Kidney Yin deficiency",
+      "C": "Damp-Heat in the Spleen",
+      "D": "Spleen Yang deficiency with Dampness"
+    }
+  },
+  {
+    "id": "FOM-IA-0012",
+    "subdomain": "I-A",
+    "stem": "A patient has a red tongue body. Which coating finding would most strongly indicate Yin deficiency with Empty Heat rather than Full Heat?",
+    "options": {
+      "A": "Thick yellow coating",
+      "B": "Thin white coating",
+      "C": "Absent coating with a shiny surface",
+      "D": "Sticky yellow coating"
+    }
+  },
+  {
+    "id": "FOM-IA-0013",
+    "subdomain": "I-A",
+    "stem": "A bluish-purple tongue body that is moist most commonly indicates which of the following?",
+    "options": {
+      "A": "Interior Cold leading to Blood stasis",
+      "B": "Interior Heat leading to Blood stasis",
+      "C": "Phlegm-Heat obstructing the Lung",
+      "D": "Yin deficiency with Blood stasis"
+    }
+  },
+  {
+    "id": "FOM-IA-0014",
+    "subdomain": "I-A",
+    "stem": "A patient's tongue has multiple cracks on its surface. Which additional tongue finding would most strongly support attributing the cracks to Yin deficiency rather than to Spleen Qi deficiency?",
+    "options": {
+      "A": "Pale body with a thin white coating",
+      "B": "Red body with no coating",
+      "C": "Swollen body with teeth marks",
+      "D": "Pale body with a wet surface"
+    }
+  },
+  {
+    "id": "FOM-IA-0015",
+    "subdomain": "I-A",
+    "stem": "A tongue that deviates to one side when protruded is most commonly associated with which of the following?",
+    "options": {
+      "A": "Qi deficiency",
+      "B": "Phlegm-Damp accumulation",
+      "C": "Blood stasis",
+      "D": "Interior Wind"
+    }
+  },
+  {
+    "id": "FOM-IA-0016",
+    "subdomain": "I-A",
+    "stem": "A patient's tongue trembles when protruded. The body is pale and slightly flaccid. Which mechanism best explains the tremor?",
+    "options": {
+      "A": "Liver Wind generated by extreme Heat",
+      "B": "Phlegm-Fire harassing the Heart",
+      "C": "Qi and Blood deficiency failing to nourish the tongue",
+      "D": "Liver Yang rising from Yin deficiency"
+    }
+  },
+  {
+    "id": "FOM-IA-0017",
+    "subdomain": "I-A",
+    "stem": "A pale tongue has a grey-black coating that is moist and slippery. Which of the following is the most appropriate interpretation?",
+    "options": {
+      "A": "Extreme Heat consuming Body Fluids",
+      "B": "Extreme Interior Cold from Yang deficiency",
+      "C": "Damp-Heat accumulating in the Middle Burner",
+      "D": "Heat entering the Blood level"
+    }
+  },
+  {
+    "id": "FOM-IA-0018",
+    "subdomain": "I-A",
+    "stem": "A thick, white, greasy (sticky) tongue coating on a swollen body most commonly indicates which of the following?",
+    "options": {
+      "A": "Cold-Damp or Phlegm retained in the Interior",
+      "B": "Wind-Cold at the exterior level",
+      "C": "Stomach Yin deficiency",
+      "D": "Damp-Heat in the Spleen"
+    }
+  },
+  {
+    "id": "FOM-IA-0019",
+    "subdomain": "I-A",
+    "stem": "A tongue coating looks as though it has been sprinkled onto the surface; it can be scraped away easily and leaves the surface clean beneath it. Which of the following is the most appropriate interpretation?",
+    "options": {
+      "A": "An exterior pathogen that has just begun to invade",
+      "B": "Retention of Food in the Stomach",
+      "C": "Full Heat in the Interior",
+      "D": "Deficiency of Stomach Qi"
+    }
+  },
+  {
+    "id": "FOM-IA-0020",
+    "subdomain": "I-A",
+    "stem": "A tongue has a thin white coating over most of its surface, but in the center the coating is missing and the surface there is smooth and shiny. Which pattern is most consistent with this finding?",
+    "options": {
+      "A": "Liver Fire blazing",
+      "B": "Kidney Yin deficiency",
+      "C": "Stomach Yin deficiency",
+      "D": "Heart Fire blazing"
+    }
+  },
+  {
+    "id": "FOM-IA-0021",
+    "subdomain": "I-A",
+    "stem": "A 29-year-old patient reports insomnia with vivid dreams, palpitations, and recurrent mouth ulcers for 3 weeks. The tongue is red at the tip with red points, and the coating is thin yellow. The pulse is rapid. Which pattern is most consistent with these findings?",
+    "options": {
+      "A": "Heart Fire blazing",
+      "B": "Liver Fire blazing",
+      "C": "Stomach Heat",
+      "D": "Kidney Yin deficiency"
+    }
+  },
+  {
+    "id": "FOM-IA-0022",
+    "subdomain": "I-A",
+    "stem": "Which area of the tongue reflects the condition of the Kidney?",
+    "options": {
+      "A": "The tip",
+      "B": "The root",
+      "C": "The sides",
+      "D": "The center"
+    }
+  },
+  {
+    "id": "FOM-IA-0023",
+    "subdomain": "I-A",
+    "stem": "On inspection of the underside of the tongue, the two sublingual veins are distended and dark purple. This finding most commonly indicates which of the following?",
+    "options": {
+      "A": "Qi deficiency",
+      "B": "Yin deficiency with Empty Heat",
+      "C": "Blood stasis",
+      "D": "Phlegm-Damp accumulation"
+    }
+  },
+  {
+    "id": "FOM-IA-0024",
+    "subdomain": "I-A",
+    "stem": "A 35-year-old patient has had chills, mild fever, headache, body aches, and nasal congestion for 1 day. The tongue body is of normal color with a thin white coating. The tongue findings are most consistent with which of the following?",
+    "options": {
+      "A": "Interior Cold-Damp",
+      "B": "Interior Heat damaging Body Fluids",
+      "C": "Exterior Wind-Heat invasion",
+      "D": "Exterior Wind-Cold invasion"
+    }
+  },
+  {
+    "id": "FOM-IA-0025",
+    "subdomain": "I-A",
+    "stem": "A patient's fingernails are pale, brittle, and ridged. Which pattern is most consistent with this finding?",
+    "options": {
+      "A": "Kidney Yang deficiency",
+      "B": "Liver Blood deficiency",
+      "C": "Blood stasis from Cold",
+      "D": "Liver Fire blazing"
+    }
+  },
+  {
+    "id": "FOM-IA-0026",
+    "subdomain": "I-A",
+    "stem": "A patient lies curled up on the side facing the wall, keeps the covers pulled tightly around the body, and is quiet and still. These observations most suggest which of the following?",
+    "options": {
+      "A": "A Cold pattern of a Yin nature",
+      "B": "A Heat pattern of a Yang nature",
+      "C": "An exterior Wind-Heat pattern",
+      "D": "A Liver Yang rising pattern"
+    }
+  },
+  {
+    "id": "FOM-IA-0027",
+    "subdomain": "I-A",
+    "stem": "A 60-year-old patient with a chronic cough brings up copious, thin, white, frothy sputum that is easy to expectorate. The patient feels cold and has a pale tongue with a white, slippery coating. The sputum findings are most consistent with which of the following?",
+    "options": {
+      "A": "Phlegm-Heat in the Lung",
+      "B": "Lung Yin deficiency",
+      "C": "Dryness injuring the Lung",
+      "D": "Cold-Phlegm obstructing the Lung"
+    }
+  },
+  {
+    "id": "FOM-IA-0028",
+    "subdomain": "I-A",
+    "stem": "A patient passes loose, watery stools that contain undigested food and have little odor. The limbs are cold. The stool findings are most consistent with which of the following?",
+    "options": {
+      "A": "Large Intestine Damp-Heat",
+      "B": "Retention of Food in the Stomach",
+      "C": "Spleen Yang deficiency",
+      "D": "Liver Qi stagnation invading the Spleen"
+    }
+  },
+  {
+    "id": "FOM-IA-0029",
+    "subdomain": "I-A",
+    "stem": "Urine that is clear, pale, and copious most commonly indicates which of the following?",
+    "options": {
+      "A": "Cold from Yang deficiency",
+      "B": "Full Heat in the Interior",
+      "C": "Damp-Heat in the Bladder",
+      "D": "Yin deficiency with Empty Heat"
+    }
+  },
+  {
+    "id": "FOM-IA-0030",
+    "subdomain": "I-A",
+    "stem": "A 34-year-old patient reports painful periods. The menstrual blood is dark purple with clots, and the pain eases after the clots are passed. The blood findings most strongly indicate which of the following?",
+    "options": {
+      "A": "Blood deficiency",
+      "B": "Blood stasis",
+      "C": "Heat in the Blood",
+      "D": "Spleen Qi failing to hold the Blood"
+    }
+  },
+  {
+    "id": "FOM-IB-0001",
+    "subdomain": "I-B",
+    "stem": "A low, weak voice with reluctance to speak most commonly indicates which of the following?",
+    "options": {
+      "A": "Full Heat in the Lung",
+      "B": "Liver Qi stagnation",
+      "C": "Phlegm obstructing the Lung",
+      "D": "Lung Qi deficiency"
+    }
+  },
+  {
+    "id": "FOM-IB-0002",
+    "subdomain": "I-B",
+    "stem": "A patient with a high fever speaks loudly and incoherently and is agitated. Which of the following best describes this speech and its mechanism?",
+    "options": {
+      "A": "Muttering (Zheng Sheng) from Heart Qi deficiency",
+      "B": "Soliloquy from Phlegm misting the Heart",
+      "C": "Delirious speech (Zhan Yu) from Heat harassing the Heart",
+      "D": "Stuttering from Wind-Phlegm obstructing the channels"
+    }
+  },
+  {
+    "id": "FOM-IB-0003",
+    "subdomain": "I-B",
+    "stem": "A 44-year-old singer has had a hoarse, weak voice for 8 months that is worse in the evening, with a dry throat and night sweats. Which pattern is most consistent with these findings?",
+    "options": {
+      "A": "Lung and Kidney Yin deficiency",
+      "B": "Wind-Cold invading the Lung",
+      "C": "Phlegm-Heat obstructing the Lung",
+      "D": "Lung Qi deficiency"
+    }
+  },
+  {
+    "id": "FOM-IB-0004",
+    "subdomain": "I-B",
+    "stem": "A 68-year-old patient suddenly develops slurred, stuttering speech together with deviation of the mouth and numbness of one arm. The speech finding most strongly indicates which of the following?",
+    "options": {
+      "A": "Heart Qi deficiency",
+      "B": "Wind-Phlegm obstructing the channels",
+      "C": "Liver Qi stagnation",
+      "D": "Kidney Essence deficiency"
+    }
+  },
+  {
+    "id": "FOM-IB-0005",
+    "subdomain": "I-B",
+    "stem": "Which of the following cough qualities most strongly indicates a deficiency pattern?",
+    "options": {
+      "A": "Loud, coarse cough with copious sputum",
+      "B": "Heavy, muffled cough with nasal obstruction",
+      "C": "Paroxysmal cough with loud rattling of Phlegm",
+      "D": "Low, feeble cough with shortness of breath on exertion"
+    }
+  },
+  {
+    "id": "FOM-IB-0006",
+    "subdomain": "I-B",
+    "stem": "A dry, hacking cough with little or no sputum, where any sputum is scanty and difficult to expectorate, together with a dry throat, most commonly indicates which of the following?",
+    "options": {
+      "A": "Phlegm-Damp obstructing the Lung",
+      "B": "Wind-Cold impairing the Lung's diffusing function",
+      "C": "Insufficient Lung fluids from Dryness or Yin deficiency",
+      "D": "Lung Qi deficiency with weak diffusing"
+    }
+  },
+  {
+    "id": "FOM-IB-0007",
+    "subdomain": "I-B",
+    "stem": "A 71-year-old patient has had breathlessness for 3 years that worsens with slight exertion. Breathing is shallow and weak, inhalation is more difficult than exhalation, and the patient feels relief after a long, deep breath in. Which mechanism best explains this breathing pattern?",
+    "options": {
+      "A": "Kidney failing to receive Qi",
+      "B": "Phlegm-Heat obstructing the Lung",
+      "C": "Lung Qi deficiency with weak diffusing",
+      "D": "Liver Qi stagnation with Qi counterflow"
+    }
+  },
+  {
+    "id": "FOM-IB-0008",
+    "subdomain": "I-B",
+    "stem": "Breathing accompanied by a whistling or rattling sound in the throat (wheezing, Xiao) most commonly indicates which of the following?",
+    "options": {
+      "A": "Lung Qi deficiency",
+      "B": "Phlegm obstructing the Lung and airways",
+      "C": "Lung Yin deficiency",
+      "D": "Blood stasis in the chest"
+    }
+  },
+  {
+    "id": "FOM-IB-0009",
+    "subdomain": "I-B",
+    "stem": "A patient who has been severely ill for many months, emaciated and very weak, begins to have hiccups that are low, feeble, and intermittent. Which of the following is the most appropriate interpretation?",
+    "options": {
+      "A": "Stomach Heat causing Qi to rebel upward",
+      "B": "Cold in the Stomach from ingestion of raw food",
+      "C": "Liver Qi invading the Stomach",
+      "D": "Exhaustion of Stomach Qi, an unfavorable prognostic sign"
+    }
+  },
+  {
+    "id": "FOM-IB-0010",
+    "subdomain": "I-B",
+    "stem": "Frequent sighing is most commonly a manifestation of which of the following?",
+    "options": {
+      "A": "Lung Qi deficiency",
+      "B": "Heart Blood deficiency",
+      "C": "Liver Qi stagnation",
+      "D": "Phlegm obstructing the chest"
+    }
+  },
+  {
+    "id": "FOM-IB-0011",
+    "subdomain": "I-B",
+    "stem": "In olfaction, an odor from the body, breath, or excretions that is strong, foul, or putrid generally indicates which of the following?",
+    "options": {
+      "A": "Heat of an excess nature",
+      "B": "Cold of a deficient nature",
+      "C": "Dampness without Heat",
+      "D": "Qi stagnation without Heat"
+    }
+  },
+  {
+    "id": "FOM-IB-0012",
+    "subdomain": "I-B",
+    "stem": "A patient's breath is foul-smelling. The gums are swollen and painful, the patient is thirsty, and the tongue has a yellow coating. Which pattern is most consistent with these findings?",
+    "options": {
+      "A": "Retention of Food in the Stomach",
+      "B": "Stomach Heat",
+      "C": "Spleen Qi deficiency",
+      "D": "Lung Heat with Phlegm"
+    }
+  },
+  {
+    "id": "FOM-IB-0013",
+    "subdomain": "I-B",
+    "stem": "A 40-year-old patient has had diarrhea for 2 days. The stools are yellow and loose, extremely foul-smelling, and passed with a burning sensation of the anus. Which pattern is most consistent with the stool odor and these findings?",
+    "options": {
+      "A": "Spleen Yang deficiency",
+      "B": "Kidney Yang deficiency",
+      "C": "Cold-Damp invading the Spleen",
+      "D": "Large Intestine Damp-Heat"
+    }
+  },
+  {
+    "id": "FOM-IB-0014",
+    "subdomain": "I-B",
+    "stem": "A patient reports a vaginal discharge that is thin and white with a fishy odor. The odor and appearance of this discharge most commonly indicate which of the following?",
+    "options": {
+      "A": "Damp-Heat pouring downward",
+      "B": "Heat toxin accumulating in the Lower Burner",
+      "C": "Cold-Damp pouring downward",
+      "D": "Kidney Yin deficiency with Empty Heat"
+    }
+  },
+  {
+    "id": "FOM-IB-0015",
+    "subdomain": "I-B",
+    "stem": "A patient belches frequently after meals, and the belches carry a sour, rotten odor. There is epigastric fullness that is worse after eating. Which pattern is most consistent with these findings?",
+    "options": {
+      "A": "Retention of Food in the Stomach",
+      "B": "Liver Qi invading the Stomach",
+      "C": "Stomach Qi deficiency",
+      "D": "Cold in the Stomach"
+    }
+  },
+  {
+    "id": "FOM-ID-0001",
+    "subdomain": "I-D",
+    "stem": "A practitioner notes that the pulse is wiry and forceful only at the guan (middle) position of the patient's right wrist, while all other positions are normal. Under the standard position-organ correspondence, this finding most directly reflects which organ?",
+    "options": {
+      "A": "Spleen and Stomach",
+      "B": "Liver and Gallbladder",
+      "C": "Lung and Large Intestine",
+      "D": "Kidney and Bladder"
+    }
+  },
+  {
+    "id": "FOM-ID-0002",
+    "subdomain": "I-D",
+    "stem": "A 55-year-old patient reports palpitations and poor sleep. The practitioner wishes to palpate the position that most directly reflects the Heart. Which position is most appropriate?",
+    "options": {
+      "A": "Right cun (distal) position",
+      "B": "Left guan (middle) position",
+      "C": "Left cun (distal) position",
+      "D": "Right chi (proximal) position"
+    }
+  },
+  {
+    "id": "FOM-ID-0003",
+    "subdomain": "I-D",
+    "stem": "A normal pulse is said to have Stomach Qi, Spirit (Shen), and root. Which palpatory finding best demonstrates that a pulse has root?",
+    "options": {
+      "A": "The beat is regular and even in rhythm at all three positions",
+      "B": "The beat remains perceptible at the chi positions on deep pressure",
+      "C": "The beat is gentle, calm, and of moderate rate at the middle level",
+      "D": "The beat arrives and departs smoothly with a soft, relaxed quality"
+    }
+  }
+]

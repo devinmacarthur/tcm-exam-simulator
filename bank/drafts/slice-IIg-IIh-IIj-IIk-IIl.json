@@ -1,0 +1,1035 @@
+[
+  {
+    "id": "FOM-IIg-0001",
+    "domain": "II",
+    "subdomain": "II-g",
+    "task": "II-1-g",
+    "theory": "Six Stages",
+    "stem": "In Six Stages (Liu Jing) identification, which stage is described as a half-exterior, half-interior pattern in which the pathogenic factor is lodged between the exterior and the interior?",
+    "options": { "A": "Tai Yang", "B": "Yang Ming", "C": "Shao Yang", "D": "Tai Yin" },
+    "correct": "C",
+    "explanation": "Shao Yang is the pivot (Shu) between the exterior and the interior. The pathogenic factor is neither fully on the surface nor fully in the interior, which produces the characteristic alternation of chills (pathogen prevailing) and fever (upright Qi prevailing), together with bitter taste, dry throat, hypochondrial fullness and a wiry pulse.",
+    "distractorExplanations": {
+      "A": "Tai Yang is the most exterior stage; its findings (aversion to cold, floating pulse, stiff neck) are purely exterior. A learner who equates 'first stage' with 'pivot' would choose this.",
+      "B": "Yang Ming is a fully interior Heat stage with aversion to heat rather than cold. It is the interior pole, not the half-way point.",
+      "D": "Tai Yin is the first of the three Yin stages and is fully interior (Spleen Cold-Damp). It is not between exterior and interior."
+    },
+    "learningObjective": "Identify Shao Yang as the half-exterior, half-interior stage of the Six Stages.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": ["six-stages", "shao-yang-stage", "half-exterior-half-interior"],
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to the Six Stages" },
+      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of the six meridians" }
+    ]
+  },
+  {
+    "id": "FOM-IIg-0002",
+    "domain": "II",
+    "subdomain": "II-g",
+    "task": "II-1-g",
+    "theory": "Six Stages",
+    "stem": "A patient has fever, aversion to cold, occipital headache, stiff neck, and a floating pulse. Which additional finding would most support a Tai Yang Cold-damage (Shang Han) pattern rather than a Tai Yang Wind-strike (Zhong Feng) pattern?",
+    "options": {
+      "A": "absence of sweating with generalized body aches and a tight pulse",
+      "B": "spontaneous sweating with aversion to wind and a moderate pulse",
+      "C": "profuse sweating with thirst and an overflowing pulse",
+      "D": "alternating chills and fever with a wiry pulse"
+    },
+    "correct": "A",
+    "explanation": "Both Tai Yang sub-patterns share fever, aversion to cold, headache, stiff neck and a floating pulse. The discriminating finding is sweating: in Cold-damage, Cold contracts the pores so there is no sweating, the body aches, and the pulse is floating and tight; in Wind-strike, Wind opens the pores, so there is spontaneous sweating with aversion to wind and a floating, moderate (slowed-down) pulse.",
+    "distractorExplanations": {
+      "B": "Spontaneous sweating with aversion to wind and a moderate pulse is the Wind-strike (Zhong Feng) picture; a learner who reverses the two Tai Yang sub-patterns would choose this.",
+      "C": "Profuse sweating, thirst and an overflowing pulse indicate Yang Ming channel Heat, an interior stage, not Tai Yang at all.",
+      "D": "Alternating chills and fever with a wiry pulse is the signature of Shao Yang, the half-exterior, half-interior stage."
+    },
+    "learningObjective": "Differentiate Tai Yang Cold-damage from Tai Yang Wind-strike by the presence or absence of sweating.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": false,
+    "concepts": ["tai-yang-cold-damage", "tai-yang-wind-strike", "six-stages", "tight-pulse"],
+    "distinction": { "between": ["tai-yang-cold-damage", "tai-yang-wind-strike"], "key": "Cold-damage has no sweating with a floating-tight pulse; Wind-strike has spontaneous sweating with a floating-moderate pulse." },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to the Six Stages, Tai Yang stage" },
+      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Taiyang syndromes" }
+    ]
+  },
+  {
+    "id": "FOM-IIg-0003",
+    "domain": "II",
+    "subdomain": "II-g",
+    "task": "II-1-g",
+    "theory": "Six Stages",
+    "stem": "A 29-year-old woman has had fever and aversion to cold for three days after being caught in cold weather. She is thirsty but vomits water soon after drinking, her urination is scanty and difficult, and she feels fullness below the umbilicus. The tongue has a thin white coating. The pulse is floating. Which of the following is the most appropriate Six Stages diagnosis?",
+    "options": { "A": "Tai Yang channel pattern", "B": "Yang Ming organ pattern", "C": "Tai Yin pattern", "D": "Tai Yang organ pattern" },
+    "correct": "D",
+    "explanation": "This is the Tai Yang organ (Fu) pattern of water retention. The exterior Cold has followed the channel into the Bladder, the Fu of Tai Yang, and impaired its Qi transformation, so water accumulates: difficult, scanty urination and fullness below the umbilicus. Thirst with vomiting as soon as water is drunk (water rebellion) is the hallmark, because the fluids cannot be transformed. The persisting fever, aversion to cold and floating pulse show the exterior has not yet been cleared.",
+    "distractorExplanations": {
+      "A": "The Tai Yang channel pattern has only exterior findings (fever, aversion to cold, stiff neck, floating pulse). Urinary difficulty, lower abdominal fullness and vomiting of water show the organ is now involved; a learner who stops at the exterior signs would choose this.",
+      "B": "The Yang Ming organ pattern features constipation, abdominal fullness that resists pressure and tidal fever with a deep full pulse, with no aversion to cold. Here the bowels are unaffected and aversion to cold persists.",
+      "C": "Tai Yin is Spleen Cold-Damp with abdominal fullness, diarrhea and no thirst, with a deep weak pulse. This patient is thirsty, has a floating pulse and still has exterior signs."
+    },
+    "learningObjective": "Differentiate the Tai Yang organ (Bladder water retention) pattern from the Tai Yang channel pattern.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["tai-yang-organ-pattern", "tai-yang-channel-pattern", "six-stages", "water-retention"],
+    "distinction": { "between": ["tai-yang-organ-pattern", "tai-yang-channel-pattern"], "key": "Difficult urination, lower abdominal fullness and thirst with vomiting of water on top of exterior signs indicate the Bladder (Fu) is involved." },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to the Six Stages, Tai Yang organ pattern" },
+      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Taiyang fu-organ syndrome" }
+    ]
+  },
+  {
+    "id": "FOM-IIg-0004",
+    "domain": "II",
+    "subdomain": "II-g",
+    "task": "II-1-g",
+    "theory": "Six Stages",
+    "stem": "A 41-year-old man developed fever and chills four days ago. He now has a high fever with aversion to heat, profuse sweating, intense thirst for cold drinks, a red face, and irritability. There is no abdominal pain and his bowels move daily. The tongue is red with a dry yellow coating. The pulse is overflowing (flooding) and rapid. Which Six Stages pattern is most consistent with these findings?",
+    "options": { "A": "Tai Yang Wind-strike", "B": "Yang Ming channel pattern", "C": "Yang Ming organ pattern", "D": "Shao Yang pattern" },
+    "correct": "B",
+    "explanation": "The 'four bigs' of the Yang Ming channel pattern are present: big fever, big sweating, big thirst and a big (overflowing) pulse. Heat has moved fully into the interior, so aversion to cold has been replaced by aversion to heat, the face is red and the tongue is red with a dry yellow coating. The absence of constipation, abdominal pain or fullness keeps this at the channel (Jing) rather than the organ (Fu) level.",
+    "distractorExplanations": {
+      "A": "Tai Yang Wind-strike has fever with aversion to cold or wind, mild sweating and a floating moderate pulse. Aversion to heat, intense thirst and an overflowing pulse exclude an exterior stage; a learner who sees 'sweating' and thinks Wind-strike would choose this.",
+      "C": "The Yang Ming organ pattern requires dry stool, abdominal fullness and pain that resist pressure, tidal fever and a deep full pulse. Daily bowel movements with no abdominal pain rule it out.",
+      "D": "Shao Yang presents with alternating chills and fever, bitter taste, hypochondrial fullness and a wiry pulse. Continuous high fever with aversion to heat is not Shao Yang."
+    },
+    "learningObjective": "Identify the Yang Ming channel pattern from the four bigs and differentiate it from the Yang Ming organ pattern.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["yang-ming-channel-pattern", "yang-ming-organ-pattern", "four-bigs", "overflowing-pulse"],
+    "distinction": { "between": ["yang-ming-channel-pattern", "yang-ming-organ-pattern"], "key": "The channel pattern has the four bigs without constipation or abdominal fullness; the organ pattern adds dry stool and abdominal fullness that resists pressure." },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to the Six Stages, Yang Ming stage" },
+      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Yangming channel syndrome" }
+    ]
+  },
+  {
+    "id": "FOM-IIg-0005",
+    "domain": "II",
+    "subdomain": "II-g",
+    "task": "II-1-g",
+    "theory": "Six Stages",
+    "stem": "A 57-year-old woman in the sixth day of a febrile illness reports fever that peaks in the late afternoon, no bowel movement for four days, abdominal fullness with pain that is worse with pressure, and episodes of delirious speech at night. Sweating is confined to the hands and feet. The tongue has a dry yellow coating with prickles. The pulse is deep, full and forceful. Which of the following is the most appropriate Six Stages diagnosis?",
+    "options": { "A": "Yang Ming channel pattern", "B": "Shao Yang pattern", "C": "Yang Ming organ pattern", "D": "Tai Yin pattern" },
+    "correct": "C",
+    "explanation": "This is the Yang Ming organ (Fu) pattern: interior Heat has dried the Intestines and bound with the stool. Constipation, abdominal fullness and pain that resist pressure show the excess accumulation; tidal fever in the late afternoon and delirium reflect Heat flaring at the time Yang Ming is strongest and harassing the Spirit; sweating of the hands and feet, a dry yellow prickled coating and a deep full pulse all confirm interior excess Heat.",
+    "distractorExplanations": {
+      "A": "The Yang Ming channel pattern has the four bigs (high continuous fever, profuse generalized sweating, great thirst, overflowing pulse) with no constipation or abdominal pain. Constipation, abdominal fullness and a deep pulse rule it out.",
+      "B": "Shao Yang has alternating chills and fever, hypochondrial fullness and a wiry pulse, without constipation or abdominal pain resisting pressure. The tidal fever and bound stool are not Shao Yang findings.",
+      "D": "Tai Yin is a Cold pattern of the Spleen with diarrhea, abdominal fullness relieved by pressure, a pale tongue and a weak pulse. This patient has constipation, Heat signs and a full pulse."
+    },
+    "learningObjective": "Identify the Yang Ming organ pattern from tidal fever, constipation and abdominal fullness that resists pressure.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["yang-ming-organ-pattern", "yang-ming-channel-pattern", "tidal-fever", "six-stages"],
+    "distinction": { "between": ["yang-ming-organ-pattern", "yang-ming-channel-pattern"], "key": "Constipation with abdominal fullness and pain that resists pressure, with tidal fever and a deep full pulse, marks the organ pattern." },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to the Six Stages, Yang Ming organ pattern" },
+      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Yangming fu-organ syndrome" }
+    ]
+  },
+  {
+    "id": "FOM-IIg-0006",
+    "domain": "II",
+    "subdomain": "II-g",
+    "task": "II-1-g",
+    "theory": "Six Stages",
+    "stem": "A 35-year-old man has felt unwell for five days following a cold. He now has chills that alternate with episodes of fever several times a day, a bitter taste in the mouth, a dry throat, dizziness, fullness in the hypochondrial region, poor appetite and nausea. The tongue has a thin white coating. The pulse is wiry. Which Six Stages pattern best explains these findings?",
+    "options": { "A": "Shao Yang pattern", "B": "Tai Yang Wind-strike", "C": "Yang Ming channel pattern", "D": "Jue Yin pattern" },
+    "correct": "A",
+    "explanation": "Alternating chills and fever is the pathognomonic sign of Shao Yang: the pathogenic factor is lodged half-way between exterior and interior, and chills or fever predominate as pathogen and upright Qi alternately gain the upper hand. Bitter taste, dry throat and dizziness reflect Gallbladder Heat rising; hypochondrial fullness, poor appetite and nausea reflect obstruction of the Shao Yang channel and its effect on the Stomach; the wiry pulse confirms the channel involved.",
+    "distractorExplanations": {
+      "B": "Tai Yang Wind-strike has simultaneous fever and aversion to wind, not alternation, with a floating pulse and no bitter taste or hypochondrial fullness. A learner who notes 'following a cold' and assumes the exterior stage persists would choose this.",
+      "C": "Yang Ming channel Heat shows continuous high fever with aversion to heat, profuse sweating, great thirst and an overflowing pulse; there is no alternation of chills and fever.",
+      "D": "Jue Yin presents with upper Heat and lower Cold: persistent thirst, Qi rushing to the chest, hunger without desire to eat, cold limbs and diarrhea. The alternating chills and fever with wiry pulse point to Shao Yang instead."
+    },
+    "learningObjective": "Identify the Shao Yang stage from alternating chills and fever with bitter taste, hypochondrial fullness and a wiry pulse.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["shao-yang-stage", "alternating-chills-and-fever", "wiry-pulse", "six-stages"],
+    "distinction": { "between": ["shao-yang-stage", "tai-yang-wind-strike"], "key": "Alternating chills and fever with a wiry pulse indicates Shao Yang; simultaneous fever and aversion to wind with a floating pulse indicates Tai Yang." },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to the Six Stages, Shao Yang stage" },
+      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Shaoyang syndrome" }
+    ]
+  },
+  {
+    "id": "FOM-IIg-0007",
+    "domain": "II",
+    "subdomain": "II-g",
+    "task": "II-1-g",
+    "theory": "Six Stages",
+    "stem": "A 48-year-old woman with a lingering illness complains of abdominal fullness and distension, poor appetite, intermittent vomiting and loose stools. The abdominal discomfort is dull and is relieved by warmth and by pressure. She has no thirst. The tongue is pale and swollen with a white greasy coating. The pulse is deep, slow and weak. Which of the following is the most appropriate Six Stages diagnosis?",
+    "options": { "A": "Yang Ming organ pattern", "B": "Shao Yin Cold transformation", "C": "Jue Yin pattern", "D": "Tai Yin pattern" },
+    "correct": "D",
+    "explanation": "Tai Yin is the pattern of Cold-Damp in the Spleen with deficient Yang. Failure of Spleen transformation produces abdominal fullness, poor appetite, vomiting and loose stools; the dull pain relieved by warmth and pressure and the absence of thirst identify it as deficient Cold; the pale swollen tongue with white greasy coating shows Cold-Damp, and the deep, slow, weak pulse confirms interior deficient Cold.",
+    "distractorExplanations": {
+      "A": "The Yang Ming organ pattern is interior excess Heat with constipation, abdominal pain that resists pressure, tidal fever and a deep full pulse. Diarrhea, pain relieved by pressure and a weak pulse are the opposite.",
+      "B": "Shao Yin Cold transformation involves Heart and Kidney Yang collapse: extreme aversion to cold, lying curled up with a desire to sleep, cold limbs and a minute pulse. This patient's findings are confined to the Spleen with a weak but not minute pulse.",
+      "C": "Jue Yin is a mixed upper Heat and lower Cold picture with persistent thirst and a sensation of Qi rushing to the chest. The absence of thirst and of any Heat sign rules it out."
+    },
+    "learningObjective": "Identify the Tai Yin stage from Spleen Cold-Damp findings with abdominal fullness relieved by warmth and pressure.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["tai-yin-stage", "spleen-cold-damp", "shao-yin-cold-transformation", "six-stages"],
+    "distinction": { "between": ["tai-yin-stage", "shao-yin-cold-transformation"], "key": "Tai Yin is Spleen Cold-Damp with abdominal fullness and a deep weak pulse; Shao Yin Cold adds Kidney and Heart Yang collapse with cold limbs, lethargy and a minute pulse." },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to the Six Stages, Tai Yin stage" },
+      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Taiyin syndrome" }
+    ]
+  },
+  {
+    "id": "FOM-IIg-0008",
+    "domain": "II",
+    "subdomain": "II-g",
+    "task": "II-1-g",
+    "theory": "Six Stages",
+    "stem": "A 74-year-old man became ill with chills and fever five days ago. He now has a marked aversion to cold, lies curled up, is drowsy and listless, has cold hands and feet, and passes watery diarrhea containing undigested food. His urine is clear and copious. The tongue is pale with a white moist coating. The pulse is deep and minute (faint). Which of the following is the most appropriate Six Stages diagnosis?",
+    "options": { "A": "Tai Yin pattern", "B": "Shao Yin Cold transformation", "C": "Shao Yin Heat transformation", "D": "Jue Yin pattern" },
+    "correct": "B",
+    "explanation": "Shao Yin Cold transformation reflects decline of Heart and Kidney Yang. The patient's marked aversion to cold, curled posture, cold limbs and lethargy with a desire to sleep show collapse of Yang; diarrhea with undigested food and clear copious urine show Kidney Yang failing to warm and transform; the deep, minute pulse is the characteristic Shao Yin pulse, and the pale tongue with moist coating confirms interior Cold.",
+    "distractorExplanations": {
+      "A": "Tai Yin is Spleen Cold-Damp with abdominal fullness, vomiting and loose stools and a deep weak pulse, without the extreme cold limbs, drowsiness and minute pulse that mark Yang collapse. A learner who stops at 'diarrhea with a pale tongue' would choose this.",
+      "C": "Shao Yin Heat transformation presents with mental restlessness, insomnia, dry mouth and throat, a red tongue tip and a thin rapid pulse. Drowsiness, cold limbs and a minute pulse are its opposite.",
+      "D": "Jue Yin combines upper Heat (thirst, burning chest pain, Qi rushing to the chest) with lower Cold. There is no Heat component in this presentation."
+    },
+    "learningObjective": "Identify Shao Yin Cold transformation from lethargy, cold limbs, diarrhea with undigested food and a minute pulse.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["shao-yin-cold-transformation", "tai-yin-stage", "minute-pulse", "six-stages"],
+    "distinction": { "between": ["shao-yin-cold-transformation", "tai-yin-stage"], "key": "Lethargy with desire to sleep, cold limbs and a deep minute pulse indicate Shao Yin Yang collapse rather than Tai Yin Spleen Cold." },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to the Six Stages, Shao Yin stage" },
+      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Shaoyin syndrome, cold transformation" }
+    ]
+  },
+  {
+    "id": "FOM-IIg-0009",
+    "domain": "II",
+    "subdomain": "II-g",
+    "task": "II-1-g",
+    "theory": "Six Stages",
+    "stem": "Which finding best indicates a Shao Yin Heat transformation pattern rather than a Shao Yin Cold transformation pattern?",
+    "options": {
+      "A": "mental restlessness with insomnia and a red tongue tip",
+      "B": "desire to sleep with cold limbs",
+      "C": "diarrhea with undigested food",
+      "D": "clear, copious urine"
+    },
+    "correct": "A",
+    "explanation": "Shao Yin governs the Heart and Kidney. When the pathogen transforms into Heat, Kidney Yin is injured and fails to control Heart Fire, giving mental restlessness, insomnia, dry mouth and throat, a red tongue tip and a thin rapid pulse. The Cold transformation, by contrast, is a collapse of Heart and Kidney Yang with drowsiness, cold limbs and a minute pulse.",
+    "distractorExplanations": {
+      "B": "Desire to sleep with cold limbs is the hallmark of the Cold transformation (Yang collapse); a learner who reverses the two transformations would choose this.",
+      "C": "Diarrhea with undigested food reflects Kidney Yang failing to warm the Spleen and belongs to the Cold transformation.",
+      "D": "Clear, copious urine shows Kidney Yang failing to transform fluids and belongs to the Cold transformation."
+    },
+    "learningObjective": "Differentiate Shao Yin Heat transformation from Shao Yin Cold transformation.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": false,
+    "concepts": ["shao-yin-heat-transformation", "shao-yin-cold-transformation", "six-stages"],
+    "distinction": { "between": ["shao-yin-heat-transformation", "shao-yin-cold-transformation"], "key": "Restlessness, insomnia and a red tongue tip mark Heat transformation; drowsiness, cold limbs and a minute pulse mark Cold transformation." },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to the Six Stages, Shao Yin stage" },
+      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Shaoyin syndrome, heat transformation" }
+    ]
+  },
+  {
+    "id": "FOM-IIg-0010",
+    "domain": "II",
+    "subdomain": "II-g",
+    "task": "II-1-g",
+    "theory": "Six Stages",
+    "stem": "A 52-year-old woman, ill for over a week, reports persistent thirst with a sensation of Qi surging upward to the chest, a burning pain in the chest and epigastrium, and hunger without any desire to eat; when she does eat she vomits. At the same time her hands and feet are cold and her stools are loose. The tongue is red at the front with a white coating at the root. The pulse is wiry. Which of the following is the most appropriate Six Stages diagnosis?",
+    "options": { "A": "Shao Yang pattern", "B": "Tai Yin pattern", "C": "Jue Yin pattern", "D": "Shao Yin Cold transformation" },
+    "correct": "C",
+    "explanation": "Jue Yin is the stage of upper Heat with lower Cold, in which Yin and Yang are at their extremes and fail to communicate. Persistent thirst, Qi surging up to the chest, burning chest pain and hunger without desire to eat reflect Heat above (Liver and Pericardium); cold limbs and loose stools reflect Cold below; vomiting after eating reflects the failure of upper and lower to harmonize. The tongue red at the front with a white coating at the root mirrors the same split.",
+    "distractorExplanations": {
+      "A": "Shao Yang has alternating chills and fever with bitter taste and hypochondrial fullness, but it is a uniform half-exterior pattern without the combination of burning chest Heat and cold limbs with diarrhea.",
+      "B": "Tai Yin is pure Spleen Cold with no thirst and no Heat signs. A learner who weights the loose stools and cold limbs alone would choose this and miss the Heat above.",
+      "D": "Shao Yin Cold transformation is total Yang collapse with drowsiness, aversion to cold and a minute pulse; persistent thirst and burning chest pain contradict it."
+    },
+    "learningObjective": "Identify the Jue Yin stage from the combination of upper Heat and lower Cold.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["jue-yin-stage", "upper-heat-lower-cold", "shao-yang-stage", "six-stages"],
+    "distinction": { "between": ["jue-yin-stage", "shao-yang-stage"], "key": "Jue Yin shows simultaneous Heat above (thirst, burning chest) and Cold below (cold limbs, diarrhea); Shao Yang shows alternation of chills and fever." },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to the Six Stages, Jue Yin stage" },
+      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Jueyin syndrome" }
+    ]
+  },
+  {
+    "id": "FOM-IIg-0011",
+    "domain": "II",
+    "subdomain": "II-g",
+    "task": "II-1-g",
+    "theory": "Six Stages",
+    "stem": "A 30-year-old man presented two days ago with fever, pronounced aversion to cold, body aches, no sweating and a floating tight pulse. He was treated with strong sweating methods and sweated profusely. Today he has no fever, feels extremely cold, is drowsy and lies curled up, his limbs are cold, and his pulse is deep and faint. Which Six Stages pattern best describes his current condition?",
+    "options": { "A": "Tai Yang Cold-damage", "B": "Tai Yin pattern", "C": "Yang Ming channel pattern", "D": "Shao Yin Cold transformation" },
+    "correct": "D",
+    "explanation": "The initial picture was Tai Yang Cold-damage. Excessive sweating damaged the Yang and the pathogen passed directly to Shao Yin, the interior-exterior partner of Tai Yang, producing Heart and Kidney Yang collapse: extreme aversion to cold, drowsiness, curled posture, cold limbs and a deep faint pulse. This is a transmission caused by incorrect treatment rather than by orderly progression through the stages.",
+    "distractorExplanations": {
+      "A": "Tai Yang Cold-damage requires fever with aversion to cold, body aches and a floating tight pulse. The fever has gone and the pulse is now deep and faint, so the exterior stage has ended.",
+      "B": "Tai Yin presents with abdominal fullness, vomiting and diarrhea from Spleen Cold-Damp, with a deep weak pulse. Drowsiness, cold limbs and a faint pulse indicate deeper Yang collapse than Tai Yin.",
+      "C": "Yang Ming channel Heat would follow if the exterior Cold transformed into interior Heat: high fever, profuse sweating, thirst and an overflowing pulse. A learner who assumes transmission must always proceed Tai Yang to Yang Ming would choose this despite the Cold findings."
+    },
+    "learningObjective": "Recognize direct transmission from Tai Yang to Shao Yin after excessive sweating.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "evaluation",
+    "vignette": true,
+    "concepts": ["six-stages-transmission", "shao-yin-cold-transformation", "tai-yang-cold-damage", "incorrect-treatment"],
+    "distinction": { "between": ["shao-yin-cold-transformation", "tai-yang-cold-damage"], "key": "Loss of fever with extreme cold, drowsiness and a deep faint pulse after over-sweating shows Yang collapse in Shao Yin, not persisting Tai Yang." },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to the Six Stages, transmission between stages" },
+      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Transmission and transformation of the six-meridian syndromes" }
+    ]
+  },
+  {
+    "id": "FOM-IIh-0001",
+    "domain": "II",
+    "subdomain": "II-h",
+    "task": "II-1-h",
+    "theory": "Four Levels",
+    "stem": "A patient with an acute febrile illness has fever, slight aversion to cold, mild thirst, headache, a red tongue tip and a floating rapid pulse. In Four Levels identification, these findings indicate that the pathogenic Heat is at which level?",
+    "options": { "A": "Wei level", "B": "Qi level", "C": "Ying level", "D": "Xue level" },
+    "correct": "A",
+    "explanation": "The Wei (Defensive Qi) level is the most superficial. Pathogenic Heat obstructs Wei Qi on the surface, so fever is accompanied by slight aversion to cold, the pulse is floating as well as rapid, thirst is only mild, and the tongue shows Heat only at the tip and sides. Once the pathogen enters the Qi level, aversion to cold disappears and is replaced by aversion to heat.",
+    "distractorExplanations": {
+      "B": "At the Qi level there is high fever with aversion to heat, marked thirst and sweating, a yellow coating and a deep or overflowing rapid pulse; the floating pulse and residual aversion to cold show the pathogen is still on the surface.",
+      "C": "The Ying level produces fever worse at night, mental restlessness, a deep red tongue without coating and a thin rapid pulse; none of these are present.",
+      "D": "The Xue level adds bleeding, macules or convulsions to Ying-level signs. There is no sign of Blood involvement."
+    },
+    "learningObjective": "Identify the Wei level from fever with slight aversion to cold and a floating rapid pulse.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": false,
+    "concepts": ["wei-level", "four-levels", "floating-rapid-pulse"],
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to the Four Levels, Wei level" },
+      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to wei, qi, ying and xue" }
+    ]
+  },
+  {
+    "id": "FOM-IIh-0002",
+    "domain": "II",
+    "subdomain": "II-h",
+    "task": "II-1-h",
+    "theory": "Four Levels",
+    "stem": "In late summer, a 33-year-old woman develops a low fever with slight aversion to cold that is worse in the afternoon, a heavy sensation of the head as if it were wrapped, heaviness of the limbs, a stuffy chest, nausea and little thirst. The tongue has a white sticky coating. The pulse is soggy and slightly rapid. Which Wei-level pattern is most appropriate?",
+    "options": { "A": "Wind-Heat at the Wei level", "B": "Summer-Heat at the Wei level", "C": "Damp-Heat at the Wei level", "D": "Dry-Heat at the Wei level" },
+    "correct": "C",
+    "explanation": "Fever with slight aversion to cold and a superficial pulse places the pathogen at the Wei level; the quality of the accompanying signs identifies the factor. Heaviness of the head and limbs, a stuffy chest, nausea, absence of thirst, a sticky white coating and a soggy pulse are all Dampness signs, and the afternoon worsening of a low fever is typical of Damp-Heat. Late summer is the season of Dampness.",
+    "distractorExplanations": {
+      "A": "Wind-Heat at the Wei level produces sore throat, headache, slight thirst, a red tongue tip and a floating rapid pulse without heaviness, sticky coating or soggy pulse.",
+      "B": "Summer-Heat at the Wei level has a higher fever with sweating, pronounced thirst and irritability, and injures Qi and fluids quickly; the sticky coating, heaviness and lack of thirst show Dampness predominates. A learner who keys on the season alone would choose this.",
+      "D": "Dry-Heat at the Wei level is an autumn pattern with dry cough, dry nose and throat and a thin dry coating, the opposite of the sticky coating and heaviness seen here."
+    },
+    "learningObjective": "Differentiate the Damp-Heat variant of the Wei level from the Wind-Heat, Summer-Heat and Dry-Heat variants.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["wei-level", "damp-heat", "soggy-pulse", "sticky-white-coating"],
+    "distinction": { "between": ["wei-level-damp-heat", "wei-level-summer-heat"], "key": "Heaviness, a sticky coating, a soggy pulse and little thirst mark Damp-Heat; high fever with sweating, strong thirst and Qi injury mark Summer-Heat." },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to the Four Levels, Wei level, Damp-Heat" }
+    ]
+  },
+  {
+    "id": "FOM-IIh-0003",
+    "domain": "II",
+    "subdomain": "II-h",
+    "task": "II-1-h",
+    "theory": "Four Levels",
+    "stem": "A 45-year-old man had fever and slight chills four days ago. Now the fever is high with aversion to heat and sweating, and he has a cough producing thick yellow sputum, chest pain, breathlessness and thirst. The tongue is red with a yellow coating. The pulse is rapid and slippery. Which Four Levels pattern is most appropriate?",
+    "options": { "A": "Wind-Heat at the Wei level", "B": "Heat in the Lung at the Qi level", "C": "Heat in the Stomach at the Qi level", "D": "Heat in the Pericardium at the Ying level" },
+    "correct": "B",
+    "explanation": "The change from slight chills to aversion to heat with high fever, sweating, thirst and a yellow coating shows the pathogen has moved from the Wei to the Qi level. The organ localization is given by the respiratory findings: cough with thick yellow sputum, chest pain and breathlessness identify Heat in the Lung, and the slippery rapid pulse reflects Phlegm-Heat generated by Heat condensing Lung fluids.",
+    "distractorExplanations": {
+      "A": "At the Wei level there is still slight aversion to cold with a floating pulse and only mild thirst. The patient now has aversion to heat and marked thirst, so the Wei stage has passed; a learner anchored on the cough as a 'Lung exterior' sign would choose this.",
+      "C": "Heat in the Stomach at the Qi level produces the four bigs (high fever, profuse sweating, great thirst, overflowing pulse) without cough, sputum or chest pain.",
+      "D": "Heat in the Pericardium at the Ying level is marked by delirium or impaired consciousness, a deep red tongue without coating and a thin rapid pulse. This patient is lucid with a coated tongue."
+    },
+    "learningObjective": "Identify Qi-level Heat in the Lung and differentiate it from Wei-level Wind-Heat.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["qi-level", "heat-in-lung", "wei-level", "slippery-rapid-pulse"],
+    "distinction": { "between": ["qi-level-heat-in-lung", "wei-level-wind-heat"], "key": "Aversion to heat, marked thirst, yellow coating and thick yellow sputum show Qi-level Lung Heat; slight aversion to cold with a floating pulse would mean the Wei level." },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to the Four Levels, Qi level, Heat in the Lungs" },
+      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Qi-level syndromes" }
+    ]
+  },
+  {
+    "id": "FOM-IIh-0004",
+    "domain": "II",
+    "subdomain": "II-h",
+    "task": "II-1-h",
+    "theory": "Four Levels",
+    "stem": "A 39-year-old woman in the second week of a febrile illness has fever that fluctuates during the day, a bitter taste, dry throat, pain and fullness of the hypochondrium, nausea and thirst. The tongue is red with a yellow coating. The pulse is wiry and rapid. Which Four Levels pattern is most appropriate?",
+    "options": { "A": "Heat in the Lung at the Qi level", "B": "Heat in the Gallbladder at the Qi level", "C": "Heat in the Intestines at the Qi level", "D": "Heat in the Ying level" },
+    "correct": "B",
+    "explanation": "Fever with thirst, a red tongue with a yellow coating and a rapid pulse place the Heat at the Qi level. The wiry pulse, bitter taste, dry throat and hypochondrial pain and fullness localize it to the Gallbladder. This Qi-level pattern resembles the Shao Yang stage of the Six Stages, but the pronounced Heat signs (thirst, red tongue with yellow coating, rapid pulse) show a warm disease rather than a Cold-induced one.",
+    "distractorExplanations": {
+      "A": "Heat in the Lung at the Qi level would show cough with yellow sputum, chest pain and breathlessness, with a slippery rapid pulse; there are no respiratory findings here.",
+      "C": "Heat in the Intestines at the Qi level is marked by constipation, abdominal fullness and pain, tidal fever and a deep full pulse. The hypochondrial, bitter-taste picture with a wiry pulse points to the Gallbladder.",
+      "D": "The Ying level has night fever, mental restlessness, a deep red tongue without coating and a thin pulse. A coated tongue and a wiry pulse exclude it."
+    },
+    "learningObjective": "Identify Qi-level Heat in the Gallbladder from bitter taste, hypochondrial fullness and a wiry rapid pulse.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["qi-level", "heat-in-gallbladder", "wiry-rapid-pulse", "four-levels"],
+    "distinction": { "between": ["qi-level-heat-in-gallbladder", "qi-level-heat-in-intestines"], "key": "Hypochondrial fullness, bitter taste and a wiry pulse point to the Gallbladder; constipation with abdominal fullness and a deep full pulse point to the Intestines." },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to the Four Levels, Qi level, Heat in the Gall-Bladder" }
+    ]
+  },
+  {
+    "id": "FOM-IIh-0005",
+    "domain": "II",
+    "subdomain": "II-h",
+    "task": "II-1-h",
+    "theory": "Four Levels",
+    "stem": "The Qi-level pattern of Heat in the Stomach, characterized by high fever, profuse sweating, intense thirst and an overflowing pulse, corresponds most closely to which Six Stages pattern?",
+    "options": { "A": "Tai Yang Cold-damage", "B": "Shao Yang pattern", "C": "Yang Ming organ pattern", "D": "Yang Ming channel pattern" },
+    "correct": "D",
+    "explanation": "The Four Levels and Six Stages overlap at the stage of interior Heat. Qi-level Heat in the Stomach and the Yang Ming channel pattern describe the same clinical picture: the four bigs (big fever, big sweating, big thirst, big pulse) with aversion to heat and a yellow coating. The two systems differ in origin (Heat invading in warm diseases versus Cold transforming into Heat in Cold-damage) but not in presentation at this point.",
+    "distractorExplanations": {
+      "A": "Tai Yang Cold-damage is an exterior Cold pattern with aversion to cold, no sweating and a floating tight pulse; it corresponds to nothing at the Qi level.",
+      "B": "Shao Yang has alternating chills and fever with a wiry pulse; its closest Four Levels counterpart is Qi-level Heat in the Gallbladder, not Heat in the Stomach.",
+      "C": "The Yang Ming organ pattern corresponds to Qi-level Heat in the Intestines (dry stool, abdominal fullness, deep full pulse), not to the sweating, thirsting four-bigs picture. A learner who treats Yang Ming as a single undivided stage would choose this."
+    },
+    "learningObjective": "Relate Qi-level Heat in the Stomach to the Yang Ming channel pattern of the Six Stages.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": ["qi-level", "yang-ming-channel-pattern", "four-levels", "six-stages"],
+    "distinction": { "between": ["yang-ming-channel-pattern", "yang-ming-organ-pattern"], "key": "The channel pattern (four bigs) matches Qi-level Stomach Heat; the organ pattern (bound stool) matches Qi-level Intestinal Heat." },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to the Four Levels, relationship with the Six Stages" }
+    ]
+  },
+  {
+    "id": "FOM-IIh-0006",
+    "domain": "II",
+    "subdomain": "II-h",
+    "task": "II-1-h",
+    "theory": "Four Levels",
+    "stem": "A 60-year-old man in the seventh day of a febrile disease has fever that is worse at night, mental restlessness and insomnia, occasional incoherent speech, faint reddish rashes on the chest and abdomen, and a dry mouth without much desire to drink. The tongue is deep red (crimson) without coating. The pulse is thin and rapid. Which level is most appropriate?",
+    "options": { "A": "Heat in the Stomach at the Qi level", "B": "Heat in the Ying level", "C": "Heat moving Blood at the Xue level", "D": "Wind-Heat at the Wei level" },
+    "correct": "B",
+    "explanation": "At the Ying (Nutritive Qi) level, Heat has penetrated deeper than the Qi level and begun to injure Yin and harass the Heart. Fever worse at night, mental restlessness, insomnia and incoherent speech reflect Heat disturbing the Spirit; faint, indistinct rashes show Heat beginning to press on the Blood but not yet forcing it out of the vessels; a dry mouth with little desire to drink is typical, because the Heat has steamed Yin fluids upward; the deep red tongue without coating and the thin rapid pulse confirm the Ying level.",
+    "distractorExplanations": {
+      "A": "Qi-level Stomach Heat has high continuous fever, profuse sweating, great thirst for cold drinks, a yellow coating and an overflowing pulse. The lack of thirst, the uncoated deep red tongue and the thin pulse place this deeper than the Qi level.",
+      "C": "The Xue level is distinguished by frank bleeding or dark purple macules, often with convulsions. Faint rashes without bleeding have not yet reached the Blood; a learner who treats any rash as Xue level would choose this.",
+      "D": "Wind-Heat at the Wei level has slight aversion to cold, a floating pulse and a tongue red only at the tip, none of which fits a seventh-day deep red tongue with night fever."
+    },
+    "learningObjective": "Identify the Ying level and differentiate it from the Qi and Xue levels.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["ying-level", "xue-level", "deep-red-tongue-no-coating", "thin-rapid-pulse"],
+    "distinction": { "between": ["ying-level", "xue-level"], "key": "Faint rashes with night fever and a deep red uncoated tongue are Ying level; overt bleeding or dark macules indicate the Xue level." },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to the Four Levels, Ying level" },
+      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Ying-level syndromes" }
+    ]
+  },
+  {
+    "id": "FOM-IIh-0007",
+    "domain": "II",
+    "subdomain": "II-h",
+    "task": "II-1-h",
+    "theory": "Four Levels",
+    "stem": "A 70-year-old woman with a high fever of several days has become delirious. She now drifts in and out of consciousness and answers incoherently, and her hands and feet feel cold although her trunk is burning hot. The tongue is deep red and dry with no coating. The pulse is thin and rapid. Which Four Levels pattern best explains these findings?",
+    "options": { "A": "Heat in the Pericardium at the Ying level", "B": "Liver Wind stirring at the Xue level", "C": "Collapse of Yin at the Xue level", "D": "Heat in the chest and diaphragm at the Qi level" },
+    "correct": "A",
+    "explanation": "Heat has entered the Pericardium at the Ying level and clouded the Mind: delirium, impaired consciousness and incoherent speech are its defining features, with the deep red uncoated tongue and thin rapid pulse of the Ying level. The cold hands and feet are not a Cold sign; they are Heat reversal (Re Jue), in which intense Heat trapped in the interior blocks Yang Qi from reaching the extremities. The burning trunk confirms this.",
+    "distractorExplanations": {
+      "B": "Liver Wind at the Xue level produces convulsions, neck rigidity, tremor and upward-rolling eyes. Impaired consciousness without any Wind signs points to the Pericardium instead.",
+      "C": "Collapse of Yin presents late in the disease with low-grade fever, five-palm heat and a weak pulse. High fever with a burning trunk and delirium is an excess Heat picture, not Yin exhaustion.",
+      "D": "Heat in the chest and diaphragm at the Qi level causes restlessness and a sensation of heat in the chest, but the patient remains lucid with a yellow-coated tongue. A learner who interprets the cold limbs as a Cold pattern or mild condition would stay at a shallower level."
+    },
+    "learningObjective": "Identify Ying-level Heat in the Pericardium and interpret cold extremities as Heat reversal.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["ying-level", "heat-in-pericardium", "heat-reversal", "four-levels"],
+    "distinction": { "between": ["ying-level-heat-in-pericardium", "xue-level-liver-wind"], "key": "Clouded consciousness without convulsions or tremor indicates Pericardium Heat at the Ying level; convulsions indicate Wind at the Xue level." },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to the Four Levels, Ying level, Heat in the Pericardium" },
+      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Ying-level syndromes" }
+    ]
+  },
+  {
+    "id": "FOM-IIh-0008",
+    "domain": "II",
+    "subdomain": "II-h",
+    "task": "II-1-h",
+    "theory": "Four Levels",
+    "stem": "A 28-year-old man in the second week of a severe febrile illness develops nosebleeds and blood in the stool, dark purple macules over the trunk, high fever with agitation and periods of manic behavior, and scanty dark urine. The tongue is deep red with purple spots. The pulse is rapid and wiry. Which level is most appropriate?",
+    "options": { "A": "Heat in the Ying level", "B": "Heat in the Intestines at the Qi level", "C": "Damp-Heat at the Wei level", "D": "Heat moving Blood at the Xue level" },
+    "correct": "D",
+    "explanation": "At the Xue (Blood) level, Heat has entered the Blood and forces it out of the vessels. Nosebleeds, blood in the stool and dark purple macules are the defining signs of Heat moving Blood; the agitation and mania reflect Heat in the Blood harassing the Heart; the deep red tongue with purple spots shows Blood Heat with stasis, and scanty dark urine reflects the consumption of fluids by Heat.",
+    "distractorExplanations": {
+      "A": "At the Ying level rashes are faint and indistinct and there is no frank bleeding. Overt bleeding and dark macules show the pathogen has moved one level deeper; a learner who does not separate Ying from Xue would choose this.",
+      "B": "Qi-level Heat in the Intestines is marked by constipation, abdominal fullness and a deep full pulse with a yellow coating; bleeding and macules are absent.",
+      "C": "Wei-level Damp-Heat is a superficial pattern with low fever, heaviness and a sticky coating. It has none of the deep Heat signs present here."
+    },
+    "learningObjective": "Identify the Xue level from bleeding and macules and differentiate it from the Ying level.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["xue-level", "heat-moving-blood", "ying-level", "macules"],
+    "distinction": { "between": ["xue-level", "ying-level"], "key": "Frank bleeding and dark purple macules mark the Xue level; faint rashes without bleeding mark the Ying level." },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to the Four Levels, Blood level, Heat victorious moving Blood" },
+      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Xue-level syndromes" }
+    ]
+  },
+  {
+    "id": "FOM-IIh-0009",
+    "domain": "II",
+    "subdomain": "II-h",
+    "task": "II-1-h",
+    "theory": "Four Levels",
+    "stem": "A 55-year-old woman with a febrile disease at the Ying level (night fever, mental restlessness, a deep red tongue without coating, and a thin rapid pulse) deteriorates over 24 hours. She develops stiffness of the neck and twitching of the limbs that progresses to convulsions, and her eyes roll upward. The fever remains high. Which pattern now best describes the disease?",
+    "options": { "A": "Heat in the Pericardium at the Ying level", "B": "Heat in the Lung at the Qi level", "C": "Liver Wind stirring at the Xue level", "D": "Collapse of Yin at the Xue level" },
+    "correct": "C",
+    "explanation": "The appearance of neck stiffness, twitching, convulsions and upward-rolling eyes on top of Ying-level findings shows that intense Heat has entered the Blood and stirred Liver Wind: extreme Heat generates Wind. This belongs to the Xue level in the Four Levels scheme. The persisting high fever marks it as Wind from excess Heat, in contrast to the Empty Wind of late-stage Yin exhaustion.",
+    "distractorExplanations": {
+      "A": "Heat in the Pericardium clouds the Mind (delirium, coma) but does not by itself produce convulsions, neck rigidity or upward-rolling eyes; the new findings are Wind signs. A learner who treats any neurological change as Pericardium involvement would choose this.",
+      "B": "Qi-level Heat in the Lung is a shallower pattern with cough and yellow sputum; the disease has moved deeper, not back toward the Qi level.",
+      "D": "Collapse of Yin is a deficiency picture at the end of a warm disease with low-grade fever, a weak pulse and at most a fine tremor; continuing high fever with violent convulsions is Heat stirring Wind, an excess pattern."
+    },
+    "learningObjective": "Recognize progression from the Ying level to Xue-level Liver Wind when convulsions appear.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "evaluation",
+    "vignette": true,
+    "concepts": ["xue-level", "heat-stirring-wind", "ying-level", "disease-progression"],
+    "distinction": { "between": ["xue-level-liver-wind", "ying-level-heat-in-pericardium"], "key": "Convulsions, neck rigidity and upward-rolling eyes indicate Wind at the Xue level; clouded consciousness alone indicates Pericardium Heat at the Ying level." },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to the Four Levels, Blood level, Heat victorious stirring Wind" }
+    ]
+  },
+  {
+    "id": "FOM-IIh-0010",
+    "domain": "II",
+    "subdomain": "II-h",
+    "task": "II-1-h",
+    "theory": "Four Levels",
+    "stem": "Which finding best indicates that pathogenic Heat has progressed from the Ying level to the Xue level?",
+    "options": {
+      "A": "bleeding with dark purple macules",
+      "B": "faint, indistinct skin rashes",
+      "C": "night fever with restlessness",
+      "D": "a deep red tongue without coating"
+    },
+    "correct": "A",
+    "explanation": "Ying-level Heat presses on the Blood without yet forcing it out of the vessels; Xue-level Heat enters the Blood itself and drives it outward, so frank bleeding (nosebleed, blood in urine or stool, vomiting of blood) and dark purple macules are the signs that mark the transition. The other findings are already present at the Ying level and therefore cannot mark the step deeper.",
+    "distractorExplanations": {
+      "B": "Faint, indistinct rashes are a Ying-level sign showing Heat beginning to affect the Blood; they become dense and purple only at the Xue level.",
+      "C": "Night fever with mental restlessness is the characteristic Ying-level presentation and continues into the Xue level, so it does not discriminate.",
+      "D": "A deep red tongue without coating first appears at the Ying level; at the Xue level the tongue is typically deep red or purple, so the uncoated deep red body alone is not the sign of progression."
+    },
+    "learningObjective": "Identify bleeding and macules as the findings that distinguish the Xue level from the Ying level.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": false,
+    "concepts": ["ying-level", "xue-level", "heat-moving-blood", "four-levels"],
+    "distinction": { "between": ["xue-level", "ying-level"], "key": "Frank bleeding and dark purple macules are present only at the Xue level." },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to the Four Levels, Ying and Blood levels" },
+      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to wei, qi, ying and xue" }
+    ]
+  },
+  {
+    "id": "FOM-IIh-0011",
+    "domain": "II",
+    "subdomain": "II-h",
+    "task": "II-1-h",
+    "theory": "Four Levels",
+    "stem": "A 66-year-old man has been ill with a warm febrile disease for three weeks. He now has a low-grade fever that persists through the afternoon and evening, heat in the palms and soles, a dry mouth and throat, marked weight loss and listlessness. The tongue is deep red, dry and without coating. The pulse is thin, rapid and weak. Which pattern is most appropriate?",
+    "options": { "A": "Heat in the Ying level", "B": "Heat moving Blood at the Xue level", "C": "Collapse of Yin at the Xue level", "D": "Heat in the Intestines at the Qi level" },
+    "correct": "C",
+    "explanation": "After three weeks of Heat the Yin of the Kidney and Liver has been consumed, leaving Empty Heat: a low-grade afternoon and evening fever, five-palm heat, dry mouth and throat, emaciation and a dry, deep red, uncoated tongue. The weak quality of the thin rapid pulse is the decisive finding that this is deficiency rather than the full Heat of the Ying level. Collapse of Yin is classified under the Xue level as the late, deficient end of a warm disease.",
+    "distractorExplanations": {
+      "A": "The Ying level is excess Heat with high fever worse at night, mental restlessness and faint rashes; the pulse is thin and rapid but forceful. Here the fever is low-grade and the pulse weak, showing the Heat is now empty. A learner who equates every deep red uncoated tongue with the Ying level would choose this.",
+      "B": "Heat moving Blood produces bleeding and macules with high fever; there is no bleeding, and the overall picture is one of exhaustion.",
+      "D": "Qi-level Heat in the Intestines has constipation, abdominal fullness, a dry yellow coating and a deep full pulse. The uncoated tongue and weak pulse rule it out."
+    },
+    "learningObjective": "Differentiate Collapse of Yin at the end of a warm disease from excess Heat at the Ying level.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["xue-level", "collapse-of-yin", "ying-level", "empty-heat"],
+    "distinction": { "between": ["xue-level-collapse-of-yin", "ying-level"], "key": "Low-grade fever, five-palm heat, emaciation and a weak pulse mark Yin collapse; high night fever with restlessness and a forceful thin rapid pulse mark the Ying level." },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to the Four Levels, Blood level, Collapse of Yin" }
+    ]
+  },
+  {
+    "id": "FOM-IIj-0001",
+    "domain": "II",
+    "subdomain": "II-j",
+    "task": "II-1-j",
+    "theory": "Internal etiology",
+    "stem": "According to the classical theory of the seven emotions, which effect on the movement of Qi is attributed to fear (Kong)?",
+    "options": { "A": "Qi rises", "B": "Qi knots", "C": "Qi descends", "D": "Qi scatters" },
+    "correct": "C",
+    "explanation": "Fear causes Qi to descend. It affects the Kidney, and the downward movement of Qi explains the classical presentations of fear: loss of urinary control, bed-wetting in children, and diarrhea at moments of intense fear, together with weakness of the lower back and knees when fear is prolonged.",
+    "distractorExplanations": {
+      "A": "Qi rising is the effect of anger, which affects the Liver and sends Qi and Yang upward to the head.",
+      "B": "Qi knotting (stagnating) is the effect of worry and pensiveness, which affect the Spleen and Lung.",
+      "D": "Qi scattering is the effect of sudden fright or shock, which affects the Heart and, in the longer term, the Kidney. A learner who conflates fear with fright would choose this."
+    },
+    "learningObjective": "Identify the effect of fear on the movement of Qi.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": ["seven-emotions", "fear", "qi-descends", "kidney"],
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "The causes of disease, internal causes, fear" },
+      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Etiology, the seven emotional factors" }
+    ]
+  },
+  {
+    "id": "FOM-IIj-0002",
+    "domain": "II",
+    "subdomain": "II-j",
+    "task": "II-1-j",
+    "theory": "Internal etiology",
+    "stem": "Excessive pensiveness and prolonged mental overwork (Si) most directly injure which organ?",
+    "options": { "A": "Liver", "B": "Spleen", "C": "Lung", "D": "Kidney" },
+    "correct": "B",
+    "explanation": "Pensiveness (overthinking, excessive mental work, worry about a problem) is the emotion of the Earth element and injures the Spleen. It knots Qi, so the Spleen fails to transform and transport: poor appetite, abdominal distension after eating, fatigue and loose stools follow, and in the longer term the Spleen fails to generate Blood, which in turn affects the Heart.",
+    "distractorExplanations": {
+      "A": "The Liver is injured by anger and frustration, which cause Qi to rise or stagnate.",
+      "C": "The Lung is injured by sadness and grief, which dissolve Qi; worry also affects the Lung, but pensiveness proper is assigned to the Spleen.",
+      "D": "The Kidney is injured by fear and by prolonged fright, which cause Qi to descend. A learner who reasons from 'mental work' to 'Essence and the brain' would choose this."
+    },
+    "learningObjective": "Identify the Spleen as the organ injured by pensiveness.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": ["seven-emotions", "pensiveness", "spleen", "qi-knots"],
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "The causes of disease, internal causes, pensiveness" },
+      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Etiology, the seven emotional factors" }
+    ]
+  },
+  {
+    "id": "FOM-IIj-0003",
+    "domain": "II",
+    "subdomain": "II-j",
+    "task": "II-1-j",
+    "theory": "Internal etiology",
+    "stem": "A 52-year-old man developed a throbbing headache at the vertex and temples within an hour of a heated argument with a colleague. His face is red, he is dizzy with ringing in the ears, and he describes a surge of heat to the head. The tongue is red on the sides. The pulse is wiry and forceful. Which description of the pathomechanism is most appropriate?",
+    "options": {
+      "A": "anger causes Liver Qi to rise, carrying Yang upward to the head",
+      "B": "sadness dissolves Lung Qi, leaving the head unnourished",
+      "C": "pensiveness knots Spleen Qi, generating Phlegm that clouds the head",
+      "D": "fear causes Kidney Qi to descend, depriving the head of Essence"
+    },
+    "correct": "A",
+    "explanation": "Anger makes Qi rise. It affects the Liver, and the sudden upward surge of Liver Qi and Yang produces a throbbing headache along the Liver channel distribution (vertex and temples), red face, dizziness, tinnitus and a sensation of heat rushing to the head. The red tongue sides (the Liver area) and the wiry forceful pulse confirm the Liver mechanism and the acute onset after the argument confirms the emotional trigger.",
+    "distractorExplanations": {
+      "B": "Sadness dissolving Lung Qi gives weak voice, shortness of breath, fatigue and a weak pulse, a deficiency picture that does not produce a red face or a forceful wiry pulse.",
+      "C": "Pensiveness knotting Spleen Qi leads to poor appetite, distension and loose stools; Phlegm-related headache would be dull and heavy with a slippery pulse and a greasy coating, not throbbing with a wiry pulse.",
+      "D": "Fear causing Kidney Qi to descend produces urinary symptoms and weak knees. Deficiency of Essence would give a chronic empty headache with a weak pulse, not an acute full headache after an argument. A learner who assumes any headache with dizziness and tinnitus is Kidney-based would choose this."
+    },
+    "learningObjective": "Trace an acute headache after anger to Liver Qi rising.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": ["seven-emotions", "anger", "qi-rises", "liver-yang-rising"],
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "The causes of disease, internal causes, anger" }
+    ]
+  },
+  {
+    "id": "FOM-IIj-0004",
+    "domain": "II",
+    "subdomain": "II-j",
+    "task": "II-1-j",
+    "theory": "Internal etiology",
+    "stem": "A 34-year-old woman reports that since her home was burgled while she was alone four months ago, she has woken at night to find she has wet the bed, and she has frequent, urgent urination during the day. She also has weak knees and a sore lower back. The tongue is pale. The pulse is deep and weak, particularly at the Chi (rear) positions. Which pathomechanism best explains these findings?",
+    "options": {
+      "A": "fright scatters Heart Qi, disturbing the Spirit",
+      "B": "worry knots Spleen Qi, impairing the transformation of fluids",
+      "C": "anger causes Liver Qi to rise and stagnate",
+      "D": "fear causes Kidney Qi to descend and weakens Bladder control"
+    },
+    "correct": "D",
+    "explanation": "Fear causes Qi to descend and injures the Kidney. Persisting fear after the burglary has weakened Kidney Qi, so the Bladder loses its ability to hold urine: nocturnal enuresis and urgent, frequent urination result. Soreness of the lower back and weak knees, a pale tongue and a deep weak pulse at the Chi positions (the Kidney positions) all point to Kidney deficiency produced by the descending movement of Qi.",
+    "distractorExplanations": {
+      "A": "Fright scattering Heart Qi would produce palpitations, insomnia, being easily startled and a moving or irregular pulse; this patient's symptoms are urinary and lumbar, pointing to the Kidney.",
+      "B": "Worry knotting Spleen Qi impairs digestion and may cause edema, but it does not produce loss of urinary control with lumbar weakness and a deep weak Chi pulse.",
+      "C": "Anger causing Liver Qi to rise or stagnate produces headache, irritability and hypochondrial distension with a wiry pulse; it does not fit the deficiency picture here. A learner who reads the burglary as a trigger for anger rather than fear would choose this."
+    },
+    "learningObjective": "Trace urinary incontinence after a frightening event to fear causing Kidney Qi to descend.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": ["seven-emotions", "fear", "qi-descends", "kidney-qi-deficiency"],
+    "distinction": { "between": ["fear", "fright"], "key": "Fear is sustained, affects the Kidney and sends Qi downward (urinary loss); fright is sudden, affects the Heart and scatters Qi (palpitations, startling)." },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "The causes of disease, internal causes, fear" }
+    ]
+  },
+  {
+    "id": "FOM-IIj-0005",
+    "domain": "II",
+    "subdomain": "II-j",
+    "task": "II-1-j",
+    "theory": "Internal etiology",
+    "stem": "A 61-year-old woman has felt exhausted since her husband died eight months ago. She cries easily, speaks in a weak voice, is short of breath on exertion, sweats spontaneously during the day and has caught four colds this winter. The tongue is pale. The pulse is weak, especially at the right Cun (front) position. Which pathomechanism is most consistent with these findings?",
+    "options": {
+      "A": "fear causing Kidney Qi to descend",
+      "B": "sadness and grief dissolving Lung Qi",
+      "C": "pensiveness knotting Spleen Qi",
+      "D": "fright scattering Heart Qi"
+    },
+    "correct": "B",
+    "explanation": "Sadness and grief dissolve (deplete) Qi and injure the Lung. Prolonged grief has weakened Lung Qi, producing the weak voice, breathlessness on exertion and fatigue; Lung Qi fails to control the pores and defend the surface, so there is spontaneous sweating and repeated colds. The weak pulse at the right Cun position, the Lung position, and the pale tongue confirm Lung Qi deficiency, and crying is the sound of the Lung.",
+    "distractorExplanations": {
+      "A": "Fear causing Kidney Qi to descend produces urinary symptoms, weak knees and a weak pulse at the Chi positions, not breathlessness, weak voice and frequent colds.",
+      "C": "Pensiveness knotting Spleen Qi gives digestive symptoms (poor appetite, distension, loose stools). Spleen deficiency can contribute to fatigue, but the voice, breathing, sweating and Cun pulse point to the Lung. A learner who attributes all fatigue to the Spleen would choose this.",
+      "D": "Fright scattering Heart Qi causes palpitations, being easily startled and insomnia with a moving or irregular pulse, which are absent."
+    },
+    "learningObjective": "Trace Lung Qi deficiency to prolonged grief dissolving Qi.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["seven-emotions", "sadness", "qi-dissolves", "lung-qi-deficiency"],
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "The causes of disease, internal causes, sadness" },
+      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Etiology, the seven emotional factors" }
+    ]
+  },
+  {
+    "id": "FOM-IIj-0006",
+    "domain": "II",
+    "subdomain": "II-j",
+    "task": "II-1-j",
+    "theory": "Internal etiology",
+    "stem": "A 24-year-old graduate student spends long hours studying and worrying about examinations. Over the past three months she has lost her appetite, feels distended after eating even small amounts, is tired after meals and passes loose stools. The tongue is pale with teeth marks. The pulse is weak. Which pathomechanism best explains these symptoms?",
+    "options": {
+      "A": "anger causing Liver Qi to invade the Stomach",
+      "B": "joy slowing Heart Qi and weakening digestion",
+      "C": "sadness dissolving Lung Qi and the Spleen with it",
+      "D": "pensiveness knotting Qi and injuring the Spleen"
+    },
+    "correct": "D",
+    "explanation": "Pensiveness, including prolonged study and worrying about a problem, knots Qi and injures the Spleen. When Spleen Qi is knotted its transformation and transportation fail: appetite falls, food is not moved so there is distension after eating, Qi is not generated so there is fatigue after meals, and Dampness and unseparated fluids descend as loose stools. The pale, teeth-marked tongue and weak pulse confirm Spleen Qi deficiency.",
+    "distractorExplanations": {
+      "A": "Liver Qi invading the Stomach from anger gives epigastric pain, belching and nausea with a wiry pulse and symptoms tied to episodes of frustration; the pattern here is deficiency with a weak pulse.",
+      "B": "Excess joy slows and loosens Heart Qi, producing palpitations, over-excitement and insomnia; it does not act on the Spleen's transformation.",
+      "C": "Sadness dissolves Lung Qi, giving weak voice, breathlessness and crying. The Lung and Spleen are related, but the symptom set here is entirely digestive, and the stated emotional context is overthinking rather than grief. A learner who reasons only from 'Qi deficiency' to the Lung would choose this."
+    },
+    "learningObjective": "Trace Spleen Qi deficiency with digestive symptoms to pensiveness knotting Qi.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["seven-emotions", "pensiveness", "qi-knots", "spleen-qi-deficiency"],
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "The causes of disease, internal causes, pensiveness" }
+    ]
+  },
+  {
+    "id": "FOM-IIj-0007",
+    "domain": "II",
+    "subdomain": "II-j",
+    "task": "II-1-j",
+    "theory": "Internal etiology",
+    "stem": "A 44-year-old manager under continuous work stress for two years reports irritability, distension of the hypochondrium and frequent sighing. Over the past six months he has developed epigastric fullness and belching after meals, abdominal distension, and stools that alternate between loose and constipated, all worse during stressful weeks. The tongue is slightly pale with a thin white coating. The pulse is wiry on the left and weak on the right. Which pathomechanism best accounts for this progression?",
+    "options": {
+      "A": "Liver Qi stagnation from stress overacting on the Spleen",
+      "B": "Spleen Qi deficiency insulting the Liver",
+      "C": "Liver Fire blazing and scorching Stomach fluids",
+      "D": "Heart Qi scattered by fright disturbing the Spleen"
+    },
+    "correct": "A",
+    "explanation": "Chronic stress and frustration cause Liver Qi to stagnate: irritability, hypochondrial distension and sighing with a wiry left pulse. When stagnation persists, Wood overacts on Earth and the Liver invades the Spleen and Stomach, adding epigastric fullness, belching, abdominal distension and stools that alternate between loose and constipated. The worsening during stressful weeks shows the emotional driver; the weak right pulse and slightly pale tongue show the Spleen is now weakened as the consequence, not the cause.",
+    "distractorExplanations": {
+      "B": "In the insulting sequence Earth would counter-act on Wood, but the history shows Liver symptoms came first and the digestive symptoms followed and fluctuate with stress; the Spleen weakness is the result. A learner who reads the right-sided weak pulse as the primary problem would choose this.",
+      "C": "Liver Fire would produce red face and eyes, bitter taste, thirst, a red tongue with a yellow coating and a wiry rapid pulse; a slightly pale tongue with a thin white coating rules out Fire.",
+      "D": "Fright scattering Heart Qi gives palpitations, being easily startled and insomnia; the history is of sustained stress, and the symptoms are Liver and digestive."
+    },
+    "learningObjective": "Analyze how chronic stress produces Liver Qi stagnation that invades the Spleen.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["chronic-stress", "liver-qi-stagnation", "liver-invading-spleen", "overacting-cycle"],
+    "distinction": { "between": ["liver-invading-spleen", "spleen-insulting-liver"], "key": "Liver symptoms preceded the digestive symptoms and both worsen with stress, so the Liver stagnation is primary and the Spleen weakness secondary." },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "The causes of disease, internal causes, anger; Liver patterns, Liver Qi stagnation" },
+      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Etiology, the seven emotional factors" }
+    ]
+  },
+  {
+    "id": "FOM-IIj-0008",
+    "domain": "II",
+    "subdomain": "II-j",
+    "task": "II-1-j",
+    "theory": "Internal etiology",
+    "stem": "A 58-year-old woman describes years of suppressed resentment toward a family member. For most of that time she had hypochondrial distension and irritability; in the past year she has developed dry eyes, blurred vision, dizziness, night sweats and a hot feeling in the evenings. The tongue is red with scanty coating. The pulse is wiry, thin and rapid. Which pathomechanism best explains this evolution?",
+    "options": {
+      "A": "Liver Qi stagnation progressing to Liver Blood stasis",
+      "B": "fear descending Kidney Qi, leading to Kidney Yang deficiency",
+      "C": "prolonged Liver Qi stagnation transforming into Fire and consuming Liver Yin",
+      "D": "sadness dissolving Lung Qi, leading to Lung Yin deficiency"
+    },
+    "correct": "C",
+    "explanation": "Suppressed anger and resentment stagnate Liver Qi (the earlier hypochondrial distension and irritability). Long-standing stagnation generates Heat and transforms into Fire, and Fire consumes Yin: the result is Liver Yin deficiency with Empty Heat, seen as dry eyes, blurred vision and dizziness (Liver Yin failing to nourish the eyes and head), night sweats and evening heat (Empty Heat), a red tongue with scanty coating, and a pulse that is wiry (Liver), thin (Yin deficiency) and rapid (Heat).",
+    "distractorExplanations": {
+      "A": "Stagnation of Qi can progress to Blood stasis, but that would show fixed stabbing pain, a purple tongue and a choppy pulse. The dryness, night sweats and red uncoated tongue are Yin deficiency with Empty Heat, not stasis. A learner who knows only the Qi-to-Blood progression would choose this.",
+      "B": "Fear injures the Kidney, and Kidney Yang deficiency gives cold signs with a pale tongue and deep weak pulse; the emotional history is anger, and the findings are Heat.",
+      "D": "Sadness injures the Lung and Lung Yin deficiency would present with dry cough and dry throat; the history and the eye, hypochondrial and wiry-pulse findings point to the Liver."
+    },
+    "learningObjective": "Trace a chronic emotional cause through Qi stagnation and Fire to Yin deficiency.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["seven-emotions", "anger", "qi-stagnation-transforming-to-fire", "liver-yin-deficiency"],
+    "distinction": { "between": ["liver-yin-deficiency", "liver-blood-stasis"], "key": "Dryness, night sweats and a red uncoated tongue with a thin rapid pulse indicate Yin consumed by Fire; fixed pain with a purple tongue and choppy pulse would indicate stasis." },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "The causes of disease, internal causes, anger; Liver patterns, Liver Yin deficiency" }
+    ]
+  },
+  {
+    "id": "FOM-IIk-0001",
+    "domain": "II",
+    "subdomain": "II-k",
+    "task": "II-1-k",
+    "theory": "External etiology",
+    "stem": "A pathogenic factor that produces a sensation of heaviness of the body and limbs, turbid or sticky discharges, and a lingering course that is slow to resolve is best described as which of the following?",
+    "options": { "A": "Wind", "B": "Cold", "C": "Dampness", "D": "Dryness" },
+    "correct": "C",
+    "explanation": "Dampness is heavy, turbid, sticky and stagnant by nature. It produces heaviness of the body, head and limbs, turbid and sticky discharges (vaginal discharge, cloudy urine, sticky stools, greasy coating), and a tendency to settle in the lower body. Because it is sticky and difficult to resolve, Damp diseases are prolonged and recurrent.",
+    "distractorExplanations": {
+      "A": "Wind is light, mobile and changeable: it produces sudden onset, symptoms that move from place to place and affects the upper body and surface first.",
+      "B": "Cold contracts and congeals, producing pain that is fixed and relieved by warmth, with clear, watery discharges rather than turbid ones.",
+      "D": "Dryness consumes fluids, producing dry skin, lips, nose and throat and a dry cough. It is the opposite of a turbid, sticky factor."
+    },
+    "learningObjective": "Identify Dampness from its characteristic heavy, sticky and lingering nature.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": ["six-pathogenic-factors", "dampness", "external-etiology"],
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "The causes of disease, external causes, Dampness" },
+      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Etiology, the six exogenous factors" }
+    ]
+  },
+  {
+    "id": "FOM-IIk-0002",
+    "domain": "II",
+    "subdomain": "II-k",
+    "task": "II-1-k",
+    "theory": "External etiology",
+    "stem": "Which external pathogenic factor occurs only in its own season, is characterized by high fever with sweating and thirst, injures both Qi and Body Fluids, and commonly combines with Dampness?",
+    "options": { "A": "Fire", "B": "Summer-Heat", "C": "Dryness", "D": "Wind" },
+    "correct": "B",
+    "explanation": "Summer-Heat is the only one of the six factors that is strictly seasonal, since it arises from exposure to summer heat. It is a Yang factor that rises and disperses: it causes high fever, profuse sweating and thirst, and the sweating consumes Body Fluids while the Heat consumes Qi, giving fatigue and shortness of breath. Because summer is also humid, it frequently combines with Dampness, adding heaviness, nausea and a sticky coating.",
+    "distractorExplanations": {
+      "A": "Fire (extreme Heat) also consumes fluids and can occur in any season or arise internally; it does not have the seasonal restriction or the characteristic injury of Qi with Dampness. A learner who treats Heat and Summer-Heat as interchangeable would choose this.",
+      "C": "Dryness is the factor of autumn and injures fluids of the Lung, producing dry cough and dry orifices rather than high fever with sweating.",
+      "D": "Wind is the factor of spring but occurs in all seasons; it is light and mobile and is the vehicle for other factors rather than a cause of fever with Qi injury on its own."
+    },
+    "learningObjective": "Identify the defining features of Summer-Heat among the six pathogenic factors.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": ["six-pathogenic-factors", "summer-heat", "seasonal-associations"],
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "The causes of disease, external causes, Summer-Heat" },
+      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Etiology, the six exogenous factors, summer heat" }
+    ]
+  },
+  {
+    "id": "FOM-IIk-0003",
+    "domain": "II",
+    "subdomain": "II-k",
+    "task": "II-1-k",
+    "theory": "External etiology",
+    "stem": "A 38-year-old man was caught in freezing rain while hiking. The next day he has severe cramping pain in the lower abdomen and in both knees that is fixed in location and eased by a hot water bottle, aversion to cold, cold hands and feet, and a clear, watery nasal discharge. The tongue is pale with a thin white moist coating. The pulse is tight. Which pathogenic factor best explains the character of these findings?",
+    "options": { "A": "Wind", "B": "Dampness", "C": "Dryness", "D": "Cold" },
+    "correct": "D",
+    "explanation": "Cold is a Yin factor that contracts and congeals. Contraction of the channels and sinews produces severe cramping pain that is fixed in place and relieved by warmth; obstruction of Yang gives aversion to cold and cold limbs; discharges under Cold are clear and watery rather than turbid or yellow; the pale tongue with a white moist coating and the tight pulse are the classic findings of Cold. The exposure to freezing rain supplies the external cause.",
+    "distractorExplanations": {
+      "A": "Wind produces pain that moves from joint to joint and symptoms that change rapidly; this pain is fixed and cramping. A learner who sees 'joint pain after exposure' and assumes Wind would choose this.",
+      "B": "Dampness gives heaviness, swelling and a sticky coating with a soggy pulse; cramping pain relieved by heat with a tight pulse is Cold rather than Damp.",
+      "C": "Dryness injures fluids, causing dry skin, throat and cough; it does not produce cramping pain or clear watery discharge."
+    },
+    "learningObjective": "Identify Cold from fixed contracting pain relieved by warmth, clear discharges and a tight pulse.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": ["six-pathogenic-factors", "cold", "tight-pulse", "external-etiology"],
+    "distinction": { "between": ["cold", "wind"], "key": "Cold pain is fixed, cramping and relieved by warmth with a tight pulse; Wind pain wanders and changes." },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "The causes of disease, external causes, Cold" }
+    ]
+  },
+  {
+    "id": "FOM-IIk-0004",
+    "domain": "II",
+    "subdomain": "II-k",
+    "task": "II-1-k",
+    "theory": "External etiology",
+    "stem": "A 46-year-old woman develops fever with aversion to wind and slight sweating. Her joints ache, and the pain has moved from the shoulders to the wrists and then to the knees over three days. She feels heavy and lethargic, and her head feels muzzy. The tongue has a thin white sticky coating. The pulse is floating and soggy. Which exterior pattern is most appropriate?",
+    "options": { "A": "Wind-Damp", "B": "Wind-Cold", "C": "Wind-Heat", "D": "Cold-Damp" },
+    "correct": "A",
+    "explanation": "Fever with aversion to wind and a floating pulse show an exterior invasion, and Wind is identified by the sudden onset and the pain that wanders from joint to joint. Dampness is identified by the heaviness, lethargy, muzzy head, sticky coating and soggy pulse. The combination is exterior Wind-Damp: Wind carries Dampness into the surface and the joints.",
+    "distractorExplanations": {
+      "B": "Wind-Cold would show pronounced aversion to cold, absence of sweating, body aches that are fixed rather than wandering, and a floating tight pulse without heaviness or sticky coating.",
+      "C": "Wind-Heat would show sore throat, thirst, a red tongue tip and a floating rapid pulse; the sticky coating and soggy pulse point to Dampness instead. A learner who reads 'fever with sweating' as Heat would choose this.",
+      "D": "Cold-Damp is a fixed, heavy, cold pain with a slow or tight pulse and no wandering quality; the migrating pain and aversion to wind show Wind, not Cold, is the carrier."
+    },
+    "learningObjective": "Differentiate exterior Wind-Damp from Wind-Cold and Wind-Heat by the combination of wandering pain and heaviness.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["wind-damp", "wind-cold", "wind-heat", "combined-pathogenic-factors"],
+    "distinction": { "between": ["wind-damp", "wind-cold"], "key": "Wandering joint pain with heaviness, a sticky coating and a soggy pulse indicate Wind-Damp; fixed aches with no sweating and a tight pulse indicate Wind-Cold." },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "The causes of disease, external causes, Wind and Dampness" },
+      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Etiology, the six exogenous factors, wind and damp" }
+    ]
+  },
+  {
+    "id": "FOM-IIk-0005",
+    "domain": "II",
+    "subdomain": "II-k",
+    "task": "II-1-k",
+    "theory": "External etiology",
+    "stem": "In early October a 50-year-old man develops, over two days, a dry hacking cough with scant sticky sputum that is hard to expectorate, a dry nose and throat, slight fever with mild aversion to cold, and a headache. His skin and lips are dry. The tongue is red at the tip with a thin, dry white coating. The pulse is floating and slightly rapid. Which pathomechanism best explains these findings?",
+    "options": {
+      "A": "Lung Yin deficiency producing internal Dryness",
+      "B": "exterior Dryness invading the Lung",
+      "C": "Phlegm-Heat obstructing the Lung",
+      "D": "Wind-Cold invading the Lung"
+    },
+    "correct": "B",
+    "explanation": "Dryness is the factor of autumn and invades through the nose and mouth to injure the Lung and its fluids: dry cough with scant sticky sputum, dry nose, throat, lips and skin. The acute two-day onset, slight fever with mild aversion to cold, headache and floating pulse show an exterior invasion rather than an internal deficiency. The thin dry coating and slightly rapid pulse indicate the warm variety of exterior Dryness typical of early autumn.",
+    "distractorExplanations": {
+      "A": "Internal Dryness from Lung Yin deficiency develops gradually and chronically, with night sweats, a peeled or scanty coating and a thin rapid pulse, and without fever, aversion to cold or a floating pulse. A learner who matches 'dry cough' to Yin deficiency without weighing the onset and exterior signs would choose this.",
+      "C": "Phlegm-Heat produces copious thick yellow sputum with a slippery rapid pulse and a greasy yellow coating; scant sticky sputum with a dry coating is the opposite.",
+      "D": "Wind-Cold gives a cough with thin white sputum, pronounced aversion to cold, clear nasal discharge and a floating tight pulse; dryness of the orifices and a dry coating are not Cold findings."
+    },
+    "learningObjective": "Differentiate exterior Dryness invading the Lung from internal Dryness due to Lung Yin deficiency.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["six-pathogenic-factors", "dryness", "external-vs-internal-dryness", "lung-yin-deficiency"],
+    "distinction": { "between": ["exterior-dryness", "lung-yin-deficiency"], "key": "Acute onset with slight fever, aversion to cold and a floating pulse indicates exterior Dryness; a chronic course without exterior signs indicates internal Dryness from Yin deficiency." },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "The causes of disease, external causes, Dryness" },
+      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Etiology, the six exogenous factors, dryness" }
+    ]
+  },
+  {
+    "id": "FOM-IIk-0006",
+    "domain": "II",
+    "subdomain": "II-k",
+    "task": "II-1-k",
+    "theory": "External etiology",
+    "stem": "A 66-year-old man with a two-year history of dizziness, headaches and irritability experiences, over a single evening, numbness of the left arm, tremor of the hands and deviation of the mouth. He has no fever, no aversion to wind or cold, and no recent exposure to the elements. The tongue is red with a thin yellow coating. The pulse is wiry. Which pathomechanism best explains these findings?",
+    "options": {
+      "A": "exterior Wind invading the channels of the face and limbs",
+      "B": "Wind-Cold obstructing the Lung and channels",
+      "C": "internal Wind generated by Liver Yang rising",
+      "D": "Wind-Damp lodging in the joints and muscles"
+    },
+    "correct": "C",
+    "explanation": "The sudden onset, tremor, numbness and deviation of the mouth are Wind signs, but Wind can be external or internal and the two must be separated. Here there are no exterior signs (no fever, no aversion to wind or cold, no exposure), and there is a long history of dizziness, headache and irritability with a red tongue and wiry pulse, the picture of Liver Yang rising. Prolonged Liver Yang rising generates internal Wind (Liver Wind), which stirs upward and produces exactly these sudden signs.",
+    "distractorExplanations": {
+      "A": "Exterior Wind invading the channels produces sudden facial deviation or numbness but typically follows exposure and comes with aversion to wind, sometimes slight fever, and a floating pulse; it does not arise from a two-year history of Liver Yang signs. A learner who treats every sudden deviation of the mouth as exterior Wind would choose this.",
+      "B": "Wind-Cold invading the Lung gives chills, no sweating, nasal obstruction and a floating tight pulse; there are no Lung or exterior findings.",
+      "D": "Wind-Damp in the joints produces wandering joint pain with heaviness and a sticky coating; tremor, numbness and facial deviation with a wiry pulse are not a Bi (obstruction) picture."
+    },
+    "learningObjective": "Differentiate internal Wind from Liver Yang rising from exterior Wind invading the channels.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["internal-wind", "exterior-wind", "liver-yang-rising", "liver-wind"],
+    "distinction": { "between": ["internal-wind", "exterior-wind"], "key": "Absence of exterior signs plus a chronic Liver Yang history with a red tongue and wiry pulse indicates internal Wind; exposure with aversion to wind and a floating pulse indicates exterior Wind." },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "The causes of disease, external causes, Wind (exterior and interior Wind)" },
+      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Etiology, the six exogenous factors, wind" }
+    ]
+  },
+  {
+    "id": "FOM-IIk-0007",
+    "domain": "II",
+    "subdomain": "II-k",
+    "task": "II-1-k",
+    "theory": "External etiology",
+    "stem": "In mid-July a 29-year-old landscaper collapsed after a day of outdoor work. She has a high fever with profuse sweating and intense thirst, but also heaviness of the limbs, nausea, a stifling sensation in the chest, and pronounced fatigue with shortness of breath. Her urine is scanty and dark. The tongue is red with a sticky yellow coating. The pulse is rapid and soggy, and weak on pressure. Which pathomechanism best explains the combination of findings?",
+    "options": {
+      "A": "Summer-Heat with Dampness injuring Qi and Body Fluids",
+      "B": "Damp-Heat retained in the Spleen from dietary irregularity",
+      "C": "Wind-Heat invading the Lung and the defensive layer",
+      "D": "Stomach Fire blazing and consuming fluids"
+    },
+    "correct": "A",
+    "explanation": "The season and exposure identify Summer-Heat. High fever, profuse sweating, intense thirst and scanty dark urine show Heat consuming Body Fluids; the fatigue, shortness of breath and pulse that is weak on pressure show Summer-Heat injuring Qi, because the sweating drains Qi with the fluids. Heaviness of the limbs, nausea, a stifling chest, a sticky coating and a soggy pulse show the Dampness that so often accompanies Summer-Heat. All three components (Heat, Dampness, Qi injury) are explained by this single factor.",
+    "distractorExplanations": {
+      "B": "Internal Damp-Heat in the Spleen from diet develops gradually with digestive symptoms and a low-grade fever, not an acute collapse with high fever and profuse sweating after a day in the sun. A learner who weights the sticky coating and nausea over the history would choose this.",
+      "C": "Wind-Heat at the surface gives slight aversion to cold, sore throat and a floating rapid pulse with only mild thirst; profuse sweating, intense thirst and Qi injury show a far stronger Heat with no exterior signs.",
+      "D": "Stomach Fire gives thirst, hunger, bad breath and gum problems with a full overflowing pulse; it does not explain the heaviness, soggy pulse or the weakness on pressure."
+    },
+    "learningObjective": "Recognize Summer-Heat combined with Dampness and its characteristic injury of Qi and Body Fluids.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["summer-heat", "dampness", "qi-injury", "combined-pathogenic-factors"],
+    "distinction": { "between": ["summer-heat-with-dampness", "spleen-damp-heat"], "key": "Acute onset after seasonal heat exposure with high fever, profuse sweating and Qi injury marks Summer-Heat; gradual digestive onset marks internal Damp-Heat." },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "The causes of disease, external causes, Summer-Heat" },
+      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Etiology, the six exogenous factors, summer heat" }
+    ]
+  },
+  {
+    "id": "FOM-IIk-0008",
+    "domain": "II",
+    "subdomain": "II-k",
+    "task": "II-1-k",
+    "theory": "External etiology",
+    "stem": "Which feature most distinguishes pestilential Qi (Li Qi) from the six ordinary external pathogenic factors?",
+    "options": {
+      "A": "a strict dependence on the climate of a particular season",
+      "B": "a tendency to settle in the lower body and linger",
+      "C": "a gradual onset that transforms into interior Cold",
+      "D": "strong contagiousness with a similar presentation in all affected"
+    },
+    "correct": "D",
+    "explanation": "Pestilential Qi (Li Qi, epidemic factor) is distinguished from the six climatic factors by its strong contagiousness, its sudden, severe and rapidly changing course, and the fact that those affected show a similar clinical picture regardless of age or constitution. The six ordinary factors invade according to climate and individual weakness and produce varied presentations.",
+    "distractorExplanations": {
+      "A": "Strict seasonal dependence is the feature of Summer-Heat, one of the six ordinary factors; pestilential Qi may occur in any season, although abnormal climate can favor it. A learner who places epidemics among the climatic factors would choose this.",
+      "B": "Settling in the lower body and lingering is the nature of Dampness, an ordinary factor.",
+      "C": "Gradual onset with transformation into interior Cold describes neither pestilential Qi, which is sudden and severe, nor a characteristic of any of the six factors; Cold-damage transmits to interior Cold only in constitutionally Yang-deficient patients."
+    },
+    "learningObjective": "Identify the defining features of pestilential Qi.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": ["pestilential-qi", "six-pathogenic-factors", "external-etiology"],
+    "references": [
+      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Etiology, pestilential factors" },
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "The causes of disease, external causes" }
+    ]
+  }
+]

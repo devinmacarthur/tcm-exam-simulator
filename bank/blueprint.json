@@ -1,0 +1,91 @@
+{
+  "$comment": "Blueprint for the NCBAHM Foundations of Oriental Medicine (FOM) exam. Domain and I-A..I-D weights are OFFICIAL (2026 content outline, effective 2026-09-01). Sub-weights inside Domains II and III are SIMULATOR DESIGN CHOICES because NCBAHM publishes none. See docs/EXAM-SPEC.md.",
+  "active": "fom-2026",
+  "blueprints": {
+    "fom-2026": {
+      "name": "NCBAHM Foundations of Oriental Medicine — 2026 outline",
+      "effective": "2026-09-01",
+      "source": "https://www.ncbahm.org/wp-content/uploads/pdf/NCBAHM_FOM_Exam_Content_Outline-w-Bibliography_Jan_2026.pdf",
+      "exam": {
+        "questions": 100,
+        "minutes": 150,
+        "options": 4,
+        "format": "CAT (official); simulated as fixed randomized form",
+        "questionsSource": "2026 AC Candidate Preparation Handbook p.14",
+        "minutesSource": "2026 AC Candidate Preparation Handbook p.14"
+      },
+      "domains": [
+        {
+          "id": "I",
+          "name": "Patient Assessment Methods",
+          "weight": 28,
+          "weightOfficial": true,
+          "subdomains": [
+            { "id": "I-A", "name": "Observation / Looking (Wang)", "weight": 6, "weightOfficial": true,
+              "tasks": ["I-A-1 Spirit (Shen): complexion, behavior", "I-A-2 Eyes, nose, ears, mouth, lips, throat, face", "I-A-3 Tongue: body, coating, sublingual veins", "I-A-4 Body: shape, movement, head, hair, skin, nails, etc.", "I-A-5 Excretions: mucus, saliva, sweat, discharge, stool, urine, blood"] },
+            { "id": "I-B", "name": "Auscultation & Olfaction / Listening & Smelling (Wen)", "weight": 3, "weightOfficial": true,
+              "tasks": ["I-B-1 Respiratory sounds, voice, speech", "I-B-2 Odors of body, breath, excretions, secretions"] },
+            { "id": "I-C", "name": "Inquiry / Asking (Wen)", "weight": 10, "weightOfficial": true,
+              "tasks": ["I-C-1 Presenting complaints: onset, location, aggravation", "I-C-2 Formulate follow-up questions", "I-C-3 Review of Systems / Ten Questions (Shi Wen)", "I-C-4 Etiological factors: internal, external, miscellaneous", "I-C-5 Personal and family history"] },
+            { "id": "I-D", "name": "Palpation / Touching (Qie)", "weight": 9, "weightOfficial": true,
+              "tasks": ["I-D-1 Radial pulse characteristics: rate, depth, strength, quality", "I-D-2 Palpation of abdomen, torso, limbs, channels"] }
+          ]
+        },
+        {
+          "id": "II",
+          "name": "Pathomechanisms and Pattern Differentiation",
+          "weight": 38,
+          "weightOfficial": true,
+          "subdomains": [
+            { "id": "II-f", "name": "Organ (Zang Fu) patterns", "weight": 11.4, "weightOfficial": false, "shareOfDomain": 30 },
+            { "id": "II-d", "name": "Qi, Blood, Body Fluid patterns", "weight": 4.56, "weightOfficial": false, "shareOfDomain": 12 },
+            { "id": "II-c", "name": "Eight Principles (Ba Gang)", "weight": 3.8, "weightOfficial": false, "shareOfDomain": 10 },
+            { "id": "II-b", "name": "Five Elements (Wu Xing)", "weight": 3.04, "weightOfficial": false, "shareOfDomain": 8 },
+            { "id": "II-e", "name": "Channel (Jing Luo) theory and patterns", "weight": 3.04, "weightOfficial": false, "shareOfDomain": 8 },
+            { "id": "II-g", "name": "Six Stages (Liu Jing)", "weight": 2.28, "weightOfficial": false, "shareOfDomain": 6 },
+            { "id": "II-h", "name": "Four Levels (Wei, Qi, Ying, Xue)", "weight": 2.28, "weightOfficial": false, "shareOfDomain": 6 },
+            { "id": "II-a", "name": "Yin/Yang", "weight": 1.9, "weightOfficial": false, "shareOfDomain": 5 },
+            { "id": "II-j", "name": "Internal etiology (seven emotions, stress)", "weight": 1.52, "weightOfficial": false, "shareOfDomain": 4 },
+            { "id": "II-k", "name": "External etiology (six pathogenic factors, Li Qi)", "weight": 1.52, "weightOfficial": false, "shareOfDomain": 4 },
+            { "id": "II-i", "name": "Triple Burner (San Jiao)", "weight": 1.14, "weightOfficial": false, "shareOfDomain": 3 },
+            { "id": "II-l", "name": "Miscellaneous etiology (diet, lifestyle, trauma)", "weight": 0.76, "weightOfficial": false, "shareOfDomain": 2 },
+            { "id": "II-m", "name": "Chinese organ clock", "weight": 0.76, "weightOfficial": false, "shareOfDomain": 2 }
+          ]
+        },
+        {
+          "id": "III",
+          "name": "Treatment Planning",
+          "weight": 34,
+          "weightOfficial": true,
+          "subdomains": [
+            { "id": "III-1", "name": "Treatment principles from pattern/theory", "weight": 18.7, "weightOfficial": false, "shareOfDomain": 55 },
+            { "id": "III-2", "name": "Treatment priorities (Root/Branch, acute vs chronic) and plan", "weight": 5.1, "weightOfficial": false, "shareOfDomain": 15 },
+            { "id": "III-6", "name": "Dietary recommendations (temperature, taste, function)", "weight": 3.4, "weightOfficial": false, "shareOfDomain": 10 },
+            { "id": "III-3", "name": "Modify plan: response, progression, lifestyle", "weight": 2.72, "weightOfficial": false, "shareOfDomain": 8 },
+            { "id": "III-5", "name": "Self-care counseling (Qi Gong, Tai Ji, breathing)", "weight": 2.38, "weightOfficial": false, "shareOfDomain": 7 },
+            { "id": "III-4", "name": "Explain findings and plan to the patient", "weight": 1.7, "weightOfficial": false, "shareOfDomain": 5 }
+          ]
+        }
+      ],
+      "difficultyMix": { "$comment": "SIMULATOR DESIGN CHOICE: per-attempt difficulty tiers for a fixed form.", "foundational": 30, "intermediate": 45, "advanced": 25 },
+      "bankTargets": {
+        "$comment": "Initial 500-item bank targets, proportional to weights.",
+        "I-A": 30, "I-B": 15, "I-C": 50, "I-D": 45,
+        "II-f": 57, "II-d": 23, "II-c": 19, "II-b": 15, "II-e": 15, "II-g": 11, "II-h": 11, "II-a": 9, "II-j": 8, "II-k": 8, "II-i": 6, "II-l": 4, "II-m": 4,
+        "III-1": 93, "III-2": 26, "III-6": 17, "III-3": 14, "III-5": 12, "III-4": 8
+      }
+    },
+    "fom-2020": {
+      "name": "NCCAOM Foundations of Oriental Medicine — 2020 outline (SUPERSEDED 2026-09-01)",
+      "effective": "2020-01-01",
+      "supersededOn": "2026-09-01",
+      "source": "https://www.ncbahm.org/wp-content/uploads/pdf/2020-FOM-Content-Outline-and-Bibliography-Updated-June-2021.pdf",
+      "exam": { "questions": 100, "minutes": 150, "options": 4 },
+      "domains": [
+        { "id": "I", "name": "Clinical Examination Methods", "weight": 35, "weightOfficial": true, "subdomains": [] },
+        { "id": "II", "name": "Assessment, Analysis, and Differential Diagnosis", "weight": 35, "weightOfficial": true, "subdomains": [] },
+        { "id": "III", "name": "Treatment Principle and Strategy", "weight": 30, "weightOfficial": true, "subdomains": [] }
+      ]
+    }
+  }
+}

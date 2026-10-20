@@ -1,0 +1,1568 @@
+[
+  {
+    "id": "FOM-III1-0001",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 52-year-old woman reports loose stools with undigested food for two years, worse after cold or raw food. She has a dull abdominal ache relieved by warmth and pressure, cold hands and feet, poor appetite, and fatigue. The tongue is pale and swollen with a thin white coating. The pulse is deep, slow, and weak. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "tonify Spleen Qi and resolve Dampness",
+      "B": "warm the Middle and tonify Spleen Yang",
+      "C": "clear Damp-Heat from the Spleen",
+      "D": "dispel Cold and dry Dampness in the Middle"
+    },
+    "correct": "B",
+    "explanation": "This is Spleen Yang deficiency: the chronic Spleen Qi deficiency picture (loose stools, poor appetite, fatigue, weak pulse) is joined by interior Cold from deficiency (pain relieved by warmth and pressure, cold limbs, deep slow pulse, pale swollen tongue). The principle is to warm the Middle Burner and tonify Spleen Yang. Warming is what distinguishes it from treating simple Spleen Qi deficiency.",
+    "distractorExplanations": {
+      "A": "Tonifying Spleen Qi alone ignores the Cold signs (cold limbs, pain relieved by warmth, slow pulse); the learner who picks this treats the deficiency but misses that Yang must be warmed.",
+      "C": "Damp-Heat would present with a yellow greasy coating, a rapid pulse, and a burning quality to the stools; every finding here is Cold and deficient.",
+      "D": "Dispelling Cold and drying Dampness is the principle for Cold-Damp invading the Spleen, an excess pattern of recent onset with a thick greasy white coating and a full (slippery) pulse, and pain that is worse with pressure; here the pain is relieved by pressure and the pulse is weak."
+    },
+    "learningObjective": "Formulate the treatment principle for Spleen Yang deficiency and distinguish it from Spleen Qi deficiency and Cold-Damp invading the Spleen.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["spleen-yang-deficiency", "spleen-qi-deficiency", "cold-damp-invading-spleen"],
+    "distinction": {
+      "between": ["spleen-yang-deficiency", "cold-damp-invading-spleen"],
+      "key": "Pain relieved by pressure with a deep, weak pulse marks deficiency Cold (warm Yang); pain worse with pressure with a full slippery pulse and thick greasy coating marks excess Cold-Damp (dispel Cold, dry Dampness)."
+    },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Spleen patterns; Principles of treatment" },
+      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Zang-Fu" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0002",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 61-year-old woman reports a dragging, bearing-down sensation in the lower abdomen that worsens after standing for long periods, along with chronic loose stools, fatigue, a weak voice, and a tendency to feel dizzy on rising. She has been told she has a mild uterine prolapse. The tongue is pale with a thin white coating. The pulse is weak. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "tonify Spleen Qi and resolve Dampness",
+      "B": "warm Kidney Yang and astringe the lower burner",
+      "C": "move Qi and relieve stagnation in the lower burner",
+      "D": "tonify Spleen Qi and raise the Yang"
+    },
+    "correct": "D",
+    "explanation": "This is Spleen Qi sinking: the general Spleen Qi deficiency signs (fatigue, loose stools, weak voice, pale tongue, weak pulse) are accompanied by a bearing-down sensation and organ prolapse, which show that the Spleen's raising function has failed. The principle is to tonify Spleen Qi and raise the sunken Yang Qi.",
+    "distractorExplanations": {
+      "A": "Tonifying Spleen Qi and resolving Dampness treats Spleen Qi deficiency with Dampness; there is no heaviness, greasy coating, or soggy pulse, and it omits the lifting action required by the prolapse.",
+      "B": "Warming Kidney Yang and astringing addresses Kidney Qi not firm or Kidney Yang deficiency (cold back, frequent clear urination, deep weak pulse); the dominant signs here are Spleen Qi and a sinking sensation without Cold.",
+      "C": "Moving Qi treats stagnation, which presents with distension that comes and goes and a wiry pulse; a bearing-down sensation worse on standing with a weak pulse is deficiency, and dispersing methods would worsen it."
+    },
+    "learningObjective": "Formulate the treatment principle for Spleen Qi sinking.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": ["spleen-qi-sinking", "spleen-qi-deficiency", "raise-the-yang"],
+    "distinction": {
+      "between": ["spleen-qi-sinking", "spleen-qi-deficiency"],
+      "key": "A bearing-down sensation or organ prolapse on top of general Spleen Qi deficiency calls for adding the principle of raising the Yang."
+    },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Spleen patterns" },
+      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Zang-Fu" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0003",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 44-year-old woman reports heavy menstrual periods for eight months with pale, thin blood, and she bruises easily on the arms and legs. She is tired, has a poor appetite with loose stools, and has a sallow complexion. The tongue is pale with a thin white coating. The pulse is thin (thready) and weak. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "tonify Spleen Qi to hold the Blood",
+      "B": "clear Heat and cool the Blood to stop bleeding",
+      "C": "invigorate the Blood and dispel stasis to stop bleeding",
+      "D": "nourish Yin and clear Empty Heat to stop bleeding"
+    },
+    "correct": "A",
+    "explanation": "This is the Spleen failing to control Blood. Chronic bleeding that is pale and thin, bruising, and the full Spleen Qi deficiency picture (fatigue, poor appetite, loose stools, sallow face, pale tongue, thin weak pulse) show that Qi is too weak to hold Blood in the vessels. The principle is to tonify Spleen Qi so that it can hold the Blood.",
+    "distractorExplanations": {
+      "B": "Blood Heat bleeding is profuse, bright red or dark red, with a red tongue and rapid pulse; pale thin blood with a pale tongue and weak pulse rules Heat out.",
+      "C": "Blood stasis bleeding is dark with clots, with a purple tongue and choppy pulse and fixed pain; none of these is present, and dispersing methods would weaken an already deficient Spleen.",
+      "D": "Empty Heat bleeding from Yin deficiency shows scanty bright red blood, night sweats, a red peeled tongue, and a thin rapid pulse; this patient has no Heat signs at all."
+    },
+    "learningObjective": "Formulate the treatment principle for bleeding due to Spleen Qi failing to control Blood.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["spleen-not-controlling-blood", "spleen-qi-deficiency", "blood-heat"],
+    "distinction": {
+      "between": ["spleen-not-controlling-blood", "blood-heat"],
+      "key": "Pale, thin, chronic bleeding with a pale tongue and weak pulse is Qi failing to hold Blood; profuse bright red bleeding with a red tongue and rapid pulse is Heat forcing Blood out."
+    },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Spleen patterns" },
+      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Zang-Fu syndrome differentiation" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0004",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 29-year-old man reports abdominal fullness and loose stools for three days after eating ice cream and cold drinks on a rainy camping trip. He has a feeling of heaviness in the body and head, nausea, no thirst, a sticky taste, and the abdominal pain is worse with pressure. The tongue has a thick, greasy white coating. The pulse is slippery and slow. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "tonify Spleen Qi and resolve Dampness",
+      "B": "warm the Middle and tonify Spleen Yang",
+      "C": "dispel Cold and dry Dampness in the Middle",
+      "D": "clear Heat and resolve Dampness in the Middle"
+    },
+    "correct": "C",
+    "explanation": "This is Cold-Damp invading the Spleen, an excess pattern: acute onset after cold raw food and damp weather, heaviness, nausea, absence of thirst, a thick greasy white coating, and a slippery pulse show Dampness, while the slow pulse, white coating, and lack of thirst show Cold. Pain worse with pressure confirms excess. The principle is to dispel Cold and dry Dampness.",
+    "distractorExplanations": {
+      "A": "Tonifying Spleen Qi is for a chronic deficiency picture with fatigue and a weak pulse; this is an acute excess invasion with a full slippery pulse, and tonifying would trap the pathogen.",
+      "B": "Warming and tonifying Spleen Yang is for chronic deficiency Cold with pain relieved by pressure and a weak pulse; here the pain is worse with pressure and the pulse is slippery, not weak.",
+      "D": "Clearing Heat would require a yellow greasy coating, thirst, and a rapid pulse; this patient has a white coating, no thirst, and a slow pulse."
+    },
+    "learningObjective": "Differentiate excess Cold-Damp invading the Spleen from deficiency Spleen Yang deficiency and formulate the corresponding principle.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["cold-damp-invading-spleen", "spleen-yang-deficiency", "damp-heat-in-spleen"],
+    "distinction": {
+      "between": ["cold-damp-invading-spleen", "spleen-yang-deficiency"],
+      "key": "Acute onset, pain worse with pressure, a thick greasy white coating, and a slippery (full) pulse mark excess Cold-Damp to be dispelled; chronic course, pain relieved by pressure, and a weak pulse mark Yang deficiency to be warmed and tonified."
+    },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Spleen patterns" },
+      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Zang-Fu" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0005",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 35-year-old woman reports distending pain in the hypochondrium and breasts that comes and goes, worse before her period and with emotional upset. She sighs frequently, feels irritable, and has irregular periods. The tongue is normal in color with a thin white coating. The pulse is wiry. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "soothe the Liver and regulate Qi",
+      "B": "clear Liver Fire and subdue Yang",
+      "C": "nourish Liver Blood and soften the Liver",
+      "D": "clear Damp-Heat from the Liver and Gallbladder"
+    },
+    "correct": "A",
+    "explanation": "This is Liver Qi stagnation: distending pain that moves and fluctuates with emotions, frequent sighing, irritability, premenstrual aggravation, irregular periods, and a wiry pulse with an otherwise normal tongue. The principle is to soothe the Liver and regulate (move) Qi.",
+    "distractorExplanations": {
+      "B": "Liver Fire would show a red tongue with a yellow coating, a rapid wiry pulse, headache, red eyes, and a bitter taste; this tongue is normal and there are no Heat signs.",
+      "C": "Liver Blood deficiency would show a pale tongue, a thin pulse, scanty periods, dizziness, and dry eyes rather than distension and a wiry pulse.",
+      "D": "Liver-Gallbladder Damp-Heat would show a yellow greasy coating, a slippery rapid pulse, and fixed hypochondrial pain with possible jaundice; the coating here is thin and white."
+    },
+    "learningObjective": "Identify the treatment principle for Liver Qi stagnation.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": ["liver-qi-stagnation", "wiry-pulse"],
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Liver patterns" },
+      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Zang-Fu" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0006",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 58-year-old man reports headaches at the vertex and temples with dizziness and tinnitus for six months, worse when tired and in the evening. He also has a dry throat, soreness of the lower back, night sweats, and irritability. The tongue is red with little coating. The pulse is wiry and thin (thready), slightly rapid. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear Liver Fire and drain downward",
+      "B": "soothe the Liver and regulate Qi",
+      "C": "extinguish Liver Wind and stop tremor",
+      "D": "nourish Yin and subdue Liver Yang"
+    },
+    "correct": "D",
+    "explanation": "This is Liver Yang rising on a base of Liver and Kidney Yin deficiency. The ascending signs (vertex and temporal headache, dizziness, tinnitus, irritability) are the branch; the deficiency root is shown by aggravation with tiredness and in the evening, lower back soreness, night sweats, dry throat, a red tongue with little coating, and a thin wiry pulse. The principle treats both: nourish Yin (root) and subdue Liver Yang (branch).",
+    "distractorExplanations": {
+      "A": "Clearing Liver Fire is for a full Heat pattern with a red tongue and thick yellow coating, a full rapid wiry pulse, red eyes, and a bitter taste; the peeled tongue and thin pulse show deficiency, and draining methods would further damage Yin.",
+      "B": "Soothing the Liver treats Qi stagnation, which shows distension, sighing, and a normal tongue; it does nothing for the rising Yang or the Yin deficiency.",
+      "C": "Extinguishing Wind is required when there are tremor, tics, numbness, or convulsions; none is present, so this overshoots the mechanism."
+    },
+    "learningObjective": "Formulate a root-and-branch treatment principle for Liver Yang rising arising from Liver and Kidney Yin deficiency.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["liver-yang-rising", "liver-kidney-yin-deficiency", "liver-fire-blazing"],
+    "distinction": {
+      "between": ["liver-yang-rising", "liver-fire-blazing"],
+      "key": "A red tongue with little coating and a thin wiry pulse mark Yang rising from Yin deficiency (nourish Yin, subdue Yang); a red tongue with a thick yellow coating and a full rapid wiry pulse marks Liver Fire (clear Fire)."
+    },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Liver patterns" },
+      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Zang-Fu syndrome differentiation" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0007",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 40-year-old man reports a severe, throbbing headache with red, painful eyes for one week after a period of intense anger at work. He has a bitter taste, a dry mouth, tinnitus like the sound of the sea, constipation, dark urine, and outbursts of anger. The tongue is red with a dry yellow coating, redder at the sides. The pulse is wiry, rapid, and full. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "nourish Yin and subdue Liver Yang",
+      "B": "clear Liver Fire and drain downward",
+      "C": "soothe the Liver and regulate Qi",
+      "D": "clear Damp-Heat from the Liver and Gallbladder"
+    },
+    "correct": "B",
+    "explanation": "This is Liver Fire blazing upward: anger as the trigger, a throbbing headache, red painful eyes, bitter taste, tinnitus, outbursts, constipation and dark urine, with a red tongue bearing a dry yellow coating and a full rapid wiry pulse. Because this is full Heat, the principle is to clear Liver Fire and drain it downward.",
+    "distractorExplanations": {
+      "A": "Nourishing Yin and subduing Yang is for Liver Yang rising from Yin deficiency, where the tongue has little coating and the pulse is thin; here the coating is thick yellow and the pulse is full.",
+      "C": "Soothing the Liver treats simple Qi stagnation, which shows distension and sighing with a normal tongue; it is too mild for a full Fire pattern.",
+      "D": "Liver-Gallbladder Damp-Heat shows a greasy yellow coating, a slippery pulse, heaviness, and possibly jaundice or genital itching; the coating here is dry, not greasy."
+    },
+    "learningObjective": "Formulate the treatment principle for Liver Fire blazing and distinguish it from Liver Yang rising.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["liver-fire-blazing", "liver-yang-rising", "full-heat"],
+    "distinction": {
+      "between": ["liver-fire-blazing", "liver-yang-rising"],
+      "key": "A thick dry yellow coating with a full rapid pulse and constipation points to Fire to be cleared; a tongue with little coating and a thin pulse points to Yang rising from Yin deficiency to be nourished and subdued."
+    },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Liver patterns" },
+      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Zang-Fu" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0008",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 31-year-old woman reports scanty, pale menstrual flow and dizziness for a year, with blurred vision, dry eyes, numbness of the hands at night, and muscle cramps in the calves. Her nails are brittle and her complexion is dull and pale. The tongue is pale and slightly dry with a thin white coating. The pulse is thin (thready). Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "soothe the Liver and regulate Qi",
+      "B": "nourish Liver Yin and clear Empty Heat",
+      "C": "nourish Liver Blood",
+      "D": "warm Kidney Yang and nourish the Blood"
+    },
+    "correct": "C",
+    "explanation": "This is Liver Blood deficiency: scanty pale periods, dizziness, blurred vision and dry eyes (Liver opens into the eyes), numbness and cramps (Liver governs the sinews), brittle nails (Liver manifests in the nails), a pale dull complexion, a pale tongue, and a thin pulse. The principle is to nourish Liver Blood.",
+    "distractorExplanations": {
+      "A": "Soothing the Liver treats Qi stagnation, which shows distension, irritability, and a wiry pulse; this patient has a thin pulse and deficiency signs without stagnation.",
+      "B": "Liver Yin deficiency with Empty Heat would show a red tongue with little coating, a thin rapid pulse, night sweats, and a feeling of heat in the evening; the tongue here is pale and there is no Heat.",
+      "D": "Warming Kidney Yang requires Cold signs such as cold limbs, lower back cold, and a deep slow pulse; there are none, and warming methods could dry the Blood further."
+    },
+    "learningObjective": "Formulate the treatment principle for Liver Blood deficiency and distinguish it from Liver Yin deficiency.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["liver-blood-deficiency", "liver-yin-deficiency", "thin-pulse"],
+    "distinction": {
+      "between": ["liver-blood-deficiency", "liver-yin-deficiency"],
+      "key": "A pale tongue with no Heat signs indicates Blood deficiency (nourish Blood); a red tongue with little coating plus Empty Heat signs indicates Yin deficiency (nourish Yin, clear Empty Heat)."
+    },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Liver patterns" },
+      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Zang-Fu syndrome differentiation" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0009",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 67-year-old woman reports a fine tremor of the hands and intermittent twitching of the eyelids for four months, with numbness of the limbs, dizziness, and dry, itchy skin. She has had a poor appetite and lost weight after a prolonged illness. There is no fever or headache. The tongue is pale and thin with a scanty coating. The pulse is thin (thready) and slightly wiry. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear Heat and extinguish Wind",
+      "B": "nourish Yin, subdue Yang, and extinguish Wind",
+      "C": "invigorate Blood and dispel Wind from the channels",
+      "D": "nourish Blood and extinguish Wind"
+    },
+    "correct": "D",
+    "explanation": "This is Liver Wind arising from Blood deficiency: fine tremor, eyelid twitching, numbness, dry itchy skin, and dizziness after a debilitating illness, with a pale thin tongue and a thin pulse. Deficient Blood fails to nourish the sinews, generating internal Wind. The principle is to nourish Blood (root) and extinguish Wind (branch).",
+    "distractorExplanations": {
+      "A": "Wind from extreme Heat presents acutely with high fever, convulsions, a deep red tongue, and a rapid pulse; there is no fever and the tongue is pale.",
+      "B": "Wind from Liver Yang rising shows a red tongue, a wiry forceful pulse, severe headache, and possibly sudden collapse; the pale tongue and thin pulse point to Blood deficiency rather than Yin deficiency with rising Yang.",
+      "C": "Invigorating Blood and dispelling Wind targets stasis or external Wind in the channels, which would show a purple tongue or acute onset with exterior signs; the mechanism here is deficiency, and dispersing would deplete further."
+    },
+    "learningObjective": "Differentiate the three mechanisms of internal Liver Wind and formulate the principle for Wind arising from Blood deficiency.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["liver-wind", "liver-blood-deficiency", "extreme-heat-generating-wind"],
+    "distinction": {
+      "between": ["liver-wind-from-blood-deficiency", "liver-wind-from-yang-rising"],
+      "key": "A pale thin tongue with a thin pulse and fine tremor shows Wind from Blood deficiency (nourish Blood); a red tongue with a forceful wiry pulse and violent movement shows Wind from Yang rising (nourish Yin, subdue Yang)."
+    },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Liver patterns" },
+      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Zang-Fu" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0010",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 38-year-old woman reports alternating constipation and loose stools for a year, with abdominal distension and borborygmi that flare after arguments with her partner. She has hypochondrial distension, frequent sighing, poor appetite, and fatigue. The tongue is pale with a thin white coating. The pulse is wiry on the left and weak on the right. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "soothe the Liver and strengthen the Spleen",
+      "B": "tonify Spleen Qi and resolve Dampness",
+      "C": "soothe the Liver and regulate Qi",
+      "D": "clear Damp-Heat from the Large Intestine"
+    },
+    "correct": "A",
+    "explanation": "This is Liver Qi invading the Spleen (Liver-Spleen disharmony). The Liver component is shown by emotional triggering, hypochondrial distension, sighing, and a wiry left pulse; the Spleen component by poor appetite, fatigue, a pale tongue, and a weak right pulse; the alternating bowel habit with borborygmi is the sign of the two interacting. The principle addresses both: soothe the Liver and strengthen the Spleen.",
+    "distractorExplanations": {
+      "B": "Tonifying the Spleen and resolving Dampness treats the Spleen alone; it ignores the emotional trigger, hypochondrial distension, and wiry left pulse that show the Liver is the aggressor.",
+      "C": "Soothing the Liver alone addresses the stagnation but leaves the deficient Spleen (fatigue, poor appetite, pale tongue, weak right pulse) unsupported, so the Liver will keep overacting on it.",
+      "D": "Large Intestine Damp-Heat shows burning diarrhea with mucus, a yellow greasy coating, and a slippery rapid pulse; this is a chronic Cold-neutral deficiency-and-stagnation pattern."
+    },
+    "learningObjective": "Formulate the treatment principle for Liver Qi invading the Spleen.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["liver-invading-spleen", "liver-qi-stagnation", "spleen-qi-deficiency"],
+    "distinction": {
+      "between": ["liver-invading-spleen", "liver-qi-stagnation"],
+      "key": "Bowel changes and digestive weakness (pale tongue, weak right pulse) added to a Liver Qi stagnation picture mean the Spleen must be strengthened alongside soothing the Liver."
+    },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Combined patterns of the Internal Organs" },
+      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Zang-Fu" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0011",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 47-year-old man reports fixed, burning pain in the right hypochondrium for two weeks with nausea, a bitter taste, poor appetite, and a feeling of heaviness. His sclera have a yellow tinge, his urine is dark and scanty, and he has a low-grade fever that comes and goes. The tongue is red with a greasy yellow coating. The pulse is wiry, slippery, and rapid. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear Liver Fire and drain downward",
+      "B": "clear Damp-Heat from the Liver and Gallbladder",
+      "C": "soothe the Liver and regulate Qi",
+      "D": "tonify the Spleen and resolve Dampness"
+    },
+    "correct": "B",
+    "explanation": "This is Damp-Heat in the Liver and Gallbladder: fixed hypochondrial pain, bitter taste, nausea, yellow sclera, dark scanty urine, a fluctuating fever, heaviness, and a red tongue with a greasy yellow coating and a wiry slippery rapid pulse. Heat alone does not produce heaviness, greasy coating, or jaundice; Dampness alone does not produce a red tongue or rapid pulse. The principle is to clear Heat and resolve Dampness from the Liver and Gallbladder.",
+    "distractorExplanations": {
+      "A": "Clearing Liver Fire addresses Heat without Dampness; it would fit a dry yellow coating with red eyes and headache, but cannot resolve the greasy coating, heaviness, and jaundice.",
+      "C": "Soothing the Liver treats Qi stagnation, which shows distension that moves and a normal tongue; fixed burning pain with a greasy yellow coating is a Damp-Heat obstruction, not simple stagnation.",
+      "D": "Tonifying the Spleen and resolving Dampness suits Spleen deficiency with Dampness (pale tongue, white greasy coating, weak pulse); the red tongue, yellow coating, and rapid pulse show excess Heat that tonification would aggravate."
+    },
+    "learningObjective": "Formulate the treatment principle for Liver-Gallbladder Damp-Heat.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["liver-gallbladder-damp-heat", "liver-fire-blazing", "greasy-yellow-coating"],
+    "distinction": {
+      "between": ["liver-gallbladder-damp-heat", "liver-fire-blazing"],
+      "key": "A greasy yellow coating with heaviness and jaundice signals Dampness combined with Heat; a dry yellow coating with red eyes and headache signals Fire alone."
+    },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Liver patterns; Gallbladder patterns" },
+      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Zang-Fu" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0012",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 36-year-old woman reports palpitations and difficulty falling asleep for three months with dream-disturbed sleep, poor memory, and mild anxiety. She is easily startled, has a dull pale complexion, and feels dizzy when she stands up quickly. She denies night sweats or heat sensations. The tongue is pale and thin with a thin white coating. The pulse is thin (thready) and slightly choppy. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "nourish Heart Yin and clear Empty Heat",
+      "B": "tonify Heart Qi and calm the Shen",
+      "C": "nourish Heart Blood and calm the Shen",
+      "D": "clear Heart Fire and calm the Shen"
+    },
+    "correct": "C",
+    "explanation": "This is Heart Blood deficiency: palpitations, difficulty falling asleep, dream-disturbed sleep, poor memory, anxiety, being easily startled, dizziness, a pale dull complexion, a pale thin tongue, and a thin choppy pulse. Blood fails to anchor the Shen. The principle is to nourish Heart Blood and calm the Shen.",
+    "distractorExplanations": {
+      "A": "Heart Yin deficiency shares the insomnia and palpitations but adds Empty Heat (night sweats, feeling of heat, malar flush, a red tongue tip with no coating, a thin rapid pulse); the patient explicitly denies these and the tongue is pale.",
+      "B": "Heart Qi deficiency shows palpitations on exertion, shortness of breath, spontaneous sweating, and an empty pulse, without the Blood signs of pale complexion, dizziness, and choppy pulse.",
+      "D": "Heart Fire shows agitation, mouth ulcers, thirst, a red tongue tip with yellow coating, and a rapid full pulse; this patient is deficient and Cold-neutral."
+    },
+    "learningObjective": "Formulate the treatment principle for Heart Blood deficiency and distinguish it from Heart Yin deficiency.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["heart-blood-deficiency", "heart-yin-deficiency", "calm-the-shen"],
+    "distinction": {
+      "between": ["heart-blood-deficiency", "heart-yin-deficiency"],
+      "key": "A pale tongue with no Empty Heat signs points to Blood deficiency; a red peeled tongue with night sweats and five-palm heat points to Yin deficiency."
+    },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Heart patterns" },
+      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Zang-Fu syndrome differentiation" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0013",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 49-year-old woman reports waking several times each night with palpitations and a feeling of heat in her chest for five months. She has night sweats, a dry mouth and throat, a flushed appearance over the cheekbones in the evening, warmth in the palms and soles, and restlessness. The tongue is red, especially at the tip, with no coating. The pulse is thin (thready) and rapid. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "nourish Heart Yin and calm the Shen",
+      "B": "nourish Heart Blood and calm the Shen",
+      "C": "clear Heart Fire and calm the Shen",
+      "D": "clear Phlegm-Heat and open the Heart orifices"
+    },
+    "correct": "A",
+    "explanation": "This is Heart Yin deficiency with Empty Heat: palpitations and frequent waking, night sweats, dry mouth, malar flush, five-palm heat, restlessness, a red peeled tongue with a redder tip, and a thin rapid pulse. The deficient Yin fails to anchor the Shen and produces Empty Heat. The principle is to nourish Heart Yin (which also clears Empty Heat) and calm the Shen.",
+    "distractorExplanations": {
+      "B": "Heart Blood deficiency causes difficulty falling asleep with a pale tongue and no Heat signs; the red peeled tongue, night sweats, and five-palm heat show Yin deficiency with Empty Heat.",
+      "C": "Clearing Heart Fire treats full Heat, which shows a red tongue with a yellow coating, mouth ulcers, thirst for cold drinks, and a rapid full or overflowing pulse; here the tongue has no coating and the pulse is thin, so cold draining methods would injure Yin further.",
+      "D": "Phlegm-Heat harassing the Heart shows a sticky yellow coating, a slippery rapid pulse, mental confusion or agitation, and chest oppression; there is no Phlegm sign here."
+    },
+    "learningObjective": "Formulate the treatment principle for Heart Yin deficiency with Empty Heat.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["heart-yin-deficiency", "empty-heat", "heart-fire-blazing"],
+    "distinction": {
+      "between": ["heart-yin-deficiency", "heart-fire-blazing"],
+      "key": "A red tongue with no coating and a thin rapid pulse means Empty Heat from Yin deficiency (nourish Yin); a red tongue with a yellow coating and a full rapid pulse means Full Fire (clear Fire)."
+    },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Heart patterns" },
+      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Zang-Fu" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0014",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 33-year-old man reports burning pain on urination with dark, scanty urine for four days, and he noticed a small amount of blood in the urine this morning. Over the past two weeks he has had painful ulcers on the tip of the tongue, insomnia with agitation, thirst for cold drinks, and a feeling of heat in the chest. The tongue is red with a redder tip and a thin yellow coating. The pulse is rapid and overflowing. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear Damp-Heat from the Bladder",
+      "B": "nourish Kidney Yin and clear Empty Heat",
+      "C": "clear Heat and cool Blood to stop bleeding",
+      "D": "clear Heart Fire and drain Heat through the Small Intestine"
+    },
+    "correct": "D",
+    "explanation": "This is Heart Fire transmitted to the Small Intestine. The Heart Fire signs (tongue-tip ulcers, insomnia with agitation, heat in the chest, thirst, a red tip, a rapid overflowing pulse) preceded the urinary signs; Fire has passed along the interior-exterior pairing to the Small Intestine and shows as burning, dark urine with blood. The principle is to clear Heart Fire and drain Heat downward through the Small Intestine.",
+    "distractorExplanations": {
+      "A": "Bladder Damp-Heat would show a greasy yellow coating, a slippery rapid pulse, and urinary urgency with turbid urine, without the Heart signs; the two-week history of tongue ulcers and agitation shows the Heat originates in the Heart.",
+      "B": "Kidney Yin deficiency with Empty Heat would show a red tongue with no coating, a thin rapid pulse, night sweats, and lower back soreness; the overflowing pulse and coated tongue indicate Full Heat.",
+      "C": "Cooling Blood addresses the symptom of bleeding without treating the source; the bleeding is minor and secondary to the Fire, so this principle is incomplete."
+    },
+    "learningObjective": "Formulate the treatment principle when Heart Fire is transmitted to the Small Intestine, distinguishing it from Bladder Damp-Heat.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["heart-fire-blazing", "small-intestine-heat", "bladder-damp-heat"],
+    "distinction": {
+      "between": ["heart-fire-transmitted-to-small-intestine", "bladder-damp-heat"],
+      "key": "Tongue-tip ulcers, agitation, and an overflowing pulse preceding the urinary burning show Heat coming from the Heart; a greasy coating with urgency and turbid urine and no Heart signs shows Damp-Heat lodged in the Bladder."
+    },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Heart patterns; Small Intestine patterns" },
+      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Zang-Fu" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0015",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 70-year-old man reports palpitations and shortness of breath on mild exertion for a year, with a feeling of oppression in the chest, cold hands, and a bright pale complexion. He feels tired, sweats spontaneously, and prefers warm drinks. The tongue is pale and slightly purplish with a thin white coating. The pulse is deep and weak. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "tonify Heart Qi and calm the Shen",
+      "B": "warm and tonify Heart Yang",
+      "C": "invigorate Blood and dispel stasis in the chest",
+      "D": "warm Kidney Yang and resolve water"
+    },
+    "correct": "B",
+    "explanation": "This is Heart Yang deficiency: the Heart Qi deficiency base (palpitations on exertion, shortness of breath, spontaneous sweating, tiredness) is combined with Cold signs (cold hands, bright pale complexion, preference for warm drinks, a slightly purplish pale tongue, a deep weak pulse). The slight purplish color comes from Yang failing to move Blood. The principle is to warm and tonify Heart Yang.",
+    "distractorExplanations": {
+      "A": "Tonifying Heart Qi alone fits the picture without Cold: palpitations, shortness of breath, and sweating with a pale tongue and an empty pulse; the cold hands, bright pale face, and deep pulse require warming Yang.",
+      "C": "Invigorating Blood is appropriate when stasis dominates with stabbing chest pain, a frankly purple tongue, and a choppy or knotted pulse; here the purplish tinge is mild and secondary to Yang deficiency, and dispersing methods alone would further weaken Yang.",
+      "D": "Warming Kidney Yang and resolving water is for Kidney Yang deficiency with edema, cold lower back, and abundant clear urine; this patient's findings center on the chest."
+    },
+    "learningObjective": "Formulate the treatment principle for Heart Yang deficiency and distinguish it from Heart Qi deficiency.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["heart-yang-deficiency", "heart-qi-deficiency", "heart-blood-stasis"],
+    "distinction": {
+      "between": ["heart-yang-deficiency", "heart-qi-deficiency"],
+      "key": "Cold signs (cold limbs, bright pale complexion, deep pulse) added to Heart Qi deficiency indicate Yang deficiency and call for warming."
+    },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Heart patterns" },
+      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Zang-Fu syndrome differentiation" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0016",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 27-year-old man is brought in by his family after two weeks of agitation, shouting, and incoherent speech with very little sleep. He has a feeling of oppression in the chest, expectorates sticky yellow sputum, has a bitter taste, and his face is red. The tongue is red with a sticky yellow coating. The pulse is slippery, rapid, and full. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear Heart Fire and calm the Shen",
+      "B": "resolve Phlegm and open the Heart orifices",
+      "C": "clear Heat, resolve Phlegm, and open the Heart orifices",
+      "D": "clear Liver Fire and subdue Yang"
+    },
+    "correct": "C",
+    "explanation": "This is Phlegm-Heat harassing the Heart: the mental signs (agitation, shouting, incoherence, insomnia) show the Shen is disturbed, the sticky yellow sputum, chest oppression, sticky yellow coating, and slippery pulse show Phlegm, and the red face, bitter taste, red tongue, and rapid full pulse show Heat. The principle must address all three components: clear Heat, resolve Phlegm, and open the Heart orifices.",
+    "distractorExplanations": {
+      "A": "Clearing Heart Fire alone addresses the Heat but leaves the Phlegm (sticky coating, sputum, slippery pulse) obstructing the orifices, so the mental symptoms would persist.",
+      "B": "Resolving Phlegm and opening the orifices without clearing Heat is the principle for Phlegm misting the Heart, a Cold-neutral pattern with dullness, withdrawal, muttering, a white sticky coating, and a slippery but not rapid pulse.",
+      "D": "Liver Fire causes anger, headache, and red eyes with a wiry rapid pulse and a dry yellow coating; the sticky coating, sputum, and slippery pulse show Phlegm, and the disturbance is of the Heart Shen."
+    },
+    "learningObjective": "Differentiate Phlegm-Heat harassing the Heart from Phlegm misting the Heart and from Heart Fire, and formulate the corresponding principle.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["phlegm-heat-harassing-heart", "phlegm-misting-heart", "heart-fire-blazing"],
+    "distinction": {
+      "between": ["phlegm-heat-harassing-heart", "phlegm-misting-heart"],
+      "key": "Agitation with a yellow sticky coating and a rapid pulse means Phlegm with Heat (clear Heat as well as resolve Phlegm); dullness with a white sticky coating and a non-rapid slippery pulse means Phlegm without Heat."
+    },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Heart patterns" },
+      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Zang-Fu" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0017",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 55-year-old woman reports insomnia with frequent waking and vivid dreams for eight months, palpitations, and mental restlessness. She also has soreness and weakness of the lower back and knees, tinnitus, night sweats, a dry throat, and a feeling of heat in the evenings. The tongue is red with a redder tip and no coating. The pulse is thin (thready) and rapid, weak at the proximal (rear) positions. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear Heart Fire and drain Heat downward",
+      "B": "nourish Heart Blood and tonify Spleen Qi",
+      "C": "warm Kidney Yang and tonify Heart Qi",
+      "D": "nourish Yin, clear Empty Heat, and harmonize Heart and Kidney"
+    },
+    "correct": "D",
+    "explanation": "This is disharmony between Heart and Kidney (Heart and Kidney Yin deficiency with Empty Heat flaring in the Heart). The Kidney Yin deficiency (sore back and knees, tinnitus, night sweats, weak rear positions) fails to control Heart Fire, giving insomnia, palpitations, restlessness, a red tip, and a thin rapid pulse. The principle is to nourish Yin, clear Empty Heat, and restore the communication between Heart and Kidney.",
+    "distractorExplanations": {
+      "A": "Clearing Heart Fire with draining methods treats Full Heat; a peeled tongue, thin pulse, and weak rear positions show the Heat is Empty and arises from deficient Kidney Water, which draining would further deplete.",
+      "B": "Nourishing Heart Blood and tonifying the Spleen treats Heart and Spleen deficiency, which shows a pale tongue, poor appetite, and loose stools with no Heat signs.",
+      "C": "Warming Kidney Yang is contraindicated by the night sweats, red peeled tongue, and rapid pulse; this is Yin deficiency, and warming would aggravate the Empty Heat."
+    },
+    "learningObjective": "Formulate the treatment principle for Heart and Kidney not harmonized.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["heart-kidney-not-harmonized", "kidney-yin-deficiency", "heart-yin-deficiency"],
+    "distinction": {
+      "between": ["heart-kidney-not-harmonized", "heart-fire-blazing"],
+      "key": "Lower back and knee weakness, tinnitus, and a peeled tongue with weak rear pulse positions show the Heart Heat is Empty and rooted in Kidney Yin deficiency, so Yin must be nourished rather than Fire drained."
+    },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Combined patterns of the Internal Organs" },
+      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Zang-Fu syndrome differentiation" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0018",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 63-year-old man reports a weak cough with thin white sputum for several months, shortness of breath that worsens on exertion, a low voice, and sweating on slight activity. He catches colds easily. The tongue is pale with a thin white coating. The pulse is empty (deficient). Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "tonify Lung Qi and consolidate the exterior",
+      "B": "nourish Lung Yin and moisten Dryness",
+      "C": "release the exterior and disperse Wind-Cold",
+      "D": "clear Heat and resolve Phlegm from the Lung"
+    },
+    "correct": "A",
+    "explanation": "This is Lung Qi deficiency: a weak cough with thin white sputum, shortness of breath on exertion, a low voice, spontaneous sweating, susceptibility to colds (weak Defensive Qi), a pale tongue, and an empty pulse. The principle is to tonify Lung Qi and consolidate the exterior.",
+    "distractorExplanations": {
+      "B": "Lung Yin deficiency shows a dry cough with little or sticky sputum, a dry throat, night sweats, a red tongue with little coating, and a thin rapid pulse; here the sputum is thin and white and the tongue is pale.",
+      "C": "Releasing the exterior is for an acute external invasion with aversion to cold, fever, and a floating pulse; this is a chronic deficiency without exterior signs.",
+      "D": "Clearing Heat and resolving Phlegm requires yellow sputum, a yellow coating, and a slippery rapid pulse; the findings here are Cold-neutral and deficient."
+    },
+    "learningObjective": "Identify the treatment principle for Lung Qi deficiency.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": ["lung-qi-deficiency", "empty-pulse", "consolidate-the-exterior"],
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Lung patterns" },
+      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Zang-Fu" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0019",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 58-year-old woman reports a dry, tickling cough for four months with scanty sticky sputum that is occasionally streaked with blood. She has a dry mouth and throat that worsen in the afternoon, hoarseness, night sweats, and a feeling of heat in the palms and soles. The tongue is red and dry with little coating. The pulse is thin (thready) and rapid. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear Heat and resolve Phlegm from the Lung",
+      "B": "tonify Lung Qi and consolidate the exterior",
+      "C": "nourish Lung Yin and clear Empty Heat",
+      "D": "disperse Wind-Dryness and moisten the Lung"
+    },
+    "correct": "C",
+    "explanation": "This is Lung Yin deficiency with Empty Heat: a chronic dry cough with scanty sticky sputum, blood-streaked sputum from Empty Heat injuring the vessels, afternoon dryness, hoarseness, night sweats, five-palm heat, a red dry tongue with little coating, and a thin rapid pulse. The principle is to nourish Lung Yin and clear Empty Heat.",
+    "distractorExplanations": {
+      "A": "Phlegm-Heat in the Lung shows a loud cough with copious yellow sputum, a sticky yellow coating, and a slippery rapid pulse; here sputum is scanty and the tongue is peeled.",
+      "B": "Lung Qi deficiency shows a weak cough with thin white sputum, spontaneous daytime sweating, a pale tongue, and an empty pulse, with no Heat signs.",
+      "D": "External Dryness invading the Lung is an acute pattern with a dry cough, dry nose, slight fever, and a floating pulse; the four-month duration, night sweats, five-palm heat, and peeled red tongue show interior Yin deficiency."
+    },
+    "learningObjective": "Formulate the treatment principle for Lung Yin deficiency and distinguish it from external Dryness and from Phlegm-Heat.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["lung-yin-deficiency", "empty-heat", "lung-dryness"],
+    "distinction": {
+      "between": ["lung-yin-deficiency", "lung-dryness-external"],
+      "key": "A chronic course with night sweats, five-palm heat, and a red peeled tongue indicates interior Yin deficiency; an acute course with mild exterior signs and a floating pulse indicates external Dryness."
+    },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Lung patterns" },
+      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Zang-Fu syndrome differentiation" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0020",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 42-year-old man reports a barking cough for five days with copious thick yellow sputum that is difficult to expectorate, wheezing, chest pain on coughing, fever, thirst, and a flushed face. His breath is foul. The tongue is red with a sticky yellow coating. The pulse is slippery and rapid. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "dry Dampness and resolve Phlegm in the Lung",
+      "B": "clear Heat, resolve Phlegm, and restore the descending of Lung Qi",
+      "C": "nourish Lung Yin and moisten Dryness",
+      "D": "release the exterior and disperse Wind-Heat"
+    },
+    "correct": "B",
+    "explanation": "This is Phlegm-Heat in the Lung: a loud cough with copious thick yellow sputum, wheezing, chest pain, fever, thirst, flushed face, foul breath, a red tongue with a sticky yellow coating, and a slippery rapid pulse. The principle is to clear Heat, resolve Phlegm, and restore the descending function of the Lung so that the cough and wheeze settle.",
+    "distractorExplanations": {
+      "A": "Drying Dampness and resolving Phlegm without clearing Heat is the principle for Damp-Phlegm in the Lung, which has copious white sputum, a sticky white coating, and a slippery but not rapid pulse.",
+      "C": "Nourishing Lung Yin is for a dry cough with scanty sputum and a peeled red tongue; moistening methods would feed the copious Phlegm here.",
+      "D": "Wind-Heat invading the Lung is an exterior pattern with sore throat, slight aversion to cold, a thin yellow coating, and a floating rapid pulse; the thick sticky coating, copious sputum, and slippery pulse show Phlegm-Heat lodged in the interior."
+    },
+    "learningObjective": "Formulate the treatment principle for Phlegm-Heat in the Lung and distinguish it from Damp-Phlegm in the Lung.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["phlegm-heat-in-lung", "damp-phlegm-in-lung", "wind-heat-invading-lung"],
+    "distinction": {
+      "between": ["phlegm-heat-in-lung", "damp-phlegm-in-lung"],
+      "key": "Yellow sputum with a yellow sticky coating, fever, and a rapid pulse mean Heat must be cleared along with Phlegm; white sputum with a white sticky coating and no rapid pulse mean Dampness is dried and Phlegm resolved without clearing Heat."
+    },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Lung patterns" },
+      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Zang-Fu" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0021",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 66-year-old man reports swelling of both ankles and legs for three months that pits on pressure and is worse in the evening. He has scanty urination, a cold sensation in the lower back and knees, cold feet, fatigue, and a bright pale complexion. His abdomen feels full and cold. The tongue is pale, swollen, and wet with a white coating. The pulse is deep, slow, and weak, especially at the proximal (rear) positions. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "warm Kidney Yang and resolve water",
+      "B": "tonify Spleen Qi and resolve Dampness",
+      "C": "tonify and consolidate Kidney Qi",
+      "D": "clear Damp-Heat from the Bladder and promote urination"
+    },
+    "correct": "A",
+    "explanation": "This is Kidney Yang deficiency with water overflowing: pitting edema of the legs, scanty urination, cold lower back and knees, cold feet, a bright pale face, a pale swollen wet tongue, and a deep slow weak pulse weakest at the rear positions. Deficient Kidney Yang fails to transform and excrete water, which accumulates below. The principle is to warm Kidney Yang (root) and resolve water (branch).",
+    "distractorExplanations": {
+      "B": "Spleen Qi deficiency with Dampness can cause edema, but it centers on the digestion (poor appetite, loose stools) with a weak pulse that is not specifically deep and slow; the cold lower back, scanty urine, and weak rear positions place the root in the Kidney, and Qi tonification alone will not warm Yang.",
+      "C": "Consolidating Kidney Qi treats Kidney Qi not firm, which shows leakage (frequent urination, dribbling, nocturia, spermatorrhea); here urine is scanty and retained, the opposite problem.",
+      "D": "Clearing Damp-Heat from the Bladder is for burning, urgent, turbid urination with a yellow greasy coating and a rapid pulse; all findings here are Cold and deficient."
+    },
+    "learningObjective": "Formulate the treatment principle for Kidney Yang deficiency with water overflowing.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["kidney-yang-deficiency", "water-overflowing", "spleen-qi-deficiency"],
+    "distinction": {
+      "between": ["kidney-yang-deficiency-water-overflowing", "kidney-qi-not-firm"],
+      "key": "Scanty urine with edema shows Yang failing to transform water (warm Yang, resolve water); copious or dribbling urine shows Qi failing to hold (consolidate Kidney Qi)."
+    },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Kidney patterns" },
+      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Zang-Fu" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0022",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 50-year-old woman reports dizziness and tinnitus for a year, with soreness of the lower back and knees, night sweats, a dry mouth at night, hot flushes in the afternoon, scanty dark urine, and constipation with dry stools. The tongue is red with no coating and has a crack in the center. The pulse is thin (thready) and rapid, weak at the proximal (rear) positions. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "warm Kidney Yang and tonify Kidney Qi",
+      "B": "tonify Kidney Essence and strengthen the bones",
+      "C": "clear Kidney Fire and drain Damp-Heat from the lower burner",
+      "D": "nourish Kidney Yin and clear Empty Heat"
+    },
+    "correct": "D",
+    "explanation": "This is Kidney Yin deficiency with Empty Heat: dizziness and tinnitus, sore back and knees, night sweats, dry mouth at night, afternoon flushes, scanty dark urine, dry stools, a red cracked tongue with no coating, and a thin rapid pulse weak at the rear positions. The principle is to nourish Kidney Yin and clear Empty Heat (strengthening Water to control Fire).",
+    "distractorExplanations": {
+      "A": "Warming Kidney Yang would fit cold lower back, cold limbs, abundant clear urine, a pale tongue, and a deep slow pulse; this patient shows Heat and dryness, and warming would injure Yin.",
+      "B": "Essence deficiency manifests as developmental, reproductive, or degenerative signs (poor memory, weak bones and teeth, infertility, premature aging) without the clear Empty Heat picture of night sweats, flushes, and a red peeled tongue.",
+      "C": "There is no Full Heat or Dampness to drain: the tongue has no coating, the pulse is thin rather than full, and the urine is scanty without burning or turbidity; draining methods would deplete Yin further."
+    },
+    "learningObjective": "Formulate the treatment principle for Kidney Yin deficiency with Empty Heat.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["kidney-yin-deficiency", "empty-heat", "kidney-yang-deficiency"],
+    "distinction": {
+      "between": ["kidney-yin-deficiency", "kidney-yang-deficiency"],
+      "key": "Night sweats, afternoon heat, scanty dark urine, and a red peeled tongue with a thin rapid pulse mean Yin deficiency to nourish; cold back, abundant clear urine, and a pale tongue with a deep slow pulse mean Yang deficiency to warm."
+    },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Kidney patterns" },
+      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Zang-Fu syndrome differentiation" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0023",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 72-year-old man reports frequent urination with dribbling after voiding and getting up four times a night to urinate for a year. The urine is clear. He has mild soreness and weakness of the lower back and feels tired, but he denies feeling cold and has no edema. The tongue is pale with a thin white coating. The pulse is deep and weak at the proximal (rear) positions. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "warm Kidney Yang and resolve water",
+      "B": "tonify and consolidate Kidney Qi",
+      "C": "tonify Spleen Qi and raise the Yang",
+      "D": "clear Damp-Heat from the Bladder"
+    },
+    "correct": "B",
+    "explanation": "This is Kidney Qi not firm: chronic urinary frequency, dribbling after voiding, nocturia, clear urine, lower back weakness, a pale tongue, and a deep weak pulse at the rear positions, in an elderly patient. The Kidney Qi fails to hold the lower orifices. The principle is to tonify and consolidate (astringe) Kidney Qi. The absence of pronounced Cold signs or edema keeps this short of full Kidney Yang deficiency.",
+    "distractorExplanations": {
+      "A": "Warming Yang and resolving water is for Kidney Yang deficiency with edema and scanty urine; here urine is copious and there is no edema or notable Cold, so the principle is consolidating rather than warming and draining.",
+      "C": "Raising the Yang treats Spleen Qi sinking, which presents with a bearing-down sensation, prolapse, and loose stools; this leakage is of urine with a Kidney-position pulse and back weakness.",
+      "D": "Bladder Damp-Heat produces burning, urgent, dark or turbid urine with a yellow greasy coating and a rapid pulse; the urine here is clear and the findings deficient."
+    },
+    "learningObjective": "Formulate the treatment principle for Kidney Qi not firm and distinguish it from Kidney Yang deficiency.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["kidney-qi-not-firm", "kidney-yang-deficiency", "spleen-qi-sinking"],
+    "distinction": {
+      "between": ["kidney-qi-not-firm", "kidney-yang-deficiency"],
+      "key": "Leakage of clear urine without marked Cold signs or edema calls for consolidating Kidney Qi; cold back and limbs with edema and scanty urine call for warming Kidney Yang."
+    },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Kidney patterns" },
+      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Zang-Fu" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0024",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 69-year-old woman with a long history of breathing difficulty reports shortness of breath that is worse on exertion for two years. Inhalation is more difficult than exhalation, and she cannot take a deep breath. She sweats on slight activity, has a sore lower back, cold limbs, and frequent clear urination, and her face is pale. The tongue is pale with a thin white coating. The pulse is deep and weak. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "tonify Lung Qi and consolidate the exterior",
+      "B": "clear Heat, resolve Phlegm, and restore the descending of Lung Qi",
+      "C": "tonify the Kidney to receive Qi",
+      "D": "nourish Lung Yin and moisten Dryness"
+    },
+    "correct": "C",
+    "explanation": "This is Kidney failing to receive Qi: chronic shortness of breath worse on exertion with difficulty on inhalation rather than exhalation, sweating on exertion, together with Kidney signs (sore lower back, cold limbs, frequent clear urination, deep weak pulse). The Lung sends Qi down, but the deficient Kidney cannot grasp it. The principle is to tonify the Kidney (warming Kidney Yang) so that it can receive and anchor Qi.",
+    "distractorExplanations": {
+      "A": "Tonifying Lung Qi alone addresses the upper burner; the difficulty on inhalation, sore back, frequent clear urination, and deep pulse show the Kidney is the organ failing to anchor the breath.",
+      "B": "Phlegm-Heat would show copious yellow sputum, a sticky yellow coating, and a slippery rapid pulse; the findings here are deficient and Cold.",
+      "D": "Lung Yin deficiency shows a dry cough, dry throat, night sweats, a red peeled tongue, and a thin rapid pulse; the pale tongue and cold limbs point to Yang and Qi deficiency instead."
+    },
+    "learningObjective": "Formulate the treatment principle for Kidney failing to receive Qi and distinguish it from Lung Qi deficiency.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["kidney-not-receiving-qi", "lung-qi-deficiency", "kidney-yang-deficiency"],
+    "distinction": {
+      "between": ["kidney-not-receiving-qi", "lung-qi-deficiency"],
+      "key": "Difficulty on inhalation with lower back soreness, frequent clear urination, and a deep weak pulse places the root in the Kidney; a weak cough and voice with susceptibility to colds and an empty pulse places it in the Lung."
+    },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Kidney patterns" },
+      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Zang-Fu syndrome differentiation" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0025",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 54-year-old man reports a dull burning sensation in the epigastrium for six months, with a feeling of hunger but no desire to eat, dry mouth that is worse in the afternoon, dry stools, and occasional dry retching. He has lost weight. The tongue is red in the center with a peeled coating in that area. The pulse is thin (thready) and slightly rapid. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear Stomach Fire and drain downward",
+      "B": "tonify Spleen Qi and harmonize the Stomach",
+      "C": "reduce food stagnation and harmonize the Stomach",
+      "D": "nourish Stomach Yin and generate Fluids"
+    },
+    "correct": "D",
+    "explanation": "This is Stomach Yin deficiency: a dull (not burning-severe) epigastric discomfort, hunger without the desire to eat, afternoon dry mouth, dry stools, dry retching, weight loss, a tongue red and peeled in the center (the Stomach area), and a thin slightly rapid pulse. The principle is to nourish Stomach Yin and generate Fluids.",
+    "distractorExplanations": {
+      "A": "Stomach Fire shows intense burning pain, excessive hunger with eating, thirst for cold drinks, bleeding gums, bad breath, a thick dry yellow coating, and a full rapid pulse; the peeled tongue and thin pulse show deficiency, and draining would damage Yin further.",
+      "B": "Spleen Qi deficiency shows poor appetite with loose stools, fatigue, a pale tongue, and a weak pulse; the dryness, hunger, and red peeled center point to deficient Stomach Yin, not Qi.",
+      "C": "Retention of Food shows epigastric fullness and pain after eating, sour regurgitation, foul belching, a thick greasy coating, and a slippery full pulse; there is no overeating history and the tongue is peeled."
+    },
+    "learningObjective": "Formulate the treatment principle for Stomach Yin deficiency and distinguish it from Stomach Fire.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["stomach-yin-deficiency", "stomach-fire", "peeled-coating"],
+    "distinction": {
+      "between": ["stomach-yin-deficiency", "stomach-fire"],
+      "key": "Hunger without desire to eat and a peeled red center with a thin pulse mean Yin deficiency (nourish Yin); ravenous hunger with a thick dry yellow coating and a full rapid pulse mean Full Fire (clear Fire)."
+    },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Stomach patterns" },
+      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Zang-Fu" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0026",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 30-year-old man reports a burning pain in the epigastrium for three weeks with constant hunger, thirst for cold drinks, bleeding and swollen gums, bad breath, and constipation. The tongue is red with a thick dry yellow coating. The pulse is rapid and full. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear Stomach Fire and drain downward",
+      "B": "nourish Stomach Yin and generate Fluids",
+      "C": "clear Liver Fire and harmonize the Stomach",
+      "D": "warm the Stomach and dispel Cold"
+    },
+    "correct": "A",
+    "explanation": "This is Stomach Fire (Stomach Heat): burning epigastric pain, excessive hunger, thirst for cold drinks, bleeding swollen gums (the Stomach channel reaches the gums), bad breath, constipation, a red tongue with a thick dry yellow coating, and a full rapid pulse. The principle is to clear Stomach Fire and drain it downward.",
+    "distractorExplanations": {
+      "B": "Stomach Yin deficiency produces a dull discomfort with hunger but no desire to eat, a peeled tongue center, and a thin pulse; the thick coating and full pulse show excess Fire.",
+      "C": "Liver Fire produces headache, red eyes, irritability, and hypochondrial pain with a wiry pulse; the gum bleeding, bad breath, and constant hunger localize the Fire to the Stomach.",
+      "D": "Cold in the Stomach causes pain relieved by warmth, vomiting of clear fluid, no thirst, a white coating, and a slow or tight pulse; every finding here is Heat."
+    },
+    "learningObjective": "Identify the treatment principle for Stomach Fire.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": ["stomach-fire", "full-heat", "stomach-yin-deficiency"],
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Stomach patterns" },
+      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Zang-Fu" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0027",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 26-year-old woman reports diarrhea for three days with foul-smelling stools containing mucus and streaks of blood, abdominal pain, a burning sensation in the anus, urgency, and a feeling of incomplete evacuation. She is thirsty and has scanty dark urine. The tongue is red with a greasy yellow coating. The pulse is slippery and rapid. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "tonify Spleen Qi and stop diarrhea",
+      "B": "clear Damp-Heat from the Large Intestine",
+      "C": "warm the Middle and dispel Cold-Damp",
+      "D": "moisten the Intestines and nourish the Blood"
+    },
+    "correct": "B",
+    "explanation": "This is Damp-Heat in the Large Intestine: acute diarrhea with mucus and blood, foul odor, burning anus, urgency and tenesmus, thirst, dark urine, a red tongue with a greasy yellow coating, and a slippery rapid pulse. The principle is to clear Heat and resolve Dampness from the Large Intestine.",
+    "distractorExplanations": {
+      "A": "Spleen Qi deficiency diarrhea is chronic, with loose stools containing undigested food, no odor or burning, a pale tongue, and a weak pulse; tonifying here would trap the Damp-Heat.",
+      "C": "Cold-Damp diarrhea is watery without foul odor or burning, with a white greasy coating and a slow pulse; warming would aggravate the Heat.",
+      "D": "Moistening the Intestines is for constipation from Blood or Fluid deficiency; this patient has diarrhea with excess signs."
+    },
+    "learningObjective": "Identify the treatment principle for Large Intestine Damp-Heat.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": ["large-intestine-damp-heat", "greasy-yellow-coating", "slippery-pulse"],
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Large Intestine patterns" },
+      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Zang-Fu" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0028",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 76-year-old woman reports constipation for two years with dry, pellet-like stools passed every four or five days without abdominal pain or distension. She has dizziness, a dull pale complexion, dry skin, blurred vision, and palpitations, and she does not feel hot or thirsty. The tongue is pale and dry with a thin coating. The pulse is thin (thready) and choppy. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear Heat and drain the Large Intestine",
+      "B": "tonify Qi and promote the movement of the Intestines",
+      "C": "nourish Blood and moisten the Intestines",
+      "D": "warm the lower burner and unblock the bowels"
+    },
+    "correct": "C",
+    "explanation": "This is constipation from Blood deficiency failing to moisten the Large Intestine: dry pellet stools without pain or distension in an elderly patient, with Blood deficiency signs (dizziness, pale dull face, dry skin, blurred vision, palpitations, a pale dry tongue, a thin choppy pulse) and no Heat. The principle is to nourish Blood and moisten the Intestines.",
+    "distractorExplanations": {
+      "A": "Heat constipation shows abdominal fullness and pain, thirst, bad breath, a red tongue with a dry yellow coating, and a full rapid pulse; this patient is pale, not thirsty, and has a thin pulse, and purging would further damage Blood.",
+      "B": "Qi deficiency constipation shows a desire to defecate with straining, sweating, and exhaustion after a bowel movement, with stools that are not necessarily dry, a pale tongue, and a weak pulse; the dry pellets and Blood signs point to Blood rather than Qi.",
+      "D": "Cold constipation shows abdominal cold pain, cold limbs, a pale wet tongue with a white coating, and a deep slow pulse; here the tongue is dry and the problem is lack of moisture rather than Cold."
+    },
+    "learningObjective": "Differentiate constipation from Blood deficiency from Heat, Qi deficiency, and Cold constipation and formulate the corresponding principle.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["large-intestine-dryness", "blood-deficiency", "choppy-pulse"],
+    "distinction": {
+      "between": ["blood-deficiency-constipation", "heat-constipation"],
+      "key": "Dry stools with a pale dry tongue, a thin choppy pulse, and no thirst or abdominal distension mean the Intestines lack Blood and moisture; dry stools with a red tongue, dry yellow coating, thirst, and a full pulse mean Heat is consuming Fluids."
+    },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Large Intestine patterns" },
+      { "source": "Maclean, Lyttleton, Bayley, Taylor, Clinical Handbook of Internal Medicine, 2nd ed.", "locator": "Constipation" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0029",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 34-year-old woman reports frequent, urgent urination with burning pain for two days. The urine is dark, cloudy, and small in volume each time, and she has a dull ache in the lower abdomen. She is mildly feverish and thirsty. The tongue is red with a greasy yellow coating at the root. The pulse is slippery and rapid. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear Damp-Heat from the Bladder",
+      "B": "nourish Kidney Yin and clear Empty Heat",
+      "C": "warm Kidney Yang and consolidate the Bladder",
+      "D": "clear Heart Fire and drain Heat through the Small Intestine"
+    },
+    "correct": "A",
+    "explanation": "This is Damp-Heat in the Bladder: acute frequent, urgent, burning urination with dark cloudy urine, lower abdominal ache, mild fever, thirst, a red tongue with a greasy yellow coating at the root (the lower burner area), and a slippery rapid pulse. The principle is to clear Heat and resolve Dampness from the Bladder.",
+    "distractorExplanations": {
+      "B": "Kidney Yin deficiency gives scanty dark urine with a peeled red tongue and a thin rapid pulse over a chronic course, without burning, cloudiness, or a greasy coating.",
+      "C": "Warming and consolidating is for deficiency-Cold patterns with frequent clear urine, no pain, and a deep weak pulse; the Heat signs here contraindicate warming.",
+      "D": "Heart Fire transmitted to the Small Intestine includes tongue-tip ulcers, insomnia, agitation, and an overflowing pulse preceding the urinary signs; none of these Heart findings is present, and the greasy coating shows Dampness lodged in the Bladder."
+    },
+    "learningObjective": "Formulate the treatment principle for Bladder Damp-Heat.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": ["bladder-damp-heat", "kidney-yin-deficiency", "greasy-yellow-coating"],
+    "distinction": {
+      "between": ["bladder-damp-heat", "kidney-yin-deficiency"],
+      "key": "Acute burning, urgent, cloudy urination with a greasy yellow root coating and a slippery pulse is Damp-Heat to be cleared; chronic scanty dark urine with a peeled tongue and a thin pulse is Yin deficiency to be nourished."
+    },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Bladder patterns" },
+      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Zang-Fu" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0030",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 45-year-old woman reports a dry, paroxysmal cough for three weeks that began after a bitter family dispute and flares when she is upset. Coughing brings on pain in the chest and hypochondrium, and she has a red face, a bitter taste, a dry throat, and irritability; there is little sputum. The tongue is red at the sides with a thin yellow coating. The pulse is wiry and rapid. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "tonify Lung Qi and consolidate the exterior",
+      "B": "nourish Lung Yin and moisten Dryness",
+      "C": "release the exterior and disperse Wind-Heat",
+      "D": "clear Liver Fire and restore the descending of Lung Qi"
+    },
+    "correct": "D",
+    "explanation": "This is Liver Fire insulting the Lung (Wood insulting Metal along the reverse controlling sequence): a cough triggered by emotion, chest and hypochondrial pain on coughing, red face, bitter taste, irritability, a tongue red at the sides, and a wiry rapid pulse. Liver Fire rises and prevents Lung Qi from descending. The principle treats the root in the Liver and the branch in the Lung: clear Liver Fire and restore the descending of Lung Qi.",
+    "distractorExplanations": {
+      "A": "Lung Qi deficiency shows a weak cough, low voice, spontaneous sweating, a pale tongue, and an empty pulse; here the pulse is wiry and rapid and the tongue is red.",
+      "B": "Lung Yin deficiency shows a chronic dry cough with night sweats, a red peeled tongue, and a thin rapid pulse; the emotional trigger, hypochondrial pain, bitter taste, and wiry pulse place the origin in the Liver.",
+      "C": "Wind-Heat is an acute exterior pattern with sore throat, fever, aversion to cold, and a floating rapid pulse; a three-week cough tied to emotional upset with a wiry pulse is interior."
+    },
+    "learningObjective": "Formulate the treatment principle for Liver Fire insulting the Lung.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["liver-fire-insulting-lung", "insulting-cycle", "lung-yin-deficiency"],
+    "distinction": {
+      "between": ["liver-fire-insulting-lung", "lung-yin-deficiency"],
+      "key": "A cough that flares with anger, with hypochondrial pain, red tongue sides, and a wiry rapid pulse, is driven by Liver Fire; a chronic dry cough with night sweats and a peeled tongue is Lung Yin deficiency."
+    },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Combined patterns of the Internal Organs" },
+      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Zang-Fu syndrome differentiation" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0031",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 41-year-old man reports a feeling of distension and fullness in the chest and epigastrium that comes and goes and moves from place to place. It is worse after frustration and eases after belching or a deep sigh. He has no pain at rest and his appetite is normal. The tongue is normal in color with a thin white coating. The pulse is wiry. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "tonify Qi and raise the Yang",
+      "B": "invigorate Blood and dispel stasis",
+      "C": "move Qi and relieve stagnation",
+      "D": "regulate Qi and descend rebellious Qi"
+    },
+    "correct": "C",
+    "explanation": "This is Qi stagnation: distension rather than pain, fluctuating and moving in location, worse with emotion and relieved by belching or sighing, with a normal tongue and a wiry pulse. The principle is to move Qi and relieve stagnation.",
+    "distractorExplanations": {
+      "A": "Tonifying and raising Qi is for Qi deficiency or sinking, with fatigue, a weak pulse, and a bearing-down sensation; distension with a wiry pulse is excess and would worsen with tonification.",
+      "B": "Blood stasis produces fixed, stabbing pain with a purple tongue and a choppy pulse; this distension moves and the tongue is normal.",
+      "D": "Descending rebellious Qi is for Qi moving in the wrong direction (persistent belching, hiccup, nausea, vomiting, or cough as the main complaint); here belching is relief, not the complaint, and distension dominates."
+    },
+    "learningObjective": "Differentiate Qi stagnation from Blood stasis and Qi rebellion and identify the corresponding principle.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["qi-stagnation", "blood-stasis", "wiry-pulse"],
+    "distinction": {
+      "between": ["qi-stagnation", "blood-stasis"],
+      "key": "Distension that moves and fluctuates with emotion, with a normal tongue, is Qi stagnation; fixed stabbing pain with a purple tongue and choppy pulse is Blood stasis."
+    },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to Qi, Blood and Body Fluids" },
+      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Qi and Blood" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0032",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 37-year-old woman reports persistent hiccups and belching for ten days, with nausea after meals and occasional vomiting of undigested food. She has mild epigastric fullness, normal appetite between episodes, and no sour regurgitation or burning. The tongue is normal in color with a thin white coating. The pulse is wiry on the right middle position. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "tonify Qi and nourish Blood",
+      "B": "regulate Qi and descend rebellious Qi",
+      "C": "clear Heat and drain Fire from the Stomach",
+      "D": "warm the Middle and dispel Cold"
+    },
+    "correct": "B",
+    "explanation": "This is Stomach Qi rebelling upward: hiccups, belching, nausea, and vomiting are all expressions of Qi moving upward against its proper descending direction, with a wiry right middle pulse and no Heat or Cold signs on the tongue. The principle is to regulate Qi and descend the rebellious Qi.",
+    "distractorExplanations": {
+      "A": "Tonifying Qi and Blood is for deficiency with fatigue, a pale tongue, and a weak thin pulse; there is no deficiency picture here, and the pulse is wiry.",
+      "C": "Stomach Fire would show burning pain, thirst for cold drinks, sour or bitter regurgitation, a red tongue with a yellow coating, and a rapid pulse; the tongue here is normal and the patient denies burning.",
+      "D": "Cold in the Stomach would show pain relieved by warmth, vomiting of clear fluid, a white moist coating, and a slow or tight pulse; there are no Cold signs."
+    },
+    "learningObjective": "Identify the treatment principle for Qi rebellion.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": ["qi-rebellion", "stomach-qi-rebelling", "qi-stagnation"],
+    "distinction": {
+      "between": ["qi-rebellion", "qi-stagnation"],
+      "key": "When upward movement (hiccup, belching, nausea, vomiting) is the chief complaint, the principle adds descending Qi; when distension dominates, the principle is to move Qi."
+    },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to Qi, Blood and Body Fluids" },
+      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Syndrome differentiation of Qi, Blood and Body Fluids" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0033",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A patient presents with a pale complexion, pale lips and nails, dizziness, numbness of the limbs, a pale tongue, and a thin (thready) pulse. According to the theory of Qi, Blood, and Body Fluids, which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "nourish Blood",
+      "B": "invigorate Blood",
+      "C": "cool Blood",
+      "D": "tonify Qi"
+    },
+    "correct": "A",
+    "explanation": "Pale complexion, lips, and nails, dizziness, numbness, a pale tongue, and a thin pulse are the general signs of Blood deficiency: Blood fails to fill the vessels and nourish the face, sinews, and head. The principle for Blood deficiency is to nourish Blood.",
+    "distractorExplanations": {
+      "B": "Invigorating Blood treats Blood stasis, which shows fixed stabbing pain, a purple tongue, and a choppy pulse; dispersing Blood here would deepen the deficiency.",
+      "C": "Cooling Blood treats Blood Heat, which shows bleeding, skin eruptions, a red tongue, and a rapid pulse; pallor and a thin pulse are the opposite picture.",
+      "D": "Tonifying Qi alone treats Qi deficiency, which shows fatigue, shortness of breath, spontaneous sweating, and an empty pulse; while Qi tonics support Blood production, the findings here are specifically those of Blood failing to nourish."
+    },
+    "learningObjective": "Identify the treatment principle corresponding to the general signs of Blood deficiency.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": false,
+    "concepts": ["blood-deficiency", "thin-pulse"],
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to Qi, Blood and Body Fluids" },
+      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Qi and Blood" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0034",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 48-year-old woman reports a fixed, stabbing pain in the lower abdomen for eight months that is worse at night and worse with pressure. Her periods are dark with clots and the pain intensifies before the flow. Her complexion is dusky and her lips are dark. The tongue is purple with distended sublingual veins. The pulse is choppy. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "warm the lower burner and dispel Cold",
+      "B": "nourish Blood and regulate menstruation",
+      "C": "move Qi and relieve stagnation",
+      "D": "invigorate Blood and dispel stasis"
+    },
+    "correct": "D",
+    "explanation": "This is Blood stasis: fixed stabbing pain worse at night and with pressure, dark clotted menses, dusky complexion and dark lips, a purple tongue with distended sublingual veins, and a choppy pulse. The principle is to invigorate Blood and dispel stasis.",
+    "distractorExplanations": {
+      "A": "Cold in the lower burner also causes pain relieved by warmth with a pale bluish tongue and a tight slow pulse; there are no Cold signs in this vignette, and the purple tongue with distended veins and choppy pulse point directly to stasis.",
+      "B": "Blood deficiency gives dull pain relieved by pressure, scanty pale menses, a pale tongue, and a thin pulse; here the menses are dark and clotted and the pain is worse with pressure.",
+      "C": "Qi stagnation gives distension rather than stabbing pain, moving in location, with a normal tongue and a wiry pulse; the fixed location, purple tongue, and choppy pulse show the stagnation has reached the Blood level."
+    },
+    "learningObjective": "Identify the treatment principle for Blood stasis and distinguish it from Blood deficiency and Qi stagnation.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["blood-stasis", "purple-tongue", "choppy-pulse"],
+    "distinction": {
+      "between": ["blood-stasis", "blood-deficiency"],
+      "key": "Stabbing fixed pain worse with pressure, a purple tongue, and a choppy pulse mean stasis to be invigorated; dull pain relieved by pressure with a pale tongue and thin pulse means deficiency to be nourished."
+    },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to Qi, Blood and Body Fluids" },
+      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Qi and Blood" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0035",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 24-year-old man reports recurrent nosebleeds of bright red blood for two weeks and an outbreak of red, itchy skin macules on the trunk. He feels hot, is thirsty, restless, and sleeps poorly, and his urine is dark. The tongue is red with a thin yellow coating. The pulse is rapid. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "tonify Qi to hold the Blood",
+      "B": "clear Heat and cool the Blood",
+      "C": "nourish Yin and clear Empty Heat",
+      "D": "invigorate Blood and dispel stasis"
+    },
+    "correct": "B",
+    "explanation": "This is Blood Heat: bright red bleeding from the nose, red itchy skin macules (Heat in the Blood erupting at the skin), a feeling of heat, thirst, restlessness and poor sleep (Heat agitating the Shen), dark urine, a red tongue, and a rapid pulse. Heat forces Blood out of the vessels. The principle is to clear Heat and cool the Blood.",
+    "distractorExplanations": {
+      "A": "Qi failing to hold Blood produces pale, chronic, oozing bleeding with fatigue, a pale tongue, and a weak pulse; bright red bleeding with a red tongue and rapid pulse is Heat.",
+      "C": "Empty Heat from Yin deficiency gives scanty bleeding with night sweats, five-palm heat, a red tongue with no coating, and a thin rapid pulse; this tongue has a coating, the pulse is rapid but not thin, and the picture is acute and full.",
+      "D": "Blood stasis bleeding is dark with clots, with a purple tongue and a choppy pulse; the bright red color and skin macules show Heat rather than stasis."
+    },
+    "learningObjective": "Identify the treatment principle for Blood Heat and distinguish it from bleeding due to Qi deficiency.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["blood-heat", "spleen-not-controlling-blood", "rapid-pulse"],
+    "distinction": {
+      "between": ["blood-heat", "qi-not-holding-blood"],
+      "key": "Bright red, acute bleeding with a red tongue and rapid pulse is Heat forcing Blood out (cool Blood); pale chronic bleeding with a pale tongue and weak pulse is Qi failing to hold Blood (tonify Qi)."
+    },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to Qi, Blood and Body Fluids" },
+      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Syndrome differentiation of Qi, Blood and Body Fluids" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0036",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 39-year-old woman reports exhaustion and dizziness for six months after a prolonged illness. She has shortness of breath on exertion, spontaneous sweating, a pale complexion, pale lips, palpitations, numbness of the hands, and scanty periods. The tongue is pale and slightly swollen with a thin white coating. The pulse is thin (thready) and weak. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "nourish Blood and calm the Shen",
+      "B": "tonify Qi and raise the Yang",
+      "C": "tonify Qi and nourish Blood",
+      "D": "move Qi and invigorate Blood"
+    },
+    "correct": "C",
+    "explanation": "This is combined Qi and Blood deficiency: Qi deficiency signs (exhaustion, shortness of breath, spontaneous sweating, slightly swollen tongue, weak pulse) together with Blood deficiency signs (dizziness, pale face and lips, palpitations, numbness, scanty periods, thin pulse). Qi and Blood are mutually rooted, so the principle addresses both: tonify Qi and nourish Blood.",
+    "distractorExplanations": {
+      "A": "Nourishing Blood alone ignores the Qi deficiency (shortness of breath, spontaneous sweating, weak pulse); without Qi, Blood cannot be generated.",
+      "B": "Raising the Yang addresses Qi sinking with bearing-down sensations or prolapse; there is no sinking sign, and the Blood deficiency is left untreated.",
+      "D": "Moving Qi and invigorating Blood treats excess stagnation with distension, fixed pain, a purple tongue, and a wiry or choppy pulse; dispersing methods would further deplete this deficient patient."
+    },
+    "learningObjective": "Formulate the treatment principle for combined Qi and Blood deficiency.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["qi-and-blood-deficiency", "qi-deficiency", "blood-deficiency"],
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to Qi, Blood and Body Fluids" },
+      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Qi and Blood" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0037",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 43-year-old woman reports hypochondrial and lower abdominal distension that worsens with stress, together with a fixed, stabbing pain in the left lower abdomen for a year. Her periods are painful with dark clots, and she has premenstrual breast distension and irritability. The tongue is slightly purple with dark spots on the sides. The pulse is wiry and choppy. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "move Qi and invigorate Blood",
+      "B": "invigorate Blood and dispel stasis",
+      "C": "soothe the Liver and regulate Qi",
+      "D": "tonify Qi and invigorate Blood"
+    },
+    "correct": "A",
+    "explanation": "This is Qi stagnation with Blood stasis: the moving distension, stress aggravation, premenstrual breast distension, irritability, and wiry pulse show Qi stagnation, while the fixed stabbing pain, clotted menses, purple tongue with dark spots, and choppy pulse show Blood stasis. Because Qi moves Blood, stagnant Qi has produced stasis. The principle treats both levels: move Qi and invigorate Blood.",
+    "distractorExplanations": {
+      "B": "Invigorating Blood alone addresses the stasis but leaves the Qi stagnation that generated it, so the stasis would reform; the wiry pulse and moving distension demand that Qi also be moved.",
+      "C": "Soothing the Liver and regulating Qi treats the Qi level only; the fixed stabbing pain, clots, purple tongue, and choppy pulse show the stagnation has already reached the Blood.",
+      "D": "Tonifying Qi and invigorating Blood is for stasis arising from Qi deficiency, with fatigue, a pale tongue, and a weak pulse; this patient has a wiry pulse and excess signs without deficiency."
+    },
+    "learningObjective": "Formulate the treatment principle for Qi stagnation leading to Blood stasis.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["qi-stagnation-blood-stasis", "qi-stagnation", "blood-stasis"],
+    "distinction": {
+      "between": ["qi-stagnation-blood-stasis", "qi-stagnation"],
+      "key": "Fixed stabbing pain, clots, and a purple tongue with a choppy quality added to a distension-and-wiry-pulse picture mean the Blood level is involved and must be invigorated alongside moving Qi."
+    },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to Qi, Blood and Body Fluids" },
+      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Syndrome differentiation of Qi, Blood and Body Fluids" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0038",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 74-year-old man reports weakness and numbness of the right arm and leg for four months following a stroke. He is fatigued, speaks in a low voice, is short of breath on mild exertion, and sweats spontaneously. His complexion is pale and the right hand is slightly swollen and dusky. The tongue is pale with a purplish tinge and a thin white coating. The pulse is weak and slightly choppy. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "move Qi and invigorate Blood",
+      "B": "break up Blood stasis and unblock the channels",
+      "C": "nourish Blood and extinguish Wind",
+      "D": "tonify Qi and invigorate Blood"
+    },
+    "correct": "D",
+    "explanation": "This is Blood stasis arising from Qi deficiency: marked Qi deficiency (fatigue, low voice, shortness of breath, spontaneous sweating, pale complexion, weak pulse) with stasis in the channels (one-sided weakness and numbness, a dusky swollen hand, a purplish tinge to a pale tongue, a choppy quality). Qi too weak to move Blood lets it stagnate. The principle is to tonify Qi strongly so that Blood can move, while invigorating Blood.",
+    "distractorExplanations": {
+      "A": "Moving Qi treats Qi stagnation, an excess state with distension and a wiry pulse; in a patient with a weak pulse and spontaneous sweating, dispersing Qi would deepen the deficiency that caused the stasis.",
+      "B": "Strongly breaking stasis is for excess stasis with a frankly purple tongue and a full choppy or wiry pulse; it ignores the deficient root and would further exhaust Qi.",
+      "C": "Nourishing Blood and extinguishing Wind treats tremor and numbness from Blood deficiency, with a pale thin tongue and no stasis signs; the purplish tongue, dusky hand, and choppy pulse show stasis, and the dominant deficiency is of Qi."
+    },
+    "learningObjective": "Differentiate Blood stasis from Qi deficiency from Blood stasis from Qi stagnation and formulate the principle for the deficient type.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["qi-deficiency-blood-stasis", "qi-deficiency", "blood-stasis"],
+    "distinction": {
+      "between": ["qi-deficiency-blood-stasis", "qi-stagnation-blood-stasis"],
+      "key": "Stasis with a weak pulse, fatigue, and spontaneous sweating has a deficient root (tonify Qi to move Blood); stasis with a wiry pulse and distension has an excess root (move Qi to move Blood)."
+    },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to Qi, Blood and Body Fluids" },
+      { "source": "Maclean, Lyttleton, Bayley, Taylor, Clinical Handbook of Internal Medicine, 2nd ed.", "locator": "Wind stroke sequelae" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0039",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 56-year-old man reports a chronic cough with copious white sputum that is easy to expectorate, a feeling of oppression in the chest, nausea, heaviness of the body, and a poor appetite. He is overweight and feels drowsy after meals. The tongue is pale and swollen with a sticky white coating. The pulse is slippery. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear Heat and resolve Phlegm",
+      "B": "nourish Yin and moisten the Lung",
+      "C": "dry Dampness and transform Phlegm",
+      "D": "move Qi and relieve stagnation"
+    },
+    "correct": "C",
+    "explanation": "This is Damp-Phlegm: copious white sputum, chest oppression, nausea, heaviness, poor appetite, drowsiness after meals, a swollen tongue with a sticky white coating, and a slippery pulse, with no Heat signs. The principle is to dry Dampness and transform Phlegm.",
+    "distractorExplanations": {
+      "A": "Clearing Heat is needed only when the sputum and coating are yellow and the pulse is rapid; here both are white and the pulse is slippery without being rapid, so cooling methods would aggravate the Dampness.",
+      "B": "Nourishing Yin and moistening is for dry cough with scanty sputum and a peeled red tongue; moistening methods would generate more Phlegm in this patient.",
+      "D": "Moving Qi addresses distension with a wiry pulse; the sticky coating, slippery pulse, and copious sputum show a substantial Phlegm-Damp pathogen that must be dried and transformed."
+    },
+    "learningObjective": "Identify the treatment principle for Damp-Phlegm.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": ["damp-phlegm", "sticky-white-coating", "slippery-pulse"],
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to Qi, Blood and Body Fluids; Phlegm" },
+      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Qi and Blood" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0040",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 62-year-old woman reports a dry mouth and throat, dry lips, and dry, hard stools for three weeks after recovering from a prolonged bout of vomiting and diarrhea. Her skin is dry and her urine is scanty. She denies night sweats, a feeling of heat in the palms and soles, or afternoon fever. The tongue is slightly red and dry with a thin dry coating. The pulse is thin (thready). Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "nourish Yin and clear Empty Heat",
+      "B": "generate Fluids and moisten Dryness",
+      "C": "clear Heat and drain Fire",
+      "D": "nourish Blood and moisten the Intestines"
+    },
+    "correct": "B",
+    "explanation": "This is deficiency of Body Fluids (Jin Ye) following fluid loss through vomiting and diarrhea: dryness of the mouth, throat, lips, skin, and stools, scanty urine, a dry tongue with a dry coating, and a thin pulse, with an explicit absence of Empty Heat signs. The principle is to generate Fluids and moisten Dryness.",
+    "distractorExplanations": {
+      "A": "Yin deficiency is a deeper, longer-standing depletion marked by Empty Heat (night sweats, five-palm heat, afternoon fever, a red tongue with no coating, a thin rapid pulse); the patient denies all of these, the coating is present, and the pulse is not rapid.",
+      "C": "Clearing Heat and draining Fire would require a full Heat picture with thirst for cold drinks, a thick yellow coating, and a full rapid pulse; here the problem is lack of Fluids, and draining would dry further.",
+      "D": "Nourishing Blood treats Blood deficiency with pallor, dizziness, palpitations, and a pale tongue; this tongue is slightly red and dry and the history is of acute fluid loss."
+    },
+    "learningObjective": "Differentiate Body Fluid deficiency from Yin deficiency and identify the corresponding principle.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["body-fluid-deficiency", "yin-deficiency", "dryness"],
+    "distinction": {
+      "between": ["body-fluid-deficiency", "yin-deficiency"],
+      "key": "Dryness after acute fluid loss with a coated dry tongue and no Empty Heat signs is Fluid deficiency (generate Fluids); dryness with night sweats, five-palm heat, and a peeled tongue with a thin rapid pulse is Yin deficiency (nourish Yin, clear Empty Heat)."
+    },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to Qi, Blood and Body Fluids" },
+      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Syndrome differentiation of Qi, Blood and Body Fluids" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0041",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 33-year-old construction worker is seen after a week of heavy outdoor work in hot weather with profuse sweating. He reports marked fatigue, shortness of breath, a weak voice, continued sweating with little exertion, intense thirst, a dry mouth, and scanty dark urine. The tongue is red and dry with a thin coating. The pulse is weak and rapid. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear Summer-Heat and resolve Dampness",
+      "B": "tonify Qi and consolidate the exterior",
+      "C": "nourish Yin and subdue Yang",
+      "D": "tonify Qi and generate Fluids"
+    },
+    "correct": "D",
+    "explanation": "This is combined Qi and Fluid deficiency caused by profuse sweating: sweat carries Qi out with it, so the Qi deficiency signs (fatigue, shortness of breath, weak voice, ongoing sweating, weak pulse) coexist with Fluid depletion (intense thirst, dry mouth, scanty dark urine, red dry tongue, rapid quality). The principle addresses both: tonify Qi and generate Fluids.",
+    "distractorExplanations": {
+      "A": "Clearing Summer-Heat and resolving Dampness treats an active Summer-Heat invasion with fever, heaviness, and a greasy coating; here the pathogen has passed and left a deficiency of Qi and Fluids, and clearing methods would deplete further.",
+      "B": "Tonifying Qi and consolidating the exterior would stop the sweating but leaves the thirst, dry tongue, and scanty urine untreated; the Fluids must be replenished as well.",
+      "C": "Nourishing Yin and subduing Yang is for Yin deficiency with rising Yang (dizziness, headache, tinnitus, a wiry thin pulse); there is no ascending Yang sign, and the weak pulse with sweating and fatigue shows Qi deficiency that Yin tonics alone would not address."
+    },
+    "learningObjective": "Formulate the treatment principle for combined Qi and Body Fluid deficiency following profuse sweating.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["qi-and-fluid-deficiency", "qi-deficiency", "body-fluid-deficiency"],
+    "distinction": {
+      "between": ["qi-and-fluid-deficiency", "summer-heat-invasion"],
+      "key": "After the Heat has passed, a weak pulse with sweating, fatigue, thirst, and a dry tongue shows depletion to be replenished, whereas an active invasion shows fever with a full or overflowing pulse to be cleared."
+    },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to Qi, Blood and Body Fluids" },
+      { "source": "Wiseman & Ellis, Fundamentals of Chinese Medicine, revised ed.", "locator": "Qi, Blood and Fluids" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0042",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-d",
+    "theory": "Qi Blood Fluids",
+    "stem": "A 45-year-old woman reports a feeling of heaviness in the limbs and head for three weeks, epigastric fullness, a sticky taste in the mouth, poor appetite, loose stools, and no thirst. There is no sputum or cough. Her symptoms began during a humid, rainy season. The tongue is normal in color with a thick, greasy white coating. The pulse is soggy (soft). Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "resolve Dampness and harmonize the Middle",
+      "B": "clear Heat and resolve Dampness",
+      "C": "tonify Spleen Qi and raise the Yang",
+      "D": "transform Phlegm and open the chest"
+    },
+    "correct": "A",
+    "explanation": "This is Dampness obstructing the Middle Burner: heaviness, epigastric fullness, sticky taste, poor appetite, loose stools, absence of thirst, seasonal damp onset, a thick greasy white coating, and a soggy pulse, with a normal tongue color and no Heat. The principle is to resolve Dampness (with aromatic and drying methods) and harmonize the Middle.",
+    "distractorExplanations": {
+      "B": "Clearing Heat requires a yellow greasy coating, thirst, and a rapid pulse; the coating here is white and there is no thirst, so cooling methods would worsen the Dampness.",
+      "C": "Tonifying Spleen Qi and raising the Yang suits chronic deficiency with fatigue, a pale tongue, a weak pulse, and bearing-down sensations; this is a recent excess obstruction with a thick coating and a soggy pulse, and tonifying would trap the Dampness.",
+      "D": "Transforming Phlegm applies when Dampness has condensed into Phlegm (sputum, nodules, a slippery pulse); there is no sputum here and the pulse is soggy, so the pathogen is still diffuse Dampness."
+    },
+    "learningObjective": "Differentiate Dampness obstructing the Middle from Damp-Heat and from Phlegm and identify the corresponding principle.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["dampness-obstructing-middle", "damp-phlegm", "soggy-pulse"],
+    "distinction": {
+      "between": ["dampness-obstructing-middle", "damp-phlegm"],
+      "key": "Heaviness with a greasy coating and a soggy pulse but no sputum is diffuse Dampness to be resolved; copious sputum with a slippery pulse is condensed Phlegm to be transformed."
+    },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Identification of patterns according to Qi, Blood and Body Fluids" },
+      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Differentiation of syndromes according to the theory of Qi and Blood" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0043",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-a",
+    "theory": "Yin/Yang",
+    "stem": "A patient has signs of Heat that arise from a deficiency of Yin, such as afternoon heat, night sweats, a red tongue with no coating, and a thin rapid pulse. According to Yin-Yang theory, which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear Heat with cold methods to drain the excess Yang",
+      "B": "nourish Yin to control the relatively excessive Yang",
+      "C": "warm Yang to dispel the Cold that is generating Heat",
+      "D": "tonify Yang so that Yin is generated from its root"
+    },
+    "correct": "B",
+    "explanation": "In Yin deficiency the Heat is relative: Yin fails to control Yang rather than Yang being in true excess. The classical rule is to strengthen Water (Yin) to control the light of Yang, that is, nourish Yin so that the Empty Heat subsides. Afternoon heat, night sweats, a peeled red tongue, and a thin rapid pulse are the markers of this Empty Heat.",
+    "distractorExplanations": {
+      "A": "Cold draining methods are for excess Yang (Full Heat, with a coated tongue and a full pulse); applied to Yin deficiency they damage Yin further and the Empty Heat persists or worsens. This is the misconception of treating all Heat as excess.",
+      "C": "Warming Yang is the principle for Yang deficiency with Cold signs; it is contraindicated when Yin is deficient and Heat is present.",
+      "D": "Seeking Yin within Yang (adding a small Yang-tonifying element to Yin tonification) is a refinement for chronic Yin deficiency, but tonifying Yang as the principle itself would aggravate the Heat; the primary principle remains nourishing Yin."
+    },
+    "learningObjective": "Apply the Yin-Yang principle of nourishing Yin to control Yang in deficiency Heat.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": false,
+    "concepts": ["yin-deficiency", "empty-heat", "yin-yang-treatment-principles"],
+    "distinction": {
+      "between": ["empty-heat", "full-heat"],
+      "key": "Heat with a peeled tongue and a thin rapid pulse is relative (Yin deficient, so nourish Yin); Heat with a coated tongue and a full pulse is absolute (Yang in excess, so clear with cold)."
+    },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Yin-Yang; Principles of treatment" },
+      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Yin-Yang and the Five Elements" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0044",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-a",
+    "theory": "Yin/Yang",
+    "stem": "A 28-year-old man reports severe cramping abdominal pain for one day after eating a large quantity of cold food in winter. The pain is worse with pressure and with cold and is eased by a hot water bottle. He has watery diarrhea, no thirst, and cold limbs, and he is otherwise robust with normal energy. The tongue is pale with a thick white coating. The pulse is deep, tight, and forceful. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "nourish Yin to control Yang",
+      "B": "warm and tonify Yang to dispel deficiency Cold",
+      "C": "warm the interior to dispel the excess Cold",
+      "D": "clear Heat to drain the excess Yang"
+    },
+    "correct": "C",
+    "explanation": "This is excess of Yin (Full Cold): acute onset after a cold cause, pain worse with pressure, relief from warmth, watery diarrhea, no thirst, cold limbs, a thick white coating, and a deep tight forceful pulse in a robust patient. The Yin-Yang rule for Cold is to use Heat: warm the interior to dispel the Cold pathogen. Because the Cold is excess and Yang is not deficient, the method is dispelling rather than tonifying.",
+    "distractorExplanations": {
+      "A": "Nourishing Yin treats Yin deficiency with Heat signs; this patient has excess Yin manifesting as Cold.",
+      "B": "Warming and tonifying Yang is for deficiency Cold, where Yang is weak (chronic course, pain relieved by pressure, a weak pulse, fatigue); here the pulse is forceful, pain is worse with pressure, and energy is normal, so tonifying is unnecessary and dispelling is needed.",
+      "D": "Clearing Heat treats excess Yang; applying cold methods to a Full Cold pattern would aggravate it."
+    },
+    "learningObjective": "Apply the principle 'for Cold use Heat' and distinguish excess Cold (dispel) from deficiency Cold (warm and tonify).",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["full-cold", "empty-cold", "yin-yang-treatment-principles"],
+    "distinction": {
+      "between": ["full-cold", "empty-cold"],
+      "key": "Acute Cold with pain worse on pressure and a forceful tight pulse is excess Yin to be dispelled; chronic Cold with pain relieved by pressure and a weak pulse is deficient Yang to be warmed and tonified."
+    },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Yin-Yang; Principles of treatment" },
+      { "source": "Wiseman & Ellis, Fundamentals of Chinese Medicine, revised ed.", "locator": "Yin and Yang" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0045",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-a",
+    "theory": "Yin/Yang",
+    "stem": "A 64-year-old man with long-standing Kidney Yang deficiency (cold lower back and knees, cold limbs, nocturia, impotence, a pale tongue, and a deep weak pulse) has improved only slightly after several months of treatment aimed purely at warming Yang, and he now also notices a dry mouth at night. The practitioner decides to modify the principle according to the mutual rooting of Yin and Yang. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "warm Kidney Yang while also nourishing Kidney Yin",
+      "B": "nourish Kidney Yin and clear Empty Heat",
+      "C": "warm Kidney Yang with stronger hot dispersing methods",
+      "D": "clear Heat and generate Fluids to relieve the dryness"
+    },
+    "correct": "A",
+    "explanation": "Yin and Yang are mutually rooted: Yang is generated from Yin. In chronic Yang deficiency, warming alone can fail or begin to dry the Yin (the new nocturnal dry mouth). The classical guidance is that one who is skilled at tonifying Yang seeks Yang within Yin, adding Yin-nourishing methods so that Yang has a source to grow from. The principle therefore remains warming Kidney Yang but adds nourishing Kidney Yin.",
+    "distractorExplanations": {
+      "B": "Switching entirely to nourishing Yin and clearing Empty Heat abandons the dominant pattern; the cold limbs, nocturia, pale tongue, and deep weak pulse all still show Yang deficiency, and cooling methods would worsen it.",
+      "C": "Intensifying hot dispersing methods is the error the mutual-rooting principle warns against: hot methods without a Yin base scorch Yin, which is already signaled by the dry mouth.",
+      "D": "Clearing Heat treats a Heat pattern; the dryness here comes from Yin being consumed by warming treatment, not from a Heat pathogen, and cold methods would damage the deficient Yang."
+    },
+    "learningObjective": "Apply the mutual-rooting principle of seeking Yang within Yin when modifying treatment for chronic Yang deficiency.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "evaluation",
+    "vignette": true,
+    "concepts": ["mutual-rooting-yin-yang", "kidney-yang-deficiency", "seek-yang-within-yin"],
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Yin-Yang; Kidney patterns" },
+      { "source": "Wiseman & Ellis, Fundamentals of Chinese Medicine, revised ed.", "locator": "Yin and Yang" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0046",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-a",
+    "theory": "Yin/Yang",
+    "stem": "A 36-year-old woman reports a high fever for two days with profuse sweating, intense thirst for cold drinks, a red face, restlessness, and constipation. She feels hot all over and throws off her blankets. The tongue is red with a dry yellow coating. The pulse is overflowing (flooding) and rapid. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "nourish Yin to control the Yang",
+      "B": "warm Yang to dispel Cold",
+      "C": "tonify Yin and Yang together",
+      "D": "clear Heat with cold methods to drain the excess Yang"
+    },
+    "correct": "D",
+    "explanation": "This is excess of Yang (Full Heat): high fever, profuse sweating, thirst for cold drinks, red face, restlessness, constipation, a red tongue with a dry yellow coating, and an overflowing rapid pulse. The Yin-Yang rule for Heat is to use Cold: clear Heat with cold methods to drain the excess Yang. The coated tongue and full pulse confirm that the Heat is absolute rather than relative.",
+    "distractorExplanations": {
+      "A": "Nourishing Yin is the principle for relative Heat from Yin deficiency, which shows a peeled tongue and a thin pulse over a chronic course; here the Heat is acute and full, and gentle nourishing would fail to clear it.",
+      "B": "Warming Yang is for Cold patterns; it would be the opposite of what this patient needs.",
+      "C": "Tonifying both Yin and Yang is for chronic deficiency of both; an acute excess pattern is treated by draining, not tonifying."
+    },
+    "learningObjective": "Apply the principle 'for Heat use Cold' to an excess Yang pattern and distinguish it from Yin deficiency Heat.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": ["full-heat", "yang-excess", "yin-yang-treatment-principles"],
+    "distinction": {
+      "between": ["full-heat", "empty-heat"],
+      "key": "A dry yellow coating with an overflowing rapid pulse and high fever is excess Yang to be cleared; a peeled red tongue with a thin rapid pulse and low-grade afternoon heat is deficient Yin to be nourished."
+    },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Yin-Yang; Principles of treatment" },
+      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Yin-Yang and the Five Elements" }
+    ]
+  },
+  {
+    "id": "FOM-III1-0047",
+    "domain": "III",
+    "subdomain": "III-1",
+    "task": "III-1-a",
+    "theory": "Yin/Yang",
+    "stem": "According to Yin-Yang theory, interior Cold that arises because Yang is too weak to warm the body, presenting with a chronic aversion to cold, cold limbs, a pale wet tongue, and a deep weak pulse, is treated by which of the following principles?",
+    "options": {
+      "A": "dispel the Cold pathogen with hot dispersing methods",
+      "B": "warm and tonify Yang to eliminate the deficiency Cold",
+      "C": "nourish Yin to restore the balance with Yang",
+      "D": "clear Heat to reduce Yang back to balance"
+    },
+    "correct": "B",
+    "explanation": "Cold from Yang deficiency is relative Cold: Yin is not in excess, Yang is insufficient to warm. The classical rule is to benefit the source of Fire (Yang) to dispel the shadow of Yin, that is, warm and tonify Yang. The chronic course, pale wet tongue, and deep weak pulse show deficiency rather than a Cold pathogen.",
+    "distractorExplanations": {
+      "A": "Hot dispersing methods are for excess Cold from an external or dietary Cold pathogen with a forceful tight pulse; dispersing in a deficient patient further scatters Yang. This is the misconception of treating all Cold as excess.",
+      "C": "Nourishing Yin in a Yang-deficient patient would add to the relative predominance of Yin and worsen the Cold.",
+      "D": "Clearing Heat is for excess Yang; it is the reverse of what Yang deficiency requires."
+    },
+    "learningObjective": "Apply the Yin-Yang principle of warming Yang for deficiency Cold and distinguish it from dispelling excess Cold.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": false,
+    "concepts": ["yang-deficiency", "empty-cold", "yin-yang-treatment-principles"],
+    "distinction": {
+      "between": ["empty-cold", "full-cold"],
+      "key": "Chronic Cold with a deep weak pulse is Yang deficiency (warm and tonify Yang); acute Cold with a forceful tight pulse is a Cold pathogen (dispel Cold)."
+    },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Yin-Yang; Principles of treatment" },
+      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Yin-Yang and the Five Elements" }
+    ]
+  }
+]

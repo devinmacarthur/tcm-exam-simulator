@@ -1,0 +1,530 @@
+[
+  {
+    "id": "FOM-ID-0004",
+    "subdomain": "I-D",
+    "stem": "When pulse rate is measured against the practitioner's own breathing, a pulse that is classified as slow is best defined as one that beats how many times per complete breath?",
+    "options": {
+      "A": "Seven or more beats per breath",
+      "B": "Six beats per breath",
+      "C": "Four to five beats per breath",
+      "D": "Fewer than four beats per breath"
+    }
+  },
+  {
+    "id": "FOM-ID-0005",
+    "subdomain": "I-D",
+    "stem": "A healthy 28-year-old patient is examined in early spring. The pulse is slightly wiry at all positions but soft, regular, and of normal rate, and the patient has no symptoms. Which interpretation of this pulse is most appropriate?",
+    "options": {
+      "A": "A normal seasonal variation reflecting the rising Qi of spring",
+      "B": "An early sign of Liver Qi stagnation requiring treatment",
+      "C": "A sign of Cold obstructing the channels",
+      "D": "A sign of Phlegm accumulating in the Middle Burner"
+    }
+  },
+  {
+    "id": "FOM-ID-0006",
+    "subdomain": "I-D",
+    "stem": "A pulse is felt clearly with light finger pressure at the superficial level and becomes weaker when the fingers press toward the bone. In a patient who has just developed chills, sneezing, and a headache, this pulse most commonly indicates which of the following?",
+    "options": {
+      "A": "An interior pattern of Excess",
+      "B": "Yin deficiency with floating of Yang",
+      "C": "An exterior pattern from invasion of a pathogenic factor",
+      "D": "Retention of Phlegm in the chest"
+    }
+  },
+  {
+    "id": "FOM-ID-0007",
+    "subdomain": "I-D",
+    "stem": "A 31-year-old woman is seen two days after a delivery complicated by heavy bleeding. She is pale, dizzy, and faint. The pulse is felt at the superficial level, is large and soft, and feels empty in the center, like pressing the stalk of a scallion. Which pulse quality best describes this finding?",
+    "options": {
+      "A": "Scattered pulse",
+      "B": "Hollow pulse",
+      "C": "Floating pulse",
+      "D": "Soggy pulse"
+    }
+  },
+  {
+    "id": "FOM-ID-0008",
+    "subdomain": "I-D",
+    "stem": "An 84-year-old patient with a long-standing chronic illness is examined during an acute deterioration. The pulse is superficial, large, and without distinct edges; it vanishes with slight pressure and its beats are irregular in strength and rhythm. Which interpretation is most appropriate?",
+    "options": {
+      "A": "Acute loss of Blood with under-filling of the vessels",
+      "B": "Exterior invasion of Wind-Heat in a deficient patient",
+      "C": "Interior Heat driving Qi and Blood outward",
+      "D": "Dissipation of Yuan Qi with Yang about to collapse"
+    }
+  },
+  {
+    "id": "FOM-ID-0009",
+    "subdomain": "I-D",
+    "stem": "A 47-year-old patient presents with sudden severe, cramping abdominal pain, cold limbs, and a pale complexion. The pulse can be found only by pressing to the bone and pushing the tendon aside; it is completely absent at the superficial and middle levels. Which pulse quality best describes this finding?",
+    "options": {
+      "A": "Hidden pulse",
+      "B": "Deep pulse",
+      "C": "Firm pulse",
+      "D": "Weak pulse"
+    }
+  },
+  {
+    "id": "FOM-ID-0010",
+    "subdomain": "I-D",
+    "stem": "A 58-year-old man reports a long-standing fixed lower abdominal mass with cold, dull pain that improves with warmth. His pulse is deep, large, long, wiry, and forceful, and keeps its force under heavy pressure. Which pulse quality best describes this finding?",
+    "options": {
+      "A": "Hidden pulse",
+      "B": "Deep pulse",
+      "C": "Firm pulse",
+      "D": "Tight pulse"
+    }
+  },
+  {
+    "id": "FOM-ID-0011",
+    "subdomain": "I-D",
+    "stem": "A 39-year-old patient reports a heavy sensation in the body and limbs, loose stools, and a feeling of fullness after meals. The tongue has a greasy white coating. The pulse beats about four times per practitioner breath and feels relaxed and loose, with a slightly slippery quality. Which pulse quality best describes the rate and feel of this pulse?",
+    "options": {
+      "A": "Slow pulse",
+      "B": "Slowed-down (moderate) pulse",
+      "C": "Soggy pulse",
+      "D": "Weak pulse"
+    }
+  },
+  {
+    "id": "FOM-ID-0012",
+    "subdomain": "I-D",
+    "stem": "A 42-year-old patient develops severe, cramping lower abdominal pain after eating a large quantity of ice cream on a cold day. The pain is worse with pressure and better with a hot pack. The pulse is slow and forceful. Which interpretation of the pulse is most appropriate?",
+    "options": {
+      "A": "Cold from Yang deficiency in the interior",
+      "B": "Heat obstructing the flow of Qi",
+      "C": "Dampness slowing the circulation of Qi",
+      "D": "Full Cold obstructing the interior"
+    }
+  },
+  {
+    "id": "FOM-ID-0013",
+    "subdomain": "I-D",
+    "stem": "A pulse is rapid, beating more than five times per practitioner breath, and periodically misses a beat at irregular intervals. Which pulse quality best describes this finding?",
+    "options": {
+      "A": "Hasty pulse",
+      "B": "Knotted pulse",
+      "C": "Intermittent pulse",
+      "D": "Moving pulse"
+    }
+  },
+  {
+    "id": "FOM-ID-0014",
+    "subdomain": "I-D",
+    "stem": "A 26-year-old woman is seen the morning after a frightening car accident in which she was uninjured. She is anxious with palpitations. Her pulse is rapid, slippery, and short, beating like a rolling bean, most clearly at the guan positions. Which pulse quality best describes this finding?",
+    "options": {
+      "A": "Slippery pulse",
+      "B": "Hasty pulse",
+      "C": "Moving pulse",
+      "D": "Short pulse"
+    }
+  },
+  {
+    "id": "FOM-ID-0015",
+    "subdomain": "I-D",
+    "stem": "A 52-year-old woman reports night sweats, a feeling of heat in the palms and soles in the evening, dry mouth at night, and a slight afternoon flush. The tongue is red with a peeled coating. The pulse is rapid and thin. Which interpretation of the pulse is most appropriate?",
+    "options": {
+      "A": "Full Heat in the Qi level injuring Body Fluids",
+      "B": "Empty Heat arising from Yin deficiency",
+      "C": "Phlegm-Heat obstructing the vessels",
+      "D": "Blood deficiency with Blood failing to nourish the vessels"
+    }
+  },
+  {
+    "id": "FOM-ID-0016",
+    "subdomain": "I-D",
+    "stem": "A 76-year-old patient with advanced chronic illness has cold limbs, profuse cold sweat, and a barely audible voice. The pulse is extremely fine and soft, so faint that it is almost imperceptible and seems about to disappear under the fingers. Which pulse quality best describes this finding?",
+    "options": {
+      "A": "Thin pulse",
+      "B": "Weak pulse",
+      "C": "Soggy pulse",
+      "D": "Minute pulse"
+    }
+  },
+  {
+    "id": "FOM-ID-0017",
+    "subdomain": "I-D",
+    "stem": "A pulse is felt at the superficial level, is somewhat large, but is forceless, and it becomes empty and indistinct when the fingers press to the deep level. Which pulse quality best describes this finding, and what does it most commonly indicate?",
+    "options": {
+      "A": "Empty pulse; deficiency of Qi and Blood",
+      "B": "Weak pulse; deficiency of Yang",
+      "C": "Hollow pulse; acute loss of Blood",
+      "D": "Floating pulse; invasion of an exterior pathogenic factor"
+    }
+  },
+  {
+    "id": "FOM-ID-0018",
+    "subdomain": "I-D",
+    "stem": "A 68-year-old man reports years of fatigue, cold hands and feet, a bright-pale face, and loose stools in the early morning. The tongue is pale and swollen with a thin white coating. The pulse is found only at the deep level, where it is thin, soft, and forceless. Which pulse quality best describes this finding?",
+    "options": {
+      "A": "Empty pulse",
+      "B": "Minute pulse",
+      "C": "Weak pulse",
+      "D": "Hidden pulse"
+    }
+  },
+  {
+    "id": "FOM-ID-0019",
+    "subdomain": "I-D",
+    "stem": "A 35-year-old man develops severe epigastric pain and chills after working outdoors in freezing rain. The pain is intense and unrelieved by position. The pulse is forceful and taut, with a side-to-side tension that feels like a twisted rope under the fingers. Which pulse quality best describes this finding?",
+    "options": {
+      "A": "Wiry pulse",
+      "B": "Tight pulse",
+      "C": "Long pulse",
+      "D": "Full pulse"
+    }
+  },
+  {
+    "id": "FOM-ID-0020",
+    "subdomain": "I-D",
+    "stem": "A pulse is felt at the superficial level, is thin, and is soft, like a wisp of cotton floating on water; it fades with heavier pressure. Which pulse quality best describes this finding, and what does it most commonly indicate?",
+    "options": {
+      "A": "Soggy pulse; Dampness or deficiency of Blood and Yin",
+      "B": "Slippery pulse; Phlegm or retention of Food",
+      "C": "Floating pulse; invasion of an exterior pathogenic factor",
+      "D": "Thin pulse; deficiency of Blood"
+    }
+  },
+  {
+    "id": "FOM-ID-0021",
+    "subdomain": "I-D",
+    "stem": "A healthy 29-year-old woman reports eight weeks of amenorrhea with mild nausea in the mornings. She has no digestive complaints otherwise, no cough, and a tongue with a thin white coating. Her pulse is slippery and slightly rapid at all positions, rolling smoothly like pearls under the fingers. Which interpretation of the pulse is most appropriate?",
+    "options": {
+      "A": "Phlegm-Damp accumulating in the Middle Burner",
+      "B": "Retention of Food in the Stomach",
+      "C": "A physiological pulse consistent with pregnancy",
+      "D": "Damp-Heat in the Lower Burner"
+    }
+  },
+  {
+    "id": "FOM-ID-0022",
+    "subdomain": "I-D",
+    "stem": "A 61-year-old patient with chronic chest oppression and a purplish tongue has a pulse that is slow, fewer than four beats per practitioner breath, and misses a beat at irregular intervals. Which pulse quality best describes this finding?",
+    "options": {
+      "A": "Choppy pulse",
+      "B": "Intermittent pulse",
+      "C": "Hasty pulse",
+      "D": "Knotted pulse"
+    }
+  },
+  {
+    "id": "FOM-ID-0023",
+    "subdomain": "I-D",
+    "stem": "A 72-year-old woman reports palpitations, shortness of breath on slight exertion, and exhaustion. Her pulse is of moderate rate but stops at regular intervals, every fifth beat, with a pause that is noticeably prolonged before the rhythm resumes. Which interpretation is most appropriate?",
+    "options": {
+      "A": "Heat agitating the Heart with stagnation of Qi and Blood",
+      "B": "Exhaustion of Zang organ Qi, particularly of the Heart",
+      "C": "Cold accumulating with obstruction of Qi and Blood",
+      "D": "Wind stirring internally from Liver Yang rising"
+    }
+  },
+  {
+    "id": "FOM-ID-0024",
+    "subdomain": "I-D",
+    "stem": "A 44-year-old woman reports stabbing, fixed lower abdominal pain that is worse during menstruation, with dark menstrual blood containing clots. The tongue is purple with distended sublingual veins. The pulse is choppy and forceful, uneven like a knife scraping bamboo. Which interpretation of the choppy pulse is most appropriate?",
+    "options": {
+      "A": "Blood stasis obstructing the vessels",
+      "B": "Blood deficiency failing to fill the vessels",
+      "C": "Essence deficiency failing to nourish the vessels",
+      "D": "Dampness slowing the flow in the vessels"
+    }
+  },
+  {
+    "id": "FOM-ID-0025",
+    "subdomain": "I-D",
+    "stem": "A 33-year-old man has had a high fever for two days with profuse sweating, great thirst for cold drinks, a red face, and a red tongue with a dry yellow coating. The pulse is large and forceful, arriving like a surging wave and then departing with less strength. Which pulse quality best describes this finding?",
+    "options": {
+      "A": "Full pulse",
+      "B": "Wiry pulse",
+      "C": "Overflowing pulse",
+      "D": "Long pulse"
+    }
+  },
+  {
+    "id": "FOM-ID-0026",
+    "subdomain": "I-D",
+    "stem": "A 50-year-old man reports four days of constipation with abdominal fullness and pain that is worse with pressure, foul breath, and irritability. The tongue is red with a thick, dry yellow coating. The pulse is large, long, and equally forceful at the superficial, middle, and deep levels, both on arrival and departure. Which pulse quality best describes this finding?",
+    "options": {
+      "A": "Overflowing pulse",
+      "B": "Full pulse",
+      "C": "Firm pulse",
+      "D": "Tight pulse"
+    }
+  },
+  {
+    "id": "FOM-ID-0027",
+    "subdomain": "I-D",
+    "stem": "A 24-year-old patient presents with one day of chills, mild fever, absence of sweating, occipital headache, and generalized body aches. The tongue has a thin white coating. The pulse is floating and tight. Which interpretation of this pulse combination is most appropriate?",
+    "options": {
+      "A": "Exterior Wind-Heat",
+      "B": "Exterior deficiency with Wei Qi failing to consolidate",
+      "C": "Interior Cold with pain",
+      "D": "Exterior Wind-Cold"
+    }
+  },
+  {
+    "id": "FOM-ID-0028",
+    "subdomain": "I-D",
+    "stem": "A 63-year-old woman reports chronic low back coldness and pain that improves with warmth, frequent pale urination, cold feet, and a lack of energy. The tongue is pale, swollen, and wet. The pulse is deep, slow, and weak. Which interpretation of this pulse combination is most appropriate?",
+    "options": {
+      "A": "Interior Empty Cold from Yang deficiency",
+      "B": "Interior Full Cold from invasion of Cold",
+      "C": "Interior Dampness obstructing the Yang",
+      "D": "Interior Blood stasis from Cold congealing"
+    }
+  },
+  {
+    "id": "FOM-ID-0029",
+    "subdomain": "I-D",
+    "stem": "A 46-year-old man reports dizziness with a heavy head, a bitter taste, chest oppression with sticky yellow sputum, irritability, and restless sleep. The tongue is red with a greasy yellow coating. The pulse is wiry, slippery, and rapid. Which interpretation of this pulse combination is most appropriate?",
+    "options": {
+      "A": "Liver Blood deficiency with internal Wind",
+      "B": "Cold-Phlegm obstructing the chest",
+      "C": "Phlegm-Heat with Liver involvement",
+      "D": "Liver Yin deficiency with Empty Heat"
+    }
+  },
+  {
+    "id": "FOM-ID-0030",
+    "subdomain": "I-D",
+    "stem": "A 37-year-old woman reports spontaneous daytime sweating, aversion to wind, frequent colds, fatigue, and shortness of breath on exertion. The tongue is pale with a thin white coating. The pulse is floating and empty, forceless at the superficial level and vanishing on deeper pressure. Which interpretation of this pulse combination is most appropriate?",
+    "options": {
+      "A": "Exterior Wind-Cold constraining the surface",
+      "B": "Lung Qi deficiency with Wei Qi failing to consolidate the exterior",
+      "C": "Yin deficiency with Yang floating upward",
+      "D": "Heat in the Lung injuring the Body Fluids"
+    }
+  },
+  {
+    "id": "FOM-ID-0031",
+    "subdomain": "I-D",
+    "stem": "A 70-year-old man with a long chronic illness presents with a flushed red face, a sensation of heat, thirst, and agitation. However, he wants only small sips of warm drinks, his limbs are cold, and he prefers to be covered. The tongue is pale. The pulse is deep, slow, and forceless. Which approach to the conflicting findings is most appropriate?",
+    "options": {
+      "A": "Follow the symptoms and treat Full Heat, because the red face and thirst are the chief complaints",
+      "B": "Treat Heat and Cold simultaneously, because the findings indicate a mixed pattern",
+      "C": "Follow the symptoms and treat Empty Heat from Yin deficiency",
+      "D": "Follow the pulse and treat interior Cold, because the heat signs are deceptive"
+    }
+  },
+  {
+    "id": "FOM-ID-0032",
+    "subdomain": "I-D",
+    "stem": "A 40-year-old man presents one day after a large, heavy meal with marked epigastric and abdominal distension, pain that is worse with pressure, sour foul belching, and no bowel movement. The tongue has a thick greasy coating. Unexpectedly, the pulse is deep and thin rather than forceful. Which approach is most appropriate?",
+    "options": {
+      "A": "Follow the symptoms and treat the Excess, because the obstruction is suppressing the pulse",
+      "B": "Follow the pulse and treat deficiency of Qi and Blood",
+      "C": "Follow the pulse and treat Yang deficiency with Cold accumulation",
+      "D": "Treat deficiency first and the obstruction afterward"
+    }
+  },
+  {
+    "id": "FOM-ID-0033",
+    "subdomain": "I-D",
+    "stem": "A 59-year-old woman reports several years of dull low back ache, weak knees, nocturia, and tinnitus. The pulse is of normal rate and is adequate at both cun and both guan positions, but at both chi positions it is deep and forceless and nearly disappears on heavy pressure. Which interpretation of the pulse is most appropriate?",
+    "options": {
+      "A": "Heat in the Lower Burner consuming the Body Fluids",
+      "B": "Kidney deficiency with weakening of the root of the pulse",
+      "C": "Spleen Qi deficiency failing to generate Blood",
+      "D": "Liver Qi stagnation obstructing the Lower Burner"
+    }
+  },
+  {
+    "id": "FOM-ID-0034",
+    "subdomain": "I-D",
+    "stem": "A 48-year-old patient reports chronic abdominal distension and dull pain. On palpation the abdomen is soft, and the patient says the discomfort feels better when the practitioner presses on it and when a warm hand rests on the area. Which interpretation of these palpation findings is most appropriate?",
+    "options": {
+      "A": "A deficiency pattern with Cold in the Middle Burner",
+      "B": "An Excess pattern with accumulation of Food",
+      "C": "A Heat pattern in the Intestines",
+      "D": "A pattern of Qi stagnation in the Liver and Stomach"
+    }
+  },
+  {
+    "id": "FOM-ID-0035",
+    "subdomain": "I-D",
+    "stem": "During abdominal palpation of a 54-year-old man, the whole abdomen feels distinctly cold to the practitioner's hand, especially below the umbilicus, and the patient reports that he habitually uses a hot water bottle on his belly. Which interpretation is most appropriate?",
+    "options": {
+      "A": "Heat accumulating in the Stomach and Intestines",
+      "B": "Dampness obstructing the Middle Burner",
+      "C": "Yang deficiency with interior Cold",
+      "D": "Blood stasis in the Lower Burner"
+    }
+  },
+  {
+    "id": "FOM-ID-0036",
+    "subdomain": "I-D",
+    "stem": "A 51-year-old woman reports lower abdominal pain. On palpation, a soft mass is found that moves when pushed, is sometimes present and sometimes absent, and is associated with pain that shifts in location and improves after passing gas. Which interpretation of this mass is most appropriate?",
+    "options": {
+      "A": "Blood stasis forming a fixed accumulation",
+      "B": "Qi stagnation forming a movable gathering",
+      "C": "Phlegm congealing into a hard nodule",
+      "D": "Cold congealing into a firm accumulation"
+    }
+  },
+  {
+    "id": "FOM-ID-0037",
+    "subdomain": "I-D",
+    "stem": "A 36-year-old man reports epigastric fullness and nausea since a late, heavy dinner. On palpation the epigastrium is firm and distended, and pressing it causes pain and triggers foul, sour belching. Which interpretation of these palpation findings is most appropriate?",
+    "options": {
+      "A": "Stomach Qi deficiency with failure of descending",
+      "B": "Stomach Yin deficiency with dryness",
+      "C": "Cold invading the Stomach",
+      "D": "Retention of Food in the Stomach"
+    }
+  },
+  {
+    "id": "FOM-ID-0038",
+    "subdomain": "I-D",
+    "stem": "A 43-year-old woman reports distension and discomfort under the ribs on both sides, worse with emotional stress, with frequent sighing and a wiry pulse. On palpation there is resistance and tenderness under the costal margins, with no mass. Which interpretation of the subcostal finding is most appropriate?",
+    "options": {
+      "A": "Liver Qi stagnation obstructing the hypochondrium",
+      "B": "Liver Blood deficiency failing to nourish the sinews",
+      "C": "Phlegm-Fluids accumulating in the chest",
+      "D": "Spleen Qi deficiency with sinking of Qi"
+    }
+  },
+  {
+    "id": "FOM-ID-0039",
+    "subdomain": "I-D",
+    "stem": "On palpation of a 62-year-old man's abdomen, the area below the umbilicus is soft, lacks tone and resilience, and feels empty, almost sinking under light pressure, while the upper abdomen has normal tone. Which interpretation is most appropriate?",
+    "options": {
+      "A": "Excess in the Lower Burner from Damp-Heat",
+      "B": "Deficiency of the Kidney and the Lower Burner",
+      "C": "Stagnation of Qi in the Lower Burner",
+      "D": "Accumulation of Cold in the Lower Burner"
+    }
+  },
+  {
+    "id": "FOM-ID-0040",
+    "subdomain": "I-D",
+    "stem": "A 57-year-old man reports a chronic cough. On palpation, the practitioner finds marked tenderness at the Back-Shu (Transporting) point area of the Lung on both sides and at the Front-Mu (Alarm) point area of the Lung on the chest, with no tenderness at the other Back-Shu points. Which interpretation of this finding is most appropriate?",
+    "options": {
+      "A": "A local channel obstruction confined to the back and chest muscles",
+      "B": "A disorder of the Heart, since the chest is involved",
+      "C": "A disorder of the Lung reflected at its Back-Shu and Front-Mu points",
+      "D": "A disorder of the Bladder, since the Back-Shu points lie on its channel"
+    }
+  },
+  {
+    "id": "FOM-ID-0041",
+    "subdomain": "I-D",
+    "stem": "A 66-year-old woman reports weakness and aching along the front of the lower leg for several months. On palpation along the Stomach channel on the leg, the skin feels cool, the muscle is flaccid and the tissue seems sunken and lacking in tone, with no nodules or sharp tenderness. Which interpretation is most appropriate?",
+    "options": {
+      "A": "Heat in the channel from Wind-Heat invasion",
+      "B": "Blood stasis obstructing the channel",
+      "C": "Damp-Heat pouring downward into the channel",
+      "D": "Deficiency of Qi and Blood in the channel"
+    }
+  },
+  {
+    "id": "FOM-ID-0042",
+    "subdomain": "I-D",
+    "stem": "A 64-year-old woman has swelling of both lower legs. When the practitioner presses a thumb into the swelling over the shin for several seconds, a depression remains after the thumb is removed and only slowly fills in. Which interpretation of this finding is most appropriate?",
+    "options": {
+      "A": "Water edema from Yang deficiency failing to transform fluids",
+      "B": "Qi edema from stagnation of Qi",
+      "C": "Phlegm accumulating in the muscles",
+      "D": "Wind-Water with Lung Qi failing to disperse"
+    }
+  },
+  {
+    "id": "FOM-ID-0043",
+    "subdomain": "I-D",
+    "stem": "A 45-year-old patient with a six-week history of afternoon fever has skin that feels warm on first touch. When the practitioner's hand rests on the skin for a longer period, the heat becomes more pronounced rather than fading, and the patient has night sweats and a red tongue with little coating. Which interpretation is most appropriate?",
+    "options": {
+      "A": "Heat in the exterior from Wind-Heat invasion",
+      "B": "Heat in the Qi level from Yang Ming Excess",
+      "C": "Dampness trapping Heat in the muscles",
+      "D": "Heat in the interior from Yin deficiency steaming outward"
+    }
+  },
+  {
+    "id": "FOM-ID-0044",
+    "subdomain": "I-D",
+    "stem": "A 30-year-old man is seen on the fourth day of a febrile illness. His hands and feet are cold to the touch up to the wrists and ankles, yet his chest and abdomen feel hot, he is thirsty for cold drinks, restless, constipated, with scanty dark urine. The tongue is red with a dry yellow coating. The pulse is deep, rapid, and forceful. Which interpretation of the cold limbs is most appropriate?",
+    "options": {
+      "A": "Yang deficiency failing to warm the extremities",
+      "B": "Exterior Cold constricting the channels of the limbs",
+      "C": "Interior Heat trapping Yang so that it fails to reach the limbs",
+      "D": "Blood deficiency failing to fill the vessels of the limbs"
+    }
+  },
+  {
+    "id": "FOM-ID-0045",
+    "subdomain": "I-D",
+    "stem": "A practitioner compares the temperature of a feverish patient's forehead with that of the palms by touch. The forehead is distinctly hotter than the palms. According to the classical palpation rule, this finding most commonly indicates which of the following?",
+    "options": {
+      "A": "Heat in the interior from Yin deficiency",
+      "B": "Heat in the Blood level",
+      "C": "Heat from retention of Food in the Stomach",
+      "D": "Heat in the exterior from invasion of a pathogenic factor"
+    }
+  },
+  {
+    "id": "FOM-III1-0001",
+    "subdomain": "III-1",
+    "stem": "A 52-year-old woman reports loose stools with undigested food for two years, worse after cold or raw food. She has a dull abdominal ache relieved by warmth and pressure, cold hands and feet, poor appetite, and fatigue. The tongue is pale and swollen with a thin white coating. The pulse is deep, slow, and weak. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "tonify Spleen Qi and resolve Dampness",
+      "B": "warm the Middle and tonify Spleen Yang",
+      "C": "clear Damp-Heat from the Spleen",
+      "D": "dispel Cold and dry Dampness in the Middle"
+    }
+  },
+  {
+    "id": "FOM-III1-0002",
+    "subdomain": "III-1",
+    "stem": "A 61-year-old woman reports a dragging, bearing-down sensation in the lower abdomen that worsens after standing for long periods, along with chronic loose stools, fatigue, a weak voice, and a tendency to feel dizzy on rising. She has been told she has a mild uterine prolapse. The tongue is pale with a thin white coating. The pulse is weak. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "tonify Spleen Qi and resolve Dampness",
+      "B": "warm Kidney Yang and astringe the lower burner",
+      "C": "move Qi and relieve stagnation in the lower burner",
+      "D": "tonify Spleen Qi and raise the Yang"
+    }
+  },
+  {
+    "id": "FOM-III1-0003",
+    "subdomain": "III-1",
+    "stem": "A 44-year-old woman reports heavy menstrual periods for eight months with pale, thin blood, and she bruises easily on the arms and legs. She is tired, has a poor appetite with loose stools, and has a sallow complexion. The tongue is pale with a thin white coating. The pulse is thin (thready) and weak. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "tonify Spleen Qi to hold the Blood",
+      "B": "clear Heat and cool the Blood to stop bleeding",
+      "C": "invigorate the Blood and dispel stasis to stop bleeding",
+      "D": "nourish Yin and clear Empty Heat to stop bleeding"
+    }
+  },
+  {
+    "id": "FOM-III1-0004",
+    "subdomain": "III-1",
+    "stem": "A 29-year-old man reports abdominal fullness and loose stools for three days after eating ice cream and cold drinks on a rainy camping trip. He has a feeling of heaviness in the body and head, nausea, no thirst, a sticky taste, and the abdominal pain is worse with pressure. The tongue has a thick, greasy white coating. The pulse is slippery and slow. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "tonify Spleen Qi and resolve Dampness",
+      "B": "warm the Middle and tonify Spleen Yang",
+      "C": "dispel Cold and dry Dampness in the Middle",
+      "D": "clear Heat and resolve Dampness in the Middle"
+    }
+  },
+  {
+    "id": "FOM-III1-0005",
+    "subdomain": "III-1",
+    "stem": "A 35-year-old woman reports distending pain in the hypochondrium and breasts that comes and goes, worse before her period and with emotional upset. She sighs frequently, feels irritable, and has irregular periods. The tongue is normal in color with a thin white coating. The pulse is wiry. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "soothe the Liver and regulate Qi",
+      "B": "clear Liver Fire and subdue Yang",
+      "C": "nourish Liver Blood and soften the Liver",
+      "D": "clear Damp-Heat from the Liver and Gallbladder"
+    }
+  },
+  {
+    "id": "FOM-III1-0006",
+    "subdomain": "III-1",
+    "stem": "A 58-year-old man reports headaches at the vertex and temples with dizziness and tinnitus for six months, worse when tired and in the evening. He also has a dry throat, soreness of the lower back, night sweats, and irritability. The tongue is red with little coating. The pulse is wiry and thin (thready), slightly rapid. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear Liver Fire and drain downward",
+      "B": "soothe the Liver and regulate Qi",
+      "C": "extinguish Liver Wind and stop tremor",
+      "D": "nourish Yin and subdue Liver Yang"
+    }
+  }
+]

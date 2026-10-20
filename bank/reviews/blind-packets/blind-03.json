@@ -1,0 +1,530 @@
+[
+  {
+    "id": "FOM-III1-0007",
+    "subdomain": "III-1",
+    "stem": "A 40-year-old man reports a severe, throbbing headache with red, painful eyes for one week after a period of intense anger at work. He has a bitter taste, a dry mouth, tinnitus like the sound of the sea, constipation, dark urine, and outbursts of anger. The tongue is red with a dry yellow coating, redder at the sides. The pulse is wiry, rapid, and full. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "nourish Yin and subdue Liver Yang",
+      "B": "clear Liver Fire and drain downward",
+      "C": "soothe the Liver and regulate Qi",
+      "D": "clear Damp-Heat from the Liver and Gallbladder"
+    }
+  },
+  {
+    "id": "FOM-III1-0008",
+    "subdomain": "III-1",
+    "stem": "A 31-year-old woman reports scanty, pale menstrual flow and dizziness for a year, with blurred vision, dry eyes, numbness of the hands at night, and muscle cramps in the calves. Her nails are brittle and her complexion is dull and pale. The tongue is pale and slightly dry with a thin white coating. The pulse is thin (thready). Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "soothe the Liver and regulate Qi",
+      "B": "nourish Liver Yin and clear Empty Heat",
+      "C": "nourish Liver Blood",
+      "D": "warm Kidney Yang and nourish the Blood"
+    }
+  },
+  {
+    "id": "FOM-III1-0009",
+    "subdomain": "III-1",
+    "stem": "A 67-year-old woman reports a fine tremor of the hands and intermittent twitching of the eyelids for four months, with numbness of the limbs, dizziness, and dry, itchy skin. She has had a poor appetite and lost weight after a prolonged illness. There is no fever or headache. The tongue is pale and thin with a scanty coating. The pulse is thin (thready) and slightly wiry. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear Heat and extinguish Wind",
+      "B": "nourish Yin, subdue Yang, and extinguish Wind",
+      "C": "invigorate Blood and dispel Wind from the channels",
+      "D": "nourish Blood and extinguish Wind"
+    }
+  },
+  {
+    "id": "FOM-III1-0010",
+    "subdomain": "III-1",
+    "stem": "A 38-year-old woman reports alternating constipation and loose stools for a year, with abdominal distension and borborygmi that flare after arguments with her partner. She has hypochondrial distension, frequent sighing, poor appetite, and fatigue. The tongue is pale with a thin white coating. The pulse is wiry on the left and weak on the right. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "soothe the Liver and strengthen the Spleen",
+      "B": "tonify Spleen Qi and resolve Dampness",
+      "C": "soothe the Liver and regulate Qi",
+      "D": "clear Damp-Heat from the Large Intestine"
+    }
+  },
+  {
+    "id": "FOM-III1-0011",
+    "subdomain": "III-1",
+    "stem": "A 47-year-old man reports fixed, burning pain in the right hypochondrium for two weeks with nausea, a bitter taste, poor appetite, and a feeling of heaviness. His sclera have a yellow tinge, his urine is dark and scanty, and he has a low-grade fever that comes and goes. The tongue is red with a greasy yellow coating. The pulse is wiry, slippery, and rapid. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear Liver Fire and drain downward",
+      "B": "clear Damp-Heat from the Liver and Gallbladder",
+      "C": "soothe the Liver and regulate Qi",
+      "D": "tonify the Spleen and resolve Dampness"
+    }
+  },
+  {
+    "id": "FOM-III1-0012",
+    "subdomain": "III-1",
+    "stem": "A 36-year-old woman reports palpitations and difficulty falling asleep for three months with dream-disturbed sleep, poor memory, and mild anxiety. She is easily startled, has a dull pale complexion, and feels dizzy when she stands up quickly. She denies night sweats or heat sensations. The tongue is pale and thin with a thin white coating. The pulse is thin (thready) and slightly choppy. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "nourish Heart Yin and clear Empty Heat",
+      "B": "tonify Heart Qi and calm the Shen",
+      "C": "nourish Heart Blood and calm the Shen",
+      "D": "clear Heart Fire and calm the Shen"
+    }
+  },
+  {
+    "id": "FOM-III1-0013",
+    "subdomain": "III-1",
+    "stem": "A 49-year-old woman reports waking several times each night with palpitations and a feeling of heat in her chest for five months. She has night sweats, a dry mouth and throat, a flushed appearance over the cheekbones in the evening, warmth in the palms and soles, and restlessness. The tongue is red, especially at the tip, with no coating. The pulse is thin (thready) and rapid. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "nourish Heart Yin and calm the Shen",
+      "B": "nourish Heart Blood and calm the Shen",
+      "C": "clear Heart Fire and calm the Shen",
+      "D": "clear Phlegm-Heat and open the Heart orifices"
+    }
+  },
+  {
+    "id": "FOM-III1-0014",
+    "subdomain": "III-1",
+    "stem": "A 33-year-old man reports burning pain on urination with dark, scanty urine for four days, and he noticed a small amount of blood in the urine this morning. Over the past two weeks he has had painful ulcers on the tip of the tongue, insomnia with agitation, thirst for cold drinks, and a feeling of heat in the chest. The tongue is red with a redder tip and a thin yellow coating. The pulse is rapid and overflowing. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear Damp-Heat from the Bladder",
+      "B": "nourish Kidney Yin and clear Empty Heat",
+      "C": "clear Heat and cool Blood to stop bleeding",
+      "D": "clear Heart Fire and drain Heat through the Small Intestine"
+    }
+  },
+  {
+    "id": "FOM-III1-0015",
+    "subdomain": "III-1",
+    "stem": "A 70-year-old man reports palpitations and shortness of breath on mild exertion for a year, with a feeling of oppression in the chest, cold hands, and a bright pale complexion. He feels tired, sweats spontaneously, and prefers warm drinks. The tongue is pale and slightly purplish with a thin white coating. The pulse is deep and weak. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "tonify Heart Qi and calm the Shen",
+      "B": "warm and tonify Heart Yang",
+      "C": "invigorate Blood and dispel stasis in the chest",
+      "D": "warm Kidney Yang and resolve water"
+    }
+  },
+  {
+    "id": "FOM-III1-0016",
+    "subdomain": "III-1",
+    "stem": "A 27-year-old man is brought in by his family after two weeks of agitation, shouting, and incoherent speech with very little sleep. He has a feeling of oppression in the chest, expectorates sticky yellow sputum, has a bitter taste, and his face is red. The tongue is red with a sticky yellow coating. The pulse is slippery, rapid, and full. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear Heart Fire and calm the Shen",
+      "B": "resolve Phlegm and open the Heart orifices",
+      "C": "clear Heat, resolve Phlegm, and open the Heart orifices",
+      "D": "clear Liver Fire and subdue Yang"
+    }
+  },
+  {
+    "id": "FOM-III1-0017",
+    "subdomain": "III-1",
+    "stem": "A 55-year-old woman reports insomnia with frequent waking and vivid dreams for eight months, palpitations, and mental restlessness. She also has soreness and weakness of the lower back and knees, tinnitus, night sweats, a dry throat, and a feeling of heat in the evenings. The tongue is red with a redder tip and no coating. The pulse is thin (thready) and rapid, weak at the proximal (rear) positions. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear Heart Fire and drain Heat downward",
+      "B": "nourish Heart Blood and tonify Spleen Qi",
+      "C": "warm Kidney Yang and tonify Heart Qi",
+      "D": "nourish Yin, clear Empty Heat, and harmonize Heart and Kidney"
+    }
+  },
+  {
+    "id": "FOM-III1-0018",
+    "subdomain": "III-1",
+    "stem": "A 63-year-old man reports a weak cough with thin white sputum for several months, shortness of breath that worsens on exertion, a low voice, and sweating on slight activity. He catches colds easily. The tongue is pale with a thin white coating. The pulse is empty (deficient). Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "tonify Lung Qi and consolidate the exterior",
+      "B": "nourish Lung Yin and moisten Dryness",
+      "C": "release the exterior and disperse Wind-Cold",
+      "D": "clear Heat and resolve Phlegm from the Lung"
+    }
+  },
+  {
+    "id": "FOM-III1-0019",
+    "subdomain": "III-1",
+    "stem": "A 58-year-old woman reports a dry, tickling cough for four months with scanty sticky sputum that is occasionally streaked with blood. She has a dry mouth and throat that worsen in the afternoon, hoarseness, night sweats, and a feeling of heat in the palms and soles. The tongue is red and dry with little coating. The pulse is thin (thready) and rapid. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear Heat and resolve Phlegm from the Lung",
+      "B": "tonify Lung Qi and consolidate the exterior",
+      "C": "nourish Lung Yin and clear Empty Heat",
+      "D": "disperse Wind-Dryness and moisten the Lung"
+    }
+  },
+  {
+    "id": "FOM-III1-0020",
+    "subdomain": "III-1",
+    "stem": "A 42-year-old man reports a barking cough for five days with copious thick yellow sputum that is difficult to expectorate, wheezing, chest pain on coughing, fever, thirst, and a flushed face. His breath is foul. The tongue is red with a sticky yellow coating. The pulse is slippery and rapid. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "dry Dampness and resolve Phlegm in the Lung",
+      "B": "clear Heat, resolve Phlegm, and restore the descending of Lung Qi",
+      "C": "nourish Lung Yin and moisten Dryness",
+      "D": "release the exterior and disperse Wind-Heat"
+    }
+  },
+  {
+    "id": "FOM-III1-0021",
+    "subdomain": "III-1",
+    "stem": "A 66-year-old man reports swelling of both ankles and legs for three months that pits on pressure and is worse in the evening. He has scanty urination, a cold sensation in the lower back and knees, cold feet, fatigue, and a bright pale complexion. His abdomen feels full and cold. The tongue is pale, swollen, and wet with a white coating. The pulse is deep, slow, and weak, especially at the proximal (rear) positions. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "warm Kidney Yang and resolve water",
+      "B": "tonify Spleen Qi and resolve Dampness",
+      "C": "tonify and consolidate Kidney Qi",
+      "D": "clear Damp-Heat from the Bladder and promote urination"
+    }
+  },
+  {
+    "id": "FOM-III1-0022",
+    "subdomain": "III-1",
+    "stem": "A 50-year-old woman reports dizziness and tinnitus for a year, with soreness of the lower back and knees, night sweats, a dry mouth at night, hot flushes in the afternoon, scanty dark urine, and constipation with dry stools. The tongue is red with no coating and has a crack in the center. The pulse is thin (thready) and rapid, weak at the proximal (rear) positions. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "warm Kidney Yang and tonify Kidney Qi",
+      "B": "tonify Kidney Essence and strengthen the bones",
+      "C": "clear Kidney Fire and drain Damp-Heat from the lower burner",
+      "D": "nourish Kidney Yin and clear Empty Heat"
+    }
+  },
+  {
+    "id": "FOM-III1-0023",
+    "subdomain": "III-1",
+    "stem": "A 72-year-old man reports frequent urination with dribbling after voiding and getting up four times a night to urinate for a year. The urine is clear. He has mild soreness and weakness of the lower back and feels tired, but he denies feeling cold and has no edema. The tongue is pale with a thin white coating. The pulse is deep and weak at the proximal (rear) positions. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "warm Kidney Yang and resolve water",
+      "B": "tonify and consolidate Kidney Qi",
+      "C": "tonify Spleen Qi and raise the Yang",
+      "D": "clear Damp-Heat from the Bladder"
+    }
+  },
+  {
+    "id": "FOM-III1-0024",
+    "subdomain": "III-1",
+    "stem": "A 69-year-old woman with a long history of breathing difficulty reports shortness of breath that is worse on exertion for two years. Inhalation is more difficult than exhalation, and she cannot take a deep breath. She sweats on slight activity, has a sore lower back, cold limbs, and frequent clear urination, and her face is pale. The tongue is pale with a thin white coating. The pulse is deep and weak. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "tonify Lung Qi and consolidate the exterior",
+      "B": "clear Heat, resolve Phlegm, and restore the descending of Lung Qi",
+      "C": "tonify the Kidney to receive Qi",
+      "D": "nourish Lung Yin and moisten Dryness"
+    }
+  },
+  {
+    "id": "FOM-III1-0025",
+    "subdomain": "III-1",
+    "stem": "A 54-year-old man reports a dull burning sensation in the epigastrium for six months, with a feeling of hunger but no desire to eat, dry mouth that is worse in the afternoon, dry stools, and occasional dry retching. He has lost weight. The tongue is red in the center with a peeled coating in that area. The pulse is thin (thready) and slightly rapid. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear Stomach Fire and drain downward",
+      "B": "tonify Spleen Qi and harmonize the Stomach",
+      "C": "reduce food stagnation and harmonize the Stomach",
+      "D": "nourish Stomach Yin and generate Fluids"
+    }
+  },
+  {
+    "id": "FOM-III1-0026",
+    "subdomain": "III-1",
+    "stem": "A 30-year-old man reports a burning pain in the epigastrium for three weeks with constant hunger, thirst for cold drinks, bleeding and swollen gums, bad breath, and constipation. The tongue is red with a thick dry yellow coating. The pulse is rapid and full. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear Stomach Fire and drain downward",
+      "B": "nourish Stomach Yin and generate Fluids",
+      "C": "clear Liver Fire and harmonize the Stomach",
+      "D": "warm the Stomach and dispel Cold"
+    }
+  },
+  {
+    "id": "FOM-III1-0027",
+    "subdomain": "III-1",
+    "stem": "A 26-year-old woman reports diarrhea for three days with foul-smelling stools containing mucus and streaks of blood, abdominal pain, a burning sensation in the anus, urgency, and a feeling of incomplete evacuation. She is thirsty and has scanty dark urine. The tongue is red with a greasy yellow coating. The pulse is slippery and rapid. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "tonify Spleen Qi and stop diarrhea",
+      "B": "clear Damp-Heat from the Large Intestine",
+      "C": "warm the Middle and dispel Cold-Damp",
+      "D": "moisten the Intestines and nourish the Blood"
+    }
+  },
+  {
+    "id": "FOM-III1-0028",
+    "subdomain": "III-1",
+    "stem": "A 76-year-old woman reports constipation for two years with dry, pellet-like stools passed every four or five days without abdominal pain or distension. She has dizziness, a dull pale complexion, dry skin, blurred vision, and palpitations, and she does not feel hot or thirsty. The tongue is pale and dry with a thin coating. The pulse is thin (thready) and choppy. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear Heat and drain the Large Intestine",
+      "B": "tonify Qi and promote the movement of the Intestines",
+      "C": "nourish Blood and moisten the Intestines",
+      "D": "warm the lower burner and unblock the bowels"
+    }
+  },
+  {
+    "id": "FOM-III1-0029",
+    "subdomain": "III-1",
+    "stem": "A 34-year-old woman reports frequent, urgent urination with burning pain for two days. The urine is dark, cloudy, and small in volume each time, and she has a dull ache in the lower abdomen. She is mildly feverish and thirsty. The tongue is red with a greasy yellow coating at the root. The pulse is slippery and rapid. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear Damp-Heat from the Bladder",
+      "B": "nourish Kidney Yin and clear Empty Heat",
+      "C": "warm Kidney Yang and consolidate the Bladder",
+      "D": "clear Heart Fire and drain Heat through the Small Intestine"
+    }
+  },
+  {
+    "id": "FOM-III1-0030",
+    "subdomain": "III-1",
+    "stem": "A 45-year-old woman reports a dry, paroxysmal cough for three weeks that began after a bitter family dispute and flares when she is upset. Coughing brings on pain in the chest and hypochondrium, and she has a red face, a bitter taste, a dry throat, and irritability; there is little sputum. The tongue is red at the sides with a thin yellow coating. The pulse is wiry and rapid. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "tonify Lung Qi and consolidate the exterior",
+      "B": "nourish Lung Yin and moisten Dryness",
+      "C": "release the exterior and disperse Wind-Heat",
+      "D": "clear Liver Fire and restore the descending of Lung Qi"
+    }
+  },
+  {
+    "id": "FOM-III1-0031",
+    "subdomain": "III-1",
+    "stem": "A 41-year-old man reports a feeling of distension and fullness in the chest and epigastrium that comes and goes and moves from place to place. It is worse after frustration and eases after belching or a deep sigh. He has no pain at rest and his appetite is normal. The tongue is normal in color with a thin white coating. The pulse is wiry. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "tonify Qi and raise the Yang",
+      "B": "invigorate Blood and dispel stasis",
+      "C": "move Qi and relieve stagnation",
+      "D": "regulate Qi and descend rebellious Qi"
+    }
+  },
+  {
+    "id": "FOM-III1-0032",
+    "subdomain": "III-1",
+    "stem": "A 37-year-old woman reports persistent hiccups and belching for ten days, with nausea after meals and occasional vomiting of undigested food. She has mild epigastric fullness, normal appetite between episodes, and no sour regurgitation or burning. The tongue is normal in color with a thin white coating. The pulse is wiry on the right middle position. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "tonify Qi and nourish Blood",
+      "B": "regulate Qi and descend rebellious Qi",
+      "C": "clear Heat and drain Fire from the Stomach",
+      "D": "warm the Middle and dispel Cold"
+    }
+  },
+  {
+    "id": "FOM-III1-0033",
+    "subdomain": "III-1",
+    "stem": "A patient presents with a pale complexion, pale lips and nails, dizziness, numbness of the limbs, a pale tongue, and a thin (thready) pulse. According to the theory of Qi, Blood, and Body Fluids, which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "nourish Blood",
+      "B": "invigorate Blood",
+      "C": "cool Blood",
+      "D": "tonify Qi"
+    }
+  },
+  {
+    "id": "FOM-III1-0034",
+    "subdomain": "III-1",
+    "stem": "A 48-year-old woman reports a fixed, stabbing pain in the lower abdomen for eight months that is worse at night and worse with pressure. Her periods are dark with clots and the pain intensifies before the flow. Her complexion is dusky and her lips are dark. The tongue is purple with distended sublingual veins. The pulse is choppy. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "warm the lower burner and dispel Cold",
+      "B": "nourish Blood and regulate menstruation",
+      "C": "move Qi and relieve stagnation",
+      "D": "invigorate Blood and dispel stasis"
+    }
+  },
+  {
+    "id": "FOM-III1-0035",
+    "subdomain": "III-1",
+    "stem": "A 24-year-old man reports recurrent nosebleeds of bright red blood for two weeks and an outbreak of red, itchy skin macules on the trunk. He feels hot, is thirsty, restless, and sleeps poorly, and his urine is dark. The tongue is red with a thin yellow coating. The pulse is rapid. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "tonify Qi to hold the Blood",
+      "B": "clear Heat and cool the Blood",
+      "C": "nourish Yin and clear Empty Heat",
+      "D": "invigorate Blood and dispel stasis"
+    }
+  },
+  {
+    "id": "FOM-III1-0036",
+    "subdomain": "III-1",
+    "stem": "A 39-year-old woman reports exhaustion and dizziness for six months after a prolonged illness. She has shortness of breath on exertion, spontaneous sweating, a pale complexion, pale lips, palpitations, numbness of the hands, and scanty periods. The tongue is pale and slightly swollen with a thin white coating. The pulse is thin (thready) and weak. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "nourish Blood and calm the Shen",
+      "B": "tonify Qi and raise the Yang",
+      "C": "tonify Qi and nourish Blood",
+      "D": "move Qi and invigorate Blood"
+    }
+  },
+  {
+    "id": "FOM-III1-0037",
+    "subdomain": "III-1",
+    "stem": "A 43-year-old woman reports hypochondrial and lower abdominal distension that worsens with stress, together with a fixed, stabbing pain in the left lower abdomen for a year. Her periods are painful with dark clots, and she has premenstrual breast distension and irritability. The tongue is slightly purple with dark spots on the sides. The pulse is wiry and choppy. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "move Qi and invigorate Blood",
+      "B": "invigorate Blood and dispel stasis",
+      "C": "soothe the Liver and regulate Qi",
+      "D": "tonify Qi and invigorate Blood"
+    }
+  },
+  {
+    "id": "FOM-III1-0038",
+    "subdomain": "III-1",
+    "stem": "A 74-year-old man reports weakness and numbness of the right arm and leg for four months following a stroke. He is fatigued, speaks in a low voice, is short of breath on mild exertion, and sweats spontaneously. His complexion is pale and the right hand is slightly swollen and dusky. The tongue is pale with a purplish tinge and a thin white coating. The pulse is weak and slightly choppy. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "move Qi and invigorate Blood",
+      "B": "break up Blood stasis and unblock the channels",
+      "C": "nourish Blood and extinguish Wind",
+      "D": "tonify Qi and invigorate Blood"
+    }
+  },
+  {
+    "id": "FOM-III1-0039",
+    "subdomain": "III-1",
+    "stem": "A 56-year-old man reports a chronic cough with copious white sputum that is easy to expectorate, a feeling of oppression in the chest, nausea, heaviness of the body, and a poor appetite. He is overweight and feels drowsy after meals. The tongue is pale and swollen with a sticky white coating. The pulse is slippery. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear Heat and resolve Phlegm",
+      "B": "nourish Yin and moisten the Lung",
+      "C": "dry Dampness and transform Phlegm",
+      "D": "move Qi and relieve stagnation"
+    }
+  },
+  {
+    "id": "FOM-III1-0040",
+    "subdomain": "III-1",
+    "stem": "A 62-year-old woman reports a dry mouth and throat, dry lips, and dry, hard stools for three weeks after recovering from a prolonged bout of vomiting and diarrhea. Her skin is dry and her urine is scanty. She denies night sweats, a feeling of heat in the palms and soles, or afternoon fever. The tongue is slightly red and dry with a thin dry coating. The pulse is thin (thready). Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "nourish Yin and clear Empty Heat",
+      "B": "generate Fluids and moisten Dryness",
+      "C": "clear Heat and drain Fire",
+      "D": "nourish Blood and moisten the Intestines"
+    }
+  },
+  {
+    "id": "FOM-III1-0041",
+    "subdomain": "III-1",
+    "stem": "A 33-year-old construction worker is seen after a week of heavy outdoor work in hot weather with profuse sweating. He reports marked fatigue, shortness of breath, a weak voice, continued sweating with little exertion, intense thirst, a dry mouth, and scanty dark urine. The tongue is red and dry with a thin coating. The pulse is weak and rapid. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear Summer-Heat and resolve Dampness",
+      "B": "tonify Qi and consolidate the exterior",
+      "C": "nourish Yin and subdue Yang",
+      "D": "tonify Qi and generate Fluids"
+    }
+  },
+  {
+    "id": "FOM-III1-0042",
+    "subdomain": "III-1",
+    "stem": "A 45-year-old woman reports a feeling of heaviness in the limbs and head for three weeks, epigastric fullness, a sticky taste in the mouth, poor appetite, loose stools, and no thirst. There is no sputum or cough. Her symptoms began during a humid, rainy season. The tongue is normal in color with a thick, greasy white coating. The pulse is soggy (soft). Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "resolve Dampness and harmonize the Middle",
+      "B": "clear Heat and resolve Dampness",
+      "C": "tonify Spleen Qi and raise the Yang",
+      "D": "transform Phlegm and open the chest"
+    }
+  },
+  {
+    "id": "FOM-III1-0043",
+    "subdomain": "III-1",
+    "stem": "A patient has signs of Heat that arise from a deficiency of Yin, such as afternoon heat, night sweats, a red tongue with no coating, and a thin rapid pulse. According to Yin-Yang theory, which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear Heat with cold methods to drain the excess Yang",
+      "B": "nourish Yin to control the relatively excessive Yang",
+      "C": "warm Yang to dispel the Cold that is generating Heat",
+      "D": "tonify Yang so that Yin is generated from its root"
+    }
+  },
+  {
+    "id": "FOM-III1-0044",
+    "subdomain": "III-1",
+    "stem": "A 28-year-old man reports severe cramping abdominal pain for one day after eating a large quantity of cold food in winter. The pain is worse with pressure and with cold and is eased by a hot water bottle. He has watery diarrhea, no thirst, and cold limbs, and he is otherwise robust with normal energy. The tongue is pale with a thick white coating. The pulse is deep, tight, and forceful. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "nourish Yin to control Yang",
+      "B": "warm and tonify Yang to dispel deficiency Cold",
+      "C": "warm the interior to dispel the excess Cold",
+      "D": "clear Heat to drain the excess Yang"
+    }
+  },
+  {
+    "id": "FOM-III1-0045",
+    "subdomain": "III-1",
+    "stem": "A 64-year-old man with long-standing Kidney Yang deficiency (cold lower back and knees, cold limbs, nocturia, impotence, a pale tongue, and a deep weak pulse) has improved only slightly after several months of treatment aimed purely at warming Yang, and he now also notices a dry mouth at night. The practitioner decides to modify the principle according to the mutual rooting of Yin and Yang. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "warm Kidney Yang while also nourishing Kidney Yin",
+      "B": "nourish Kidney Yin and clear Empty Heat",
+      "C": "warm Kidney Yang with stronger hot dispersing methods",
+      "D": "clear Heat and generate Fluids to relieve the dryness"
+    }
+  },
+  {
+    "id": "FOM-III1-0046",
+    "subdomain": "III-1",
+    "stem": "A 36-year-old woman reports a high fever for two days with profuse sweating, intense thirst for cold drinks, a red face, restlessness, and constipation. She feels hot all over and throws off her blankets. The tongue is red with a dry yellow coating. The pulse is overflowing (flooding) and rapid. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "nourish Yin to control the Yang",
+      "B": "warm Yang to dispel Cold",
+      "C": "tonify Yin and Yang together",
+      "D": "clear Heat with cold methods to drain the excess Yang"
+    }
+  },
+  {
+    "id": "FOM-III1-0047",
+    "subdomain": "III-1",
+    "stem": "According to Yin-Yang theory, interior Cold that arises because Yang is too weak to warm the body, presenting with a chronic aversion to cold, cold limbs, a pale wet tongue, and a deep weak pulse, is treated by which of the following principles?",
+    "options": {
+      "A": "dispel the Cold pathogen with hot dispersing methods",
+      "B": "warm and tonify Yang to eliminate the deficiency Cold",
+      "C": "nourish Yin to restore the balance with Yang",
+      "D": "clear Heat to reduce Yang back to balance"
+    }
+  },
+  {
+    "id": "FOM-III1-0048",
+    "subdomain": "III-1",
+    "stem": "A 29-year-old patient reports one day of chills, mild fever, absence of sweating, a stiff neck, and body aches after cycling home in cold rain. There is no thirst. The tongue has a thin white coating. The pulse is floating and tight. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear interior Heat and generate fluids",
+      "B": "release the exterior and expel Wind-Cold",
+      "C": "warm the interior and dispel Cold",
+      "D": "tonify Qi and consolidate the exterior"
+    }
+  },
+  {
+    "id": "FOM-III1-0049",
+    "subdomain": "III-1",
+    "stem": "A 41-year-old patient reports sudden severe epigastric pain that began after eating a large bowl of ice cream. The pain is relieved by a hot-water bottle and worsened by cold drinks. There is nausea and no thirst. The tongue is pale with a thick white coating. The pulse is deep and tight. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear Stomach Heat and descend rebellious Qi",
+      "B": "tonify Spleen Yang and warm the Middle",
+      "C": "warm the interior and dispel Cold",
+      "D": "release the exterior and dispel Cold"
+    }
+  },
+  {
+    "id": "FOM-III1-0050",
+    "subdomain": "III-1",
+    "stem": "A 58-year-old patient reports loose stools several times daily for two years, worse after meals, with poor appetite, abdominal distension after eating, fatigue, and a sallow complexion. The stools have no foul odor and there is no burning. The tongue is pale and teeth-marked with a thin white coating. The pulse is weak. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "tonify Spleen Qi and lift the clear Yang",
+      "B": "clear Damp-Heat from the Large Intestine",
+      "C": "drain Dampness and promote urination",
+      "D": "resolve Food stagnation and harmonize the Stomach"
+    }
+  },
+  {
+    "id": "FOM-III1-0051",
+    "subdomain": "III-1",
+    "stem": "A 72-year-old patient with long-standing chronic illness reports feeling hot in the face with flushed cheeks and a desire to remove clothing, yet the limbs are cold and the patient curls up under blankets. There is restlessness, thirst for only small sips of warm water, long clear urination, and watery diarrhea. The tongue is pale with a moist coating. The pulse is deep, minute (faint), and forceless. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "clear Heat and drain Fire",
+      "B": "nourish Yin and clear Empty Heat",
+      "C": "release the exterior and clear the interior",
+      "D": "warm Yang and dispel Cold"
+    }
+  },
+  {
+    "id": "FOM-III1-0052",
+    "subdomain": "III-1",
+    "stem": "A 35-year-old patient on the fifth day of a febrile illness has a high fever with ice-cold hands and feet. There is marked thirst with a desire for cold drinks, irritability, foul breath, constipation for four days, and scanty dark urine. The tongue is red with a dry yellow coating. The pulse is deep but forceful and rapid. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "warm Yang and rescue from collapse",
+      "B": "clear interior Heat and purge accumulation",
+      "C": "warm the Middle and dispel interior Cold",
+      "D": "release the exterior and clear interior Heat"
+    }
+  },
+  {
+    "id": "FOM-III1-0053",
+    "subdomain": "III-1",
+    "stem": "A 68-year-old patient reports a chronic cough for three years with copious white sticky sputum, shortness of breath on exertion, a weak voice, and a tendency to catch colds. The complexion is pale. The tongue is pale and slightly swollen with a white greasy coating. The pulse is weak and slippery. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "tonify Lung Qi and resolve Phlegm",
+      "B": "tonify Lung Qi and consolidate the exterior",
+      "C": "descend Lung Qi and resolve Phlegm",
+      "D": "clear Lung Heat and resolve Phlegm"
+    }
+  },
+  {
+    "id": "FOM-III1-0054",
+    "subdomain": "III-1",
+    "stem": "A 63-year-old patient who catches colds several times each winter presents with two days of aversion to cold, mild fever, a runny nose with clear discharge, and body aches. The patient also reports chronic fatigue, spontaneous daytime sweating, and shortness of breath on climbing stairs. The tongue is pale with a thin white coating. The pulse is floating and weak. Which of the following is the most appropriate treatment principle?",
+    "options": {
+      "A": "release the exterior and expel Wind-Cold",
+      "B": "tonify Qi and consolidate the exterior",
+      "C": "warm Kidney Yang and release the exterior",
+      "D": "tonify Qi and release the exterior"
+    }
+  }
+]

@@ -1,0 +1,843 @@
+[
+  {
+    "id": "FOM-III5-0001",
+    "domain": "III",
+    "subdomain": "III-5",
+    "task": "III-5",
+    "stem": "According to the seasonal regimen described in the Huang Di Nei Jing (Su Wen, Chapter 2), which daily sleep pattern is recommended during autumn?",
+    "options": {
+      "A": "Retire late and rise early, letting Qi flow freely outward",
+      "B": "Retire early and rise early, keeping the mind calm and gathered",
+      "C": "Retire early and rise late, waiting for sunlight before going out",
+      "D": "Retire late and rise late, keeping the body warm and inactive"
+    },
+    "correct": "B",
+    "explanation": "Su Wen Chapter 2 assigns each season a regimen that follows the movement of Yang Qi: spring rising, summer growth, autumn gathering, winter storing. Autumn is the season of gathering and the Lung; the text advises going to bed early and rising early 'with the rooster', keeping the spirit calm and the mind collected so that Lung Qi is kept clear and the harshness of autumn does not injure it. The early-to-bed, early-to-rise pattern is unique to autumn in the chapter.",
+    "distractorExplanations": {
+      "A": "Retiring late and rising early is the regimen for spring and summer, when Yang Qi is rising and flourishing and should be allowed to move outward. A learner who confuses the outward-moving seasons with the gathering season would pick this.",
+      "C": "Retiring early and rising late, waiting for the sun, is the winter regimen of storing and protecting Yang. A learner who treats autumn as simply 'early winter' would pick this.",
+      "D": "Retiring late and rising late is recommended in no season of the Nei Jing regimen; it reflects the misconception that cooler weather calls for more sleep overall rather than an earlier schedule."
+    },
+    "learningObjective": "Identify the Nei Jing seasonal sleep regimen for autumn and distinguish it from the regimens of the other three seasons.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": ["seasonal-regimen", "autumn-gathering", "nei-jing"],
+    "references": [
+      { "source": "Huang Di Nei Jing Su Wen", "locator": "Chapter 2, Si Qi Tiao Shen Da Lun (regulating the spirit according to the four seasons)" },
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on the causes of disease (climate and seasonal living)" }
+    ]
+  },
+  {
+    "id": "FOM-III5-0002",
+    "domain": "III",
+    "subdomain": "III-5",
+    "task": "III-5",
+    "stem": "A 63-year-old man reports a cold, aching lower back and knees for two years, cold hands and feet, frequent pale urination, and low energy. The tongue is pale and swollen with a thin white coating. The pulse is deep and weak. It is mid-December and he asks how to arrange his daily routine for the season. Which self-care recommendation is most appropriate?",
+    "options": {
+      "A": "Rise before dawn for brisk outdoor runs that build warmth",
+      "B": "Use a sauna several times weekly until sweating freely",
+      "C": "Retire late and rise early, spending long hours outdoors",
+      "D": "Retire early, rise after sunrise, and keep warm without sweating"
+    },
+    "correct": "D",
+    "explanation": "The cold low back and knees, cold limbs, frequent pale urine, pale swollen tongue, and deep weak pulse indicate Kidney Yang deficiency. Winter is the season of storing, and the Nei Jing winter regimen is to retire early, rise after the sun is up, keep warm, avoid cold, and avoid letting the skin sweat so that Yang Qi is conserved. This matches both the season and the pattern, since sweating and cold exposure would further drain a deficient Kidney Yang.",
+    "distractorExplanations": {
+      "A": "Early runs in the pre-dawn cold expose a Yang-deficient patient to Cold and produce sweating that disperses Yang; the misconception is that exertion 'generates' warmth in a patient whose warmth is already deficient.",
+      "B": "Heavy sweating in a sauna drains Yang and Body Fluids; a learner who equates external heat with tonifying Yang would choose this, but the Nei Jing winter regimen specifically warns against sweating.",
+      "C": "Retiring late and rising early with long outdoor hours is the spring and summer regimen for the rising and flourishing of Yang, the opposite of winter storing."
+    },
+    "learningObjective": "Apply the Nei Jing winter regimen to a patient with Kidney Yang deficiency.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": ["kidney-yang-deficiency", "seasonal-regimen", "winter-storing"],
+    "references": [
+      { "source": "Huang Di Nei Jing Su Wen", "locator": "Chapter 2, Si Qi Tiao Shen Da Lun (winter regimen)" },
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on Kidney patterns (Kidney Yang deficiency)" }
+    ]
+  },
+  {
+    "id": "FOM-III5-0003",
+    "domain": "III",
+    "subdomain": "III-5",
+    "task": "III-5",
+    "stem": "A 34-year-old woman reports premenstrual irritability, breast distension, and a feeling of fullness under the ribs for one year. She sighs frequently and describes herself as 'stuck' in a sedentary desk job. The tongue is normal in color. The pulse is wiry. Which self-care recommendation is most appropriate?",
+    "options": {
+      "A": "Daily Tai Ji or flowing Qi Gong practice combined with regular outdoor walks",
+      "B": "Complete rest with minimal activity until the distension subsides",
+      "C": "Long periods of still, seated practice with as little movement as possible",
+      "D": "High-intensity training to the point of profuse sweating each evening"
+    },
+    "correct": "A",
+    "explanation": "Premenstrual irritability, breast and hypochondrial distension, frequent sighing, a normal-colored tongue, and a wiry pulse indicate Liver Qi stagnation. The Liver governs the free flow of Qi, and stagnation is relieved by regular, moderate, rhythmic movement; Tai Ji, flowing Qi Gong, and walking move Qi and ease the emotional constraint that drives the pattern. The sedentary job is a contributing lifestyle factor that this recommendation directly corrects.",
+    "distractorExplanations": {
+      "B": "Rest and inactivity worsen Qi stagnation; this choice reflects the misconception that distension is a sign of deficiency that calls for rest.",
+      "C": "Prolonged stillness does little to move stagnant Liver Qi and may increase constraint in a sedentary patient; the misconception is that 'calming the Liver' means keeping the body motionless.",
+      "D": "Exhaustive training with profuse sweating depletes Qi and Blood and may generate Heat; the misconception is that more intense exertion moves Qi more effectively than moderate, regular movement."
+    },
+    "learningObjective": "Select the type of movement practice appropriate for Liver Qi stagnation.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": ["liver-qi-stagnation", "tai-ji", "qi-gong", "wiry-pulse"],
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on Liver patterns (Liver Qi stagnation); chapter on the causes of disease (lack of exercise)" }
+    ]
+  },
+  {
+    "id": "FOM-III5-0004",
+    "domain": "III",
+    "subdomain": "III-5",
+    "task": "III-5",
+    "stem": "A 47-year-old woman reports night sweats, heat in the palms and soles, tinnitus, soreness of the lower back, and a dry mouth at night for eight months. She attends heated yoga five evenings a week and works until midnight. The tongue is red with little coating. The pulse is thin (thready) and rapid. Which self-care recommendation is most appropriate?",
+    "options": {
+      "A": "Continue the heated classes and add a daily sauna to release the Heat",
+      "B": "Switch to vigorous running to strengthen the Kidneys through exertion",
+      "C": "Replace heated classes with gentle practice, limit sweating, and sleep earlier",
+      "D": "Stop all physical activity and rest in bed during the daytime"
+    },
+    "correct": "C",
+    "explanation": "Night sweats, five-palm heat, tinnitus, low back soreness, night-time dry mouth, a red tongue with little coating, and a thin rapid pulse indicate Kidney Yin deficiency with Empty Heat. Heavy sweating is a loss of Body Fluids and further consumes Yin, and late nights deplete Yin because night is the Yin phase of the day. Gentle practice such as slow Qi Gong, avoidance of profuse sweating, and an earlier bedtime conserve and support Yin.",
+    "distractorExplanations": {
+      "A": "Sauna and heated classes drive sweating that depletes Yin and aggravate Empty Heat; the misconception is that Empty Heat can be 'released' like Full Heat through sweating.",
+      "B": "Vigorous running also produces heavy sweating and physical overwork, which deplete Qi and Yin; the misconception is that Kidney deficiency is corrected by building stamina through exertion.",
+      "D": "Complete bed rest is unnecessary and inappropriate for a functioning patient with a Yin deficiency pattern; the misconception is that every deficiency pattern calls for total rest rather than moderation of activity."
+    },
+    "learningObjective": "Differentiate self-care advice for Yin deficiency from advice appropriate to Full Heat or Qi deficiency, with emphasis on sweating and sleep timing.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["kidney-yin-deficiency", "empty-heat", "sweating-and-yin", "gentle-exercise"],
+    "distinction": { "between": ["kidney-yin-deficiency", "full-heat"], "key": "Empty Heat from Yin deficiency is worsened by sweating that loses Fluids, whereas Full Heat in the exterior may be released through sweating." },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on Kidney patterns (Kidney Yin deficiency); chapter on the causes of disease (overwork, excessive physical exercise)" }
+    ]
+  },
+  {
+    "id": "FOM-III5-0005",
+    "domain": "III",
+    "subdomain": "III-5",
+    "task": "III-5",
+    "stem": "A 28-year-old graduate student reports fatigue that is worst after long study sessions, poor appetite, abdominal bloating, and loose stools for five months. He studies twelve hours a day, eats at irregular times, and says he 'cannot stop turning problems over' in his mind. The tongue is pale with teeth marks. The pulse is weak. Which self-care recommendation is most appropriate?",
+    "options": {
+      "A": "Increase study hours now and rest fully once the semester ends",
+      "B": "Take regular breaks from mental work, eat at fixed times, and walk daily",
+      "C": "Train intensively each morning so that fatigue improves through conditioning",
+      "D": "Fast during the day to reduce bloating and eat one large meal at night"
+    },
+    "correct": "B",
+    "explanation": "Fatigue after mental effort, poor appetite, bloating, loose stools, a pale teeth-marked tongue, and a weak pulse indicate Spleen Qi deficiency. Excessive mental work and pensiveness injure the Spleen, and irregular eating weakens the Spleen and Stomach. Regular breaks from study, meals at fixed times, and moderate daily walking address all three lifestyle contributors while supporting the Spleen's function of transformation and transportation.",
+    "distractorExplanations": {
+      "A": "Continued overwork keeps depleting Spleen Qi; the misconception is that deficiency can be 'paid back' later with rest rather than prevented by limiting the cause now.",
+      "C": "Intensive training in an already Qi-deficient patient further depletes Qi; the misconception is that fatigue from deficiency responds to conditioning like fatigue from inactivity.",
+      "D": "Fasting and one large late meal are irregular eating patterns that burden the Spleen and Stomach; the misconception is that bloating is best managed by reducing meal frequency."
+    },
+    "learningObjective": "Counsel a patient with Spleen Qi deficiency on limiting mental overwork and establishing regular meals.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": ["spleen-qi-deficiency", "overwork", "pensiveness", "irregular-eating"],
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on the causes of disease (overwork, pensiveness, diet); chapter on Spleen patterns" }
+    ]
+  },
+  {
+    "id": "FOM-III5-0006",
+    "domain": "III",
+    "subdomain": "III-5",
+    "task": "III-5",
+    "stem": "A 42-year-old man reports soreness of the lower back, weak knees, tinnitus, premature graying of the hair, and declining memory for one year. On inquiry he reports very frequent sexual activity and long working hours. The tongue is pale. The pulse is deep and weak, especially at the rear (chi) positions. Which self-care recommendation is most appropriate?",
+    "options": {
+      "A": "Cold-water immersion each morning to stimulate the Kidneys",
+      "B": "Weight training to exhaustion to strengthen the lower back",
+      "C": "Frequent hot saunas to drive Cold out of the lower back",
+      "D": "Moderating sexual activity and limiting overwork"
+    },
+    "correct": "D",
+    "explanation": "Low back soreness, weak knees, tinnitus, premature graying, and poor memory with a deep weak pulse at the chi positions point to Kidney deficiency with depletion of Essence (Jing). Excessive sexual activity directly depletes Kidney Essence, and chronic overwork consumes Kidney Yin and Qi. The appropriate counsel addresses the etiological factor the patient reported: moderating sexual activity and reducing overwork so that Essence can be conserved.",
+    "distractorExplanations": {
+      "A": "Cold immersion injures Kidney Yang and does nothing to restore Essence; the misconception is that cold 'stimulates' the Kidneys because they are the Water organ.",
+      "B": "Training to exhaustion is physical overwork that further depletes Qi and strains the lower back, the dwelling of the Kidneys; the misconception is that weakness of the back is a muscular problem to be trained away.",
+      "C": "The presentation shows deficiency with no Cold-Damp obstruction, and heavy sauna sweating depletes Yin and Fluids; the misconception is that back soreness is always a Cold-Damp Bi pattern."
+    },
+    "learningObjective": "Counsel a patient with Kidney Essence deficiency on moderating sexual activity and overwork.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": ["kidney-essence-deficiency", "excessive-sexual-activity", "overwork"],
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on the causes of disease (excessive sexual activity, overwork); chapter on the Kidneys (Essence)" }
+    ]
+  },
+  {
+    "id": "FOM-III5-0007",
+    "domain": "III",
+    "subdomain": "III-5",
+    "task": "III-5",
+    "stem": "A 58-year-old woman reports shortness of breath on exertion, a weak voice, spontaneous daytime sweating, and frequent colds for the past two winters. Her complexion is pale. The tongue is pale with a thin white coating. The pulse is weak. Which self-care recommendation is most appropriate?",
+    "options": {
+      "A": "Daily slow abdominal breathing exercises and dressing warmly in windy weather",
+      "B": "Daily long-distance running to expand the capacity of the chest",
+      "C": "Cold showers each morning to build resistance to catching colds",
+      "D": "Staying indoors and avoiding all fresh air until the sweating stops"
+    },
+    "correct": "A",
+    "explanation": "Shortness of breath on exertion, weak voice, spontaneous sweating, susceptibility to colds, pale complexion, pale tongue, and weak pulse indicate Lung Qi deficiency, with weakened Defensive (Wei) Qi failing to secure the pores and protect the exterior. Slow, regular abdominal breathing practice gently strengthens Lung Qi, and protecting the neck and body from Wind reduces exposure of a weak exterior to pathogenic Wind-Cold.",
+    "distractorExplanations": {
+      "B": "Long-distance running exhausts an already deficient Lung Qi and causes further sweating; the misconception is that lung weakness is a conditioning problem solved by aerobic volume.",
+      "C": "Cold showers expose a weak exterior to Cold and strain Yang; the misconception is that 'hardening' through cold exposure strengthens Wei Qi.",
+      "D": "Avoiding fresh air entirely is unnecessary and reduces beneficial gentle activity; the misconception is that deficiency requires isolation rather than protection from Wind while remaining active."
+    },
+    "learningObjective": "Recommend breathing practice and Wind protection for a patient with Lung Qi deficiency.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": ["lung-qi-deficiency", "breathing-exercises", "wei-qi", "wind-protection"],
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on Lung patterns (Lung Qi deficiency); chapter on the functions of the Lungs (Defensive Qi)" }
+    ]
+  },
+  {
+    "id": "FOM-III5-0008",
+    "domain": "III",
+    "subdomain": "III-5",
+    "task": "III-5",
+    "stem": "A 50-year-old farmer reports pain in the knees and finger joints for three years. The pain is worse in cold, wet weather, improves with warmth, and is accompanied by a sense of heaviness in the limbs. He often works in the rain and sits on the wet ground at breaks. The tongue is pale with a white greasy coating. The pulse is tight and slow. Which self-care recommendation is most appropriate?",
+    "options": {
+      "A": "Soak the painful joints in cold water after work to reduce swelling",
+      "B": "Rest in bed for several weeks until the joint pain fully resolves",
+      "C": "Keep the joints warm and dry and change out of wet clothing promptly",
+      "D": "Perform vigorous stretching outdoors in the early morning cold"
+    },
+    "correct": "C",
+    "explanation": "Joint pain that is worse in cold damp weather and better with warmth, limb heaviness, a white greasy coating, and a tight slow pulse indicate Painful Obstruction (Bi) from Wind-Cold-Damp with Cold and Damp predominating. The pathogenic factors enter through repeated exposure of the joints to cold and wet. Keeping the joints warm and dry and removing wet clothing promptly remove the ongoing etiological exposure that maintains the pattern.",
+    "distractorExplanations": {
+      "A": "Cold water adds Cold to a Cold-Damp pattern and contracts the channels further; the misconception is applying the biomedical idea of icing a joint to a pattern aggravated by cold.",
+      "B": "Prolonged bed rest allows Dampness to settle and Qi and Blood to stagnate in the joints; the misconception is that any joint pain calls for immobilization.",
+      "D": "Vigorous stretching in the early morning cold exposes the patient to more Cold and Wind; the misconception is that pathogenic Cold can be 'worked out' by exertion in the cold."
+    },
+    "learningObjective": "Explain the role of protection from Wind, Cold, and Damp in managing Cold-Damp Painful Obstruction.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": true,
+    "concepts": ["wind-cold-damp-bi", "external-etiology", "cold-damp"],
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on the causes of disease (Cold, Dampness as exterior pathogenic factors)" },
+      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Bi syndromes (Painful Bi, Fixed Bi)" }
+    ]
+  },
+  {
+    "id": "FOM-III5-0009",
+    "domain": "III",
+    "subdomain": "III-5",
+    "task": "III-5",
+    "stem": "A 40-year-old woman reports dry eyes, blurred vision in the evening, and scanty menstrual periods. She routinely works at a computer until 2 a.m. The tongue is pale. The pulse is thin (thready). Based on the Chinese organ clock, during which time window is it most important for her to be asleep in order to support the organ involved?",
+    "options": {
+      "A": "11 p.m. to 1 a.m.",
+      "B": "1 a.m. to 3 a.m.",
+      "C": "3 a.m. to 5 a.m.",
+      "D": "5 a.m. to 7 a.m."
+    },
+    "correct": "B",
+    "explanation": "Dry eyes, blurred vision, scanty periods, a pale tongue, and a thin pulse indicate Liver Blood deficiency. In the organ clock, Qi and Blood flow is at its peak in the Liver channel from 1 a.m. to 3 a.m., and the Nei Jing states that when a person lies down Blood returns to the Liver. Being asleep during this window allows Blood to return to and be stored by the Liver, which is what her late-night work prevents.",
+    "distractorExplanations": {
+      "A": "11 p.m. to 1 a.m. is the Gallbladder window; a learner who remembers only that the Wood organs are at night but confuses the paired Yang organ with the Liver would pick this.",
+      "C": "3 a.m. to 5 a.m. is the Lung window; this reflects confusion of the two early-morning windows or an assumption that the Lung, as the organ that governs Qi, is the sleep-critical one.",
+      "D": "5 a.m. to 7 a.m. is the Large Intestine window, the time of rising and elimination; it is unrelated to the storage of Blood."
+    },
+    "learningObjective": "Apply the Chinese organ clock to sleep-timing advice for a patient with Liver Blood deficiency.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": true,
+    "concepts": ["organ-clock", "liver-blood-deficiency", "sleep-timing"],
+    "references": [
+      { "source": "Cheng Xinnong (Ed.), Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Circulation of Qi and Blood through the twelve regular channels (horary cycle)" },
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on the functions of the Liver (storing Blood)" }
+    ]
+  },
+  {
+    "id": "FOM-III5-0010",
+    "domain": "III",
+    "subdomain": "III-5",
+    "task": "III-5",
+    "stem": "A 67-year-old man lost his wife eight months ago. He reports persistent sadness with frequent weeping, shortness of breath, a weak voice, fatigue, and two colds in the past month. The tongue is pale. The pulse is weak. In addition to treatment, which self-care guidance best applies the Five Element relationship among the emotions?",
+    "options": {
+      "A": "Encourage long periods of reflective thought, since pensiveness counteracts sadness",
+      "B": "Encourage expressing anger about the loss, since anger counteracts sadness",
+      "C": "Encourage solitary rest away from others, since quiet conserves Lung Qi",
+      "D": "Encourage social activities that bring joy, since joy counteracts sadness"
+    },
+    "correct": "D",
+    "explanation": "Prolonged grief has injured the Lung, producing Lung Qi deficiency: sadness and weeping, shortness of breath, weak voice, fatigue, susceptibility to colds, pale tongue, and weak pulse. Su Wen Chapter 5 sets the emotions in the controlling (Ke) sequence: joy (Fire, Heart) counteracts sadness (Metal, Lung) because Fire controls Metal. Encouraging social contact and activities that bring joy is the counseling that applies this relationship, while simultaneously keeping the patient from the isolation that deepens grief.",
+    "distractorExplanations": {
+      "A": "Pensiveness (Earth) counteracts fear (Water), not sadness; and excess rumination would injure the Spleen, the mother of the Lung in the generating sequence. The misconception is confusing the Earth-Water control for the Earth-Metal generating relationship.",
+      "B": "Anger (Wood) counteracts pensiveness (Earth); the relation between anger and sadness runs the other way, with sadness counteracting anger. The misconception is reversing the direction of the controlling cycle between Metal and Wood.",
+      "C": "Isolation reinforces grief and does nothing to apply the emotional controlling relationship; the misconception is treating 'conserving Lung Qi' as withdrawal rather than addressing the emotion that is depleting it."
+    },
+    "learningObjective": "Apply the Five Element controlling relationships among the emotions to self-care counseling for grief injuring the Lung.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["five-element-emotions", "lung-qi-deficiency", "grief", "controlling-cycle"],
+    "distinction": { "between": ["controlling-cycle", "generating-cycle"], "key": "The emotional counteractions of Su Wen Chapter 5 follow the controlling sequence (joy overcomes sadness, sadness overcomes anger, anger overcomes pensiveness, pensiveness overcomes fear, fear overcomes joy), not the generating sequence." },
+    "references": [
+      { "source": "Huang Di Nei Jing Su Wen", "locator": "Chapter 5, Yin Yang Ying Xiang Da Lun (emotions injuring and counteracting one another)" },
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on the Five Elements (Five Elements and the emotions)" }
+    ]
+  },
+  {
+    "id": "FOM-III5-0011",
+    "domain": "III",
+    "subdomain": "III-5",
+    "task": "III-5",
+    "stem": "A 55-year-old executive reports throbbing temporal headaches, dizziness, a red face, irritability, tinnitus, and difficulty falling asleep for six months. He plays competitive squash late every evening, goes to bed after 1 a.m., and notes the headaches are worst the morning after matches. The tongue is red, especially at the sides. The pulse is wiry. Which self-care recommendation is most appropriate?",
+    "options": {
+      "A": "Shift to slow, calming Qi Gong or meditation practice and retire earlier",
+      "B": "Keep the late matches, since vigorous exertion vents the rising Yang",
+      "C": "Add a daily sauna to promote sweating and release the Heat",
+      "D": "Rest completely in bed for two weeks until the headaches resolve"
+    },
+    "correct": "A",
+    "explanation": "Temporal headaches, dizziness, red face, irritability, tinnitus, insomnia, a red tongue at the sides, and a wiry pulse indicate Liver Yang rising. Late, competitive, high-arousal exercise and late nights both stir Liver Yang upward and deplete the Yin that should anchor it, which is why the headaches peak after matches. Slow, calming practice such as gentle Qi Gong or meditation descends and settles Yang, and an earlier bedtime nourishes Yin; both change the lifestyle factors driving the pattern.",
+    "distractorExplanations": {
+      "B": "Competitive evening exertion increases rather than vents rising Yang, as the patient's own history shows; the misconception is treating Liver Yang rising like Liver Qi stagnation, where moving Qi is the goal.",
+      "C": "Sauna sweating depletes Yin and Fluids and cannot clear Yang rising from Yin deficiency; the misconception is treating rising Yang as Full Heat that can be released through the skin.",
+      "D": "Total bed rest is unnecessary and would leave the emotional and sleep factors unaddressed; the misconception is that any headache with dizziness calls for strict rest rather than a change in the type and timing of activity."
+    },
+    "learningObjective": "Evaluate a patient's current exercise and sleep habits against the mechanism of Liver Yang rising and select the appropriate modification.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "evaluation",
+    "vignette": true,
+    "concepts": ["liver-yang-rising", "qi-gong", "sleep-timing", "lifestyle-factors"],
+    "distinction": { "between": ["liver-yang-rising", "liver-qi-stagnation"], "key": "Liver Qi stagnation calls for movement to free Qi, whereas Liver Yang rising calls for calming, descending practice and Yin-conserving rest; vigorous exertion aggravates the latter." },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on Liver patterns (Liver Yang rising); chapter on the causes of disease (overwork, emotional stress)" }
+    ]
+  },
+  {
+    "id": "FOM-III5-0012",
+    "domain": "III",
+    "subdomain": "III-5",
+    "task": "III-5",
+    "stem": "A 46-year-old man who is overweight reports heaviness of the limbs, a stuffy chest with sticky sputum, and drowsiness after meals for two years. He has a sedentary office job and naps for an hour after lunch each day. The tongue is swollen with a white greasy coating. The pulse is slippery. Which self-care recommendation is most appropriate?",
+    "options": {
+      "A": "Avoid exercise until the heaviness has resolved so that Qi is conserved",
+      "B": "Lie down for an hour after each meal to aid digestion",
+      "C": "Take a brisk daily walk and stay active after meals rather than napping",
+      "D": "Practice only still, seated meditation with minimal physical movement"
+    },
+    "correct": "C",
+    "explanation": "Heaviness, chest stuffiness with sticky sputum, post-prandial drowsiness, a swollen tongue with a greasy white coating, and a slippery pulse indicate accumulation of Phlegm-Dampness. Lack of physical activity is a recognized cause of Qi stagnation and Dampness, and lying down immediately after meals burdens the Spleen's transformation. Regular moderate exercise moves Qi, assists the Spleen in transforming Dampness, and is the appropriate counsel for an excess Damp pattern, in contrast to the rest advised for deficiency patterns.",
+    "distractorExplanations": {
+      "A": "Avoiding exercise worsens Dampness and stagnation in an excess pattern; the misconception is reading heaviness and drowsiness as Qi deficiency requiring rest.",
+      "B": "Lying down after meals weakens Spleen transformation and allows Dampness to accumulate; the misconception is that rest after eating 'helps digestion' regardless of pattern.",
+      "D": "Still seated practice provides none of the movement needed to transform Phlegm-Damp; the misconception is that any Qi Gong or meditation is interchangeable regardless of the pattern."
+    },
+    "learningObjective": "Differentiate the exercise counsel appropriate for Phlegm-Damp accumulation from the rest counsel appropriate for deficiency patterns.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": ["phlegm-damp", "lack-of-exercise", "slippery-pulse", "greasy-white-coating"],
+    "distinction": { "between": ["phlegm-damp", "spleen-qi-deficiency"], "key": "The swollen tongue with greasy coating and slippery pulse mark an excess Damp accumulation that needs movement, whereas a pale teeth-marked tongue with weak pulse would mark a deficiency that needs limited exertion." },
+    "references": [
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on the causes of disease (lack of exercise); chapter on Phlegm and Dampness" }
+    ]
+  },
+  {
+    "id": "FOM-III6-0001",
+    "domain": "III",
+    "subdomain": "III-6",
+    "task": "III-6",
+    "stem": "In Chinese dietary therapy, the sour taste is attributed which primary action and organ affinity?",
+    "options": {
+      "A": "Disperses and moves Qi; enters the Lung",
+      "B": "Softens hardness and descends; enters the Kidney",
+      "C": "Astringes and consolidates; enters the Liver",
+      "D": "Drains downward and dries; enters the Heart"
+    },
+    "correct": "C",
+    "explanation": "Each of the five tastes has a characteristic action and an organ it enters according to the Five Elements. Sour belongs to Wood and enters the Liver; its action is to astringe, consolidate, and restrain leakage, which is why sour foods are used for conditions such as excessive sweating or diarrhea and must be used sparingly where Qi is already constrained.",
+    "distractorExplanations": {
+      "A": "Dispersing and moving Qi with an affinity for the Lung describes the pungent taste (Metal); a learner who swaps the Wood and Metal correspondences would pick this.",
+      "B": "Softening hardness and descending with an affinity for the Kidney describes the salty taste (Water).",
+      "D": "Draining downward, clearing, and drying with an affinity for the Heart describes the bitter taste (Fire)."
+    },
+    "learningObjective": "Identify the action and organ affinity of the sour taste within the five-taste system.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": ["five-tastes", "sour-taste", "liver"],
+    "references": [
+      { "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.", "locator": "The five flavors and their actions" },
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on the Five Elements (five tastes); chapter on the causes of disease (diet)" }
+    ]
+  },
+  {
+    "id": "FOM-III6-0002",
+    "domain": "III",
+    "subdomain": "III-6",
+    "task": "III-6",
+    "stem": "Which of the following foods is classified as cold in thermal nature?",
+    "options": {
+      "A": "Watermelon",
+      "B": "Lamb",
+      "C": "Walnut",
+      "D": "Cinnamon"
+    },
+    "correct": "A",
+    "explanation": "Foods are classified on a thermal spectrum of hot, warm, neutral, cool, and cold according to their effect on the body. Watermelon is sweet and cold; it clears Heat, relieves Summer-Heat, generates Fluids, and promotes urination, which is why it is used for thirst and irritability in hot weather and avoided in Cold and Yang-deficient patterns.",
+    "distractorExplanations": {
+      "B": "Lamb is hot in nature and is used to warm the middle and tonify Yang; a learner who classifies by water content rather than effect might miss this.",
+      "C": "Walnut is warm in nature, tonifies the Kidneys, warms the Lung, and moistens the Intestines.",
+      "D": "Cinnamon is hot in nature and is used to warm the interior and dispel Cold."
+    },
+    "learningObjective": "Classify common foods by thermal nature.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": ["thermal-nature", "cold-foods", "watermelon"],
+    "references": [
+      { "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.", "locator": "Thermal nature of foods; food tables" },
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on the causes of disease (diet: nature of foods)" }
+    ]
+  },
+  {
+    "id": "FOM-III6-0003",
+    "domain": "III",
+    "subdomain": "III-6",
+    "task": "III-6",
+    "stem": "Which method of preparing a food most increases its warming nature?",
+    "options": {
+      "A": "Steaming",
+      "B": "Eating it raw",
+      "C": "Boiling in water",
+      "D": "Roasting or grilling"
+    },
+    "correct": "D",
+    "explanation": "Preparation shifts a food along the thermal spectrum. Dry, intense heat such as roasting, grilling, and frying adds the most warmth and drying quality to a food, which is why these methods are reduced in Heat and Yin-deficient patterns and used sparingly even for warming diets. Raw and chilled preparation is the most cooling, while steaming and boiling sit in the middle and add moisture.",
+    "distractorExplanations": {
+      "A": "Steaming is gentle, moist heat that keeps a food close to its natural thermal nature; a learner who assumes any cooking is equally warming would pick this.",
+      "B": "Raw food is the most cooling preparation and burdens the Spleen; it is the opposite of warming.",
+      "C": "Boiling in water adds moisture and only mild warmth, which is why soups and congees are used for Yin and Fluid deficiency rather than for strong warming."
+    },
+    "learningObjective": "Explain how cooking methods modify the thermal nature of foods.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": false,
+    "concepts": ["cooking-methods", "thermal-nature"],
+    "references": [
+      { "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.", "locator": "Methods of preparation and their effect on thermal nature" }
+    ]
+  },
+  {
+    "id": "FOM-III6-0004",
+    "domain": "III",
+    "subdomain": "III-6",
+    "task": "III-6",
+    "stem": "A 34-year-old woman reports fatigue, abdominal distension after meals, poor appetite, and loose stools for six months. Her diet consists mainly of raw salads, chilled fruit smoothies, and yogurt. The tongue is pale with teeth marks. The pulse is weak. Which dietary recommendation is most appropriate for this patient?",
+    "options": {
+      "A": "Cooling, moistening foods such as pear, cucumber, and mung bean",
+      "B": "Warm, cooked meals of rice and vegetables with a little fresh ginger",
+      "C": "Raw vegetable salads and chilled smoothies in larger quantities",
+      "D": "Rich, greasy foods such as cheese and fried meats to build strength"
+    },
+    "correct": "B",
+    "explanation": "Fatigue, post-prandial distension, poor appetite, loose stools, a pale teeth-marked tongue, and a weak pulse indicate Spleen Qi deficiency. The Spleen prefers warmth and dryness; a diet of cold, raw, and dairy foods injures its transforming function and generates Dampness. Warm, cooked, easily digested grains and vegetables with a small amount of warm pungent ginger support Spleen Qi and are the mainstay of dietary therapy for this pattern.",
+    "distractorExplanations": {
+      "A": "Cooling and moistening foods are suited to Yin deficiency or Heat and would further weaken a cold, damp-prone Spleen; the misconception is treating fatigue as a sign of Heat consuming Fluids.",
+      "C": "Increasing raw and chilled foods intensifies the dietary cause of the pattern; the misconception is that 'fresh' food is inherently nourishing regardless of thermal nature.",
+      "D": "Greasy and dairy-rich foods are hard to transform and produce Dampness; the misconception is that deficiency is corrected by heavy, rich eating."
+    },
+    "learningObjective": "Formulate dietary advice for Spleen Qi deficiency, favoring warm cooked food and reducing raw, cold, and dairy intake.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": ["spleen-qi-deficiency", "warm-cooked-food", "raw-cold-food", "teeth-marked-tongue"],
+    "references": [
+      { "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.", "locator": "Dietary therapy for Spleen Qi deficiency" },
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on the causes of disease (diet: cold and raw foods); chapter on Spleen patterns" }
+    ]
+  },
+  {
+    "id": "FOM-III6-0005",
+    "domain": "III",
+    "subdomain": "III-6",
+    "task": "III-6",
+    "stem": "A 52-year-old woman reports hot flashes, night sweats, a dry throat, and dry stools for one year. She drinks wine every evening and favors heavily spiced dishes with chili. The tongue is red with no coating. The pulse is thin (thready) and rapid. Which dietary recommendation is most appropriate for this patient?",
+    "options": {
+      "A": "Warming foods such as lamb, cinnamon, and ginger to support digestion",
+      "B": "Drying diuretic foods such as barley and job's tears to stop the sweating",
+      "C": "Moistening foods such as pear, black sesame, and goji berry, with less alcohol and chili",
+      "D": "Pungent, warming foods such as scallion and chili to release Heat through sweating"
+    },
+    "correct": "C",
+    "explanation": "Hot flashes, night sweats, dry throat, dry stools, a red tongue without coating, and a thin rapid pulse indicate Yin deficiency with Empty Heat. Yin deficiency calls for cool-to-neutral, moistening, Yin-nourishing foods: pear moistens and clears Heat, black sesame nourishes Liver and Kidney Yin and moistens the Intestines, and goji berry nourishes Yin and Blood. Alcohol and hot pungent spices are hot and drying and consume Yin, so they are reduced.",
+    "distractorExplanations": {
+      "A": "Lamb, cinnamon, and ginger are hot or warm and further consume Yin and aggravate Empty Heat; the misconception is choosing warming tonics for any chronic deficiency.",
+      "B": "Barley and job's tears are bland diuretics that drain Dampness and would dry a patient who is already Fluid-deficient; the misconception is treating sweating as a Damp problem rather than a loss of Yin.",
+      "D": "Pungent foods disperse outward and induce sweating, which depletes Yin further; the misconception is treating Empty Heat like an exterior Heat that can be released through the surface."
+    },
+    "learningObjective": "Formulate dietary advice for Yin deficiency with Empty Heat, favoring moistening foods and reducing alcohol and pungent spices.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": ["yin-deficiency", "empty-heat", "moistening-foods", "peeled-coating"],
+    "references": [
+      { "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.", "locator": "Dietary therapy for Yin deficiency; food tables (pear, sesame, goji)" },
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on the causes of disease (diet: hot and pungent foods, alcohol)" }
+    ]
+  },
+  {
+    "id": "FOM-III6-0006",
+    "domain": "III",
+    "subdomain": "III-6",
+    "task": "III-6",
+    "stem": "A 45-year-old man who is overweight reports heaviness of the body, copious sticky sputum, nausea, and loose stools for one year. He drinks whole milk daily and eats pastries and fried foods most evenings. The tongue is swollen with a thick white greasy coating. The pulse is slippery. Which dietary recommendation is most appropriate for this patient?",
+    "options": {
+      "A": "Bland diuretic foods such as job's tears and barley, with little dairy or sweets",
+      "B": "Sweet, moistening foods such as honey and red dates to strengthen the Spleen",
+      "C": "Cold, raw foods such as cucumber and watermelon to cool and lighten the body",
+      "D": "Rich tonifying foods such as lamb stew with butter to build Qi"
+    },
+    "correct": "A",
+    "explanation": "Body heaviness, copious sticky sputum, nausea, loose stools, a swollen tongue with a thick greasy white coating, and a slippery pulse indicate accumulation of Phlegm-Dampness. Sweet, greasy, and dairy foods generate Dampness and Phlegm by overburdening the Spleen; the dietary principle is to reduce them and favor bland, mildly diuretic foods such as job's tears and barley that drain Dampness and support Spleen transformation.",
+    "distractorExplanations": {
+      "B": "Honey and red dates are sweet and moistening; in excess the sweet taste generates Dampness, so they worsen Phlegm-Damp. The misconception is that the sweet taste 'tonifies the Spleen' without regard to Dampness.",
+      "C": "Cold raw foods injure Spleen Yang and increase Dampness even though they feel 'light'; the misconception is treating heaviness as a Heat sign.",
+      "D": "Rich, fatty stews are greasy and produce more Phlegm; the misconception is treating an excess Damp pattern as a deficiency that needs rich tonification."
+    },
+    "learningObjective": "Formulate dietary advice for Phlegm-Dampness, reducing sweet, greasy, and dairy foods and favoring bland diuretic foods.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": ["phlegm-damp", "bland-diuretic-foods", "dairy", "greasy-white-coating"],
+    "references": [
+      { "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.", "locator": "Dietary therapy for Dampness and Phlegm; food tables (barley, Job's tears)" },
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on the causes of disease (diet: greasy and sweet foods, dairy)" }
+    ]
+  },
+  {
+    "id": "FOM-III6-0007",
+    "domain": "III",
+    "subdomain": "III-6",
+    "task": "III-6",
+    "stem": "A 29-year-old woman reports dizziness on standing, numbness of the hands, poor memory, and scanty, light-colored menstrual periods for eight months. Her complexion is pale and dull. The tongue is pale. The pulse is thin (thready). Which dietary recommendation is most appropriate for this patient?",
+    "options": {
+      "A": "Cooling foods such as mung bean and bitter melon to settle the dizziness",
+      "B": "Drying foods such as job's tears and barley to resolve the numbness",
+      "C": "Hot pungent foods such as chili and cinnamon to warm the extremities",
+      "D": "Blood-nourishing foods such as red dates, goji berry, and black sesame"
+    },
+    "correct": "D",
+    "explanation": "Dizziness, numbness, poor memory, scanty pale periods, a pale dull complexion, a pale tongue, and a thin pulse indicate Blood deficiency. Dietary therapy aims to nourish Blood with foods classified as Blood-tonifying: red dates tonify Spleen Qi and Blood, goji berry nourishes Liver and Kidney Blood and Yin, and black sesame nourishes Liver and Kidney and Blood. Supporting the Spleen with regular cooked meals is also implied, since the Spleen generates Blood.",
+    "distractorExplanations": {
+      "A": "Mung bean and bitter melon are cold and clear Heat; the dizziness here is from Blood failing to nourish the head, not from Heat, so cooling foods would weaken the Spleen that generates Blood.",
+      "B": "Job's tears and barley drain Dampness; the numbness arises from Blood failing to nourish the channels, not from Damp obstruction, and drying foods do not nourish Blood.",
+      "C": "Chili and cinnamon are hot and dispersing and can consume Blood and Yin; the misconception is treating cold or numb extremities as Yang deficiency when the pale tongue and thin pulse point to Blood deficiency."
+    },
+    "learningObjective": "Identify Blood-nourishing foods appropriate for a patient with Blood deficiency.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": ["blood-deficiency", "blood-nourishing-foods", "thin-pulse", "pale-tongue"],
+    "references": [
+      { "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.", "locator": "Dietary therapy for Blood deficiency; food tables (jujube, goji, black sesame)" },
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on Qi, Blood, and Body Fluids (Blood deficiency)" }
+    ]
+  },
+  {
+    "id": "FOM-III6-0008",
+    "domain": "III",
+    "subdomain": "III-6",
+    "task": "III-6",
+    "stem": "A 61-year-old man reports cold hands and feet, aversion to cold, a cold sensation in the lower back, and frequent clear urination for two years. His bowel movements are loose, especially in the early morning. The tongue is pale and swollen with a wet white coating. The pulse is deep, slow, and weak. Which dietary recommendation is most appropriate for this patient?",
+    "options": {
+      "A": "Cold-natured foods such as watermelon and mung bean soup, served chilled",
+      "B": "Warming foods such as lamb, walnuts, and cinnamon, served hot",
+      "C": "Raw salads and yogurt to supply lightness and ease digestion",
+      "D": "Cool, bland foods such as barley and cucumber to promote urination"
+    },
+    "correct": "B",
+    "explanation": "Cold limbs, aversion to cold, a cold lower back, clear frequent urine, early-morning loose stools, a pale swollen wet tongue, and a deep slow weak pulse indicate Kidney and Spleen Yang deficiency. The dietary principle is to warm Yang with hot or warm foods: lamb is hot and warms the middle and Kidney Yang, walnut is warm and tonifies the Kidneys, and cinnamon is hot and dispels interior Cold. Serving food hot and avoiding cold and raw items preserves Yang.",
+    "distractorExplanations": {
+      "A": "Watermelon and mung bean are cold and clear Heat; they would deepen the interior Cold. The misconception is choosing diuretic cooling foods because urination is a complaint.",
+      "C": "Raw salads and yogurt are cold and damp-producing and further injure Spleen and Kidney Yang; the misconception is equating 'light' foods with easy digestion in a Cold pattern.",
+      "D": "Barley and cucumber are cool and promote urination; the patient already urinates excessively from Yang failing to hold Fluids, so cool diuretics worsen the problem."
+    },
+    "learningObjective": "Formulate dietary advice for Yang deficiency, favoring warming foods and avoiding cold and raw items.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": ["kidney-yang-deficiency", "spleen-yang-deficiency", "warming-foods", "deep-slow-pulse"],
+    "references": [
+      { "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.", "locator": "Dietary therapy for Yang deficiency; food tables (lamb, walnut, cinnamon)" },
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on Kidney patterns (Kidney Yang deficiency)" }
+    ]
+  },
+  {
+    "id": "FOM-III6-0009",
+    "domain": "III",
+    "subdomain": "III-6",
+    "task": "III-6",
+    "stem": "A 26-year-old man reports burning epigastric pain, intense thirst with a desire for cold drinks, bad breath, bleeding gums, and constipation for three weeks. He eats spicy lamb hot pot several times a week and drinks spirits nightly. The tongue is red with a thick, dry yellow coating. The pulse is rapid and full. Which dietary recommendation is most appropriate for this patient?",
+    "options": {
+      "A": "Warm pungent foods such as ginger and scallion to disperse the stagnation",
+      "B": "Rich sweet foods such as honey and red dates to tonify the Stomach",
+      "C": "Cooling foods such as mung bean, cucumber, and bitter melon, with fewer spirits",
+      "D": "Sour astringent foods such as vinegar and pickled plum to stop the bleeding"
+    },
+    "correct": "C",
+    "explanation": "Burning epigastric pain, thirst for cold drinks, bad breath, bleeding gums, constipation, a red tongue with a thick dry yellow coating, and a full rapid pulse indicate Stomach Heat (Stomach Fire), generated by a diet of hot spicy meat and alcohol. Dietary therapy clears Heat with cold and cool foods: mung bean and cucumber clear Heat and generate Fluids, and bitter melon is cold and bitter and drains Fire. Reducing alcohol and hot spices removes the dietary cause.",
+    "distractorExplanations": {
+      "A": "Ginger and scallion are warm and pungent and would add Heat; the misconception is reading epigastric pain as Cold or Qi stagnation without weighing the Heat signs.",
+      "B": "Honey and red dates are sweet and cloying, which aggravate Full Heat and fullness; the misconception is that any Stomach disorder calls for tonification.",
+      "D": "Sour astringent foods do nothing to clear the Fire that is forcing Blood from the gums; the misconception is treating a bleeding symptom in isolation rather than its Heat mechanism."
+    },
+    "learningObjective": "Formulate dietary advice for Stomach Heat, favoring cooling foods and removing the dietary cause.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": ["stomach-heat", "cooling-foods", "dry-yellow-coating", "full-heat"],
+    "references": [
+      { "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.", "locator": "Dietary therapy for Heat patterns; food tables (mung bean, cucumber, bitter melon)" },
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on Stomach patterns (Stomach Fire)" }
+    ]
+  },
+  {
+    "id": "FOM-III6-0010",
+    "domain": "III",
+    "subdomain": "III-6",
+    "task": "III-6",
+    "stem": "A 38-year-old woman reports irritability, distension of the flanks and abdomen, and bowel movements that alternate between loose and constipated, worse during stressful weeks, for one year. She has a poor appetite and sighs often. The tongue is pale with slightly red sides. The pulse is wiry on the left and weak on the right. Which dietary recommendation is most appropriate for this patient?",
+    "options": {
+      "A": "Regular warm meals with lightly pungent foods such as radish and scallion, and little greasy food",
+      "B": "Cooling foods such as cucumber and mung bean soup to clear the Liver",
+      "C": "Sweet, rich foods such as honey, cream, and pastries to tonify the Spleen",
+      "D": "Large amounts of sour foods such as vinegar and pickles to enter the Liver"
+    },
+    "correct": "A",
+    "explanation": "Irritability, flank distension, sighing, and a wiry left pulse indicate Liver Qi stagnation; poor appetite, alternating stools worse with stress, a pale tongue, and a weak right pulse show the Liver invading a deficient Spleen. The diet must both move Liver Qi and support the Spleen: regular, warm, cooked meals protect the Spleen, lightly pungent foods such as radish and scallion disperse and move stagnant Qi, and greasy food is reduced because it obstructs Qi flow and burdens the Spleen.",
+    "distractorExplanations": {
+      "B": "Cucumber and mung bean are cold and would injure the already weak Spleen; the slightly red tongue sides reflect constraint rather than Liver Fire, so strong cooling is misplaced. The misconception is reading any Liver sign as Heat.",
+      "C": "Honey, cream, and pastries are sweet and greasy; in excess the sweet taste generates Dampness and cloying foods worsen stagnation. The misconception is that the Spleen is tonified by the sweet taste regardless of quality and quantity.",
+      "D": "The sour taste enters the Liver but astringes and contracts; large amounts aggravate Qi stagnation. The misconception is that a taste's organ affinity means more of it always benefits that organ."
+    },
+    "learningObjective": "Formulate dietary advice for the combined pattern of Liver Qi stagnation invading the Spleen.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["liver-qi-stagnation", "liver-invading-spleen", "pungent-taste", "sour-taste"],
+    "distinction": { "between": ["liver-invading-spleen", "liver-fire-blazing"], "key": "A pale tongue body with only slightly red sides and a weak right pulse indicate stagnation on a deficient Spleen, calling for warm, Qi-moving food, whereas Liver Fire would show a red tongue with yellow coating and a wiry rapid pulse, calling for cooling food." },
+    "references": [
+      { "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.", "locator": "Dietary therapy for Liver Qi stagnation; the five flavors (pungent and sour)" },
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on Liver patterns (Liver Qi stagnation, Liver invading the Spleen)" }
+    ]
+  },
+  {
+    "id": "FOM-III6-0011",
+    "domain": "III",
+    "subdomain": "III-6",
+    "task": "III-6",
+    "stem": "A 66-year-old woman reports a dull discomfort in the epigastrium, a dry mouth with a desire for small sips, little appetite, dry stools, and a mild sensation of heat in the afternoon for four months. On a friend's advice she has been drinking strong ginger tea and eating dry roasted foods. The tongue is red with a peeled coating in the center. The pulse is thin (thready) and rapid. Which dietary recommendation is most appropriate for this patient?",
+    "options": {
+      "A": "Warm pungent foods such as ginger and scallion to strengthen digestion",
+      "B": "Drying bland foods such as job's tears and barley to settle the Stomach",
+      "C": "Hot roasted foods such as grilled lamb to warm the middle",
+      "D": "Moist, lightly cooked foods such as rice congee, pear, and honey, served warm"
+    },
+    "correct": "D",
+    "explanation": "Dull epigastric discomfort, dry mouth with sips, poor appetite, dry stools, afternoon heat, a red tongue with a peeled center, and a thin rapid pulse indicate Stomach Yin deficiency. The peeled central coating is the discriminating sign separating this from Spleen Qi deficiency, which shows a pale tongue. Yin-deficient patients need moist, soft, easily digested foods that generate Fluids: congee, pear, and honey moisten the Stomach and Intestines, and serving them warm rather than cold protects the Spleen. The ginger tea and roasted foods are drying and have been aggravating the pattern.",
+    "distractorExplanations": {
+      "A": "Ginger and scallion are warm, pungent, and drying and further consume Stomach Yin; the misconception is reading poor appetite and epigastric discomfort as Spleen Qi deficiency without weighing the red peeled tongue.",
+      "B": "Job's tears and barley drain and dry; there is no Dampness here, and drying bland foods deplete Fluids further. The misconception is treating any digestive complaint with Damp-draining foods.",
+      "C": "Roasting and grilling add the most heat and dryness, and lamb is hot; this intensifies the Yin deficiency. The misconception is that a weak appetite always needs warming of the middle."
+    },
+    "learningObjective": "Differentiate Stomach Yin deficiency from Spleen Qi deficiency and select moistening rather than warm-drying dietary advice.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["stomach-yin-deficiency", "spleen-qi-deficiency", "peeled-coating", "moistening-foods"],
+    "distinction": { "between": ["stomach-yin-deficiency", "spleen-qi-deficiency"], "key": "A red tongue with a peeled central coating and a thin rapid pulse mark Stomach Yin deficiency (moisten), whereas a pale teeth-marked tongue with a weak pulse marks Spleen Qi deficiency (warm and strengthen)." },
+    "references": [
+      { "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.", "locator": "Dietary therapy for Yin deficiency; preparation methods (congee)" },
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on Stomach patterns (Stomach Yin deficiency)" }
+    ]
+  },
+  {
+    "id": "FOM-III6-0012",
+    "domain": "III",
+    "subdomain": "III-6",
+    "task": "III-6",
+    "stem": "A 41-year-old man reports epigastric fullness, nausea, a bitter sticky taste in the mouth, thirst without desire to drink, and loose, foul-smelling stools with burning at the anus for three weeks. His urine is scanty and dark yellow. The tongue is red with a yellow greasy coating. The pulse is slippery and rapid. Which dietary recommendation is most appropriate for this patient?",
+    "options": {
+      "A": "Warm aromatic foods such as ginger, scallion, and cinnamon to disperse the Dampness",
+      "B": "Cool, bland, draining foods such as job's tears, mung bean, and cucumber",
+      "C": "Moistening foods such as honey, pear, and black sesame to relieve the thirst",
+      "D": "Warming tonics such as lamb and red dates to strengthen the Spleen"
+    },
+    "correct": "B",
+    "explanation": "Epigastric fullness, nausea, a bitter sticky taste, thirst without desire to drink, burning foul loose stools, dark scanty urine, a red tongue with a yellow greasy coating, and a slippery rapid pulse indicate Damp-Heat in the Spleen and Stomach. The yellow coating, bitter taste, burning, and rapid pulse distinguish Damp-Heat from Cold-Damp. Dietary therapy clears Heat and drains Dampness with cool, bland, diuretic foods: job's tears drain Damp, mung bean clears Heat and Damp, and cucumber clears Heat and promotes urination.",
+    "distractorExplanations": {
+      "A": "Warm aromatic foods are the diet for Cold-Damp obstructing the Spleen, which would show a white greasy coating and a slow pulse; here they add Heat to Heat. The misconception is treating all Dampness as Cold.",
+      "C": "Honey, pear, and black sesame are moistening and cloying and would increase Dampness; the thirst without desire to drink arises from Damp obstruction, not from Fluid deficiency. The misconception is treating thirst as Yin deficiency.",
+      "D": "Lamb is hot and red dates are sweet and cloying, both of which feed Damp-Heat; the misconception is reading loose stools as simple Spleen deficiency requiring tonification."
+    },
+    "learningObjective": "Differentiate Damp-Heat from Cold-Damp in the Spleen and select cooling draining foods rather than warm drying foods.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": ["damp-heat-in-the-spleen", "cold-damp-invading-the-spleen", "greasy-yellow-coating", "bland-diuretic-foods"],
+    "distinction": { "between": ["damp-heat-in-the-spleen", "cold-damp-invading-the-spleen"], "key": "A yellow greasy coating with bitter taste, burning stools, and a rapid pulse mark Damp-Heat (cool draining foods), whereas a white greasy coating with a slow pulse and no Heat signs marks Cold-Damp (warm aromatic foods)." },
+    "references": [
+      { "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.", "locator": "Dietary therapy for Damp-Heat; food tables (Job's tears, mung bean, cucumber)" },
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on Spleen patterns (Damp-Heat in the Spleen, Cold-Damp invading the Spleen)" }
+    ]
+  },
+  {
+    "id": "FOM-III6-0013",
+    "domain": "III",
+    "subdomain": "III-6",
+    "task": "III-6",
+    "stem": "Which eating habit is most consistent with Chinese dietary principles for protecting the function of the Spleen and Stomach?",
+    "options": {
+      "A": "Eating meals at regular times and chewing food thoroughly",
+      "B": "Drinking large amounts of iced water with each meal",
+      "C": "Eating the largest meal of the day late at night",
+      "D": "Skipping breakfast and eating only after midday"
+    },
+    "correct": "A",
+    "explanation": "The Spleen and Stomach function best with regularity and warmth. Meals at consistent times allow the Stomach to rot and ripen food on a predictable rhythm, and thorough chewing reduces the work of transformation. Chinese dietary theory also favors a warm breakfast during the Stomach's active period in the morning, modest evening meals eaten early, and limited fluid with meals.",
+    "distractorExplanations": {
+      "B": "Large volumes of iced fluid with meals cool the Stomach and dilute its digestive function, producing Dampness; the misconception is that more fluid always aids digestion.",
+      "C": "A large late meal burdens the Spleen and Stomach when their Qi is lowest and food is retained overnight; the misconception is that total daily intake matters but timing does not.",
+      "D": "Skipping breakfast leaves the Stomach empty during its peak period and leads to irregular, often excessive, later eating; the misconception is that a long morning fast 'rests' the digestion."
+    },
+    "learningObjective": "Identify eating habits that support Spleen and Stomach function according to Chinese dietary therapy.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": ["eating-habits", "regular-meals", "spleen-and-stomach"],
+    "references": [
+      { "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.", "locator": "General dietary guidelines (regular meals, chewing, drinking with meals)" },
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on the causes of disease (diet: irregular eating, eating in a hurry, eating late)" }
+    ]
+  },
+  {
+    "id": "FOM-III6-0014",
+    "domain": "III",
+    "subdomain": "III-6",
+    "task": "III-6",
+    "stem": "In Chinese dietary theory, excessive consumption of the sweet taste most readily leads to which of the following?",
+    "options": {
+      "A": "Dryness injuring the Lung",
+      "B": "Blood stasis with fixed pain",
+      "C": "Dampness and Phlegm weakening the Spleen",
+      "D": "Yin deficiency with Empty Heat"
+    },
+    "correct": "C",
+    "explanation": "The sweet taste enters the Spleen and in moderation tonifies and harmonizes, but each taste in excess injures. Excess sweet, especially refined sugars and cloying foods, overloads the Spleen's transforming function, so Fluids fail to be transformed and accumulate as Dampness and Phlegm; the Spleen is further weakened by the Dampness it cannot clear. This is why sweets are restricted in Damp, Phlegm, and Spleen-deficient patterns.",
+    "distractorExplanations": {
+      "A": "Dryness injuring the Lung is associated with excess of pungent, hot, and drying foods, not sweet, which is moistening; a learner who confuses sweet with pungent would pick this.",
+      "B": "Blood stasis is not the characteristic consequence of excess sweet; the misconception is attributing all dietary excess to stagnation.",
+      "D": "Yin deficiency with Empty Heat follows excess of hot, pungent foods and alcohol, which consume Yin; sweet in excess produces Dampness rather than dryness."
+    },
+    "learningObjective": "Identify the pathological consequence of excessive sweet taste in the diet.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": ["five-tastes", "sweet-taste", "dampness", "excess-of-taste"],
+    "references": [
+      { "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.", "locator": "The five flavors (sweet) and the effects of excess" },
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on the causes of disease (diet: excess of sweet foods and Dampness)" }
+    ]
+  },
+  {
+    "id": "FOM-III6-0015",
+    "domain": "III",
+    "subdomain": "III-6",
+    "task": "III-6",
+    "stem": "A 30-year-old woman was caught in cold rain yesterday. Today she reports chills, a stiff neck and headache, absence of sweating, and a clear runny nose. The tongue has a thin white coating. The pulse is floating and tight. Which food-based home remedy is most appropriate for this patient?",
+    "options": {
+      "A": "Chilled pear juice to moisten the throat",
+      "B": "Mung bean soup to clear the pathogen",
+      "C": "Honey and walnut paste to nourish the Lung",
+      "D": "Hot tea of fresh ginger and scallion to promote mild sweating"
+    },
+    "correct": "D",
+    "explanation": "Chills, stiff neck, headache, absence of sweating, clear nasal discharge, a thin white coating, and a floating tight pulse indicate an exterior invasion of Wind-Cold. The treatment principle is to release the exterior and disperse Cold with warm pungent foods: fresh ginger and scallion are both warm and pungent, enter the Lung, and promote a mild sweat that expels the pathogen from the surface. Taken hot, the tea reinforces the warming and dispersing action.",
+    "distractorExplanations": {
+      "A": "Pear is cool and moistening and suits Lung Dryness or Heat; chilled it adds Cold to a Cold invasion. The misconception is treating all upper respiratory complaints with throat-moistening foods.",
+      "B": "Mung bean is cold and clears Heat and Summer-Heat; it is the wrong thermal nature for Wind-Cold. The misconception is that 'clearing a pathogen' is the same regardless of whether the pathogen is Cold or Heat.",
+      "C": "Honey and walnut are tonifying and moistening and would retain the exterior pathogen by nourishing before the exterior is released; the misconception is tonifying during an acute exterior invasion."
+    },
+    "learningObjective": "Explain why warm pungent foods such as ginger and scallion are used for an acute Wind-Cold invasion.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": true,
+    "concepts": ["wind-cold", "pungent-taste", "ginger", "scallion"],
+    "references": [
+      { "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.", "locator": "Food tables (fresh ginger, scallion); dietary therapy for exterior Cold" },
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on exterior patterns (Wind-Cold invading the Lung)" }
+    ]
+  },
+  {
+    "id": "FOM-III6-0016",
+    "domain": "III",
+    "subdomain": "III-6",
+    "task": "III-6",
+    "stem": "A patient with Lung Yin deficiency presents with a dry cough, a dry throat, and a red tongue with scanty coating. Excess of which taste in the diet is most likely to aggravate this pattern?",
+    "options": {
+      "A": "Sweet",
+      "B": "Pungent",
+      "C": "Sour",
+      "D": "Salty"
+    },
+    "correct": "B",
+    "explanation": "The pungent taste disperses, moves Qi outward, and promotes sweating; in excess it scatters Lung Qi and dries Body Fluids. In a Lung Yin deficiency with a dry cough and scanty coating, pungent and hot foods such as chili, pepper, and strong spices consume what little Yin remains and intensify the dryness, so they are the taste most strictly limited for this pattern.",
+    "distractorExplanations": {
+      "A": "Sweet in moderation moistens and harmonizes, and mildly sweet moistening foods such as pear and honey are in fact favored for Lung dryness; the misconception is that sweet 'produces Phlegm' and so must be avoided in every Lung pattern.",
+      "C": "Sour astringes and generates Fluids and is not aggravating here in moderate amounts; the misconception is confusing astringing with drying.",
+      "D": "Salty softens and descends and enters the Kidney; it does not characteristically dry the Lung. The misconception is treating all strong tastes as equally injurious to Yin."
+    },
+    "learningObjective": "Explain why the pungent taste is restricted in Lung Yin deficiency.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": false,
+    "concepts": ["five-tastes", "pungent-taste", "lung-yin-deficiency", "excess-of-taste"],
+    "references": [
+      { "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.", "locator": "The five flavors (pungent) and the effects of excess; dietary therapy for Yin deficiency" },
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on Lung patterns (Lung Yin deficiency)" }
+    ]
+  },
+  {
+    "id": "FOM-III6-0017",
+    "domain": "III",
+    "subdomain": "III-6",
+    "task": "III-6",
+    "stem": "A 74-year-old man reports constipation with dry, hard stools and straining for one year, along with dry skin, occasional dizziness, and a pale complexion. On a neighbor's advice he has eaten raw cold salads with wheat bran and iced water at every meal for two weeks; the stools are now harder and he feels more fatigued. The tongue is pale and dry. The pulse is thin (thready). Which dietary modification is most appropriate for this patient?",
+    "options": {
+      "A": "Moistening foods such as honey, black sesame, and walnuts, served warm",
+      "B": "Continuing the raw salads and bran but increasing the iced water",
+      "C": "Bitter cooling foods such as bitter melon to purge the Intestines",
+      "D": "Pungent hot foods such as chili and ginger to stimulate the bowels"
+    },
+    "correct": "A",
+    "explanation": "Dry hard stools with straining, dry skin, dizziness, a pale complexion, a pale dry tongue, and a thin pulse in an elderly patient indicate constipation from deficiency of Blood and Fluids failing to moisten the Intestines. The raw, cold regimen has injured Spleen Yang, which is why fatigue increased without any improvement in moisture. The appropriate modification is to moisten the Intestines and nourish Blood: honey moistens the Intestines, black sesame nourishes Blood and moistens, and walnut is warm, tonifies the Kidneys, and moistens the Intestines, all served warm to protect the Spleen.",
+    "distractorExplanations": {
+      "B": "The raw cold regimen has already worsened the patient; more iced water further weakens Spleen Yang without supplying the Blood and Yin the Intestines lack. The misconception is treating constipation as a simple shortage of fiber and water.",
+      "C": "Bitter melon is cold and drains and dries; purging is the approach for Heat constipation with a red tongue and yellow coating, and here it would deplete an already deficient elderly patient. The misconception is treating all constipation as excess.",
+      "D": "Chili and ginger are hot, pungent, and drying and would dry the Intestines further; the misconception is that constipation in a cold-feeling elderly patient must be a Cold pattern needing hot stimulants."
+    },
+    "learningObjective": "Evaluate a failed dietary regimen for deficiency-type constipation and select moistening, Blood-nourishing foods instead.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "evaluation",
+    "vignette": true,
+    "concepts": ["blood-deficiency", "dryness-constipation", "moistening-foods", "raw-cold-food"],
+    "distinction": { "between": ["deficiency-constipation", "heat-constipation"], "key": "A pale dry tongue with a thin pulse marks constipation from deficient Blood and Fluids (moisten and nourish), whereas a red tongue with a dry yellow coating and a full rapid pulse marks Heat constipation (cool and purge)." },
+    "references": [
+      { "source": "Kastner, Chinese Nutritional Therapy: Dietetics in Traditional Chinese Medicine, 3rd ed.", "locator": "Food tables (honey, black sesame, walnut); dietary therapy for dryness and Blood deficiency" },
+      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Chapter on the causes of disease (diet: cold and raw foods); chapter on Qi, Blood, and Body Fluids" }
+    ]
+  }
+]

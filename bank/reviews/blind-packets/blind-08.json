@@ -1,0 +1,486 @@
+[
+  {
+    "id": "FOM-IIa-0004",
+    "subdomain": "II-a",
+    "stem": "A 28-year-old patient has had a high fever with sweating and a full, rapid pulse for five days. She now also reports a dry mouth, cracked lips, scanty dark urine, and dry stools. Which Yin/Yang relationship best explains the new findings?",
+    "options": {
+      "A": "opposition",
+      "B": "interdependence",
+      "C": "inter-transformation",
+      "D": "mutual consumption"
+    }
+  },
+  {
+    "id": "FOM-IIa-0005",
+    "subdomain": "II-a",
+    "stem": "A 6-year-old child with a febrile illness has had a high fever, a red face, and a full, rapid pulse for three days. This morning the child suddenly became pale and limp, with cold limbs, cold sweat, and a minute (faint) pulse, and the fever has subsided. Which Yin/Yang relationship best explains this change?",
+    "options": {
+      "A": "opposition, with Yin restraining the excessive Yang",
+      "B": "mutual consumption, with excess Yang consuming Yin",
+      "C": "inter-transformation, with extreme Yang turning into Yin",
+      "D": "interdependence, with Yin providing the material basis for Yang"
+    }
+  },
+  {
+    "id": "FOM-IIa-0006",
+    "subdomain": "II-a",
+    "stem": "A 58-year-old man has had cold lower back and knees, cold limbs, reduced libido, and nocturia for many years. Over the past six months he has also developed night sweats, a dry throat at night, and heat in the palms, while the cold symptoms persist. The tongue is pale with a scanty coating. The pulse is deep, thin, and weak. Which Yin/Yang relationship best explains the new symptoms?",
+    "options": {
+      "A": "opposition, with Cold restraining Heat",
+      "B": "interdependence, with Yang deficiency leading to Yin deficiency",
+      "C": "mutual consumption, with excess Yin consuming Yang",
+      "D": "inter-transformation, with Cold transforming into Heat"
+    }
+  },
+  {
+    "id": "FOM-IIa-0007",
+    "subdomain": "II-a",
+    "stem": "A 75-year-old patient near the end of a prolonged febrile illness becomes restless and agitated, with profuse hot, sticky sweat, hot limbs, a flushed face, extreme thirst for cold drinks, and rapid shallow breathing. The tongue is red, dry, and peeled. The pulse is floating, empty, and rapid. Which of the following is the most appropriate pattern?",
+    "options": {
+      "A": "collapse of Yin",
+      "B": "collapse of Yang",
+      "C": "excess of Yang producing Full Heat",
+      "D": "true Cold with false Heat"
+    }
+  },
+  {
+    "id": "FOM-IIa-0008",
+    "subdomain": "II-a",
+    "stem": "Which of the following clinical findings belongs to the Yin category?",
+    "options": {
+      "A": "a loud voice",
+      "B": "a red complexion",
+      "C": "a preference for lying curled up",
+      "D": "a rapid pulse"
+    }
+  },
+  {
+    "id": "FOM-IIa-0009",
+    "subdomain": "II-a",
+    "stem": "According to Yin/Yang theory, a fever that intensifies at night and eases during the day most suggests Heat located in which aspect of the body?",
+    "options": {
+      "A": "the exterior, where Wei Qi circulates by day",
+      "B": "the Qi level, where Heat peaks in the afternoon",
+      "C": "the Yang organs, with Heat accumulating in the Stomach",
+      "D": "the Yin portion, at the level of Blood and Yin"
+    }
+  },
+  {
+    "id": "FOM-IIg-0001",
+    "subdomain": "II-g",
+    "stem": "In Six Stages (Liu Jing) identification, which stage is described as a half-exterior, half-interior pattern in which the pathogenic factor is lodged between the exterior and the interior?",
+    "options": {
+      "A": "Tai Yang",
+      "B": "Yang Ming",
+      "C": "Shao Yang",
+      "D": "Tai Yin"
+    }
+  },
+  {
+    "id": "FOM-IIg-0002",
+    "subdomain": "II-g",
+    "stem": "A patient has fever, aversion to cold, occipital headache, stiff neck, and a floating pulse. Which additional finding would most support a Tai Yang Cold-damage (Shang Han) pattern rather than a Tai Yang Wind-strike (Zhong Feng) pattern?",
+    "options": {
+      "A": "absence of sweating with generalized body aches and a tight pulse",
+      "B": "spontaneous sweating with aversion to wind and a moderate pulse",
+      "C": "profuse sweating with thirst and an overflowing pulse",
+      "D": "alternating chills and fever with a wiry pulse"
+    }
+  },
+  {
+    "id": "FOM-IIg-0003",
+    "subdomain": "II-g",
+    "stem": "A 29-year-old woman has had fever and aversion to cold for three days after being caught in cold weather. She is thirsty but vomits water soon after drinking, her urination is scanty and difficult, and she feels fullness below the umbilicus. The tongue has a thin white coating. The pulse is floating. Which of the following is the most appropriate Six Stages diagnosis?",
+    "options": {
+      "A": "Tai Yang channel pattern",
+      "B": "Yang Ming organ pattern",
+      "C": "Tai Yin pattern",
+      "D": "Tai Yang organ pattern"
+    }
+  },
+  {
+    "id": "FOM-IIg-0004",
+    "subdomain": "II-g",
+    "stem": "A 41-year-old man developed fever and chills four days ago. He now has a high fever with aversion to heat, profuse sweating, intense thirst for cold drinks, a red face, and irritability. There is no abdominal pain and his bowels move daily. The tongue is red with a dry yellow coating. The pulse is overflowing (flooding) and rapid. Which Six Stages pattern is most consistent with these findings?",
+    "options": {
+      "A": "Tai Yang Wind-strike",
+      "B": "Yang Ming channel pattern",
+      "C": "Yang Ming organ pattern",
+      "D": "Shao Yang pattern"
+    }
+  },
+  {
+    "id": "FOM-IIg-0005",
+    "subdomain": "II-g",
+    "stem": "A 57-year-old woman in the sixth day of a febrile illness reports fever that peaks in the late afternoon, no bowel movement for four days, abdominal fullness with pain that is worse with pressure, and episodes of delirious speech at night. Sweating is confined to the hands and feet. The tongue has a dry yellow coating with prickles. The pulse is deep, full and forceful. Which of the following is the most appropriate Six Stages diagnosis?",
+    "options": {
+      "A": "Yang Ming channel pattern",
+      "B": "Shao Yang pattern",
+      "C": "Yang Ming organ pattern",
+      "D": "Tai Yin pattern"
+    }
+  },
+  {
+    "id": "FOM-IIg-0006",
+    "subdomain": "II-g",
+    "stem": "A 35-year-old man has felt unwell for five days following a cold. He now has chills that alternate with episodes of fever several times a day, a bitter taste in the mouth, a dry throat, dizziness, fullness in the hypochondrial region, poor appetite and nausea. The tongue has a thin white coating. The pulse is wiry. Which Six Stages pattern best explains these findings?",
+    "options": {
+      "A": "Shao Yang pattern",
+      "B": "Tai Yang Wind-strike",
+      "C": "Yang Ming channel pattern",
+      "D": "Jue Yin pattern"
+    }
+  },
+  {
+    "id": "FOM-IIg-0007",
+    "subdomain": "II-g",
+    "stem": "A 48-year-old woman with a lingering illness complains of abdominal fullness and distension, poor appetite, intermittent vomiting and loose stools. The abdominal discomfort is dull and is relieved by warmth and by pressure. She has no thirst. The tongue is pale and swollen with a white greasy coating. The pulse is deep, slow and weak. Which of the following is the most appropriate Six Stages diagnosis?",
+    "options": {
+      "A": "Yang Ming organ pattern",
+      "B": "Shao Yin Cold transformation",
+      "C": "Jue Yin pattern",
+      "D": "Tai Yin pattern"
+    }
+  },
+  {
+    "id": "FOM-IIg-0008",
+    "subdomain": "II-g",
+    "stem": "A 74-year-old man became ill with chills and fever five days ago. He now has a marked aversion to cold, lies curled up, is drowsy and listless, has cold hands and feet, and passes watery diarrhea containing undigested food. His urine is clear and copious. The tongue is pale with a white moist coating. The pulse is deep and minute (faint). Which of the following is the most appropriate Six Stages diagnosis?",
+    "options": {
+      "A": "Tai Yin pattern",
+      "B": "Shao Yin Cold transformation",
+      "C": "Shao Yin Heat transformation",
+      "D": "Jue Yin pattern"
+    }
+  },
+  {
+    "id": "FOM-IIg-0009",
+    "subdomain": "II-g",
+    "stem": "Which finding best indicates a Shao Yin Heat transformation pattern rather than a Shao Yin Cold transformation pattern?",
+    "options": {
+      "A": "mental restlessness with insomnia and a red tongue tip",
+      "B": "desire to sleep with cold limbs",
+      "C": "diarrhea with undigested food",
+      "D": "clear, copious urine"
+    }
+  },
+  {
+    "id": "FOM-IIg-0010",
+    "subdomain": "II-g",
+    "stem": "A 52-year-old woman, ill for over a week, reports persistent thirst with a sensation of Qi surging upward to the chest, a burning pain in the chest and epigastrium, and hunger without any desire to eat; when she does eat she vomits. At the same time her hands and feet are cold and her stools are loose. The tongue is red at the front with a white coating at the root. The pulse is wiry. Which of the following is the most appropriate Six Stages diagnosis?",
+    "options": {
+      "A": "Shao Yang pattern",
+      "B": "Tai Yin pattern",
+      "C": "Jue Yin pattern",
+      "D": "Shao Yin Cold transformation"
+    }
+  },
+  {
+    "id": "FOM-IIg-0011",
+    "subdomain": "II-g",
+    "stem": "A 30-year-old man presented two days ago with fever, pronounced aversion to cold, body aches, no sweating and a floating tight pulse. He was treated with strong sweating methods and sweated profusely. Today he has no fever, feels extremely cold, is drowsy and lies curled up, his limbs are cold, and his pulse is deep and faint. Which Six Stages pattern best describes his current condition?",
+    "options": {
+      "A": "Tai Yang Cold-damage",
+      "B": "Tai Yin pattern",
+      "C": "Yang Ming channel pattern",
+      "D": "Shao Yin Cold transformation"
+    }
+  },
+  {
+    "id": "FOM-IIh-0001",
+    "subdomain": "II-h",
+    "stem": "A patient with an acute febrile illness has fever, slight aversion to cold, mild thirst, headache, a red tongue tip and a floating rapid pulse. In Four Levels identification, these findings indicate that the pathogenic Heat is at which level?",
+    "options": {
+      "A": "Wei level",
+      "B": "Qi level",
+      "C": "Ying level",
+      "D": "Xue level"
+    }
+  },
+  {
+    "id": "FOM-IIh-0002",
+    "subdomain": "II-h",
+    "stem": "In late summer, a 33-year-old woman develops a low fever with slight aversion to cold that is worse in the afternoon, a heavy sensation of the head as if it were wrapped, heaviness of the limbs, a stuffy chest, nausea and little thirst. The tongue has a white sticky coating. The pulse is soggy and slightly rapid. Which Wei-level pattern is most appropriate?",
+    "options": {
+      "A": "Wind-Heat at the Wei level",
+      "B": "Summer-Heat at the Wei level",
+      "C": "Damp-Heat at the Wei level",
+      "D": "Dry-Heat at the Wei level"
+    }
+  },
+  {
+    "id": "FOM-IIh-0003",
+    "subdomain": "II-h",
+    "stem": "A 45-year-old man had fever and slight chills four days ago. Now the fever is high with aversion to heat and sweating, and he has a cough producing thick yellow sputum, chest pain, breathlessness and thirst. The tongue is red with a yellow coating. The pulse is rapid and slippery. Which Four Levels pattern is most appropriate?",
+    "options": {
+      "A": "Wind-Heat at the Wei level",
+      "B": "Heat in the Lung at the Qi level",
+      "C": "Heat in the Stomach at the Qi level",
+      "D": "Heat in the Pericardium at the Ying level"
+    }
+  },
+  {
+    "id": "FOM-IIh-0004",
+    "subdomain": "II-h",
+    "stem": "A 39-year-old woman in the second week of a febrile illness has fever that fluctuates during the day, a bitter taste, dry throat, pain and fullness of the hypochondrium, nausea and thirst. The tongue is red with a yellow coating. The pulse is wiry and rapid. Which Four Levels pattern is most appropriate?",
+    "options": {
+      "A": "Heat in the Lung at the Qi level",
+      "B": "Heat in the Gallbladder at the Qi level",
+      "C": "Heat in the Intestines at the Qi level",
+      "D": "Heat in the Ying level"
+    }
+  },
+  {
+    "id": "FOM-IIh-0005",
+    "subdomain": "II-h",
+    "stem": "The Qi-level pattern of Heat in the Stomach, characterized by high fever, profuse sweating, intense thirst and an overflowing pulse, corresponds most closely to which Six Stages pattern?",
+    "options": {
+      "A": "Tai Yang Cold-damage",
+      "B": "Shao Yang pattern",
+      "C": "Yang Ming organ pattern",
+      "D": "Yang Ming channel pattern"
+    }
+  },
+  {
+    "id": "FOM-IIh-0006",
+    "subdomain": "II-h",
+    "stem": "A 60-year-old man in the seventh day of a febrile disease has fever that is worse at night, mental restlessness and insomnia, occasional incoherent speech, faint reddish rashes on the chest and abdomen, and a dry mouth without much desire to drink. The tongue is deep red (crimson) without coating. The pulse is thin and rapid. Which level is most appropriate?",
+    "options": {
+      "A": "Heat in the Stomach at the Qi level",
+      "B": "Heat in the Ying level",
+      "C": "Heat moving Blood at the Xue level",
+      "D": "Wind-Heat at the Wei level"
+    }
+  },
+  {
+    "id": "FOM-IIh-0007",
+    "subdomain": "II-h",
+    "stem": "A 70-year-old woman with a high fever of several days has become delirious. She now drifts in and out of consciousness and answers incoherently, and her hands and feet feel cold although her trunk is burning hot. The tongue is deep red and dry with no coating. The pulse is thin and rapid. Which Four Levels pattern best explains these findings?",
+    "options": {
+      "A": "Heat in the Pericardium at the Ying level",
+      "B": "Liver Wind stirring at the Xue level",
+      "C": "Collapse of Yin at the Xue level",
+      "D": "Heat in the chest and diaphragm at the Qi level"
+    }
+  },
+  {
+    "id": "FOM-IIh-0008",
+    "subdomain": "II-h",
+    "stem": "A 28-year-old man in the second week of a severe febrile illness develops nosebleeds and blood in the stool, dark purple macules over the trunk, high fever with agitation and periods of manic behavior, and scanty dark urine. The tongue is deep red with purple spots. The pulse is rapid and wiry. Which level is most appropriate?",
+    "options": {
+      "A": "Heat in the Ying level",
+      "B": "Heat in the Intestines at the Qi level",
+      "C": "Damp-Heat at the Wei level",
+      "D": "Heat moving Blood at the Xue level"
+    }
+  },
+  {
+    "id": "FOM-IIh-0009",
+    "subdomain": "II-h",
+    "stem": "A 55-year-old woman with a febrile disease at the Ying level (night fever, mental restlessness, a deep red tongue without coating, and a thin rapid pulse) deteriorates over 24 hours. She develops stiffness of the neck and twitching of the limbs that progresses to convulsions, and her eyes roll upward. The fever remains high. Which pattern now best describes the disease?",
+    "options": {
+      "A": "Heat in the Pericardium at the Ying level",
+      "B": "Heat in the Lung at the Qi level",
+      "C": "Liver Wind stirring at the Xue level",
+      "D": "Collapse of Yin at the Xue level"
+    }
+  },
+  {
+    "id": "FOM-IIh-0010",
+    "subdomain": "II-h",
+    "stem": "Which finding best indicates that pathogenic Heat has progressed from the Ying level to the Xue level?",
+    "options": {
+      "A": "bleeding with dark purple macules",
+      "B": "faint, indistinct skin rashes",
+      "C": "night fever with restlessness",
+      "D": "a deep red tongue without coating"
+    }
+  },
+  {
+    "id": "FOM-IIh-0011",
+    "subdomain": "II-h",
+    "stem": "A 66-year-old man has been ill with a warm febrile disease for three weeks. He now has a low-grade fever that persists through the afternoon and evening, heat in the palms and soles, a dry mouth and throat, marked weight loss and listlessness. The tongue is deep red, dry and without coating. The pulse is thin, rapid and weak. Which pattern is most appropriate?",
+    "options": {
+      "A": "Heat in the Ying level",
+      "B": "Heat moving Blood at the Xue level",
+      "C": "Collapse of Yin at the Xue level",
+      "D": "Heat in the Intestines at the Qi level"
+    }
+  },
+  {
+    "id": "FOM-IIj-0001",
+    "subdomain": "II-j",
+    "stem": "According to the classical theory of the seven emotions, which effect on the movement of Qi is attributed to fear (Kong)?",
+    "options": {
+      "A": "Qi rises",
+      "B": "Qi knots",
+      "C": "Qi descends",
+      "D": "Qi scatters"
+    }
+  },
+  {
+    "id": "FOM-IIj-0002",
+    "subdomain": "II-j",
+    "stem": "Excessive pensiveness and prolonged mental overwork (Si) most directly injure which organ?",
+    "options": {
+      "A": "Liver",
+      "B": "Spleen",
+      "C": "Lung",
+      "D": "Kidney"
+    }
+  },
+  {
+    "id": "FOM-IIj-0003",
+    "subdomain": "II-j",
+    "stem": "A 52-year-old man developed a throbbing headache at the vertex and temples within an hour of a heated argument with a colleague. His face is red, he is dizzy with ringing in the ears, and he describes a surge of heat to the head. The tongue is red on the sides. The pulse is wiry and forceful. Which description of the pathomechanism is most appropriate?",
+    "options": {
+      "A": "anger causes Liver Qi to rise, carrying Yang upward to the head",
+      "B": "sadness dissolves Lung Qi, leaving the head unnourished",
+      "C": "pensiveness knots Spleen Qi, generating Phlegm that clouds the head",
+      "D": "fear causes Kidney Qi to descend, depriving the head of Essence"
+    }
+  },
+  {
+    "id": "FOM-IIj-0004",
+    "subdomain": "II-j",
+    "stem": "A 34-year-old woman reports that since her home was burgled while she was alone four months ago, she has woken at night to find she has wet the bed, and she has frequent, urgent urination during the day. She also has weak knees and a sore lower back. The tongue is pale. The pulse is deep and weak, particularly at the Chi (rear) positions. Which pathomechanism best explains these findings?",
+    "options": {
+      "A": "fright scatters Heart Qi, disturbing the Spirit",
+      "B": "worry knots Spleen Qi, impairing the transformation of fluids",
+      "C": "anger causes Liver Qi to rise and stagnate",
+      "D": "fear causes Kidney Qi to descend and weakens Bladder control"
+    }
+  },
+  {
+    "id": "FOM-IIj-0005",
+    "subdomain": "II-j",
+    "stem": "A 61-year-old woman has felt exhausted since her husband died eight months ago. She cries easily, speaks in a weak voice, is short of breath on exertion, sweats spontaneously during the day and has caught four colds this winter. The tongue is pale. The pulse is weak, especially at the right Cun (front) position. Which pathomechanism is most consistent with these findings?",
+    "options": {
+      "A": "fear causing Kidney Qi to descend",
+      "B": "sadness and grief dissolving Lung Qi",
+      "C": "pensiveness knotting Spleen Qi",
+      "D": "fright scattering Heart Qi"
+    }
+  },
+  {
+    "id": "FOM-IIj-0006",
+    "subdomain": "II-j",
+    "stem": "A 24-year-old graduate student spends long hours studying and worrying about examinations. Over the past three months she has lost her appetite, feels distended after eating even small amounts, is tired after meals and passes loose stools. The tongue is pale with teeth marks. The pulse is weak. Which pathomechanism best explains these symptoms?",
+    "options": {
+      "A": "anger causing Liver Qi to invade the Stomach",
+      "B": "joy slowing Heart Qi and weakening digestion",
+      "C": "sadness dissolving Lung Qi and the Spleen with it",
+      "D": "pensiveness knotting Qi and injuring the Spleen"
+    }
+  },
+  {
+    "id": "FOM-IIj-0007",
+    "subdomain": "II-j",
+    "stem": "A 44-year-old manager under continuous work stress for two years reports irritability, distension of the hypochondrium and frequent sighing. Over the past six months he has developed epigastric fullness and belching after meals, abdominal distension, and stools that alternate between loose and constipated, all worse during stressful weeks. The tongue is slightly pale with a thin white coating. The pulse is wiry on the left and weak on the right. Which pathomechanism best accounts for this progression?",
+    "options": {
+      "A": "Liver Qi stagnation from stress overacting on the Spleen",
+      "B": "Spleen Qi deficiency insulting the Liver",
+      "C": "Liver Fire blazing and scorching Stomach fluids",
+      "D": "Heart Qi scattered by fright disturbing the Spleen"
+    }
+  },
+  {
+    "id": "FOM-IIj-0008",
+    "subdomain": "II-j",
+    "stem": "A 58-year-old woman describes years of suppressed resentment toward a family member. For most of that time she had hypochondrial distension and irritability; in the past year she has developed dry eyes, blurred vision, dizziness, night sweats and a hot feeling in the evenings. The tongue is red with scanty coating. The pulse is wiry, thin and rapid. Which pathomechanism best explains this evolution?",
+    "options": {
+      "A": "Liver Qi stagnation progressing to Liver Blood stasis",
+      "B": "fear descending Kidney Qi, leading to Kidney Yang deficiency",
+      "C": "prolonged Liver Qi stagnation transforming into Fire and consuming Liver Yin",
+      "D": "sadness dissolving Lung Qi, leading to Lung Yin deficiency"
+    }
+  },
+  {
+    "id": "FOM-IIk-0001",
+    "subdomain": "II-k",
+    "stem": "A pathogenic factor that produces a sensation of heaviness of the body and limbs, turbid or sticky discharges, and a lingering course that is slow to resolve is best described as which of the following?",
+    "options": {
+      "A": "Wind",
+      "B": "Cold",
+      "C": "Dampness",
+      "D": "Dryness"
+    }
+  },
+  {
+    "id": "FOM-IIk-0002",
+    "subdomain": "II-k",
+    "stem": "Which external pathogenic factor occurs only in its own season, is characterized by high fever with sweating and thirst, injures both Qi and Body Fluids, and commonly combines with Dampness?",
+    "options": {
+      "A": "Fire",
+      "B": "Summer-Heat",
+      "C": "Dryness",
+      "D": "Wind"
+    }
+  },
+  {
+    "id": "FOM-IIk-0003",
+    "subdomain": "II-k",
+    "stem": "A 38-year-old man was caught in freezing rain while hiking. The next day he has severe cramping pain in the lower abdomen and in both knees that is fixed in location and eased by a hot water bottle, aversion to cold, cold hands and feet, and a clear, watery nasal discharge. The tongue is pale with a thin white moist coating. The pulse is tight. Which pathogenic factor best explains the character of these findings?",
+    "options": {
+      "A": "Wind",
+      "B": "Dampness",
+      "C": "Dryness",
+      "D": "Cold"
+    }
+  },
+  {
+    "id": "FOM-IIk-0004",
+    "subdomain": "II-k",
+    "stem": "A 46-year-old woman develops fever with aversion to wind and slight sweating. Her joints ache, and the pain has moved from the shoulders to the wrists and then to the knees over three days. She feels heavy and lethargic, and her head feels muzzy. The tongue has a thin white sticky coating. The pulse is floating and soggy. Which exterior pattern is most appropriate?",
+    "options": {
+      "A": "Wind-Damp",
+      "B": "Wind-Cold",
+      "C": "Wind-Heat",
+      "D": "Cold-Damp"
+    }
+  },
+  {
+    "id": "FOM-IIk-0005",
+    "subdomain": "II-k",
+    "stem": "In early October a 50-year-old man develops, over two days, a dry hacking cough with scant sticky sputum that is hard to expectorate, a dry nose and throat, slight fever with mild aversion to cold, and a headache. His skin and lips are dry. The tongue is red at the tip with a thin, dry white coating. The pulse is floating and slightly rapid. Which pathomechanism best explains these findings?",
+    "options": {
+      "A": "Lung Yin deficiency producing internal Dryness",
+      "B": "exterior Dryness invading the Lung",
+      "C": "Phlegm-Heat obstructing the Lung",
+      "D": "Wind-Cold invading the Lung"
+    }
+  },
+  {
+    "id": "FOM-IIk-0006",
+    "subdomain": "II-k",
+    "stem": "A 66-year-old man with a two-year history of dizziness, headaches and irritability experiences, over a single evening, numbness of the left arm, tremor of the hands and deviation of the mouth. He has no fever, no aversion to wind or cold, and no recent exposure to the elements. The tongue is red with a thin yellow coating. The pulse is wiry. Which pathomechanism best explains these findings?",
+    "options": {
+      "A": "exterior Wind invading the channels of the face and limbs",
+      "B": "Wind-Cold obstructing the Lung and channels",
+      "C": "internal Wind generated by Liver Yang rising",
+      "D": "Wind-Damp lodging in the joints and muscles"
+    }
+  },
+  {
+    "id": "FOM-IIk-0007",
+    "subdomain": "II-k",
+    "stem": "In mid-July a 29-year-old landscaper collapsed after a day of outdoor work. She has a high fever with profuse sweating and intense thirst, but also heaviness of the limbs, nausea, a stifling sensation in the chest, and pronounced fatigue with shortness of breath. Her urine is scanty and dark. The tongue is red with a sticky yellow coating. The pulse is rapid and soggy, and weak on pressure. Which pathomechanism best explains the combination of findings?",
+    "options": {
+      "A": "Summer-Heat with Dampness injuring Qi and Body Fluids",
+      "B": "Damp-Heat retained in the Spleen from dietary irregularity",
+      "C": "Wind-Heat invading the Lung and the defensive layer",
+      "D": "Stomach Fire blazing and consuming fluids"
+    }
+  },
+  {
+    "id": "FOM-IIk-0008",
+    "subdomain": "II-k",
+    "stem": "Which feature most distinguishes pestilential Qi (Li Qi) from the six ordinary external pathogenic factors?",
+    "options": {
+      "A": "a strict dependence on the climate of a particular season",
+      "B": "a tendency to settle in the lower body and linger",
+      "C": "a gradual onset that transforms into interior Cold",
+      "D": "strong contagiousness with a similar presentation in all affected"
+    }
+  }
+]

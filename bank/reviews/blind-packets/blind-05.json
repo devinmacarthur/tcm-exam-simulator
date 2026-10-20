@@ -1,0 +1,530 @@
+[
+  {
+    "id": "FOM-III2-0019",
+    "subdomain": "III-2",
+    "stem": "A 62-year-old woman reports a fine tremor of the hands, numbness and tingling of the limbs, and muscle twitching for the past year, with blurred vision, dizziness, brittle nails, and a dull pale complexion. The tongue is pale and thin. The pulse is thin (thready). Which of the following is the most appropriate treatment priority?",
+    "options": {
+      "A": "extinguish Wind and sedate the Liver",
+      "B": "nourish Liver Blood to extinguish Wind",
+      "C": "clear Liver Heat and extinguish Wind",
+      "D": "subdue Liver Yang and extinguish Wind"
+    }
+  },
+  {
+    "id": "FOM-III2-0020",
+    "subdomain": "III-2",
+    "stem": "A 68-year-old man has been treated weekly for two months for Kidney Yin deficiency with Liver Yang rising; his headaches and dizziness have been improving. He arrives today with slurred speech, deviation of the mouth, and weakness of the right arm that began one hour ago. Which of the following is the most appropriate response?",
+    "options": {
+      "A": "continue the scheduled root treatment, because Yin deficiency underlies the new symptoms",
+      "B": "add subduing Liver Yang to the scheduled session and review at next week's visit",
+      "C": "treat the new symptoms as an exterior Wind attack and release the exterior",
+      "D": "arrange urgent medical care; the acute Wind-stroke now takes priority over the root plan"
+    }
+  },
+  {
+    "id": "FOM-III2-0021",
+    "subdomain": "III-2",
+    "stem": "Under Root and Branch (Ben Biao) theory, treating the root and the branch at the same time is most appropriate in which of the following circumstances?",
+    "options": {
+      "A": "The root and the branch are both serious and pressing",
+      "B": "The branch is acute and threatens the patient's life",
+      "C": "The disease is chronic and the symptoms are mild",
+      "D": "The patient's upright Qi is strong and the pathogen is weak"
+    }
+  },
+  {
+    "id": "FOM-III2-0022",
+    "subdomain": "III-2",
+    "stem": "A 40-year-old woman reports that during a stressful year she became irritable, sighs frequently, and has hypochondriac distension that worsens before her period. Over the past six months she has also developed abdominal bloating and loose stools that flare whenever she is upset. The tongue is pale with a thin white coating. The pulse is wiry on the left and weak on the right. Which of the following is the root (Ben) of this presentation?",
+    "options": {
+      "A": "Spleen Qi deficiency",
+      "B": "Dampness obstructing the Middle Burner",
+      "C": "Liver Qi stagnation",
+      "D": "Retention of Food in the Stomach"
+    }
+  },
+  {
+    "id": "FOM-III2-0023",
+    "subdomain": "III-2",
+    "stem": "A 52-year-old woman reports two years of mild night sweats, evening flushes, a dry mouth at night, lower back soreness, and faint tinnitus. The tongue is red with a scanty coating. The pulse is thin (thready) and slightly rapid. Which of the following is the most appropriate treatment priority?",
+    "options": {
+      "A": "clear Full Heat and drain Fire downward from the Liver",
+      "B": "nourish Kidney Yin as the main method, with clearing Empty Heat as secondary",
+      "C": "clear Empty Heat as the main method, with nourishing Yin as secondary",
+      "D": "warm and tonify Kidney Yang to stop the sweating and warm the back"
+    }
+  },
+  {
+    "id": "FOM-III2-0024",
+    "subdomain": "III-2",
+    "stem": "A 31-year-old woman presents on the first day of her period with severe, stabbing lower abdominal pain and dark menstrual blood with clots; the pain eases after clots pass. Between periods she is tired and pale with a poor appetite. The tongue is pale with purple spots on the sides. The pulse is choppy during menstruation and weak between periods. Which of the following should be addressed first?",
+    "options": {
+      "A": "tonify Qi and nourish Blood",
+      "B": "warm the Uterus and dispel Cold",
+      "C": "strengthen the Spleen and raise Qi",
+      "D": "invigorate Blood and relieve the pain"
+    }
+  },
+  {
+    "id": "FOM-III2-0025",
+    "subdomain": "III-2",
+    "stem": "A 60-year-old man with a chronic dry cough has been diagnosed with Lung Yin deficiency: dry throat, sticky scanty sputum, afternoon heat sensation, a red tongue with a scanty dry coating, and a thin rapid pulse. He is six weeks into a course of nourishing Lung Yin. Which of the following findings best indicates that the root is being restored?",
+    "options": {
+      "A": "fewer coughing episodes during the day",
+      "B": "the tongue regaining moisture and a thin coating beginning to return",
+      "C": "the throat feeling less irritated for a day after each session",
+      "D": "sputum, when present, being easier to expectorate"
+    }
+  },
+  {
+    "id": "FOM-III2-0026",
+    "subdomain": "III-2",
+    "stem": "A 70-year-old man has had watery diarrhea ten times a day for three days with undigested food in the stool. He has a cold abdomen, cold limbs, profuse cold sweat, a faint voice, and exhaustion. The tongue is pale and wet. The pulse is deep and minute (faint). Which of the following treatment plans is most appropriate?",
+    "options": {
+      "A": "clear Damp-Heat and stop the diarrhea, then warm Yang",
+      "B": "tonify Spleen Qi gently over a long course",
+      "C": "warm and rescue Yang while astringing to stop the diarrhea",
+      "D": "astringe the Intestines first, then warm Yang once the stools are formed"
+    }
+  },
+  {
+    "id": "FOM-III3-0001",
+    "subdomain": "III-3",
+    "stem": "A 35-year-old man was treated three days ago for Wind-Cold with chills, body aches, absence of sweating, and a floating tight pulse. He returns reporting that the chills and body aches are gone, but he now has a cough with white sputum and chest tightness. The tongue has a thin white, slightly greasy coating. The pulse is no longer floating and is slightly slippery. Which of the following modifications is most appropriate?",
+    "options": {
+      "A": "stop releasing the exterior; resolve Phlegm and descend Lung Qi",
+      "B": "continue releasing the exterior until the cough resolves",
+      "C": "switch to tonifying Lung Qi and consolidating the exterior",
+      "D": "switch to clearing Lung Heat and transforming Phlegm-Heat"
+    }
+  },
+  {
+    "id": "FOM-III3-0002",
+    "subdomain": "III-3",
+    "stem": "A 44-year-old woman has been treated for four weeks for Damp-Heat in the Spleen and Stomach: epigastric fullness, sticky stools, and a yellow greasy coating. The fullness and sticky stools have resolved. She now reports a dry mouth, dull epigastric discomfort, hunger without the desire to eat, and dry stools. The tongue is red with the coating peeled in the center. The pulse is thin and slightly rapid. Which of the following modifications is most appropriate?",
+    "options": {
+      "A": "intensify clearing Damp-Heat to complete the course",
+      "B": "add bitter-cold draining methods to clear the residual Heat",
+      "C": "shift to nourishing Stomach Yin and stop draining Dampness",
+      "D": "warm and dry the Spleen to prevent the Dampness returning"
+    }
+  },
+  {
+    "id": "FOM-III3-0003",
+    "subdomain": "III-3",
+    "stem": "A 57-year-old man has been treated for six weeks with warming and tonifying methods for Kidney Yang deficiency: cold limbs, nocturia, lower back pain, and a pale tongue. His limbs are warmer and nocturia has decreased. He now reports mouth ulcers, irritability, thirst, and restless sleep. The tongue has a red tip. The pulse is thin and slightly rapid. Which of the following modifications is most appropriate?",
+    "options": {
+      "A": "continue warming unchanged, because the Heat signs are a passing reaction",
+      "B": "stop tonifying the Kidney and switch entirely to clearing Heart Fire",
+      "C": "increase the warming methods to consolidate the gains",
+      "D": "reduce the warming methods and add nourishing Kidney Yin"
+    }
+  },
+  {
+    "id": "FOM-III3-0004",
+    "subdomain": "III-3",
+    "stem": "A 31-year-old woman with hypochondriac distension, irritability, frequent sighing, and a wiry pulse received four sessions from a previous practitioner that emphasized tonifying Qi because she mentioned feeling tired. She returns with worse distension, more irritability, a sensation of fullness in the chest, and belching. The tongue is normal in color. The pulse is wiry and full. Which of the following modifications is most appropriate?",
+    "options": {
+      "A": "add nourishing Blood to balance the Qi tonification",
+      "B": "stop tonifying; move Liver Qi and relieve the stagnation",
+      "C": "add warming Yang to support the tonification",
+      "D": "continue tonifying but reduce the treatment frequency"
+    }
+  },
+  {
+    "id": "FOM-III3-0005",
+    "subdomain": "III-3",
+    "stem": "A 48-year-old man with fatigue, heavy limbs, loose stools, a thick greasy white coating, and a soggy pulse was diagnosed with Spleen Qi deficiency with Dampness. After six sessions emphasizing resolving Dampness, the coating is thin and white, the heaviness is gone, and the stools are formed. Fatigue and poor appetite persist. The pulse is weak. Which of the following modifications is most appropriate?",
+    "options": {
+      "A": "shift the emphasis from resolving Dampness to tonifying Spleen Qi",
+      "B": "intensify draining Dampness, because the fatigue persists",
+      "C": "add clearing Heat, because the coating has changed",
+      "D": "switch to tonifying Kidney Yang to warm the Spleen"
+    }
+  },
+  {
+    "id": "FOM-III3-0006",
+    "subdomain": "III-3",
+    "stem": "A 50-year-old woman received eight sessions of strongly moving and dispersing treatment for fixed, stabbing shoulder pain with a purple tongue and a choppy pulse. The pain is reduced by about two-thirds. She now reports fatigue, dizziness on standing, palpitations, and a pale complexion. The tongue is pale with a few purplish spots at the edges. The pulse is thin and weak. Which of the following modifications is most appropriate?",
+    "options": {
+      "A": "intensify invigorating Blood to clear the remaining stasis",
+      "B": "stop addressing the stasis and nourish Blood alone",
+      "C": "add tonifying Qi and Blood while reducing the dispersing emphasis",
+      "D": "switch to cooling the Blood and clearing Heat"
+    }
+  },
+  {
+    "id": "FOM-III3-0007",
+    "subdomain": "III-3",
+    "stem": "A 29-year-old nurse has been improving on a plan to nourish Heart Blood for insomnia with palpitations, a pale tongue, and a thin pulse. She has now moved to permanent night shifts. At her next visit she reports night sweats, a dry mouth, and heat in the palms and soles. The tongue is red at the tip with a scanty coating. The pulse is thin and rapid. Which of the following modifications is most appropriate?",
+    "options": {
+      "A": "continue nourishing Heart Blood unchanged",
+      "B": "add nourishing Yin and clearing Empty Heat to the plan",
+      "C": "switch to clearing Heart Fire with bitter-cold methods",
+      "D": "add warming Kidney Yang to counter the cold of the night"
+    }
+  },
+  {
+    "id": "FOM-III3-0008",
+    "subdomain": "III-3",
+    "stem": "A 33-year-old woman has been treated for painful periods due to Blood stasis (dark clotted blood, stabbing pain, a purple tongue, and a choppy pulse) with invigorating Blood and moving Qi. She reports that she is now six weeks pregnant. Which of the following modifications is most appropriate?",
+    "options": {
+      "A": "continue invigorating Blood to keep the Uterus free of stasis",
+      "B": "intensify moving Qi to prevent stagnation during pregnancy",
+      "C": "switch to clearing Heat to prevent restlessness of the fetus",
+      "D": "stop invigorating Blood; nourish Blood and tonify the Kidney and Spleen"
+    }
+  },
+  {
+    "id": "FOM-III3-0009",
+    "subdomain": "III-3",
+    "stem": "A 46-year-old man completed a ten-week course for Spleen Qi deficiency (fatigue, loose stools, pale tongue) and was moved to monthly maintenance visits. Three months later he reports working seventy-hour weeks and skipping meals; the fatigue and loose stools have returned. The tongue is pale with teeth marks. The pulse is weak. Which of the following modifications is most appropriate?",
+    "options": {
+      "A": "resume regular tonifying treatments and address the overwork and irregular eating as ongoing causes",
+      "B": "keep monthly maintenance and add moving Qi for the work stress",
+      "C": "switch to clearing Damp-Heat because of the irregular eating",
+      "D": "add nourishing Yin because long working hours consume Yin"
+    }
+  },
+  {
+    "id": "FOM-III3-0010",
+    "subdomain": "III-3",
+    "stem": "A 61-year-old woman with Lung Yin deficiency (dry cough, dry throat, red tongue with scanty coating, thin rapid pulse) was stable through the summer on a nourishing plan. She returns in October with a worse dry cough, a dry nose, dry skin, and hoarseness. The tongue remains red with a scanty coating. Which of the following modifications is most appropriate?",
+    "options": {
+      "A": "add dispersing Wind-Cold methods to prepare for winter",
+      "B": "switch to resolving Phlegm because the cough has worsened",
+      "C": "increase moistening the Lung and nourishing Yin to counter autumn Dryness",
+      "D": "add drying Dampness because autumn aggravates Dampness"
+    }
+  },
+  {
+    "id": "FOM-III3-0011",
+    "subdomain": "III-3",
+    "stem": "A 24-year-old man was seen two days ago for Wind-Heat with sore throat, fever and slight chills, and a floating rapid pulse, and was treated to release the exterior. He returns with no aversion to cold, a high fever, profuse sweating, intense thirst for cold drinks, and a red face. The tongue is red with a dry yellow coating. The pulse is flooding (overflowing) and rapid. Which of the following modifications is most appropriate?",
+    "options": {
+      "A": "continue releasing the exterior with stronger sweating methods",
+      "B": "add warming methods because the chills have stopped",
+      "C": "nourish Yin because the sweating has consumed Fluids",
+      "D": "shift to clearing Qi-level Heat and stop releasing the exterior"
+    }
+  },
+  {
+    "id": "FOM-III3-0012",
+    "subdomain": "III-3",
+    "stem": "A 39-year-old man has had five sessions for Liver Qi stagnation with hypochondriac distension, irritability, and a wiry pulse. He now reports outbursts of anger, red eyes, a bitter taste, a temporal headache, constipation, and dark urine. The tongue is red with a yellow coating. The pulse is wiry and rapid. Which of the following modifications is most appropriate?",
+    "options": {
+      "A": "continue moving Liver Qi with warm, acrid methods",
+      "B": "shift to clearing Liver Fire and draining downward",
+      "C": "add tonifying Liver Blood to soften the Liver",
+      "D": "switch to subduing Liver Yang and nourishing Kidney Yin"
+    }
+  },
+  {
+    "id": "FOM-III3-0013",
+    "subdomain": "III-3",
+    "stem": "A 37-year-old woman with Blood deficiency (dizziness, pallor, scanty periods, a thin pulse) has had eight sessions using rich, nourishing methods. Her dizziness has improved. She now reports abdominal bloating after meals, loose stools, and a poor appetite. The tongue is pale with a greasy white coating. The pulse is soggy. Which of the following modifications is most appropriate?",
+    "options": {
+      "A": "add strengthening the Spleen and lighten the cloying nourishment",
+      "B": "intensify nourishing Blood because the Blood is still deficient",
+      "C": "switch to clearing Damp-Heat from the Intestines",
+      "D": "add invigorating Blood to move the stagnating Blood"
+    }
+  },
+  {
+    "id": "FOM-III3-0014",
+    "subdomain": "III-3",
+    "stem": "A 55-year-old woman has had six sessions of subduing Liver Yang for throbbing headaches with irritability, a red face, and a wiry pulse. The headaches have resolved. She now reports dizziness on standing, blurred vision, dry eyes, tinnitus, and lower back soreness. The tongue is slightly red and thin with a scanty coating. The pulse is thin and no longer wiry. Which of the following modifications is most appropriate?",
+    "options": {
+      "A": "continue subduing Liver Yang at the same intensity",
+      "B": "switch to dispersing Wind from the head",
+      "C": "add tonifying Kidney Yang for the back soreness",
+      "D": "shift to nourishing Liver and Kidney Yin as the main method"
+    }
+  },
+  {
+    "id": "FOM-III4-0001",
+    "subdomain": "III-4",
+    "stem": "A 26-year-old woman with fatigue, bloating after meals, loose stools, and a pale tongue has been diagnosed with Spleen Qi deficiency. She asks what the diagnosis means. Which explanation is most appropriate to give this patient?",
+    "options": {
+      "A": "Your spleen organ is underactive, and the treatment will stimulate it to work harder.",
+      "B": "In Chinese medicine the 'Spleen' describes the system that turns food into energy; when it is weak, people feel tired and bloated and have loose stools.",
+      "C": "It means you have a digestive enzyme deficiency, which the treatment corrects.",
+      "D": "It is a traditional way of saying you are a little run down; it is nothing that really needs treating."
+    }
+  },
+  {
+    "id": "FOM-III4-0002",
+    "subdomain": "III-4",
+    "stem": "A 49-year-old man with recurrent headaches has been diagnosed with Liver Yang rising on a background of Kidney Yin deficiency. He asks why his treatment plan includes work on his lower back and 'kidneys' when his complaint is headaches. Which explanation is most appropriate to give this patient?",
+    "options": {
+      "A": "Your kidneys are failing to filter toxins, and those toxins are causing the headaches.",
+      "B": "The back work is just for general relaxation; it has no particular connection to the headaches.",
+      "C": "The headaches are the visible part of the problem; the plan also strengthens the underlying imbalance that keeps producing them, so the results last.",
+      "D": "The kidneys make hormones that raise blood pressure, and the high blood pressure causes the headaches."
+    }
+  },
+  {
+    "id": "FOM-III4-0003",
+    "subdomain": "III-4",
+    "stem": "A 38-year-old man notices in the mirror that his tongue has a thick, greasy white coating and asks what it means. His pattern is Cold-Damp in the Spleen. Which explanation is most appropriate to give this patient?",
+    "options": {
+      "A": "That coating points to Dampness, which in Chinese medicine means your digestion is handling fluids poorly; it usually thins as digestion improves.",
+      "B": "That coating is a fungal infection growing on the surface of the tongue; the treatment plan will be aimed at clearing the infection.",
+      "C": "A thick coating like that shows your stomach is producing too much acid; the treatment plan will be aimed at reducing the acid.",
+      "D": "That coating only reflects what you ate this morning and tells us nothing useful about your pattern or how the treatment will go."
+    }
+  },
+  {
+    "id": "FOM-III4-0004",
+    "subdomain": "III-4",
+    "stem": "A 63-year-old man with Kidney Yang deficiency (chronic cold intolerance, nocturia, lower back pain, pale tongue, deep weak pulse) asks how long treatment will take. Which explanation of the treatment course is most appropriate to give this patient?",
+    "options": {
+      "A": "Two or three sessions should clear this up completely, because warming treatments act quickly and the pattern is straightforward.",
+      "B": "Because this pattern is chronic it cannot really improve; treatment will only manage the symptoms while the underlying weakness stays the same.",
+      "C": "Treatment simply continues indefinitely, and we will see how it goes over time without setting any checkpoints or targets along the way.",
+      "D": "This is a long-standing deficiency, so we plan regular weekly sessions over a few months and check your warmth, urination, and energy at set points."
+    }
+  },
+  {
+    "id": "FOM-III4-0005",
+    "subdomain": "III-4",
+    "stem": "A 32-year-old woman with premenstrual breast distension, irritability, and a wiry pulse has been diagnosed with Liver Qi stagnation. She asks, worried, what is wrong with her liver. Which explanation is most appropriate to give this patient?",
+    "options": {
+      "A": "Your liver is congested with toxins from diet and stress, and the course of treatment will work to detoxify the organ directly.",
+      "B": "In Chinese medicine the \"Liver\" is the system that keeps energy moving smoothly; stress tightens that flow, which shows as your premenstrual symptoms. It is a different idea from your liver organ.",
+      "C": "Your liver enzymes are probably raised, because this pattern usually reflects early liver disease that has not yet been detected.",
+      "D": "The pattern name is really just a formality used for record-keeping, and it has nothing in particular to do with the symptoms you describe."
+    }
+  },
+  {
+    "id": "FOM-III4-0006",
+    "subdomain": "III-4",
+    "stem": "A 58-year-old woman with night sweats, a dry mouth at night, tinnitus, and a thin rapid pulse has been told her pattern is Kidney Yin deficiency. Alarmed, she says her physician recently found her kidney tests normal and asks whether her kidneys are failing. Which explanation is most appropriate to give this patient?",
+    "options": {
+      "A": "It is an early stage of kidney disease that routine blood tests cannot yet detect, so the normal results should not reassure you.",
+      "B": "Your tests must be wrong, because this pattern reliably shows that the kidneys themselves are damaged and will need medical treatment.",
+      "C": "It is essentially the same thing as dehydration; drinking more water each day will correct the night sweats and the dry mouth.",
+      "D": "It is a Chinese-medicine pattern describing signs like your night sweats and dry mouth, not the medical condition of kidney failure; your normal tests stand, so keep your medical follow-up as planned."
+    }
+  },
+  {
+    "id": "FOM-III4-0007",
+    "subdomain": "III-4",
+    "stem": "A 41-year-old man with Liver Qi stagnation hears the practitioner describe his pulse as 'wiry' and asks what that means. Which explanation is most appropriate to give this patient?",
+    "options": {
+      "A": "Your pulse feels taut, like a tight string under the fingers; in Chinese medicine that points to tension in the flow of energy, which often goes with stress.",
+      "B": "A wiry pulse means the walls of your arteries are starting to harden, which is something that usually shows up with age and high cholesterol.",
+      "C": "It means your blood pressure is dangerously high right now, so you need to have it checked by a physician before the end of the day.",
+      "D": "It is just a routine description that every practitioner writes down for the record; it does not carry any particular meaning for your care."
+    }
+  },
+  {
+    "id": "FOM-III4-0008",
+    "subdomain": "III-4",
+    "stem": "A 45-year-old man was treated for Damp-Heat with a yellow greasy coating; the coating has cleared, and his tongue is now red with a scanty, dry coating and he has a dry mouth. The practitioner changes the plan from clearing to nourishing. He asks why the approach has changed. Which explanation is most appropriate to give this patient?",
+    "options": {
+      "A": "The first approach did not work, so we are trying something different to see what happens.",
+      "B": "We switch methods after a few weeks as a matter of routine, regardless of how you respond.",
+      "C": "The first phase cleared the Damp-Heat, and your tongue and symptoms now show dryness, so the plan shifts to nourishing to restore the fluids.",
+      "D": "Your lab values have changed, so we are now treating a new disease."
+    }
+  },
+  {
+    "id": "FOM-III5-0001",
+    "subdomain": "III-5",
+    "stem": "According to the seasonal regimen described in the Huang Di Nei Jing (Su Wen, Chapter 2), which daily sleep pattern is recommended during autumn?",
+    "options": {
+      "A": "Retire late and rise early, letting Qi flow freely outward",
+      "B": "Retire early and rise early, keeping the mind calm and gathered",
+      "C": "Retire early and rise late, waiting for sunlight before going out",
+      "D": "Retire late and rise late, keeping the body warm and inactive"
+    }
+  },
+  {
+    "id": "FOM-III5-0002",
+    "subdomain": "III-5",
+    "stem": "A 63-year-old man reports a cold, aching lower back and knees for two years, cold hands and feet, frequent pale urination, and low energy. The tongue is pale and swollen with a thin white coating. The pulse is deep and weak. It is mid-December and he asks how to arrange his daily routine for the season. Which self-care recommendation is most appropriate?",
+    "options": {
+      "A": "Rise before dawn for brisk outdoor runs that build warmth",
+      "B": "Use a sauna several times weekly until sweating freely",
+      "C": "Retire late and rise early, spending long hours outdoors",
+      "D": "Retire early, rise after sunrise, and keep warm without sweating"
+    }
+  },
+  {
+    "id": "FOM-III5-0003",
+    "subdomain": "III-5",
+    "stem": "A 34-year-old woman reports premenstrual irritability, breast distension, and a feeling of fullness under the ribs for one year. She sighs frequently and describes herself as 'stuck' in a sedentary desk job. The tongue is normal in color. The pulse is wiry. Which self-care recommendation is most appropriate?",
+    "options": {
+      "A": "Daily Tai Ji or flowing Qi Gong practice combined with regular outdoor walks",
+      "B": "Complete rest with minimal activity until the distension subsides",
+      "C": "Long periods of still, seated practice with as little movement as possible",
+      "D": "High-intensity training to the point of profuse sweating each evening"
+    }
+  },
+  {
+    "id": "FOM-III5-0004",
+    "subdomain": "III-5",
+    "stem": "A 47-year-old woman reports night sweats, heat in the palms and soles, tinnitus, soreness of the lower back, and a dry mouth at night for eight months. She attends heated yoga five evenings a week and works until midnight. The tongue is red with little coating. The pulse is thin (thready) and rapid. Which self-care recommendation is most appropriate?",
+    "options": {
+      "A": "Continue the heated classes and add a daily sauna to release the Heat",
+      "B": "Switch to vigorous running to strengthen the Kidneys through exertion",
+      "C": "Replace heated classes with gentle practice, limit sweating, and sleep earlier",
+      "D": "Stop all physical activity and rest in bed during the daytime"
+    }
+  },
+  {
+    "id": "FOM-III5-0005",
+    "subdomain": "III-5",
+    "stem": "A 28-year-old graduate student reports fatigue that is worst after long study sessions, poor appetite, abdominal bloating, and loose stools for five months. He studies twelve hours a day, eats at irregular times, and says he 'cannot stop turning problems over' in his mind. The tongue is pale with teeth marks. The pulse is weak. Which self-care recommendation is most appropriate?",
+    "options": {
+      "A": "Increase study hours now and rest fully once the semester ends",
+      "B": "Take regular breaks from mental work, eat at fixed times, and walk daily",
+      "C": "Train intensively each morning so that fatigue improves through conditioning",
+      "D": "Fast during the day to reduce bloating and eat one large meal at night"
+    }
+  },
+  {
+    "id": "FOM-III5-0006",
+    "subdomain": "III-5",
+    "stem": "A 42-year-old man reports soreness of the lower back, weak knees, tinnitus, premature graying of the hair, and declining memory for one year. On inquiry he reports very frequent sexual activity and long working hours. The tongue is pale. The pulse is deep and weak, especially at the rear (chi) positions. Which self-care recommendation is most appropriate?",
+    "options": {
+      "A": "Cold-water immersion each morning to stimulate the Kidneys",
+      "B": "Weight training to exhaustion to strengthen the lower back",
+      "C": "Frequent hot saunas to drive Cold out of the lower back",
+      "D": "Moderating sexual activity and limiting overwork"
+    }
+  },
+  {
+    "id": "FOM-III5-0007",
+    "subdomain": "III-5",
+    "stem": "A 58-year-old woman reports shortness of breath on exertion, a weak voice, spontaneous daytime sweating, and frequent colds for the past two winters. Her complexion is pale. The tongue is pale with a thin white coating. The pulse is weak. Which self-care recommendation is most appropriate?",
+    "options": {
+      "A": "Daily slow abdominal breathing exercises and dressing warmly in windy weather",
+      "B": "Daily long-distance running to expand the capacity of the chest",
+      "C": "Cold showers each morning to build resistance to catching colds",
+      "D": "Staying indoors and avoiding all fresh air until the sweating stops"
+    }
+  },
+  {
+    "id": "FOM-III5-0008",
+    "subdomain": "III-5",
+    "stem": "A 50-year-old farmer reports pain in the knees and finger joints for three years. The pain is worse in cold, wet weather, improves with warmth, and is accompanied by a sense of heaviness in the limbs. He often works in the rain and sits on the wet ground at breaks. The tongue is pale with a white greasy coating. The pulse is tight and slow. Which self-care recommendation is most appropriate?",
+    "options": {
+      "A": "Soak the painful joints in cold water after work to reduce swelling",
+      "B": "Rest in bed for several weeks until the joint pain fully resolves",
+      "C": "Keep the joints warm and dry and change out of wet clothing promptly",
+      "D": "Perform vigorous stretching outdoors in the early morning cold"
+    }
+  },
+  {
+    "id": "FOM-III5-0009",
+    "subdomain": "III-5",
+    "stem": "A 40-year-old woman reports dry eyes, blurred vision in the evening, and scanty menstrual periods. She routinely works at a computer until 2 a.m. The tongue is pale. The pulse is thin (thready). Based on the Chinese organ clock, during which time window is it most important for her to be asleep in order to support the organ involved?",
+    "options": {
+      "A": "11 p.m. to 1 a.m.",
+      "B": "1 a.m. to 3 a.m.",
+      "C": "3 a.m. to 5 a.m.",
+      "D": "5 a.m. to 7 a.m."
+    }
+  },
+  {
+    "id": "FOM-III5-0010",
+    "subdomain": "III-5",
+    "stem": "A 67-year-old man lost his wife eight months ago. He reports persistent sadness with frequent weeping, shortness of breath, a weak voice, fatigue, and two colds in the past month. The tongue is pale. The pulse is weak. In addition to treatment, which self-care guidance best applies the Five Element relationship among the emotions?",
+    "options": {
+      "A": "Encourage long periods of reflective thought, since pensiveness counteracts sadness",
+      "B": "Encourage expressing anger about the loss, since anger counteracts sadness",
+      "C": "Encourage solitary rest away from others, since quiet conserves Lung Qi",
+      "D": "Encourage social activities that bring joy, since joy counteracts sadness"
+    }
+  },
+  {
+    "id": "FOM-III5-0011",
+    "subdomain": "III-5",
+    "stem": "A 55-year-old executive reports throbbing temporal headaches, dizziness, a red face, irritability, tinnitus, and difficulty falling asleep for six months. He plays competitive squash late every evening, goes to bed after 1 a.m., and notes the headaches are worst the morning after matches. The tongue is red, especially at the sides. The pulse is wiry. Which self-care recommendation is most appropriate?",
+    "options": {
+      "A": "Shift to slow, calming Qi Gong or meditation practice and retire earlier",
+      "B": "Keep the late matches, since vigorous exertion vents the rising Yang",
+      "C": "Add a daily sauna to promote sweating and release the Heat",
+      "D": "Rest completely in bed for two weeks until the headaches resolve"
+    }
+  },
+  {
+    "id": "FOM-III5-0012",
+    "subdomain": "III-5",
+    "stem": "A 46-year-old man who is overweight reports heaviness of the limbs, a stuffy chest with sticky sputum, and drowsiness after meals for two years. He has a sedentary office job and naps for an hour after lunch each day. The tongue is swollen with a white greasy coating. The pulse is slippery. Which self-care recommendation is most appropriate?",
+    "options": {
+      "A": "Avoid exercise until the heaviness has resolved so that Qi is conserved",
+      "B": "Lie down for an hour after each meal to aid digestion",
+      "C": "Take a brisk daily walk and stay active after meals rather than napping",
+      "D": "Practice only still, seated meditation with minimal physical movement"
+    }
+  },
+  {
+    "id": "FOM-III6-0001",
+    "subdomain": "III-6",
+    "stem": "In Chinese dietary therapy, the sour taste is attributed which primary action and organ affinity?",
+    "options": {
+      "A": "Disperses and moves Qi; enters the Lung",
+      "B": "Softens hardness and descends; enters the Kidney",
+      "C": "Astringes and consolidates; enters the Liver",
+      "D": "Drains downward and dries; enters the Heart"
+    }
+  },
+  {
+    "id": "FOM-III6-0002",
+    "subdomain": "III-6",
+    "stem": "Which of the following foods is classified as cold in thermal nature?",
+    "options": {
+      "A": "Watermelon",
+      "B": "Lamb",
+      "C": "Walnut",
+      "D": "Cinnamon"
+    }
+  },
+  {
+    "id": "FOM-III6-0003",
+    "subdomain": "III-6",
+    "stem": "Which method of preparing a food most increases its warming nature?",
+    "options": {
+      "A": "Steaming",
+      "B": "Eating it raw",
+      "C": "Boiling in water",
+      "D": "Roasting or grilling"
+    }
+  },
+  {
+    "id": "FOM-III6-0004",
+    "subdomain": "III-6",
+    "stem": "A 34-year-old woman reports fatigue, abdominal distension after meals, poor appetite, and loose stools for six months. Her diet consists mainly of raw salads, chilled fruit smoothies, and yogurt. The tongue is pale with teeth marks. The pulse is weak. Which dietary recommendation is most appropriate for this patient?",
+    "options": {
+      "A": "Cooling, moistening foods such as pear, cucumber, and mung bean",
+      "B": "Warm, cooked meals of rice and vegetables with a little fresh ginger",
+      "C": "Raw vegetable salads and chilled smoothies in larger quantities",
+      "D": "Rich, greasy foods such as cheese and fried meats to build strength"
+    }
+  },
+  {
+    "id": "FOM-III6-0005",
+    "subdomain": "III-6",
+    "stem": "A 52-year-old woman reports hot flashes, night sweats, a dry throat, and dry stools for one year. She drinks wine every evening and favors heavily spiced dishes with chili. The tongue is red with no coating. The pulse is thin (thready) and rapid. Which dietary recommendation is most appropriate for this patient?",
+    "options": {
+      "A": "Warming foods such as lamb, cinnamon, and ginger to support digestion",
+      "B": "Drying diuretic foods such as barley and job's tears to stop the sweating",
+      "C": "Moistening foods such as pear, black sesame, and goji berry, with less alcohol and chili",
+      "D": "Pungent, warming foods such as scallion and chili to release Heat through sweating"
+    }
+  },
+  {
+    "id": "FOM-III6-0006",
+    "subdomain": "III-6",
+    "stem": "A 45-year-old man who is overweight reports heaviness of the body, copious sticky sputum, nausea, and loose stools for one year. He drinks whole milk daily and eats pastries and fried foods most evenings. The tongue is swollen with a thick white greasy coating. The pulse is slippery. Which dietary recommendation is most appropriate for this patient?",
+    "options": {
+      "A": "Bland diuretic foods such as job's tears and barley, with little dairy or sweets",
+      "B": "Sweet, moistening foods such as honey and red dates to strengthen the Spleen",
+      "C": "Cold, raw foods such as cucumber and watermelon to cool and lighten the body",
+      "D": "Rich tonifying foods such as lamb stew with butter to build Qi"
+    }
+  }
+]
