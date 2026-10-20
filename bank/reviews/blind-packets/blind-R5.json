@@ -1,0 +1,35 @@
+[
+  {
+    "id": "FOM-IC-0046",
+    "subdomain": "I-C",
+    "stem": "A 51-year-old patient reports a fixed, stabbing pain on the outside of the right ankle that is worse at night and slightly worse in cold weather. On inquiry, she mentions the ankle was fractured in a skiing accident 15 years ago and the pain has been present ever since. The skin over the area is slightly dark, the tongue is purplish on the sides, and the pulse is choppy. Which etiological factor is the origin of this pain?",
+    "options": {
+      "A": "exposure to Cold",
+      "B": "overwork",
+      "C": "past trauma",
+      "D": "emotional strain"
+    }
+  },
+  {
+    "id": "FOM-IIf-0043",
+    "subdomain": "II-f",
+    "stem": "A 69-year-old woman reports pitting edema of the ankles and lower legs for five months. She passes only small amounts of pale urine, her lower back and knees feel cold and sore, and her limbs are cold. She has palpitations and breathlessness on exertion, and when she lies flat she coughs up thin, watery sputum. The tongue is pale, swollen and wet, with a white coating. The pulse is deep, weak and slow. Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Kidney Yang deficiency",
+      "B": "Wind-Water invading the Lung",
+      "C": "Kidney Yang deficiency with water overflowing",
+      "D": "Spleen Qi deficiency"
+    }
+  },
+  {
+    "id": "FOM-IIf-0053",
+    "subdomain": "II-f",
+    "stem": "A 66-year-old man reports loose stools for two years, with urgent diarrhea just before dawn that contains undigested food. He has a poor appetite, abdominal distension after meals that is worse after cold food, and tiredness. His abdomen and lower back feel cold and his limbs are cold. He passes abundant clear urine and his ankles are slightly puffy. The tongue is pale, swollen, wet and teeth-marked. The pulse is deep, weak and slow. Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Spleen Qi deficiency",
+      "B": "Kidney Yang deficiency",
+      "C": "Cold-Damp invading the Spleen",
+      "D": "Spleen and Kidney Yang deficiency"
+    }
+  }
+]

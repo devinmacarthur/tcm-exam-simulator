@@ -22,11 +22,77 @@
     "difficulty": "foundational",
     "cognitiveLevel": "recall",
     "vignette": false,
-    "concepts": ["spontaneous-sweating", "lung-qi-deficiency", "ten-questions"],
+    "concepts": [
+      "spontaneous-sweating",
+      "lung-qi-deficiency",
+      "ten-questions"
+    ],
     "references": [
-      { "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.", "locator": "Diagnosis by Interrogation, Sweating" },
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Inquiry, Sweating" }
-    ]
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Diagnosis by Interrogation, Sweating"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Inquiry, Sweating"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
   },
   {
     "id": "FOM-IC-0002",
@@ -51,12 +117,85 @@
     "difficulty": "foundational",
     "cognitiveLevel": "recall",
     "vignette": false,
-    "concepts": ["night-sweating", "five-palm-heat", "yin-deficiency", "empty-heat"],
-    "distinction": { "between": ["yin-deficiency", "qi-deficiency"], "key": "Yin deficiency sweating occurs at night and stops on waking; Qi deficiency sweating occurs in the daytime and worsens with exertion." },
+    "concepts": [
+      "night-sweating",
+      "five-palm-heat",
+      "yin-deficiency",
+      "empty-heat"
+    ],
+    "distinction": {
+      "between": [
+        "yin-deficiency",
+        "qi-deficiency"
+      ],
+      "key": "Yin deficiency sweating occurs at night and stops on waking; Qi deficiency sweating occurs in the daytime and worsens with exertion."
+    },
     "references": [
-      { "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.", "locator": "Diagnosis by Interrogation, Sweating" },
-      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Diagnostic Methods, Inquiring" }
-    ]
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Diagnosis by Interrogation, Sweating"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Diagnostic Methods, Inquiring"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
   },
   {
     "id": "FOM-IC-0003",
@@ -81,10 +220,73 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "application",
     "vignette": true,
-    "concepts": ["head-sweating", "damp-heat-spleen", "sticky-yellow-coating"],
+    "concepts": [
+      "head-sweating",
+      "damp-heat-spleen",
+      "sticky-yellow-coating"
+    ],
     "references": [
-      { "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.", "locator": "Diagnosis by Interrogation, Sweating" }
-    ]
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Diagnosis by Interrogation, Sweating"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
   },
   {
     "id": "FOM-IC-0004",
@@ -109,11 +311,77 @@
     "difficulty": "foundational",
     "cognitiveLevel": "recall",
     "vignette": false,
-    "concepts": ["headache-location", "shao-yang", "channel-differentiation"],
+    "concepts": [
+      "headache-location",
+      "shao-yang",
+      "channel-differentiation"
+    ],
     "references": [
-      { "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.", "locator": "Diagnosis by Interrogation, Head (headache)" },
-      { "source": "Maclean, Lyttleton et al., Clinical Handbook of Internal Medicine, 2nd ed.", "locator": "Headache" }
-    ]
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Diagnosis by Interrogation, Head (headache)"
+      },
+      {
+        "source": "Maclean, Lyttleton et al., Clinical Handbook of Internal Medicine, 2nd ed.",
+        "locator": "Headache"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
   },
   {
     "id": "FOM-IC-0005",
@@ -138,11 +406,80 @@
     "difficulty": "foundational",
     "cognitiveLevel": "recall",
     "vignette": false,
-    "concepts": ["pain-quality", "qi-stagnation", "distending-pain"],
-    "distinction": { "between": ["qi-stagnation", "blood-stasis"], "key": "Qi stagnation pain is distending and moves; Blood stasis pain is stabbing and fixed." },
+    "concepts": [
+      "pain-quality",
+      "qi-stagnation",
+      "distending-pain"
+    ],
+    "distinction": {
+      "between": [
+        "qi-stagnation",
+        "blood-stasis"
+      ],
+      "key": "Qi stagnation pain is distending and moves; Blood stasis pain is stabbing and fixed."
+    },
     "references": [
-      { "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.", "locator": "Diagnosis by Interrogation, Pain" }
-    ]
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Diagnosis by Interrogation, Pain"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
   },
   {
     "id": "FOM-IC-0006",
@@ -167,11 +504,77 @@
     "difficulty": "foundational",
     "cognitiveLevel": "recall",
     "vignette": false,
-    "concepts": ["pain-quality", "blood-stasis", "stabbing-pain"],
+    "concepts": [
+      "pain-quality",
+      "blood-stasis",
+      "stabbing-pain"
+    ],
     "references": [
-      { "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.", "locator": "Diagnosis by Interrogation, Pain" },
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Inquiry, Pain" }
-    ]
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Diagnosis by Interrogation, Pain"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Inquiry, Pain"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
   },
   {
     "id": "FOM-IC-0007",
@@ -196,10 +599,73 @@
     "difficulty": "foundational",
     "cognitiveLevel": "comprehension",
     "vignette": false,
-    "concepts": ["pain-and-pressure", "deficiency-cold", "eight-principles"],
+    "concepts": [
+      "pain-and-pressure",
+      "deficiency-cold",
+      "eight-principles"
+    ],
     "references": [
-      { "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.", "locator": "Diagnosis by Interrogation, Pain" }
-    ]
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Diagnosis by Interrogation, Pain"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
   },
   {
     "id": "FOM-IC-0008",
@@ -224,12 +690,84 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["dizziness", "phlegm-damp", "slippery-pulse"],
-    "distinction": { "between": ["phlegm-damp", "liver-yang-rising"], "key": "Phlegm dizziness feels heavy and muzzy with a sticky coating; Liver Yang dizziness is accompanied by a distending headache and a wiry pulse." },
+    "concepts": [
+      "dizziness",
+      "phlegm-damp",
+      "slippery-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "phlegm-damp",
+        "liver-yang-rising"
+      ],
+      "key": "Phlegm dizziness feels heavy and muzzy with a sticky coating; Liver Yang dizziness is accompanied by a distending headache and a wiry pulse."
+    },
     "references": [
-      { "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.", "locator": "Diagnosis by Interrogation, Dizziness" },
-      { "source": "Maclean, Lyttleton et al., Clinical Handbook of Internal Medicine, 2nd ed.", "locator": "Dizziness" }
-    ]
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Diagnosis by Interrogation, Dizziness"
+      },
+      {
+        "source": "Maclean, Lyttleton et al., Clinical Handbook of Internal Medicine, 2nd ed.",
+        "locator": "Dizziness"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
   },
   {
     "id": "FOM-IC-0009",
@@ -254,10 +792,73 @@
     "difficulty": "foundational",
     "cognitiveLevel": "comprehension",
     "vignette": false,
-    "concepts": ["thirst", "damp-heat", "sticky-taste"],
+    "concepts": [
+      "thirst",
+      "damp-heat",
+      "sticky-taste"
+    ],
     "references": [
-      { "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.", "locator": "Diagnosis by Interrogation, Thirst and drinking" }
-    ]
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Diagnosis by Interrogation, Thirst and drinking"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
   },
   {
     "id": "FOM-IC-0010",
@@ -282,11 +883,81 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "application",
     "vignette": false,
-    "concepts": ["follow-up-question", "thirst", "full-heat", "yin-deficiency"],
-    "distinction": { "between": ["full-heat", "yin-deficiency"], "key": "Full Heat brings strong thirst for large cold drinks; Yin deficiency brings dry mouth with a desire to sip." },
+    "concepts": [
+      "follow-up-question",
+      "thirst",
+      "full-heat",
+      "yin-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "full-heat",
+        "yin-deficiency"
+      ],
+      "key": "Full Heat brings strong thirst for large cold drinks; Yin deficiency brings dry mouth with a desire to sip."
+    },
     "references": [
-      { "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.", "locator": "Diagnosis by Interrogation, Thirst and drinking" }
-    ]
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Diagnosis by Interrogation, Thirst and drinking"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
   },
   {
     "id": "FOM-IC-0011",
@@ -311,11 +982,77 @@
     "difficulty": "foundational",
     "cognitiveLevel": "recall",
     "vignette": false,
-    "concepts": ["taste", "liver-gallbladder-heat", "ten-questions"],
+    "concepts": [
+      "taste",
+      "liver-gallbladder-heat",
+      "ten-questions"
+    ],
     "references": [
-      { "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.", "locator": "Diagnosis by Interrogation, Taste" },
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Inquiry, Appetite and taste" }
-    ]
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Diagnosis by Interrogation, Taste"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Inquiry, Appetite and taste"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
   },
   {
     "id": "FOM-IC-0012",
@@ -340,12 +1077,85 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "analysis",
     "vignette": false,
-    "concepts": ["follow-up-question", "appetite", "stomach-fire", "stomach-yin-deficiency"],
-    "distinction": { "between": ["stomach-fire", "stomach-yin-deficiency"], "key": "Stomach Fire brings excessive hunger with a large appetite; Stomach Yin deficiency brings hunger with little desire to eat." },
+    "concepts": [
+      "follow-up-question",
+      "appetite",
+      "stomach-fire",
+      "stomach-yin-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "stomach-fire",
+        "stomach-yin-deficiency"
+      ],
+      "key": "Stomach Fire brings excessive hunger with a large appetite; Stomach Yin deficiency brings hunger with little desire to eat."
+    },
     "references": [
-      { "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.", "locator": "Diagnosis by Interrogation, Food and taste" },
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Stomach patterns" }
-    ]
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Diagnosis by Interrogation, Food and taste"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Stomach patterns"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
   },
   {
     "id": "FOM-IC-0013",
@@ -370,11 +1180,77 @@
     "difficulty": "foundational",
     "cognitiveLevel": "recall",
     "vignette": true,
-    "concepts": ["stools", "kidney-yang-deficiency", "cockcrow-diarrhea"],
+    "concepts": [
+      "stools",
+      "kidney-yang-deficiency",
+      "cockcrow-diarrhea"
+    ],
     "references": [
-      { "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.", "locator": "Diagnosis by Interrogation, Stools" },
-      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Diagnostic Methods, Inquiring (defecation)" }
-    ]
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Diagnosis by Interrogation, Stools"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Diagnostic Methods, Inquiring (defecation)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
   },
   {
     "id": "FOM-IC-0014",
@@ -399,12 +1275,85 @@
     "difficulty": "advanced",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["stools", "liver-overacting-spleen", "liver-qi-stagnation", "wiry-pulse"],
-    "distinction": { "between": ["liver-overacting-spleen", "spleen-yang-deficiency"], "key": "Liver overacting on the Spleen gives alternating stools tied to stress with a wiry pulse; Spleen Yang deficiency gives constant loose stools with cold signs." },
+    "concepts": [
+      "stools",
+      "liver-overacting-spleen",
+      "liver-qi-stagnation",
+      "wiry-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "liver-overacting-spleen",
+        "spleen-yang-deficiency"
+      ],
+      "key": "Liver overacting on the Spleen gives alternating stools tied to stress with a wiry pulse; Spleen Yang deficiency gives constant loose stools with cold signs."
+    },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Combined patterns, Liver invading the Spleen" },
-      { "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.", "locator": "Diagnosis by Interrogation, Stools" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Combined patterns, Liver invading the Spleen"
+      },
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Diagnosis by Interrogation, Stools"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
   },
   {
     "id": "FOM-IC-0015",
@@ -429,11 +1378,81 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "application",
     "vignette": false,
-    "concepts": ["follow-up-question", "stools", "large-intestine-damp-heat", "spleen-qi-deficiency"],
-    "distinction": { "between": ["large-intestine-damp-heat", "spleen-qi-deficiency"], "key": "Burning at the anus with foul-smelling stools marks Damp-Heat; Spleen Qi deficiency stools are loose without burning or strong odor." },
+    "concepts": [
+      "follow-up-question",
+      "stools",
+      "large-intestine-damp-heat",
+      "spleen-qi-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "large-intestine-damp-heat",
+        "spleen-qi-deficiency"
+      ],
+      "key": "Burning at the anus with foul-smelling stools marks Damp-Heat; Spleen Qi deficiency stools are loose without burning or strong odor."
+    },
     "references": [
-      { "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.", "locator": "Diagnosis by Interrogation, Stools" }
-    ]
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Diagnosis by Interrogation, Stools"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
   },
   {
     "id": "FOM-IC-0016",
@@ -458,12 +1477,85 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["stools", "blood-deficiency", "constipation", "choppy-pulse"],
-    "distinction": { "between": ["blood-deficiency", "kidney-yin-deficiency"], "key": "Both dry the Intestines, but Blood deficiency shows a pale tongue whereas Yin deficiency shows a red, peeled tongue." },
+    "concepts": [
+      "stools",
+      "blood-deficiency",
+      "constipation",
+      "choppy-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "blood-deficiency",
+        "kidney-yin-deficiency"
+      ],
+      "key": "Both dry the Intestines, but Blood deficiency shows a pale tongue whereas Yin deficiency shows a red, peeled tongue."
+    },
     "references": [
-      { "source": "Maciocia, The Practice of Chinese Medicine, 3rd ed.", "locator": "Constipation" },
-      { "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.", "locator": "Diagnosis by Interrogation, Stools" }
-    ]
+      {
+        "source": "Maciocia, The Practice of Chinese Medicine, 3rd ed.",
+        "locator": "Constipation"
+      },
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Diagnosis by Interrogation, Stools"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
   },
   {
     "id": "FOM-IC-0017",
@@ -488,12 +1580,85 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "application",
     "vignette": false,
-    "concepts": ["follow-up-question", "urine", "kidney-yang-deficiency", "bladder-damp-heat"],
-    "distinction": { "between": ["kidney-yang-deficiency", "bladder-damp-heat"], "key": "Kidney Yang deficiency gives copious pale urine without pain; Bladder Damp-Heat gives scanty dark urine with burning." },
+    "concepts": [
+      "follow-up-question",
+      "urine",
+      "kidney-yang-deficiency",
+      "bladder-damp-heat"
+    ],
+    "distinction": {
+      "between": [
+        "kidney-yang-deficiency",
+        "bladder-damp-heat"
+      ],
+      "key": "Kidney Yang deficiency gives copious pale urine without pain; Bladder Damp-Heat gives scanty dark urine with burning."
+    },
     "references": [
-      { "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.", "locator": "Diagnosis by Interrogation, Urination" },
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Inquiry, Urine and stools" }
-    ]
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Diagnosis by Interrogation, Urination"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Inquiry, Urine and stools"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
   },
   {
     "id": "FOM-IC-0018",
@@ -518,11 +1683,81 @@
     "difficulty": "advanced",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["urine", "heart-fire", "small-intestine", "red-tongue-tip"],
-    "distinction": { "between": ["heart-fire", "bladder-damp-heat"], "key": "Heart Fire to the Small Intestine adds tongue ulcers, restlessness, and a red tip to the burning urine; Bladder Damp-Heat has urinary signs with a sticky coating at the root." },
+    "concepts": [
+      "urine",
+      "heart-fire",
+      "small-intestine",
+      "red-tongue-tip"
+    ],
+    "distinction": {
+      "between": [
+        "heart-fire",
+        "bladder-damp-heat"
+      ],
+      "key": "Heart Fire to the Small Intestine adds tongue ulcers, restlessness, and a red tip to the burning urine; Bladder Damp-Heat has urinary signs with a sticky coating at the root."
+    },
     "references": [
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Small Intestine patterns; Heart patterns" }
-    ]
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Small Intestine patterns; Heart patterns"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
   },
   {
     "id": "FOM-IC-0019",
@@ -547,12 +1782,85 @@
     "difficulty": "advanced",
     "cognitiveLevel": "analysis",
     "vignette": false,
-    "concepts": ["follow-up-question", "insomnia", "heart-blood-deficiency", "heart-kidney-not-harmonized"],
-    "distinction": { "between": ["heart-blood-deficiency", "heart-kidney-not-harmonized"], "key": "Heart Blood deficiency mainly causes difficulty falling asleep; Heart and Kidney Yin deficiency causes waking at night with heat and sweating." },
+    "concepts": [
+      "follow-up-question",
+      "insomnia",
+      "heart-blood-deficiency",
+      "heart-kidney-not-harmonized"
+    ],
+    "distinction": {
+      "between": [
+        "heart-blood-deficiency",
+        "heart-kidney-not-harmonized"
+      ],
+      "key": "Heart Blood deficiency mainly causes difficulty falling asleep; Heart and Kidney Yin deficiency causes waking at night with heat and sweating."
+    },
     "references": [
-      { "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.", "locator": "Diagnosis by Interrogation, Sleep" },
-      { "source": "Maclean, Lyttleton et al., Clinical Handbook of Internal Medicine, 2nd ed.", "locator": "Insomnia" }
-    ]
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Diagnosis by Interrogation, Sleep"
+      },
+      {
+        "source": "Maclean, Lyttleton et al., Clinical Handbook of Internal Medicine, 2nd ed.",
+        "locator": "Insomnia"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose B (medium)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
   },
   {
     "id": "FOM-IC-0020",
@@ -577,11 +1885,77 @@
     "difficulty": "advanced",
     "cognitiveLevel": "analysis",
     "vignette": true,
-    "concepts": ["insomnia", "gallbladder-deficiency", "heart-qi-deficiency"],
+    "concepts": [
+      "insomnia",
+      "gallbladder-deficiency",
+      "heart-qi-deficiency"
+    ],
     "references": [
-      { "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.", "locator": "Diagnosis by Interrogation, Sleep" },
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Gallbladder patterns" }
-    ]
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Diagnosis by Interrogation, Sleep"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Gallbladder patterns"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
   },
   {
     "id": "FOM-IC-0021",
@@ -606,10 +1980,74 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "application",
     "vignette": true,
-    "concepts": ["somnolence", "spleen-qi-deficiency", "dampness", "soggy-pulse"],
+    "concepts": [
+      "somnolence",
+      "spleen-qi-deficiency",
+      "dampness",
+      "soggy-pulse"
+    ],
     "references": [
-      { "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.", "locator": "Diagnosis by Interrogation, Sleep (somnolence)" }
-    ]
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Diagnosis by Interrogation, Sleep (somnolence)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
   },
   {
     "id": "FOM-IC-0022",
@@ -634,12 +2072,85 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "analysis",
     "vignette": false,
-    "concepts": ["follow-up-question", "tinnitus", "liver-fire", "kidney-deficiency"],
-    "distinction": { "between": ["liver-fire", "kidney-deficiency"], "key": "Excess tinnitus starts suddenly and loudly; Kidney deficiency tinnitus starts gradually with a low sound that eases with pressure." },
+    "concepts": [
+      "follow-up-question",
+      "tinnitus",
+      "liver-fire",
+      "kidney-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "liver-fire",
+        "kidney-deficiency"
+      ],
+      "key": "Excess tinnitus starts suddenly and loudly; Kidney deficiency tinnitus starts gradually with a low sound that eases with pressure."
+    },
     "references": [
-      { "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.", "locator": "Diagnosis by Interrogation, Ears" },
-      { "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine", "locator": "Inquiry, Ears and eyes" }
-    ]
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Diagnosis by Interrogation, Ears"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Inquiry, Ears and eyes"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
   },
   {
     "id": "FOM-IC-0023",
@@ -664,10 +2175,73 @@
     "difficulty": "foundational",
     "cognitiveLevel": "recall",
     "vignette": false,
-    "concepts": ["eyes", "liver-blood-deficiency", "ten-questions"],
+    "concepts": [
+      "eyes",
+      "liver-blood-deficiency",
+      "ten-questions"
+    ],
     "references": [
-      { "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.", "locator": "Diagnosis by Interrogation, Eyes" }
-    ]
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Diagnosis by Interrogation, Eyes"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
   },
   {
     "id": "FOM-IC-0024",
@@ -692,11 +2266,77 @@
     "difficulty": "foundational",
     "cognitiveLevel": "recall",
     "vignette": false,
-    "concepts": ["menstruation", "blood-heat", "cycle-length"],
+    "concepts": [
+      "menstruation",
+      "blood-heat",
+      "cycle-length"
+    ],
     "references": [
-      { "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.", "locator": "Diagnosis by Interrogation, Women's symptoms (menstruation)" },
-      { "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.", "locator": "Diagnostic Methods, Inquiring (menses)" }
-    ]
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Diagnosis by Interrogation, Women's symptoms (menstruation)"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Diagnostic Methods, Inquiring (menses)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
   },
   {
     "id": "FOM-IC-0025",
@@ -721,10 +2361,2459 @@
     "difficulty": "intermediate",
     "cognitiveLevel": "application",
     "vignette": true,
-    "concepts": ["menstruation", "liver-qi-stagnation", "wiry-pulse"],
+    "concepts": [
+      "menstruation",
+      "liver-qi-stagnation",
+      "wiry-pulse"
+    ],
     "references": [
-      { "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.", "locator": "Diagnosis by Interrogation, Women's symptoms (menstruation)" },
-      { "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.", "locator": "Liver patterns" }
-    ]
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Diagnosis by Interrogation, Women's symptoms (menstruation)"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Liver patterns"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IC-0026",
+    "domain": "I",
+    "subdomain": "I-C",
+    "task": "I-C-2",
+    "stem": "A 22-year-old woman reports painful periods. Which follow-up question would best help differentiate an excess pattern from a deficiency pattern of dysmenorrhea?",
+    "options": {
+      "A": "How old were you when your periods first began?",
+      "B": "Do you have food cravings before your period?",
+      "C": "Is the pain before the flow or after, and does pressure help?",
+      "D": "How many days does your bleeding usually last?"
+    },
+    "correct": "C",
+    "explanation": "Pain before or during the first days of the flow that worsens with pressure indicates an excess pattern such as Qi stagnation, Blood stasis, or Cold. Pain toward the end of or after the period that is dull and relieved by pressure indicates deficiency of Qi and Blood. Timing relative to the flow and the response to pressure are the two classic discriminators.",
+    "distractorExplanations": {
+      "A": "Age at menarche is part of the gynecological history but does not separate excess from deficiency dysmenorrhea.",
+      "B": "Premenstrual cravings are nonspecific and are not a recognized discriminator of excess versus deficiency pain.",
+      "D": "Duration of bleeding is useful information, but both excess and deficiency dysmenorrhea can occur with periods of any length."
+    },
+    "learningObjective": "Formulate a follow-up question about dysmenorrhea timing and response to pressure that differentiates excess from deficiency.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": false,
+    "concepts": [
+      "follow-up-question",
+      "dysmenorrhea",
+      "excess-vs-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "excess-dysmenorrhea",
+        "deficiency-dysmenorrhea"
+      ],
+      "key": "Excess pain comes before or during the flow and dislikes pressure; deficiency pain comes at the end or after the flow and likes pressure."
+    },
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Diagnosis by Interrogation, Women's symptoms (period pain)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IC-0027",
+    "domain": "I",
+    "subdomain": "I-C",
+    "task": "I-C-3",
+    "stem": "A 36-year-old woman reports a dull, dragging lower abdominal ache that begins toward the end of menstruation and continues for a day or two afterward, relieved by pressure and rest. Her flow is scanty and pale, and she feels tired and dizzy. The tongue is pale, and the pulse is thin (thready) and weak. Which pattern is most consistent?",
+    "options": {
+      "A": "Blood stasis in the Uterus",
+      "B": "Qi and Blood deficiency",
+      "C": "Liver Qi stagnation",
+      "D": "Damp-Heat in the Lower Burner"
+    },
+    "correct": "B",
+    "explanation": "After the flow, the Uterus is emptied of Blood, so pain at the end of or after the period that is dull and relieved by pressure reflects insufficient Qi and Blood to nourish it. Scanty pale flow, fatigue, dizziness, a pale tongue, and a thin weak pulse confirm Qi and Blood deficiency.",
+    "distractorExplanations": {
+      "A": "Blood stasis causes stabbing pain before or during the flow with dark clots, worse with pressure. The learner has linked menstrual pain to stasis without checking timing.",
+      "C": "Liver Qi stagnation causes distending pain before the period with breast tenderness and a wiry pulse.",
+      "D": "Damp-Heat causes pain with heat sensations, yellow discharge, and a sticky yellow coating, none of which is present."
+    },
+    "learningObjective": "Identify post-menstrual dull pain relieved by pressure as Qi and Blood deficiency.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "dysmenorrhea",
+      "qi-blood-deficiency",
+      "thin-pulse"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Diagnosis by Interrogation, Women's symptoms (period pain)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IC-0028",
+    "domain": "I",
+    "subdomain": "I-C",
+    "task": "I-C-2",
+    "stem": "A 39-year-old woman reports an increase in vaginal discharge. Which follow-up question would best help differentiate Damp-Heat in the Lower Burner from Spleen deficiency with Dampness?",
+    "options": {
+      "A": "Does the discharge increase around mid-cycle?",
+      "B": "Has the discharge been present for over a year?",
+      "C": "Do you feel more tired in the late afternoon?",
+      "D": "What color is the discharge, and does it smell?"
+    },
+    "correct": "D",
+    "explanation": "Damp-Heat produces a yellow, sticky, foul-smelling discharge, often with itching. Spleen deficiency with Dampness produces a white, thin or watery discharge without odor. Color and odor reveal whether Heat is present, which is the difference between the two patterns.",
+    "distractorExplanations": {
+      "A": "A mild mid-cycle increase in discharge can be physiological and does not distinguish the two patterns.",
+      "B": "Chronicity suggests an element of deficiency, but Damp-Heat can also become chronic, so duration alone does not discriminate.",
+      "C": "Afternoon fatigue points toward Spleen deficiency but can accompany Dampness of either kind; it does not test for Heat."
+    },
+    "learningObjective": "Formulate a follow-up question about vaginal discharge that differentiates Damp-Heat from Spleen deficiency with Dampness.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": false,
+    "concepts": [
+      "follow-up-question",
+      "vaginal-discharge",
+      "damp-heat-lower-burner",
+      "spleen-qi-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "damp-heat-lower-burner",
+        "spleen-qi-deficiency"
+      ],
+      "key": "Damp-Heat discharge is yellow, sticky, and foul-smelling; Spleen deficiency discharge is white, thin, and odorless."
+    },
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Diagnosis by Interrogation, Women's symptoms (vaginal discharge)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IC-0029",
+    "domain": "I",
+    "subdomain": "I-C",
+    "task": "I-C-3",
+    "stem": "A mother brings her 4-year-old son, who has had poor appetite, abdominal distension and pain that worsen when the abdomen is pressed, sour-smelling breath, and restless sleep since a birthday party two days ago. His stools are foul-smelling. The tongue has a thick, sticky coating, and the pulse is slippery. Which pattern is most consistent?",
+    "options": {
+      "A": "Retention of Food",
+      "B": "Spleen Qi deficiency",
+      "C": "Wind-Cold invading the Lung",
+      "D": "Kidney Essence deficiency"
+    },
+    "correct": "A",
+    "explanation": "Children's digestion is easily overwhelmed, so inquiry into recent eating is central in pediatrics. Overeating at a party, followed by distension and pain that worsen with pressure, sour breath, foul stools, and restless sleep, indicates Retention of Food; the thick sticky coating and slippery pulse confirm an excess accumulation.",
+    "distractorExplanations": {
+      "B": "Spleen Qi deficiency causes chronic poor appetite with pain relieved by pressure and a thin coating. The sudden onset after overeating and the excess signs rule it out.",
+      "C": "Wind-Cold causes aversion to cold, a runny nose, and a floating pulse, none of which is reported.",
+      "D": "Kidney Essence deficiency shows as developmental delay, not an acute digestive upset."
+    },
+    "learningObjective": "Apply pediatric inquiry about recent diet to identify Retention of Food in a child.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "pediatric-inquiry",
+      "retention-of-food",
+      "slippery-pulse"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Diagnosis by Interrogation, Children's symptoms"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IC-0030",
+    "domain": "I",
+    "subdomain": "I-C",
+    "task": "I-C-5",
+    "stem": "When taking a child's history, the parents report that the child began walking and teething late and that the fontanelle closed later than expected. These developmental findings most directly reflect:",
+    "options": {
+      "A": "Spleen Qi deficiency",
+      "B": "Liver Blood deficiency",
+      "C": "Kidney Essence deficiency",
+      "D": "Lung Qi deficiency"
+    },
+    "correct": "C",
+    "explanation": "Kidney Essence (Jing) governs growth and development and produces Marrow, which forms the bones and teeth. Late walking, late teething, and delayed closure of the fontanelle are classic developmental delays that point to insufficient Kidney Essence, often of prenatal origin.",
+    "distractorExplanations": {
+      "A": "Spleen Qi deficiency in children shows as poor appetite, loose stools, and thin muscles rather than delayed bone and tooth development.",
+      "B": "Liver Blood deficiency affects the eyes, sinews, and nails, not the closure of the fontanelle or teething.",
+      "D": "Lung Qi deficiency shows as frequent colds and a weak cry, not developmental delay of bones and teeth."
+    },
+    "learningObjective": "Explain why developmental delays found on pediatric history point to Kidney Essence deficiency.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": false,
+    "concepts": [
+      "pediatric-inquiry",
+      "kidney-essence-deficiency",
+      "developmental-history"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Functions of the Kidneys; Essence"
+      },
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Diagnosis by Interrogation, Children's symptoms"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IC-0031",
+    "domain": "I",
+    "subdomain": "I-C",
+    "task": "I-C-2",
+    "stem": "A 29-year-old patient has had a cough, sneezing, and aversion to cold for two days. Which follow-up question would best help differentiate Wind-Cold from Wind-Heat?",
+    "options": {
+      "A": "Have you been feeling more tired than usual?",
+      "B": "Is your throat sore, and is any phlegm yellow?",
+      "C": "Did the cough begin after recent air travel?",
+      "D": "Is the cough worse when you lie down at night?"
+    },
+    "correct": "B",
+    "explanation": "Both Wind-Cold and Wind-Heat can begin with aversion to cold and sneezing. A sore, swollen throat and yellow sputum indicate Heat, while Wind-Cold gives an itchy throat with thin, white, watery sputum. Asking about the throat and sputum color isolates the Heat that separates the two.",
+    "distractorExplanations": {
+      "A": "Fatigue accompanies both types of exterior invasion and does not reveal whether Cold or Heat is involved.",
+      "C": "Travel history may explain exposure but says nothing about the nature of the pathogen.",
+      "D": "Worsening when lying down is more relevant to Phlegm or interior patterns and does not discriminate Wind-Cold from Wind-Heat."
+    },
+    "learningObjective": "Formulate a follow-up question that differentiates Wind-Cold from Wind-Heat in an acute cough.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": false,
+    "concepts": [
+      "follow-up-question",
+      "wind-cold",
+      "wind-heat",
+      "cough"
+    ],
+    "distinction": {
+      "between": [
+        "wind-cold",
+        "wind-heat"
+      ],
+      "key": "A sore throat with yellow sputum marks Wind-Heat; an itchy throat with thin white sputum marks Wind-Cold."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Lung patterns, Invasion of the Lungs by Wind-Cold and by Wind-Heat"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IC-0032",
+    "domain": "I",
+    "subdomain": "I-C",
+    "task": "I-C-3",
+    "stem": "A patient says that several times a day she feels cold for a while and then hot for a while, never both at the same time, with a bitter taste and a sense of fullness under the ribs. In the inquiry about chills and fever, how is this report classified?",
+    "options": {
+      "A": "chills and fever occurring simultaneously, indicating an exterior invasion",
+      "B": "fever without chills, indicating an interior Heat pattern",
+      "C": "alternating chills and fever, indicating a half-exterior half-interior pattern",
+      "D": "chills without fever, indicating an interior Cold pattern"
+    },
+    "correct": "C",
+    "explanation": "The inquiry about chills and fever sorts the complaint into four classical categories by their timing. Feeling cold and then hot in alternation, never together, is alternating chills and fever (han re wang lai). It shows the pathogenic factor lodged between the exterior and the interior, the half-exterior half-interior pattern; the bitter taste and hypochondriac fullness are the typical accompaniments that confirm the location.",
+    "distractorExplanations": {
+      "A": "Simultaneous chills and fever, with aversion to cold present throughout the fever, marks an exterior invasion; here the two sensations alternate and are never felt together. A learner who hears \"cold\" and \"hot\" without asking about their timing would choose this.",
+      "B": "Fever without any chills marks an interior Heat pattern; this patient has distinct periods of feeling cold.",
+      "D": "Chills without fever mark interior Cold or Yang deficiency; this patient has distinct periods of feeling hot."
+    },
+    "learningObjective": "Classify a chills-and-fever complaint by its timing during inquiry and state the location it implies.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "ten-questions",
+      "chills-and-fever",
+      "alternating-chills-and-fever",
+      "half-exterior-half-interior"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Diagnosis by Interrogation, Feeling of cold, feeling of heat and fever"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Diagnostic Methods, Inquiring (chills and fever)"
+      }
+    ],
+    "distinction": {
+      "between": [
+        "alternating-chills-and-fever",
+        "simultaneous-chills-and-fever"
+      ],
+      "key": "Alternating chills and fever are felt one after the other, never together, and mark the half-exterior half-interior location; simultaneous chills and fever mark the exterior."
+    },
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IC-0033",
+    "domain": "I",
+    "subdomain": "I-C",
+    "task": "I-C-2",
+    "stem": "A 44-year-old patient reports a fever that rises each afternoon. Which follow-up question would best help differentiate Yin deficiency from Damp-Heat as the cause?",
+    "options": {
+      "A": "Does your body feel heavy, with a sticky taste?",
+      "B": "Is the fever higher on cloudy, cool days?",
+      "C": "Do you feel thirsty when the fever comes?",
+      "D": "Does the fever begin soon after you eat lunch?"
+    },
+    "correct": "A",
+    "explanation": "Both Yin deficiency and Damp-Heat can produce a low-grade afternoon fever. Damp-Heat fever is accompanied by heaviness, a sticky taste, epigastric fullness, and a sticky coating, because Dampness wraps the Heat. Yin deficiency fever comes with night sweats, five-palm heat, a dry throat, and a peeled tongue. Asking about heaviness and a sticky taste identifies the Dampness.",
+    "distractorExplanations": {
+      "B": "Weather-related variation in the fever is not a recognized discriminator between these two patterns.",
+      "C": "Thirst can occur in both patterns, and in Damp-Heat it is often present with little wish to drink, so a simple yes would not separate them.",
+      "D": "The relation of the fever to a meal is not a standard discriminator; both patterns peak in the afternoon regardless of food."
+    },
+    "learningObjective": "Formulate a follow-up question that differentiates afternoon fever from Yin deficiency and from Damp-Heat.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": false,
+    "concepts": [
+      "follow-up-question",
+      "afternoon-fever",
+      "yin-deficiency",
+      "damp-heat"
+    ],
+    "distinction": {
+      "between": [
+        "yin-deficiency",
+        "damp-heat"
+      ],
+      "key": "Damp-Heat afternoon fever comes with heaviness and a sticky taste; Yin deficiency afternoon fever comes with night sweats and five-palm heat."
+    },
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Diagnosis by Interrogation, Feeling of cold, feeling of heat and fever"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IC-0034",
+    "domain": "I",
+    "subdomain": "I-C",
+    "task": "I-C-2",
+    "stem": "A 37-year-old patient reports feeling cold. Which follow-up question would best help differentiate an exterior invasion of Wind-Cold from interior Yang deficiency?",
+    "options": {
+      "A": "Do your hands and feet feel cold on most days?",
+      "B": "Do you prefer warm drinks over cold drinks?",
+      "C": "Did it start suddenly, and do more layers fail to warm you?",
+      "D": "Has your appetite been lower than usual lately?"
+    },
+    "correct": "C",
+    "explanation": "Aversion to cold from an exterior invasion begins suddenly, is accompanied by body aches or fever, and is not relieved by covering up, because the pathogen blocks Wei Qi at the surface. Chilliness from interior Yang deficiency is chronic and is relieved by extra clothing and warmth. Onset and the response to warmth are the key discriminators.",
+    "distractorExplanations": {
+      "A": "Cold extremities are common in Yang deficiency but also occur in other conditions; the question does not establish whether the cold is exterior.",
+      "B": "A preference for warm drinks indicates Cold generally and can occur in both exterior and interior Cold.",
+      "D": "Reduced appetite can accompany both acute exterior invasion and chronic Yang deficiency."
+    },
+    "learningObjective": "Formulate a follow-up question that differentiates exterior aversion to cold from interior chilliness of Yang deficiency.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": false,
+    "concepts": [
+      "follow-up-question",
+      "aversion-to-cold",
+      "wind-cold",
+      "yang-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "wind-cold",
+        "yang-deficiency"
+      ],
+      "key": "Exterior aversion to cold is sudden and not relieved by covering; Yang deficiency chilliness is chronic and relieved by warmth."
+    },
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Diagnosis by Interrogation, Feeling of cold, feeling of heat and fever"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Inquiry, Chills and fever"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IC-0035",
+    "domain": "I",
+    "subdomain": "I-C",
+    "task": "I-C-3",
+    "stem": "A 58-year-old patient reports a feeling of oppression and fullness in the chest, a chronic cough with copious white sputum that is easy to expectorate, and heaviness of the body that is worse in damp weather. The tongue is swollen with a sticky white coating, and the pulse is slippery. Which pattern is most consistent?",
+    "options": {
+      "A": "Lung Yin deficiency",
+      "B": "Damp-Phlegm in the Lung",
+      "C": "Wind-Heat invading the Lung",
+      "D": "Lung Qi deficiency"
+    },
+    "correct": "B",
+    "explanation": "Chest oppression with a chronic cough producing copious white sputum that is easy to expectorate is characteristic of Damp-Phlegm obstructing the Lung. Heaviness worse in damp weather, a swollen tongue with a sticky white coating, and a slippery pulse confirm Phlegm and Dampness without Heat.",
+    "distractorExplanations": {
+      "A": "Lung Yin deficiency causes a dry cough with scanty sputum and a red, peeled tongue. Copious sputum rules it out.",
+      "C": "Wind-Heat causes an acute cough with yellow sputum, sore throat, and a floating, rapid pulse, not a chronic cough with white sputum.",
+      "D": "Lung Qi deficiency causes a weak cough with thin watery sputum, a weak voice, and a weak pulse. The learner has missed the excess signs of Phlegm."
+    },
+    "learningObjective": "Identify chest oppression with copious white sputum as Damp-Phlegm in the Lung.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "chest-symptoms",
+      "damp-phlegm-lung",
+      "slippery-pulse"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Lung patterns, Damp-Phlegm in the Lungs"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IC-0036",
+    "domain": "I",
+    "subdomain": "I-C",
+    "task": "I-C-1",
+    "stem": "A 40-year-old patient reports epigastric pain and distension that reliably appear after arguments at work. The pain is accompanied by belching, sour regurgitation, and irritability, and it eases somewhat after belching. The pulse is wiry. Which pattern is most consistent?",
+    "options": {
+      "A": "Stomach Yin deficiency",
+      "B": "Retention of Food in the Stomach",
+      "C": "Cold invading the Stomach",
+      "D": "Liver Qi invading the Stomach"
+    },
+    "correct": "D",
+    "explanation": "Establishing what aggravates a complaint is central to characterizing it. Epigastric pain triggered by emotional upset points to stagnant Liver Qi invading the Stomach and preventing Stomach Qi from descending. Belching, sour regurgitation, relief after belching, irritability, and a wiry pulse confirm the Liver-Stomach disharmony.",
+    "distractorExplanations": {
+      "A": "Stomach Yin deficiency causes a dull, burning epigastric discomfort with dry mouth and a peeled tongue, not pain triggered by arguments.",
+      "B": "Retention of Food also causes sour regurgitation but is triggered by overeating, with a thick coating and slippery pulse. The learner has focused on the sour regurgitation and missed the emotional trigger.",
+      "C": "Cold invading the Stomach causes sudden severe pain after exposure to cold or cold food, relieved by warmth."
+    },
+    "learningObjective": "Apply the emotional aggravating factor of a presenting complaint to identify Liver Qi invading the Stomach.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "presenting-complaint",
+      "aggravating-factors",
+      "liver-invading-stomach"
+    ],
+    "distinction": {
+      "between": [
+        "liver-invading-stomach",
+        "retention-of-food"
+      ],
+      "key": "Liver invading the Stomach is triggered by emotion with a wiry pulse; Retention of Food is triggered by overeating with a thick coating and slippery pulse."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Combined patterns, Liver invading the Stomach"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IC-0037",
+    "domain": "I",
+    "subdomain": "I-C",
+    "task": "I-C-1",
+    "stem": "When characterizing a presenting complaint, the practitioner learns that the symptoms began suddenly two days ago and are intense. This type of onset most commonly suggests:",
+    "options": {
+      "A": "an acute excess condition",
+      "B": "a chronic deficiency condition",
+      "C": "a long-standing Blood stasis",
+      "D": "a long-standing Yin deficiency"
+    },
+    "correct": "A",
+    "explanation": "Sudden onset with intense symptoms usually reflects a strong pathogenic factor contending with an intact Upright Qi, which is the picture of an acute excess condition, often exterior. Gradual onset with mild, persistent symptoms is more typical of deficiency. Onset and duration are therefore among the first features asked about a chief complaint.",
+    "distractorExplanations": {
+      "B": "Deficiency conditions usually develop gradually and present with mild, lingering symptoms. The learner has overlooked the significance of sudden onset.",
+      "C": "Blood stasis is typically a chronic, fixed condition developing over time, not one that appears suddenly two days ago without trauma.",
+      "D": "Yin deficiency develops slowly over months or years, so a sudden onset argues against it."
+    },
+    "learningObjective": "Explain how the onset of a presenting complaint helps distinguish excess from deficiency.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": false,
+    "concepts": [
+      "presenting-complaint",
+      "onset",
+      "excess-vs-deficiency"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Diagnosis by Interrogation, Introduction"
+      },
+      {
+        "source": "Deng Tietao, Practical Diagnosis in Traditional Chinese Medicine",
+        "locator": "Inquiry, Present illness"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IC-0038",
+    "domain": "I",
+    "subdomain": "I-C",
+    "task": "I-C-1",
+    "stem": "A 46-year-old patient reports dull headaches that come on when she is tired, worsen at the end of a busy day, and ease after lying down to rest. She also reports fatigue, poor appetite, and a weak voice. The tongue is pale, and the pulse is weak. Which pattern is most consistent with this headache?",
+    "options": {
+      "A": "Liver Yang rising",
+      "B": "Blood stasis",
+      "C": "Qi deficiency",
+      "D": "Wind-Cold"
+    },
+    "correct": "C",
+    "explanation": "A headache aggravated by exertion and fatigue and relieved by rest indicates deficiency, because effort further depletes the Qi that should rise to nourish the head. The dull quality, fatigue, poor appetite, weak voice, pale tongue, and weak pulse identify Qi deficiency.",
+    "distractorExplanations": {
+      "A": "Liver Yang rising causes a throbbing, distending headache triggered by stress or anger, with a wiry pulse.",
+      "B": "Blood stasis causes a fixed, stabbing headache, often worse at night, with a purple tongue. Relief with rest does not fit.",
+      "D": "Wind-Cold causes an acute occipital headache with aversion to cold and a floating, tight pulse, not chronic headaches linked to fatigue."
+    },
+    "learningObjective": "Apply the aggravating and relieving factors of a headache to identify Qi deficiency.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "presenting-complaint",
+      "aggravating-factors",
+      "headache",
+      "qi-deficiency"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Diagnosis by Interrogation, Head (headache)"
+      },
+      {
+        "source": "Maclean, Lyttleton et al., Clinical Handbook of Internal Medicine, 2nd ed.",
+        "locator": "Headache"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IC-0039",
+    "domain": "I",
+    "subdomain": "I-C",
+    "task": "I-C-1",
+    "stem": "A patient reports that his epigastric pain eases noticeably after eating. This relationship between the pain and food most commonly indicates:",
+    "options": {
+      "A": "an excess condition",
+      "B": "a deficiency condition",
+      "C": "a Heat condition",
+      "D": "an exterior condition"
+    },
+    "correct": "B",
+    "explanation": "Pain relieved by eating indicates deficiency, because food temporarily supplements the deficient Stomach and Spleen Qi. Pain aggravated by eating indicates excess, such as Retention of Food or stagnation, where food adds to the obstruction.",
+    "distractorExplanations": {
+      "A": "Excess epigastric pain is aggravated by eating. The learner has reversed the correspondence.",
+      "C": "The relationship of pain to eating speaks to deficiency versus excess, not to Heat versus Cold.",
+      "D": "Epigastric pain related to food is an interior symptom; exterior patterns involve chills, fever, and body aches."
+    },
+    "learningObjective": "Explain how relief or aggravation of pain by eating distinguishes deficiency from excess.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": false,
+    "concepts": [
+      "presenting-complaint",
+      "relation-to-food",
+      "excess-vs-deficiency"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Diagnosis by Interrogation, Abdomen and epigastrium"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IC-0040",
+    "domain": "I",
+    "subdomain": "I-C",
+    "task": "I-C-2",
+    "stem": "A 63-year-old patient reports painful joints. Which follow-up question would best help differentiate Wind Bi from Damp Bi?",
+    "options": {
+      "A": "Is the pain relieved by applying heat to the joint?",
+      "B": "Do the painful joints look red and feel hot?",
+      "C": "Is the pain worse at night than during the day?",
+      "D": "Does the pain move about, or stay put with swelling?"
+    },
+    "correct": "D",
+    "explanation": "Wind is mobile, so Wind Bi produces pain that wanders from joint to joint. Dampness is heavy and sticky, so Damp Bi produces fixed pain with swelling, heaviness, and numbness, often worse in damp weather. Whether the pain moves or stays fixed is the key discriminator.",
+    "distractorExplanations": {
+      "A": "Relief by heat is the discriminator for Cold (painful) Bi, not for Wind versus Damp.",
+      "B": "Red, hot joints identify Heat Bi, which is neither of the two types being differentiated.",
+      "C": "Nocturnal aggravation points toward Blood stasis or chronic Bi and does not separate Wind from Damp."
+    },
+    "learningObjective": "Formulate a follow-up question that differentiates Wind Bi from Damp Bi.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": false,
+    "concepts": [
+      "follow-up-question",
+      "bi-syndrome",
+      "wind-bi",
+      "damp-bi"
+    ],
+    "distinction": {
+      "between": [
+        "wind-bi",
+        "damp-bi"
+      ],
+      "key": "Wind Bi pain wanders from joint to joint; Damp Bi pain is fixed with swelling and heaviness."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Practice of Chinese Medicine, 3rd ed.",
+        "locator": "Painful Obstruction Syndrome"
+      },
+      {
+        "source": "Maclean, Lyttleton et al., Clinical Handbook of Internal Medicine, 2nd ed.",
+        "locator": "Painful obstruction (Bi) syndrome"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IC-0041",
+    "domain": "I",
+    "subdomain": "I-C",
+    "task": "I-C-4",
+    "stem": "A 67-year-old man reports breathlessness, a weak voice, tiredness, and frequent crying since the death of his wife eight months ago. He describes a feeling of constriction in the chest. The tongue is slightly pale, and the pulse is weak, especially at both cun (distal) positions. Which emotion is the most likely internal cause of this presentation?",
+    "options": {
+      "A": "grief (sadness)",
+      "B": "anger",
+      "C": "fear",
+      "D": "pensiveness (overthinking)"
+    },
+    "correct": "A",
+    "explanation": "Grief and sadness dissolve Qi and particularly deplete Lung and Heart Qi. Bereavement followed by breathlessness, a weak voice, tiredness, crying, and chest constriction, with weakness at both cun positions (Lung and Heart), is the classic picture of grief as an internal cause.",
+    "distractorExplanations": {
+      "B": "Anger makes Qi rise and affects the Liver, producing headaches, irritability, and a wiry pulse rather than weak cun pulses.",
+      "C": "Fear makes Qi descend and affects the Kidneys, producing urinary or lower-body symptoms rather than Lung weakness.",
+      "D": "Pensiveness knots Qi and mainly affects the Spleen, producing poor appetite and digestive symptoms; it does not fit a presentation dominated by bereavement and crying."
+    },
+    "learningObjective": "Identify grief as the internal etiological factor depleting Lung and Heart Qi.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "etiology-inquiry",
+      "grief",
+      "lung-qi-deficiency",
+      "seven-emotions"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The causes of disease, Internal causes (emotions)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IC-0042",
+    "domain": "I",
+    "subdomain": "I-C",
+    "task": "I-C-4",
+    "stem": "A 47-year-old lawyer reports low back ache, tinnitus, dizziness, night sweats, and a dry throat at night. On inquiry he describes working 12 to 14 hours a day, six days a week, for over ten years, with little rest and about five hours of sleep a night. The tongue is red without coating, and the pulse is thin (thready) and rapid. Which pattern has this lifestyle most likely produced?",
+    "options": {
+      "A": "Liver Qi stagnation",
+      "B": "Kidney Yin deficiency",
+      "C": "Spleen Qi deficiency",
+      "D": "Kidney Yang deficiency"
+    },
+    "correct": "B",
+    "explanation": "Maciocia identifies overwork, in the sense of long hours without adequate rest over many years, as a primary cause of Kidney Yin deficiency, because the body draws on Kidney Yin when rest does not replenish it. Low back ache, tinnitus, dizziness, night sweats, a dry throat at night, a red uncoated tongue, and a thin rapid pulse all confirm Kidney Yin deficiency.",
+    "distractorExplanations": {
+      "A": "Work stress can cause Liver Qi stagnation, but that pattern presents with distension, irritability, and a wiry pulse, not night sweats and a peeled tongue.",
+      "C": "Excessive physical labor or irregular eating can deplete Spleen Qi, but the findings here are Kidney and Yin, not digestive.",
+      "D": "Kidney Yang deficiency shares low back ache and tinnitus but presents with cold signs, a pale tongue, and a deep weak pulse. The red tongue and night sweats indicate Yin rather than Yang."
+    },
+    "learningObjective": "Analyze how long-term overwork without rest, revealed on inquiry, leads to Kidney Yin deficiency.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "etiology-inquiry",
+      "overwork",
+      "kidney-yin-deficiency"
+    ],
+    "distinction": {
+      "between": [
+        "kidney-yin-deficiency",
+        "kidney-yang-deficiency"
+      ],
+      "key": "Kidney Yin deficiency has night sweats and a red, uncoated tongue; Kidney Yang deficiency has cold signs and a pale tongue."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The causes of disease, Miscellaneous causes (overwork)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IC-0043",
+    "domain": "I",
+    "subdomain": "I-C",
+    "task": "I-C-4",
+    "stem": "A 29-year-old patient reports cramping abdominal pain relieved by warmth, loose stools, and a cold feeling in the abdomen. The tongue is pale with a moist white coating, and the pulse is deep and slow. Which dietary habit, uncovered on inquiry, is most likely contributing?",
+    "options": {
+      "A": "frequent spicy curries and hot sauces",
+      "B": "regular heavy consumption of alcohol",
+      "C": "daily iced smoothies and raw salads",
+      "D": "eating dinner late at night while working"
+    },
+    "correct": "C",
+    "explanation": "Excessive consumption of cold and raw foods and iced drinks injures Spleen Yang and allows Cold to accumulate in the Middle Burner. Cramping pain relieved by warmth, loose stools, a cold abdomen, a pale tongue with a moist white coating, and a deep slow pulse are all signs of Cold in the Spleen, matching this dietary habit.",
+    "distractorExplanations": {
+      "A": "Spicy, hot foods generate Heat, which would produce burning pain and a red tongue rather than the Cold signs present.",
+      "B": "Alcohol is hot and damp in nature and tends to produce Damp-Heat with a sticky yellow coating.",
+      "D": "Eating late at night is associated with Stomach Yin deficiency, not Cold accumulating in the Spleen."
+    },
+    "learningObjective": "Identify a dietary etiological factor consistent with Cold in the Spleen.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "etiology-inquiry",
+      "diet",
+      "spleen-yang-deficiency",
+      "cold-damp-spleen"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The causes of disease, Miscellaneous causes (diet)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IC-0044",
+    "domain": "I",
+    "subdomain": "I-C",
+    "task": "I-C-4",
+    "stem": "A 35-year-old roofer reports sudden high fever, profuse sweating, intense thirst, irritability, and marked fatigue that began during a stretch of hot weather working outdoors in July. The tongue is red with a dry yellow coating, and the pulse is overflowing (flooding) and rapid. Which external pathogenic factor is most likely?",
+    "options": {
+      "A": "Wind-Cold",
+      "B": "Dryness",
+      "C": "Wind-Heat",
+      "D": "Summer-Heat"
+    },
+    "correct": "D",
+    "explanation": "Summer-Heat is strictly seasonal and arises from exposure to intense summer heat, as in outdoor work in July. It causes high fever, profuse sweating, intense thirst, and irritability, and because it injures both fluids and Qi it also produces marked fatigue. The red tongue and overflowing rapid pulse confirm Heat.",
+    "distractorExplanations": {
+      "A": "Wind-Cold causes aversion to cold, absence of sweating, and a floating, tight pulse. The learner has ignored the season and the Heat signs.",
+      "B": "Dryness, associated with autumn, causes dry skin, nose, and throat with a dry cough rather than profuse sweating and high fever.",
+      "C": "Wind-Heat causes fever with slight aversion to cold, sore throat, and a floating rapid pulse. The occupational exposure to summer heat and the profuse sweating with exhaustion point to Summer-Heat."
+    },
+    "learningObjective": "Identify Summer-Heat from inquiry about season and work environment.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "etiology-inquiry",
+      "work-environment",
+      "summer-heat"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The causes of disease, External causes (Summer-Heat)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IC-0045",
+    "domain": "I",
+    "subdomain": "I-C",
+    "task": "I-C-4",
+    "stem": "During inquiry into lifestyle, which factor is classically regarded as a primary cause of depletion of Kidney Essence (Jing) in men?",
+    "options": {
+      "A": "excessive sexual activity",
+      "B": "excessive anger",
+      "C": "overeating sweet foods",
+      "D": "exposure to Wind"
+    },
+    "correct": "A",
+    "explanation": "In men, ejaculation involves a loss of Kidney Essence, so excessive sexual activity relative to age and constitution is classically regarded as a primary cause of Kidney Essence depletion. For this reason inquiry into sexual activity is part of a thorough etiological history.",
+    "distractorExplanations": {
+      "B": "Anger affects the Liver, making Qi rise; it is not the classical cause of Essence depletion.",
+      "C": "Overeating sweet foods impairs the Spleen and generates Dampness rather than depleting Essence.",
+      "D": "Wind is an external pathogenic factor that attacks the exterior, not a cause of Essence depletion."
+    },
+    "learningObjective": "Identify excessive sexual activity as a classical etiological factor in Kidney Essence depletion.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "etiology-inquiry",
+      "sexual-activity",
+      "kidney-essence-deficiency"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The causes of disease, Miscellaneous causes (excessive sexual activity)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IC-0046",
+    "domain": "I",
+    "subdomain": "I-C",
+    "task": "I-C-4",
+    "stem": "A 51-year-old patient reports a fixed, stabbing pain on the outside of the right ankle that is worse at night and slightly worse in cold weather. On inquiry, she mentions the ankle was fractured in a skiing accident 15 years ago and the pain has been present ever since. The skin over the area is slightly dark, the tongue is purplish on the sides, and the pulse is choppy. Which etiological factor is the origin of this pain?",
+    "options": {
+      "A": "exposure to Cold",
+      "B": "overwork",
+      "C": "past trauma",
+      "D": "emotional strain"
+    },
+    "correct": "C",
+    "explanation": "Trauma damages the channels and leaves local Blood stasis, which can persist for years at the site of injury. The fixed stabbing pain that is worse at night, the dark skin, the purplish tongue sides, and the choppy pulse all show Blood stasis at the old fracture site. Aggravation in cold weather occurs because Cold further slows already stagnant Blood; it is an aggravating factor rather than the root.",
+    "distractorExplanations": {
+      "A": "Cold aggravates the pain slightly, but the pain has been present since the fracture, is fixed and stabbing at the exact site of the old injury, and shows stasis signs; Cold is an aggravating factor, not the origin. A learner who mistakes an aggravating factor for the cause would choose this.",
+      "B": "Overwork depletes Qi and Yin and produces generalized deficiency signs, not localized stasis at an old injury.",
+      "D": "Emotional strain can stagnate Qi and Blood but would not localize pain to one ankle at the site of a previous fracture."
+    },
+    "learningObjective": "Analyze a localized Blood stasis presentation to identify past trauma as the root etiological factor, distinguishing it from an aggravating factor.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "etiology-inquiry",
+      "trauma",
+      "blood-stasis",
+      "choppy-pulse"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The causes of disease, Miscellaneous causes (trauma)"
+      }
+    ],
+    "validation": {
+      "status": "needs_revision",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose C (medium)"
+        },
+        "coherence": {
+          "ok": false,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "A (exposure to Cold) is arguable because the pain is worse in cold weather; the stem's 'at the root' wording carries the distinction to trauma."
+        },
+        "factual": {
+          "ok": false,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IC-0047",
+    "domain": "I",
+    "subdomain": "I-C",
+    "task": "I-C-5",
+    "stem": "A 62-year-old patient being assessed for fatigue has a pulse rate of 54 beats per minute. When asked about current treatments, he reports taking a prescribed heart-rate-lowering medication every morning. How should the practitioner interpret the slow pulse rate?",
+    "options": {
+      "A": "as a clear sign of interior Cold",
+      "B": "with caution, as the drug may be slowing it",
+      "C": "as conclusive evidence of Kidney Yang deficiency",
+      "D": "as a sign of Qi stagnation in the chest"
+    },
+    "correct": "B",
+    "explanation": "Inquiry into concurrent treatments matters because medications can alter assessment findings. A drug that lowers the heart rate will slow the pulse regardless of the underlying pattern, so a slow rate in this patient cannot be read as Cold without corroborating signs. The practitioner should rely more on the other pulse qualities, the tongue, and the symptoms.",
+    "distractorExplanations": {
+      "A": "A slow pulse ordinarily indicates Cold, but the learner has ignored the medication history that can produce the same finding.",
+      "C": "Kidney Yang deficiency requires corroborating cold signs and cannot be concluded from a pulse rate that a medication may be producing.",
+      "D": "Slowness of rate is not the characteristic sign of Qi stagnation, which shows as a wiry quality."
+    },
+    "learningObjective": "Apply the medication history to the interpretation of pulse findings.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "application",
+    "vignette": true,
+    "concepts": [
+      "concurrent-treatment",
+      "medication-history",
+      "slow-pulse"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Pulse diagnosis"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IC-0048",
+    "domain": "I",
+    "subdomain": "I-C",
+    "task": "I-C-5",
+    "stem": "A 38-year-old patient reports a low-grade fever each afternoon, dry mouth and throat, fatigue, and a dry cough with scanty sputum for five months. The tongue is red and partially peeled, and the pulse is thin (thready) and rapid. Which item in the past medical history would best explain the onset of this pattern?",
+    "options": {
+      "A": "a long habit of eating cold, raw foods",
+      "B": "years of living in a damp basement flat",
+      "C": "a sedentary office job with little exercise",
+      "D": "a severe high-fever illness six months ago"
+    },
+    "correct": "D",
+    "explanation": "A severe febrile disease consumes Body Fluids and Yin, and lingering residual Heat can leave Yin and Qi injured afterward. The onset of afternoon fever, dryness, a dry cough, fatigue, a red peeled tongue, and a thin rapid pulse shortly after such an illness is best explained by Heat having injured Lung Yin. Asking about recent illnesses is therefore a key part of the history.",
+    "distractorExplanations": {
+      "A": "Cold, raw food injures Spleen Yang and produces Cold-Damp, the opposite of the dryness and Heat present.",
+      "B": "Damp living conditions produce Dampness, with heaviness and a sticky coating, not a peeled tongue and dryness.",
+      "C": "A sedentary lifestyle tends toward Qi stagnation or Spleen weakness and does not explain Yin injury with afternoon fever."
+    },
+    "learningObjective": "Analyze past medical history to identify a febrile illness as the origin of Yin deficiency.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "past-history",
+      "lung-yin-deficiency",
+      "residual-heat"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Lung patterns, Lung Yin deficiency"
+      },
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Diagnosis by Interrogation, Introduction (past history)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IC-0049",
+    "domain": "I",
+    "subdomain": "I-C",
+    "task": "I-C-5",
+    "stem": "A 41-year-old woman reports dizziness, blurred vision, weak and sore lower back and knees, scanty pale menses, and hair loss. On inquiry into her obstetric history, she reports three pregnancies within four years, the last followed by heavy postpartum bleeding. The tongue is pale, and the pulse is thin (thready) and weak at both chi (proximal) positions. Which pattern does this history most strongly support?",
+    "options": {
+      "A": "Liver Blood and Kidney Essence deficiency",
+      "B": "Liver Qi stagnation with Blood stasis",
+      "C": "Damp-Heat in the Lower Burner",
+      "D": "Spleen Yang deficiency with Dampness"
+    },
+    "correct": "A",
+    "explanation": "Each pregnancy and childbirth draws on Kidney Essence, and closely spaced pregnancies give it no time to recover; heavy postpartum bleeding further depletes Liver Blood. Dizziness, blurred vision, scanty pale menses, hair loss, and a pale tongue reflect Liver Blood deficiency, while sore lower back and knees and weak chi pulses reflect Kidney Essence depletion. The obstetric history ties both together.",
+    "distractorExplanations": {
+      "B": "Liver Qi stagnation with Blood stasis would produce distending or stabbing pain, clots, and a wiry or choppy pulse, not a deficiency picture.",
+      "C": "Damp-Heat would produce yellow discharge and a sticky yellow coating, which are absent.",
+      "D": "Spleen Yang deficiency would show loose stools, cold signs, and a swollen tongue rather than lower back weakness and weak chi pulses."
+    },
+    "learningObjective": "Analyze an obstetric history to identify combined Liver Blood and Kidney Essence deficiency.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "obstetric-history",
+      "liver-blood-deficiency",
+      "kidney-essence-deficiency"
+    ],
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "The causes of disease, Miscellaneous causes (childbirth)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IC-0050",
+    "domain": "I",
+    "subdomain": "I-C",
+    "task": "I-C-2",
+    "stem": "A 43-year-old woman reports menstrual bleeding that has become heavier over the past year. She mentions tiredness and occasionally feeling warm, findings that could fit either Blood Heat or Spleen Qi failing to hold Blood. Which follow-up question would best differentiate these two patterns?",
+    "options": {
+      "A": "Do your periods come with cramping pain?",
+      "B": "Is the blood bright red and thick, or pale and watery?",
+      "C": "Has your cycle become irregular this year?",
+      "D": "Do your breasts feel tender before your period?"
+    },
+    "correct": "B",
+    "explanation": "Blood Heat makes Blood move recklessly, producing heavy, bright red or dark red, thick flow. Spleen Qi failing to hold Blood produces heavy, pale, watery flow, often with fatigue and bruising. Because the general symptoms here are ambiguous, the color and consistency of the menstrual blood are the most decisive findings.",
+    "distractorExplanations": {
+      "A": "Cramping suggests stagnation or Cold and does not distinguish Heat from Qi deficiency as the cause of heavy bleeding.",
+      "C": "An irregular cycle points toward Liver Qi stagnation and does not test the two patterns in question.",
+      "D": "Premenstrual breast tenderness indicates Liver Qi stagnation, which is neither pattern being differentiated."
+    },
+    "learningObjective": "Evaluate which follow-up question best resolves ambiguous findings in heavy menstrual bleeding.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "evaluation",
+    "vignette": true,
+    "concepts": [
+      "follow-up-question",
+      "menstruation",
+      "blood-heat",
+      "spleen-not-holding-blood"
+    ],
+    "distinction": {
+      "between": [
+        "blood-heat",
+        "spleen-not-holding-blood"
+      ],
+      "key": "Blood Heat gives bright red, thick flow; Spleen Qi failing to hold Blood gives pale, watery flow."
+    },
+    "references": [
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Diagnosis by Interrogation, Women's symptoms (menstruation)"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
   }
 ]

@@ -1,0 +1,398 @@
+[
+  {
+    "id": "FOM-IC-0037",
+    "subdomain": "I-C",
+    "stem": "When characterizing a presenting complaint, the practitioner learns that the symptoms began suddenly two days ago and are intense. This type of onset most commonly suggests:",
+    "options": {
+      "A": "an acute excess condition",
+      "B": "a chronic deficiency condition",
+      "C": "a long-standing Blood stasis",
+      "D": "a long-standing Yin deficiency"
+    }
+  },
+  {
+    "id": "FOM-IC-0038",
+    "subdomain": "I-C",
+    "stem": "A 46-year-old patient reports dull headaches that come on when she is tired, worsen at the end of a busy day, and ease after lying down to rest. She also reports fatigue, poor appetite, and a weak voice. The tongue is pale, and the pulse is weak. Which pattern is most consistent with this headache?",
+    "options": {
+      "A": "Liver Yang rising",
+      "B": "Blood stasis",
+      "C": "Qi deficiency",
+      "D": "Wind-Cold"
+    }
+  },
+  {
+    "id": "FOM-IC-0039",
+    "subdomain": "I-C",
+    "stem": "A patient reports that his epigastric pain eases noticeably after eating. This relationship between the pain and food most commonly indicates:",
+    "options": {
+      "A": "an excess condition",
+      "B": "a deficiency condition",
+      "C": "a Heat condition",
+      "D": "an exterior condition"
+    }
+  },
+  {
+    "id": "FOM-IC-0040",
+    "subdomain": "I-C",
+    "stem": "A 63-year-old patient reports painful joints. Which follow-up question would best help differentiate Wind Bi from Damp Bi?",
+    "options": {
+      "A": "Is the pain relieved by applying heat to the joint?",
+      "B": "Do the painful joints look red and feel hot?",
+      "C": "Is the pain worse at night than during the day?",
+      "D": "Does the pain move about, or stay put with swelling?"
+    }
+  },
+  {
+    "id": "FOM-IC-0041",
+    "subdomain": "I-C",
+    "stem": "A 67-year-old man reports breathlessness, a weak voice, tiredness, and frequent crying since the death of his wife eight months ago. He describes a feeling of constriction in the chest. The tongue is slightly pale, and the pulse is weak, especially at both cun (distal) positions. Which emotion is the most likely internal cause of this presentation?",
+    "options": {
+      "A": "grief (sadness)",
+      "B": "anger",
+      "C": "fear",
+      "D": "pensiveness (overthinking)"
+    }
+  },
+  {
+    "id": "FOM-IC-0042",
+    "subdomain": "I-C",
+    "stem": "A 47-year-old lawyer reports low back ache, tinnitus, dizziness, night sweats, and a dry throat at night. On inquiry he describes working 12 to 14 hours a day, six days a week, for over ten years, with little rest and about five hours of sleep a night. The tongue is red without coating, and the pulse is thin (thready) and rapid. Which pattern has this lifestyle most likely produced?",
+    "options": {
+      "A": "Liver Qi stagnation",
+      "B": "Kidney Yin deficiency",
+      "C": "Spleen Qi deficiency",
+      "D": "Kidney Yang deficiency"
+    }
+  },
+  {
+    "id": "FOM-IC-0043",
+    "subdomain": "I-C",
+    "stem": "A 29-year-old patient reports cramping abdominal pain relieved by warmth, loose stools, and a cold feeling in the abdomen. The tongue is pale with a moist white coating, and the pulse is deep and slow. Which dietary habit, uncovered on inquiry, is most likely contributing?",
+    "options": {
+      "A": "frequent spicy curries and hot sauces",
+      "B": "regular heavy consumption of alcohol",
+      "C": "daily iced smoothies and raw salads",
+      "D": "eating dinner late at night while working"
+    }
+  },
+  {
+    "id": "FOM-IC-0044",
+    "subdomain": "I-C",
+    "stem": "A 35-year-old roofer reports sudden high fever, profuse sweating, intense thirst, irritability, and marked fatigue that began during a stretch of hot weather working outdoors in July. The tongue is red with a dry yellow coating, and the pulse is overflowing (flooding) and rapid. Which external pathogenic factor is most likely?",
+    "options": {
+      "A": "Wind-Cold",
+      "B": "Dryness",
+      "C": "Wind-Heat",
+      "D": "Summer-Heat"
+    }
+  },
+  {
+    "id": "FOM-IC-0045",
+    "subdomain": "I-C",
+    "stem": "During inquiry into lifestyle, which factor is classically regarded as a primary cause of depletion of Kidney Essence (Jing) in men?",
+    "options": {
+      "A": "excessive sexual activity",
+      "B": "excessive anger",
+      "C": "overeating sweet foods",
+      "D": "exposure to Wind"
+    }
+  },
+  {
+    "id": "FOM-IC-0046",
+    "subdomain": "I-C",
+    "stem": "A 51-year-old patient reports a fixed, stabbing pain on the outside of the right ankle that is worse at night and in cold weather. On inquiry, she mentions the ankle was fractured in a skiing accident 15 years ago. The skin over the area is slightly dark, the tongue is purplish on the sides, and the pulse is choppy. Which etiological factor is most likely at the root of the current pain?",
+    "options": {
+      "A": "exposure to Cold",
+      "B": "overwork",
+      "C": "past trauma",
+      "D": "emotional strain"
+    }
+  },
+  {
+    "id": "FOM-IC-0047",
+    "subdomain": "I-C",
+    "stem": "A 62-year-old patient being assessed for fatigue has a pulse rate of 54 beats per minute. When asked about current treatments, he reports taking a prescribed heart-rate-lowering medication every morning. How should the practitioner interpret the slow pulse rate?",
+    "options": {
+      "A": "as a clear sign of interior Cold",
+      "B": "with caution, as the drug may be slowing it",
+      "C": "as conclusive evidence of Kidney Yang deficiency",
+      "D": "as a sign of Qi stagnation in the chest"
+    }
+  },
+  {
+    "id": "FOM-IC-0048",
+    "subdomain": "I-C",
+    "stem": "A 38-year-old patient reports a low-grade fever each afternoon, dry mouth and throat, fatigue, and a dry cough with scanty sputum for five months. The tongue is red and partially peeled, and the pulse is thin (thready) and rapid. Which item in the past medical history would best explain the onset of this pattern?",
+    "options": {
+      "A": "a long habit of eating cold, raw foods",
+      "B": "years of living in a damp basement flat",
+      "C": "a sedentary office job with little exercise",
+      "D": "a severe high-fever illness six months ago"
+    }
+  },
+  {
+    "id": "FOM-IC-0049",
+    "subdomain": "I-C",
+    "stem": "A 41-year-old woman reports dizziness, blurred vision, weak and sore lower back and knees, scanty pale menses, and hair loss. On inquiry into her obstetric history, she reports three pregnancies within four years, the last followed by heavy postpartum bleeding. The tongue is pale, and the pulse is thin (thready) and weak at both chi (proximal) positions. Which pattern does this history most strongly support?",
+    "options": {
+      "A": "Liver Blood and Kidney Essence deficiency",
+      "B": "Liver Qi stagnation with Blood stasis",
+      "C": "Damp-Heat in the Lower Burner",
+      "D": "Spleen Yang deficiency with Dampness"
+    }
+  },
+  {
+    "id": "FOM-IC-0050",
+    "subdomain": "I-C",
+    "stem": "A 43-year-old woman reports menstrual bleeding that has become heavier over the past year. She mentions tiredness and occasionally feeling warm, findings that could fit either Blood Heat or Spleen Qi failing to hold Blood. Which follow-up question would best differentiate these two patterns?",
+    "options": {
+      "A": "Do your periods come with cramping pain?",
+      "B": "Is the blood bright red and thick, or pale and watery?",
+      "C": "Has your cycle become irregular this year?",
+      "D": "Do your breasts feel tender before your period?"
+    }
+  },
+  {
+    "id": "FOM-IIf-0001",
+    "subdomain": "II-f",
+    "stem": "A 34-year-old woman reports distension of the hypochondrium and epigastrium for six months that worsens when she is frustrated at work. She sighs frequently, has breast distension and irritability before each period, an irregular cycle, and a sensation of a lump in the throat that comes and goes. The tongue is of normal color with a thin white coating. The pulse is wiry, most clearly on the left. Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Liver Qi stagnation",
+      "B": "Liver Blood deficiency",
+      "C": "Liver Yang rising",
+      "D": "Liver Fire blazing"
+    }
+  },
+  {
+    "id": "FOM-IIf-0002",
+    "subdomain": "II-f",
+    "stem": "A 29-year-old woman reports blurred vision and floaters when reading for one year. She also has numbness and tingling of the limbs, muscle cramps at night, scanty pale menstrual flow, brittle nails, dry hair, and a dull-pale complexion. The tongue is pale, most noticeably on the sides, and slightly dry. The pulse is choppy. Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Heart Blood deficiency",
+      "B": "Liver Yin deficiency",
+      "C": "Liver Blood deficiency",
+      "D": "Spleen Qi deficiency"
+    }
+  },
+  {
+    "id": "FOM-IIf-0003",
+    "subdomain": "II-f",
+    "stem": "A 52-year-old woman reports dry, gritty eyes and blurred vision for two years. She also has dizziness, numbness of the limbs, night sweats, a feeling of heat in the palms and soles in the evening, and very scanty menstrual flow. Her cheekbones become red in the afternoon. The tongue is red without coating. The pulse is thin (thready) and rapid. Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Liver Blood deficiency",
+      "B": "Liver Yin deficiency",
+      "C": "Liver Yang rising",
+      "D": "Heart Yin deficiency"
+    }
+  },
+  {
+    "id": "FOM-IIf-0004",
+    "subdomain": "II-f",
+    "stem": "A 58-year-old man reports recurrent throbbing headaches at the temples and behind the eyes for three years, worse with stress. He also has dizziness, tinnitus, irritability, dry eyes, and difficulty staying asleep. He has no thirst or bitter taste, and his bowel movements and urination are normal. The tongue is slightly red on the sides with a thin white coating. The pulse is wiry and thin (thready). Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Liver Fire blazing",
+      "B": "Liver Qi stagnation",
+      "C": "Heart Fire blazing",
+      "D": "Liver Yang rising"
+    }
+  },
+  {
+    "id": "FOM-IIf-0005",
+    "subdomain": "II-f",
+    "stem": "A 41-year-old man reports a severe, throbbing headache at the temples for two weeks. His face and eyes are red and his eyes are painful. He has outbursts of anger, a bitter taste, thirst, dry stools, dark scanty urine, sudden-onset tinnitus, and two episodes of nosebleed. The tongue is red with redder sides and a dry yellow coating. The pulse is wiry, full (excess), and rapid. Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Liver Fire blazing",
+      "B": "Liver Yang rising",
+      "C": "Heart Fire blazing",
+      "D": "Damp-Heat in the Liver and Gallbladder"
+    }
+  },
+  {
+    "id": "FOM-IIf-0006",
+    "subdomain": "II-f",
+    "stem": "A 6-year-old boy is brought in with a high fever that began two days ago. This morning he developed convulsions of the limbs, rigidity of the neck, clenched jaw, and upward-staring eyes, and he is now drowsy and difficult to rouse. The tongue is deep red (crimson) and stiff with a dry yellow coating. The pulse is wiry and rapid. Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Liver Yang rising generating Wind",
+      "B": "Extreme Heat generating Wind",
+      "C": "Liver Blood deficiency generating Wind",
+      "D": "Liver Fire blazing"
+    }
+  },
+  {
+    "id": "FOM-IIf-0007",
+    "subdomain": "II-f",
+    "stem": "A 67-year-old man reports four months of severe dizziness with a tendency to lose his balance. He has developed a tremor of the hands, intermittent numbness of the fingers, throbbing headaches, tinnitus, and irritability. He has had no fever. The tongue is red, slightly deviated to one side, with a thin coating. The pulse is wiry and thin (thready). Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Liver Yang rising",
+      "B": "Liver Blood deficiency generating Wind",
+      "C": "Liver Yang rising generating Wind",
+      "D": "Extreme Heat generating Wind"
+    }
+  },
+  {
+    "id": "FOM-IIf-0008",
+    "subdomain": "II-f",
+    "stem": "A 71-year-old woman reports a fine tremor of the head and hands that has developed gradually over a year and worsens when she is tired. She also has tingling and numbness of the limbs, an occasional eyelid tic, blurred vision, mild dizziness, brittle nails, and a dull-pale complexion. She has no headache or irritability. The tongue is pale, thin, and slightly dry. The pulse is choppy. Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Liver Yang rising generating Wind",
+      "B": "Extreme Heat generating Wind",
+      "C": "Liver Yin deficiency",
+      "D": "Liver Blood deficiency generating Wind"
+    }
+  },
+  {
+    "id": "FOM-IIf-0009",
+    "subdomain": "II-f",
+    "stem": "A 35-year-old man reports three weeks of dragging pain in the lower abdomen that radiates to the testicles, with a sensation of the scrotum contracting. The pain began after several days of outdoor work in freezing rain, is aggravated in winter weather, and is relieved by a hot-water bottle. He has no lower back pain and normal urination. The tongue is pale with a moist white coating. The pulse is deep, wiry, and slow. Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Cold stagnating in the Liver channel",
+      "B": "Damp-Heat in the Liver and Gallbladder",
+      "C": "Liver Qi stagnation",
+      "D": "Kidney Yang deficiency"
+    }
+  },
+  {
+    "id": "FOM-IIf-0010",
+    "subdomain": "II-f",
+    "stem": "A 44-year-old man reports fullness and pain in the right hypochondrium for two months. He has a bitter taste, nausea, poor appetite with aversion to greasy food, a low-grade fever, scanty dark yellow urine, and itching and sweating of the scrotum. The tongue is red with a sticky (greasy) yellow coating, thicker on the sides. The pulse is wiry, slippery, and rapid. Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Liver Fire blazing",
+      "B": "Damp-Heat in the Spleen",
+      "C": "Damp-Heat in the Liver and Gallbladder",
+      "D": "Liver Qi stagnation"
+    }
+  },
+  {
+    "id": "FOM-IIf-0011",
+    "subdomain": "II-f",
+    "stem": "A 31-year-old woman has had premenstrual breast distension, frequent sighing, and moodiness for five years. Over the past three months she has also developed outbursts of anger, a feeling of heat in the face, mild thirst, and periods that come earlier and heavier than before. She has no headache, dizziness, or palpitations. The tongue is red on the sides with a thin coating. The pulse is wiry and slightly rapid. Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Liver Yang rising",
+      "B": "Liver Qi stagnation transforming into Fire",
+      "C": "Liver Qi stagnation",
+      "D": "Heart Fire blazing"
+    }
+  },
+  {
+    "id": "FOM-IIf-0012",
+    "subdomain": "II-f",
+    "stem": "According to Zang Fu theory, impairment of which Liver function is the primary mechanism of Liver Qi stagnation?",
+    "options": {
+      "A": "storing Blood",
+      "B": "controlling the sinews",
+      "C": "opening into the eyes",
+      "D": "ensuring the smooth flow of Qi"
+    }
+  },
+  {
+    "id": "FOM-IIf-0013",
+    "subdomain": "II-f",
+    "stem": "A 63-year-old woman reports palpitations for eight months that come on when she climbs stairs. She also has shortness of breath on exertion, tiredness, spontaneous daytime sweating, and a pale complexion. Her hands and feet are warm and she does not feel cold. She has no cough. The tongue is pale with a thin white coating. The pulse is empty (deficient). Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Heart Yang deficiency",
+      "B": "Heart Blood deficiency",
+      "C": "Heart Qi deficiency",
+      "D": "Lung Qi deficiency"
+    }
+  },
+  {
+    "id": "FOM-IIf-0014",
+    "subdomain": "II-f",
+    "stem": "A 70-year-old man reports palpitations and shortness of breath on exertion for one year. He feels cold, his hands are cold, and he has a bright-white complexion, tiredness, and a sensation of stuffiness in the chest. He has no lower back pain, no swelling of the legs, and normal urination. The tongue is pale, swollen, and wet. The pulse is deep and weak. Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Heart Yang deficiency",
+      "B": "Heart Qi deficiency",
+      "C": "Kidney Yang deficiency",
+      "D": "Heart Blood stasis"
+    }
+  },
+  {
+    "id": "FOM-IIf-0015",
+    "subdomain": "II-f",
+    "stem": "A 78-year-old man with years of palpitations and feeling cold is found by his family this morning very drowsy and barely responsive. He has profuse cold sweat on the forehead, ice-cold four limbs, cyanotic lips, and weak, shallow breathing. He has had no chest pain. The tongue is bluish-purple and short. The pulse is minute (faint) and barely perceptible. Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Heart Yang deficiency",
+      "B": "Heart Blood stasis",
+      "C": "Phlegm misting the Heart",
+      "D": "Heart Yang collapse"
+    }
+  },
+  {
+    "id": "FOM-IIf-0016",
+    "subdomain": "II-f",
+    "stem": "A 26-year-old female graduate student reports palpitations and difficulty falling asleep for six months. She also has dream-disturbed sleep, poor memory, anxiety, a tendency to be easily startled, dizziness, a dull-pale complexion, and pale lips. She has no night sweats and no feeling of heat. The tongue is pale, thin, and slightly dry. The pulse is choppy. Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Heart Yin deficiency",
+      "B": "Heart Blood deficiency",
+      "C": "Liver Blood deficiency",
+      "D": "Heart Qi deficiency"
+    }
+  },
+  {
+    "id": "FOM-IIf-0017",
+    "subdomain": "II-f",
+    "stem": "A 47-year-old man reports palpitations and waking frequently during the night for one year. He also has night sweats, mental restlessness, a feeling of heat in the evening, malar flush, dry mouth and throat, and poor memory. He has no mouth ulcers or bitter taste. The tongue is red without coating, with a redder tip and a deep midline crack reaching the tip. The pulse is thin (thready) and rapid. Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Heart Fire blazing",
+      "B": "Heart Blood deficiency",
+      "C": "Heart Yin deficiency",
+      "D": "Phlegm-Fire harassing the Heart"
+    }
+  },
+  {
+    "id": "FOM-IIf-0018",
+    "subdomain": "II-f",
+    "stem": "A 37-year-old man reports painful ulcers on the tongue for ten days. He also has palpitations, agitation, difficulty sleeping, thirst, a red face, and dark, scanty urine with burning on urination. The tongue is red with a redder, swollen tip and a yellow coating. The pulse is full (excess), rapid, and overflowing at the left distal position. Which mechanism best explains the burning, dark urination in this patient?",
+    "options": {
+      "A": "Heart Fire transmitted to the Small Intestine",
+      "B": "Kidney Yin failing to cool the Lower Burner",
+      "C": "Damp-Heat accumulating in the Bladder",
+      "D": "Spleen Qi failing to transform fluids"
+    }
+  },
+  {
+    "id": "FOM-IIf-0019",
+    "subdomain": "II-f",
+    "stem": "A 55-year-old woman is brought in by her daughter, who reports that over several months she has become withdrawn and mentally confused. She mutters to herself, stares blankly at the wall for long periods, has a dull expression and lethargy, and has a rattling sound in the throat. She has no fever, thirst, or agitation. The tongue is swollen with a thick, sticky white coating. The pulse is slippery. Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Phlegm-Fire harassing the Heart",
+      "B": "Heart Blood deficiency",
+      "C": "Spleen deficiency with Dampness",
+      "D": "Phlegm misting the Heart"
+    }
+  },
+  {
+    "id": "FOM-IIf-0020",
+    "subdomain": "II-f",
+    "stem": "A 24-year-old man is brought in by his family after three weeks of insomnia, agitation, shouting at relatives, rapid incoherent speech, and inappropriate laughter. He also has palpitations, a bitter taste, and coughs up sticky sputum. The tongue is red and swollen with a sticky (greasy) yellow coating, red prickles on the tip, and a midline crack containing a yellow coating. The pulse is slippery, full (excess), and rapid. Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Heart Fire blazing",
+      "B": "Phlegm-Fire harassing the Heart",
+      "C": "Phlegm misting the Heart",
+      "D": "Liver Fire blazing"
+    }
+  },
+  {
+    "id": "FOM-IIf-0021",
+    "subdomain": "II-f",
+    "stem": "A 66-year-old man reports attacks of stabbing chest pain for six months that radiate to the inner aspect of the left arm. He also has a feeling of oppression in the chest, palpitations, and purplish lips and nails. The pain is fixed in location and is not related to his mood. The tongue is purple, with distended, dark sublingual veins. The pulse is choppy. Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Heart Yang deficiency",
+      "B": "Heart Qi deficiency",
+      "C": "Heart Blood stasis",
+      "D": "Liver Qi stagnation"
+    }
+  },
+  {
+    "id": "FOM-IIf-0022",
+    "subdomain": "II-f",
+    "stem": "A 45-year-old man reports poor appetite and abdominal distension after eating for one year. He also has loose stools, tiredness, weakness of the limbs, and a sallow complexion. The distension does not vary with his mood. The tongue is pale with teeth marks on the sides and a thin white coating. The pulse is empty (deficient). Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Spleen Yang deficiency",
+      "B": "Cold-Damp invading the Spleen",
+      "C": "Liver Qi stagnation",
+      "D": "Spleen Qi deficiency"
+    }
+  }
+]

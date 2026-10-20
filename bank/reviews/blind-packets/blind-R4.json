@@ -1,0 +1,13 @@
+[
+  {
+    "id": "FOM-IC-0032",
+    "subdomain": "I-C",
+    "stem": "A patient says that several times a day she feels cold for a while and then hot for a while, never both at the same time, with a bitter taste and a sense of fullness under the ribs. In the inquiry about chills and fever, how is this report classified?",
+    "options": {
+      "A": "chills and fever occurring simultaneously, indicating an exterior invasion",
+      "B": "fever without chills, indicating an interior Heat pattern",
+      "C": "alternating chills and fever, indicating a half-exterior half-interior pattern",
+      "D": "chills without fever, indicating an interior Cold pattern"
+    }
+  }
+]

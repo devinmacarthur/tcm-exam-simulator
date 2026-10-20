@@ -1,0 +1,2895 @@
+[
+  {
+    "id": "FOM-IIf-0030",
+    "domain": "II",
+    "subdomain": "II-f",
+    "task": "II-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 58-year-old man reports a weak, chronic cough for two years. He becomes slightly short of breath on exertion, has a weak voice and no desire to talk, sweats spontaneously during the day, and catches colds easily. His sputum is scant and watery. The tongue is pale with a thin white coating. The pulse is empty, most noticeably at the right front (Cun) position. Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Lung Qi deficiency",
+      "B": "Lung Yin deficiency",
+      "C": "Wind-Cold invading the Lung",
+      "D": "Phlegm-Damp obstructing the Lung"
+    },
+    "correct": "A",
+    "explanation": "The Lung governs Qi and respiration and spreads the Wei Qi that keeps the pores closed. When Lung Qi is deficient, the cough is weak and chronic, breathing becomes short on exertion because exertion consumes Qi, and the voice is weak. Deficient Wei Qi lets sweat leak out by day and leaves the patient open to repeated colds. A pale tongue and an empty pulse at the right front (Lung) position confirm Qi deficiency of the Lung. The discriminating finding is spontaneous daytime sweating with a pale tongue, rather than night sweats with a red, peeled tongue.",
+    "distractorExplanations": {
+      "B": "Lung Yin deficiency produces a dry cough, a dry throat, night sweats and a red tongue without coating; the learner who reads any chronic cough with sweating as Yin deficiency overlooks that the sweating here is daytime and the tongue is pale.",
+      "C": "Wind-Cold invading the Lung is acute, with aversion to cold, body aches and a floating-tight pulse; a two-year history with an empty pulse is interior and deficient.",
+      "D": "Phlegm-Damp produces profuse sticky white sputum, chest oppression, a thick sticky coating and a slippery pulse; the sputum here is scant and the coating thin."
+    },
+    "learningObjective": "Identify Lung Qi deficiency from a chronic weak cough with spontaneous daytime sweating and an empty right front pulse.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": true,
+    "concepts": [
+      "lung-qi-deficiency",
+      "lung-yin-deficiency",
+      "spontaneous-sweating",
+      "empty-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "lung-qi-deficiency",
+        "lung-yin-deficiency"
+      ],
+      "key": "Spontaneous daytime sweating with a pale tongue indicates Lung Qi deficiency; night sweats with a red, peeled tongue indicate Lung Yin deficiency."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Lung patterns: Lung-Qi deficiency"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Zang-Fu organs: Lung"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IIf-0031",
+    "domain": "II",
+    "subdomain": "II-f",
+    "task": "II-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 44-year-old woman reports a dry cough for eight months, with scanty, sticky sputum that is occasionally streaked with blood. Her throat is dry and tickly, worse in the evening, and her voice has become hoarse. She has night sweats, a malar flush in the afternoon, and a feeling of heat in the palms and soles. The tongue is red and dry, with no coating. The pulse is thin (thready) and rapid. Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Dryness injuring the Lung",
+      "B": "Phlegm-Heat in the Lung",
+      "C": "Lung Yin deficiency",
+      "D": "Lung Qi deficiency"
+    },
+    "correct": "C",
+    "explanation": "Lung Yin deficiency deprives the Lung of moisture, giving a chronic dry cough with scanty sticky sputum, a dry tickly throat and a hoarse voice. Deficient Yin generates Empty Heat, seen as night sweats, an afternoon malar flush, five-palm heat and blood-streaked sputum. The red tongue without coating and the thin, rapid pulse confirm Yin deficiency with Empty Heat. The discriminating findings are the eight-month course with Empty Heat signs and a coatless tongue, which separate an internal Yin deficiency from an exterior Dryness invasion.",
+    "distractorExplanations": {
+      "A": "Dryness injuring the Lung shares the dry cough and dry throat but is a recent exterior condition, typically in dry weather, with a thin dry coating still present and no night sweats or malar flush; the learner who stops at the dryness signs misses the Empty Heat and the coatless tongue.",
+      "B": "Phlegm-Heat produces profuse sticky yellow sputum, a thick sticky yellow coating and a slippery-rapid pulse; here the sputum is scanty and the tongue has no coating.",
+      "D": "Lung Qi deficiency shows a weak cough, spontaneous daytime sweating, a pale tongue and an empty pulse, with no dryness or Heat signs."
+    },
+    "learningObjective": "Differentiate Lung Yin deficiency from Dryness injuring the Lung using chronicity, Empty Heat signs and the tongue coating.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "lung-yin-deficiency",
+      "dryness-injuring-lung",
+      "empty-heat",
+      "peeled-tongue"
+    ],
+    "distinction": {
+      "between": [
+        "lung-yin-deficiency",
+        "dryness-injuring-lung"
+      ],
+      "key": "A chronic course with night sweats, malar flush and a red coatless tongue marks Lung Yin deficiency; Dryness injuring the Lung is recent and keeps a thin dry coating without Empty Heat."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Lung patterns: Lung-Yin deficiency"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Zang-Fu organs: Lung"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IIf-0032",
+    "domain": "II",
+    "subdomain": "II-f",
+    "task": "II-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 27-year-old woman reports a fever with slight aversion to cold that began two days ago. She has a sore, red, swollen throat, a cough with scanty yellow sputum, slight thirst, mild sweating and a headache. The tongue is slightly red on the tip and sides with a thin white coating. The pulse is floating and rapid. Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Wind-Cold invading the Lung",
+      "B": "Phlegm-Heat in the Lung",
+      "C": "Lung Yin deficiency",
+      "D": "Wind-Heat invading the Lung"
+    },
+    "correct": "D",
+    "explanation": "Wind-Heat invades the Lung's defensive (exterior) layer, so fever predominates over a slight aversion to cold. Heat rising to the throat makes it sore, red and swollen; Heat mildly injures fluids, giving thirst and scanty yellow sputum, and opens the pores, giving mild sweating. A slightly red tip and sides with a thin coating show Heat still at the exterior, and the floating, rapid pulse confirms an exterior Heat pattern. The discriminating findings are the floating, rapid pulse with a sore, red throat.",
+    "distractorExplanations": {
+      "A": "Wind-Cold has marked aversion to cold with mild fever, no sweating, no thirst and a floating-tight pulse; a learner who fixes on the words 'aversion to cold' without weighing fever, throat and pulse would choose it.",
+      "B": "Phlegm-Heat in the Lung is interior: no aversion to cold, profuse sticky yellow sputum, a thick sticky yellow coating and a slippery-rapid pulse. The floating pulse and two-day exterior onset rule it out.",
+      "C": "Lung Yin deficiency is chronic, with night sweats, a red tongue without coating and a thin-rapid pulse; it does not cause an acute fever with aversion to cold."
+    },
+    "learningObjective": "Differentiate Wind-Heat from Wind-Cold invading the Lung by the balance of fever and chills, the throat and the pulse.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "wind-heat-invading-lung",
+      "wind-cold-invading-lung",
+      "floating-pulse",
+      "exterior-pattern"
+    ],
+    "distinction": {
+      "between": [
+        "wind-heat-invading-lung",
+        "wind-cold-invading-lung"
+      ],
+      "key": "Fever predominating, a sore red throat, thirst and a floating-rapid pulse mark Wind-Heat; marked chills, no sweating and a floating-tight pulse mark Wind-Cold."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Lung patterns: invasion of the Lungs by Wind-Heat"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Zang-Fu organs: Lung"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IIf-0033",
+    "domain": "II",
+    "subdomain": "II-f",
+    "task": "II-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 63-year-old man who is overweight reports a chronic cough for three years. He brings up profuse white, sticky sputum that is easy to expectorate, mostly in the morning. He feels oppression in the chest, becomes short of breath when lying flat, and has occasional nausea and a poor appetite. The tongue is swollen with a thick, sticky white coating. The pulse is slippery. Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Phlegm-Heat in the Lung",
+      "B": "Phlegm-Damp obstructing the Lung",
+      "C": "Lung Qi deficiency",
+      "D": "Wind-Cold invading the Lung"
+    },
+    "correct": "B",
+    "explanation": "Phlegm-Damp, usually generated by a weak Spleen and stored in the Lung, obstructs the descent of Lung Qi, producing a chronic cough with profuse white sticky sputum that comes up easily, chest oppression and breathlessness when lying down. Nausea and poor appetite reflect the Spleen-Stomach origin of the Dampness. The swollen tongue with a thick sticky white coating and the slippery pulse confirm Phlegm without Heat. The discriminating finding is white sputum with a white sticky coating rather than yellow sputum with a yellow coating.",
+    "distractorExplanations": {
+      "A": "Phlegm-Heat shows yellow or green sputum, a feeling of heat, thirst, a red tongue with a sticky yellow coating and a slippery-rapid pulse; a learner who recognizes Phlegm but does not check its color would choose it.",
+      "C": "Lung Qi deficiency causes a weak cough with scant watery sputum, a thin coating and an empty pulse; profuse sputum, a thick sticky coating and a slippery pulse show an Excess of Phlegm.",
+      "D": "Wind-Cold is acute, with aversion to cold, body aches and a floating-tight pulse; a three-year history with no exterior signs is interior."
+    },
+    "learningObjective": "Differentiate Phlegm-Damp from Phlegm-Heat in the Lung by sputum color, tongue coating and pulse rate.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "phlegm-damp-in-lung",
+      "phlegm-heat-in-lung",
+      "slippery-pulse",
+      "sticky-white-coating"
+    ],
+    "distinction": {
+      "between": [
+        "phlegm-damp-in-lung",
+        "phlegm-heat-in-lung"
+      ],
+      "key": "White sputum with a thick sticky white coating and a slippery pulse indicate Phlegm-Damp; yellow sputum, a red tongue with a sticky yellow coating and a slippery-rapid pulse indicate Phlegm-Heat."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Lung patterns: Damp-Phlegm obstructing the Lungs"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Zang-Fu organs: Lung"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IIf-0034",
+    "domain": "II",
+    "subdomain": "II-f",
+    "task": "II-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 51-year-old woman reports a loud, barking cough for ten days. It began after a cold, but she no longer has chills. She now coughs up profuse, thick, yellow-green sputum and has oppression in the chest, wheezing, a sensation of heat, thirst and restless sleep. The tongue is red and swollen with a thick, sticky yellow coating. The pulse is slippery and rapid. Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Phlegm-Heat in the Lung",
+      "B": "Wind-Heat invading the Lung",
+      "C": "Phlegm-Damp obstructing the Lung",
+      "D": "Lung Yin deficiency"
+    },
+    "correct": "A",
+    "explanation": "Phlegm-Heat in the Lung is an interior Excess pattern: Heat condenses fluids into thick yellow-green Phlegm, which obstructs the descent of Lung Qi and causes a barking cough, chest oppression and wheezing. Heat produces a sensation of heat, thirst and restless sleep. A red, swollen tongue with a thick sticky yellow coating and a slippery, rapid pulse confirm Phlegm with Heat. The discriminating findings are the absence of chills and a slippery rather than floating pulse, showing that the pathogen has moved from the exterior to the interior.",
+    "distractorExplanations": {
+      "B": "Wind-Heat is an exterior pattern with aversion to cold, a floating-rapid pulse and only a thin coating; a learner anchored on the history of a cold would choose it despite the interior signs.",
+      "C": "Phlegm-Damp produces white sputum, a sticky white coating and a slippery pulse without rapidity, thirst or a sensation of heat.",
+      "D": "Lung Yin deficiency gives a dry cough with scanty sputum, night sweats and a red tongue without coating; this sputum is profuse and the coating thick."
+    },
+    "learningObjective": "Differentiate interior Phlegm-Heat in the Lung from exterior Wind-Heat after an initial cold.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "phlegm-heat-in-lung",
+      "wind-heat-invading-lung",
+      "slippery-pulse",
+      "sticky-yellow-coating"
+    ],
+    "distinction": {
+      "between": [
+        "phlegm-heat-in-lung",
+        "wind-heat-invading-lung"
+      ],
+      "key": "Absence of chills, a thick sticky yellow coating and a slippery-rapid pulse mark interior Phlegm-Heat; aversion to cold, a thin coating and a floating-rapid pulse mark exterior Wind-Heat."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Lung patterns: Phlegm-Heat obstructing the Lungs"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Zang-Fu organs: Lung"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IIf-0035",
+    "domain": "II",
+    "subdomain": "II-f",
+    "task": "II-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 35-year-old man reports a dry cough for one week that began during a dry, windy autumn spell. He has scanty, sticky sputum that is hard to expectorate, a dry nose, dry lips, a dry throat, dry skin and slight thirst. He has no fever, night sweats or afternoon heat. The tongue is of normal color with a thin, dry coating. The pulse is slightly floating. Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Lung Yin deficiency",
+      "B": "Wind-Heat invading the Lung",
+      "C": "Dryness injuring the Lung",
+      "D": "Phlegm-Heat in the Lung"
+    },
+    "correct": "C",
+    "explanation": "Dryness, the climatic factor of autumn, injures the Lung's fluids first, giving a dry cough with scanty, sticky sputum and dryness of the Lung's opening and tissues: nose, throat, lips and skin. The recent onset in dry weather, the slightly floating pulse and a tongue of normal color with a thin but dry coating show an external Dryness that has not yet consumed Yin. The discriminating finding is dryness of the orifices with a thin dry coating and no Empty Heat signs.",
+    "distractorExplanations": {
+      "A": "Lung Yin deficiency also produces a dry cough, but it is chronic, with night sweats, an afternoon malar flush and a red tongue without coating; the learner who equates dryness with Yin deficiency ignores the one-week course and the intact coating.",
+      "B": "Wind-Heat presents with fever, a sore red throat, mild sweating, a red tongue tip and a floating-rapid pulse; dryness of the nose, lips and skin without fever points to Dryness.",
+      "D": "Phlegm-Heat has profuse yellow sputum, a thick sticky yellow coating and a slippery-rapid pulse; here the sputum is scanty and the coating thin and dry."
+    },
+    "learningObjective": "Identify Dryness injuring the Lung from a recent dry cough with dryness of the orifices in dry weather.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "dryness-injuring-lung",
+      "lung-yin-deficiency",
+      "dry-coating"
+    ],
+    "distinction": {
+      "between": [
+        "dryness-injuring-lung",
+        "lung-yin-deficiency"
+      ],
+      "key": "A recent onset in dry weather with dry orifices and a thin dry coating marks Dryness; a chronic course with Empty Heat and a coatless red tongue marks Lung Yin deficiency."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Lung patterns"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Zang-Fu organs: Lung"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IIf-0036",
+    "domain": "II",
+    "subdomain": "II-f",
+    "task": "II-1-f",
+    "theory": "Zang Fu",
+    "stem": "A patient has had a cough with thin, white sputum for one day, with marked aversion to cold, a slight fever, no sweating, a stuffy nose and aching in the body. Which pulse quality is most consistent with this presentation?",
+    "options": {
+      "A": "floating and rapid",
+      "B": "floating and tight",
+      "C": "deep and tight",
+      "D": "soggy (soft)"
+    },
+    "correct": "B",
+    "explanation": "This is Wind-Cold invading the Lung with Cold predominating. A floating pulse reflects the Upright Qi rising to meet a pathogen at the exterior, and a tight pulse reflects Cold contracting the channels and pores, which also explains the absence of sweating and the body aches. The floating, tight pulse is the classic pulse of exterior Wind-Cold.",
+    "distractorExplanations": {
+      "A": "Floating-rapid is the pulse of exterior Wind-Heat, which has fever predominating, a sore throat and thirst; it fits a learner who notices the fever but not the marked chills.",
+      "C": "A deep, tight pulse indicates interior Cold, such as Cold invading the Stomach; depth contradicts an exterior pattern with aversion to cold and body aches.",
+      "D": "A soggy pulse indicates Dampness or deficiency; it is soft and lacks the tension that Cold produces."
+    },
+    "learningObjective": "Identify the pulse quality characteristic of Wind-Cold invading the Lung.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "wind-cold-invading-lung",
+      "floating-pulse",
+      "tight-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "wind-cold-invading-lung",
+        "wind-heat-invading-lung"
+      ],
+      "key": "Tightness added to a floating pulse reflects Cold contracting the exterior; rapidity added to a floating pulse reflects exterior Heat."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Lung patterns: invasion of the Lungs by Wind-Cold"
+      },
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed."
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IIf-0037",
+    "domain": "II",
+    "subdomain": "II-f",
+    "task": "II-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 57-year-old man reports a chronic, dull lower backache with a feeling of cold in the back for four years. His knees and feet are always cold, he passes abundant clear urine and gets up twice at night to urinate, and he has low libido with impotence. He is tired and apathetic, with a bright-white complexion. The tongue is pale, swollen and wet. The pulse is deep, weak and slow. Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Kidney Yin deficiency",
+      "B": "Kidney Essence deficiency",
+      "C": "Kidney failing to receive Qi",
+      "D": "Kidney Yang deficiency"
+    },
+    "correct": "D",
+    "explanation": "Kidney Yang is the source of warmth for the whole body and the fire of the Gate of Vitality (Ming Men). When it is deficient, the lower back and knees ache and feel cold, the feet are cold and sexual function declines. The Bladder receives too little Yang to transform fluids, so urine is abundant and clear, with nocturia. Fatigue, apathy and a bright-white complexion reflect deficient Yang, and a pale, swollen, wet tongue with a deep, weak, slow pulse confirms interior Empty Cold. The discriminating findings are the Cold signs with abundant clear urine.",
+    "distractorExplanations": {
+      "A": "Kidney Yin deficiency shares the backache but presents with night sweats, a dry mouth at night, scanty dark urine, a red tongue without coating and a thin-rapid pulse, the Heat counterpart of this picture.",
+      "B": "Kidney Essence deficiency is defined by developmental or premature-aging signs such as poor bone development, loose teeth and early greying, without marked Cold; the prominent Cold signs, wet tongue and slow pulse here point to Yang.",
+      "C": "Kidney failing to receive Qi requires breathlessness with difficult inhalation; there are no respiratory findings."
+    },
+    "learningObjective": "Identify Kidney Yang deficiency from lower back Cold, abundant clear urine and a deep, weak, slow pulse.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "kidney-yang-deficiency",
+      "kidney-yin-deficiency",
+      "empty-cold"
+    ],
+    "distinction": {
+      "between": [
+        "kidney-yang-deficiency",
+        "kidney-yin-deficiency"
+      ],
+      "key": "Cold back and limbs, abundant clear urine, a pale wet tongue and a slow pulse mark Kidney Yang deficiency; night sweats, scanty dark urine and a red coatless tongue mark Kidney Yin deficiency."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Kidney patterns: Kidney-Yang deficiency"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Zang-Fu organs: Kidney"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IIf-0038",
+    "domain": "II",
+    "subdomain": "II-f",
+    "task": "II-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 62-year-old woman reports a gradually worsening, low-pitched tinnitus for one year. She has dizziness, a sore and weak lower back and knees, poor memory, a dry mouth and throat at night, night sweats, constipation with dry stools and scanty dark urine. The tongue is red with no coating. The pulse is floating-empty and slightly rapid, weakest at both rear (Chi) positions. Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Kidney Yin deficiency",
+      "B": "Liver Yang rising",
+      "C": "Kidney Yang deficiency",
+      "D": "Liver Blood deficiency"
+    },
+    "correct": "A",
+    "explanation": "The Kidney opens into the ears, nourishes the brain (Sea of Marrow) and governs the lower back and knees. Kidney Yin deficiency fails to nourish the ears and brain, producing a gradual, low-pitched tinnitus, dizziness and poor memory. Deficient Yin fails to moisten, causing a dry mouth at night, dry stools and scanty dark urine, and the resulting Empty Heat produces night sweats. The red, coatless tongue and a floating-empty, rapid pulse weakest at the rear positions confirm Kidney Yin deficiency. The discriminating finding is the gradual, low-pitched tinnitus with an empty pulse rather than a sudden, loud tinnitus with a wiry pulse.",
+    "distractorExplanations": {
+      "B": "Liver Yang rising causes a sudden, loud, high-pitched tinnitus with headache, irritability and a wiry pulse; the learner who links all tinnitus to ascending Yang overlooks the gradual onset, low pitch and empty pulse.",
+      "C": "Kidney Yang deficiency shares the backache and weak knees but gives cold limbs, abundant clear urine, a pale wet tongue and a deep, slow pulse, the opposite of the dryness and Heat here.",
+      "D": "Liver Blood deficiency causes dizziness and poor memory with a pale tongue and a thin or choppy pulse; night sweats, a red coatless tongue and the back and knee signs point to Kidney Yin."
+    },
+    "learningObjective": "Differentiate Kidney Yin deficiency from Liver Yang rising in a patient with tinnitus and dizziness.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "kidney-yin-deficiency",
+      "liver-yang-rising",
+      "floating-empty-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "kidney-yin-deficiency",
+        "liver-yang-rising"
+      ],
+      "key": "Gradual, low-pitched tinnitus with an empty pulse weak at the rear positions marks Kidney Yin deficiency; sudden, loud tinnitus with headache and a wiry pulse marks Liver Yang rising."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Kidney patterns: Kidney-Yin deficiency"
+      },
+      {
+        "source": "Maciocia, Diagnosis in Chinese Medicine, 2nd ed.",
+        "locator": "Symptoms and signs of the ears: tinnitus"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IIf-0039",
+    "domain": "II",
+    "subdomain": "II-f",
+    "task": "II-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 3-year-old boy is brought in because he was late to sit, stand and walk and still speaks only a few words. His fontanelle closed late, his bones are soft and his teeth came in slowly. He is small for his age and his hair is sparse, but his appetite and stools are normal and his limbs are not cold. The tongue is pale with a thin white coating. The pulse is thin (thready) and weak. Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Spleen Qi deficiency",
+      "B": "Kidney Yang deficiency",
+      "C": "Kidney Essence deficiency",
+      "D": "Liver Blood deficiency"
+    },
+    "correct": "C",
+    "explanation": "Kidney Essence (Jing), inherited from the parents, governs growth and development, the bones, the marrow and brain, the teeth and the hair. Insufficient prenatal Essence in a child produces the classic developmental delays: late sitting, standing, walking and speech, late closure of the fontanelle, soft bones, slow tooth eruption, short stature and sparse hair. The pale tongue and thin, weak pulse show deficiency without marked Heat or Cold. The discriminating finding is delayed development of bones, teeth and brain with no digestive or Cold signs.",
+    "distractorExplanations": {
+      "A": "Spleen Qi deficiency in a child shows poor appetite, loose stools, tiredness and thin muscles; this child's appetite and stools are normal, and Spleen deficiency does not explain late fontanelle closure or delayed teeth.",
+      "B": "Kidney Yang deficiency would add cold limbs, a pale wet tongue and a deep, slow pulse; this child has no Cold signs, so the deficiency is of Essence rather than of Kidney Yang.",
+      "D": "Liver Blood deficiency causes dizziness, blurred vision, dry hair and nails and pale lips; it does not account for delayed bone, tooth and speech development."
+    },
+    "learningObjective": "Identify Kidney Essence deficiency as the pattern underlying developmental delay in a young child.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "kidney-essence-deficiency",
+      "spleen-qi-deficiency",
+      "prenatal-essence"
+    ],
+    "distinction": {
+      "between": [
+        "kidney-essence-deficiency",
+        "spleen-qi-deficiency"
+      ],
+      "key": "Delayed growth of bones, teeth, fontanelle and speech with normal digestion marks Kidney Essence deficiency; poor appetite and loose stools mark Spleen Qi deficiency."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Kidney patterns: Kidney-Essence deficiency"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Zang-Fu organs: Kidney"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IIf-0040",
+    "domain": "II",
+    "subdomain": "II-f",
+    "task": "II-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 76-year-old woman reports urinary dribbling after voiding and occasional incontinence for two years. She urinates frequently, with pale urine and a weak stream, has a chronic thin, white vaginal discharge, and her lower back feels sore and weak. Her breathing is normal and she has no burning on urination. The tongue is pale. The pulse is deep and weak, especially at both rear (Chi) positions. Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Kidney failing to receive Qi",
+      "B": "Kidney Qi not firm",
+      "C": "Bladder Damp-Heat",
+      "D": "Kidney Yin deficiency"
+    },
+    "correct": "B",
+    "explanation": "Kidney Qi holds the lower orifices closed. When it is not firm, fluids leak downward: dribbling after urination, incontinence, frequent pale urine with a weak stream and a chronic thin, white vaginal discharge. The sore, weak lower back, pale tongue and deep, weak pulse at both rear positions locate the deficiency in the Kidney. The discriminating feature is a failure of holding at the lower orifices without breathlessness or Heat.",
+    "distractorExplanations": {
+      "A": "Kidney failing to receive Qi is a failure of the Kidney to grasp Lung Qi, with shortness of breath and difficult inhalation; this patient's breathing is normal.",
+      "C": "Bladder Damp-Heat produces burning, urgent urination with dark or cloudy urine, a sticky yellow coating and a slippery-rapid pulse; the learner who links any urinary frequency with Damp-Heat misses the pale urine and weak pulse.",
+      "D": "Kidney Yin deficiency gives scanty dark urine, night sweats and a red coatless tongue; pale urine and a pale tongue point to deficient Kidney Qi rather than Yin."
+    },
+    "learningObjective": "Explain how Kidney Qi not firm produces leakage from the lower orifices.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": true,
+    "concepts": [
+      "kidney-qi-not-firm",
+      "kidney-failing-to-receive-qi",
+      "bladder-damp-heat"
+    ],
+    "distinction": {
+      "between": [
+        "kidney-qi-not-firm",
+        "kidney-failing-to-receive-qi"
+      ],
+      "key": "Both are Kidney Qi failures; leakage from the lower orifices with normal breathing marks Kidney Qi not firm, while difficult inhalation marks Kidney failing to receive Qi."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Kidney patterns: Kidney-Qi not firm"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Zang-Fu organs: Kidney"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IIf-0041",
+    "domain": "II",
+    "subdomain": "II-f",
+    "task": "II-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 71-year-old man reports shortness of breath for six years that is worse on exertion. He finds it harder to breathe in than to breathe out, and he leaks urine when he coughs. He also has a sore lower back, cold limbs, spontaneous sweating and frequent clear urination. He has no edema and little sputum. The tongue is pale. The pulse is deep and weak, especially at both rear (Chi) positions. Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Lung Qi deficiency",
+      "B": "Phlegm-Damp obstructing the Lung",
+      "C": "Kidney Yang deficiency with water overflowing",
+      "D": "Kidney failing to receive Qi"
+    },
+    "correct": "D",
+    "explanation": "The Lung governs exhalation and the Kidney grasps and holds down inhaled Qi. When Kidney Qi or Yang is too weak to receive Qi, breathlessness is chronic and worse on exertion, and inhalation is more difficult than exhalation. Urine leaking with coughing, a sore lower back, cold limbs, frequent clear urine and a deep, weak pulse at both rear positions show Kidney involvement, while spontaneous sweating reflects the accompanying Lung Qi weakness. The discriminating finding is difficult inhalation together with Kidney signs and weak rear pulses.",
+    "distractorExplanations": {
+      "A": "Lung Qi deficiency causes shortness of breath, a weak voice and spontaneous sweating with a weak right front pulse, but it does not explain difficult inhalation, urinary leakage with coughing, low backache or weak rear pulses; the learner who stops at the respiratory complaint picks it.",
+      "B": "Phlegm-Damp produces profuse white sputum, chest oppression, a thick sticky coating and a slippery pulse; this patient has little sputum and a weak pulse.",
+      "C": "Kidney Yang deficiency with water overflowing shows edema and scanty urine with a swollen, wet tongue; this patient has no edema and his urine is frequent and clear."
+    },
+    "learningObjective": "Differentiate Kidney failing to receive Qi from Lung Qi deficiency in chronic breathlessness.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "kidney-failing-to-receive-qi",
+      "lung-qi-deficiency",
+      "difficult-inhalation"
+    ],
+    "distinction": {
+      "between": [
+        "kidney-failing-to-receive-qi",
+        "lung-qi-deficiency"
+      ],
+      "key": "Difficult inhalation with low backache, urine leaking on coughing and weak rear pulses marks Kidney failing to receive Qi; Lung Qi deficiency lacks the Kidney signs."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Kidney patterns: Kidneys failing to receive Qi"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Zang-Fu organs: Kidney"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IIf-0042",
+    "domain": "II",
+    "subdomain": "II-f",
+    "task": "II-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 39-year-old man reports scanty dark urine with occasional blood for two months, without burning pain or urgency. He has a malar flush in the afternoon, heat in the palms and soles, night sweats, nocturnal emissions with dreams, a sore lower back and mental restlessness. The tongue is red, cracked and without coating. The pulse is floating-empty and rapid. Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Kidney Yin deficiency with Empty Fire",
+      "B": "Bladder Damp-Heat",
+      "C": "Full Heat in the Small Intestine",
+      "D": "Kidney Qi not firm"
+    },
+    "correct": "A",
+    "explanation": "Long-standing Kidney Yin deficiency gives rise to Empty Fire, which flares and stirs the Blood, causing scanty dark urine with blood, and harasses the Mind and the Essence, causing restlessness and nocturnal emissions with dreams. An afternoon malar flush, five-palm heat and night sweats are classic Empty Heat signs, and the sore lower back locates the root in the Kidney. A red, cracked tongue without coating and a floating-empty, rapid pulse confirm Yin deficiency with Empty Heat. The discriminating findings are blood in the urine without burning or urgency, together with a coatless tongue and an empty pulse.",
+    "distractorExplanations": {
+      "B": "Bladder Damp-Heat also produces dark urine and sometimes blood, but with burning, urgency and frequency, a sticky yellow coating on the root and a slippery-rapid pulse; it is a Full pattern, whereas this tongue has no coating and the pulse is empty.",
+      "C": "Full Heat in the Small Intestine follows Heart Fire and shows burning urination with mouth and tongue ulcers, thirst, a red tip with a yellow coating and an overflowing-rapid pulse; it is Full Heat, not Empty Heat.",
+      "D": "Kidney Qi not firm causes nocturnal emissions without dreams, pale frequent urine and dribbling with a pale tongue; dreams, Heat signs and a red tongue point to Yin deficiency with Empty Fire."
+    },
+    "learningObjective": "Differentiate Kidney Yin deficiency with Empty Fire from Full Heat patterns of the Lower Burner in a patient with blood in the urine.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "kidney-yin-deficiency-empty-fire",
+      "bladder-damp-heat",
+      "empty-heat",
+      "full-heat"
+    ],
+    "distinction": {
+      "between": [
+        "kidney-yin-deficiency-empty-fire",
+        "bladder-damp-heat"
+      ],
+      "key": "Blood in the urine without burning or urgency, with a coatless red tongue and a floating-empty pulse, marks Empty Fire; burning urgency with a sticky yellow root coating and a slippery pulse marks Bladder Damp-Heat."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Kidney patterns: Kidney-Yin deficiency, Empty-Heat blazing"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Zang-Fu organs: Kidney"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IIf-0043",
+    "domain": "II",
+    "subdomain": "II-f",
+    "task": "II-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 69-year-old woman reports pitting edema of the ankles and lower legs for five months. She passes only small amounts of pale urine, her lower back and knees feel cold and sore, and her limbs are cold. She has palpitations and breathlessness on exertion, and when she lies flat she coughs up thin, watery sputum. The tongue is pale, swollen and wet, with a white coating. The pulse is deep, weak and slow. Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Kidney Yang deficiency",
+      "B": "Wind-Water invading the Lung",
+      "C": "Kidney Yang deficiency with water overflowing",
+      "D": "Spleen Qi deficiency"
+    },
+    "correct": "C",
+    "explanation": "Kidney Yang transforms fluids and governs their excretion through the Bladder. When it is so deficient that fluids accumulate, water overflows into the tissues of the lower body as pitting edema, and urine becomes scanty because fluids are neither transformed nor excreted. Water rising to insult the Heart and Lung causes palpitations and breathlessness. A cold back, knees and limbs, a pale, swollen, wet tongue and a deep, weak, slow pulse confirm the Kidney Yang root. The discriminating finding is scanty urine with leg edema and palpitations, which marks the progression from simple Kidney Yang deficiency to water overflowing.",
+    "distractorExplanations": {
+      "A": "Simple Kidney Yang deficiency shows abundant clear urine and nocturia without edema or water affecting the Heart and Lung; here urine is scanty, edema is marked, and water flooding upward causes palpitations and watery sputum on lying flat, so the more specific diagnosis applies. A learner who identifies only the root stops here.",
+      "B": "Wind-Water invading the Lung is acute, with edema beginning in the face and eyelids, aversion to wind or cold and a floating pulse; this edema is chronic, starts in the legs and has a deep pulse.",
+      "D": "Spleen Qi deficiency may cause mild edema with fatigue and loose stools, but it lacks the cold back and knees, the slow pulse and the palpitations from water insulting the Heart."
+    },
+    "learningObjective": "Differentiate Kidney Yang deficiency with water overflowing from simple Kidney Yang deficiency using urine volume and edema.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "kidney-yang-deficiency-water-overflowing",
+      "kidney-yang-deficiency",
+      "edema"
+    ],
+    "distinction": {
+      "between": [
+        "kidney-yang-deficiency-water-overflowing",
+        "kidney-yang-deficiency"
+      ],
+      "key": "Scanty urine with pitting edema, palpitations and watery sputum on lying flat mark Kidney Yang deficiency with water overflowing; abundant clear urine without edema marks simple Kidney Yang deficiency."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Kidney patterns: Kidney-Yang deficiency, Water overflowing"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Zang-Fu organs: Kidney"
+      }
+    ],
+    "validation": {
+      "status": "needs_revision",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose C (medium)"
+        },
+        "coherence": {
+          "ok": false,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "A (Kidney Yang deficiency) is the parent pattern and is also defensible; the item relies on palpitations/breathlessness to signal water overflowing, which should be stated clearly enough to separate the two."
+        },
+        "factual": {
+          "ok": false,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IIf-0044",
+    "domain": "II",
+    "subdomain": "II-f",
+    "task": "II-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 49-year-old woman reports a dull, slightly burning epigastric discomfort for a year. She feels slightly hungry but has no desire to eat, feels full after small meals, and passes dry stools. Her mouth and throat are dry, especially in the afternoon, and she is thirsty but drinks only in small sips. The tongue is of normal color with a peeled patch in the center. The pulse is floating-empty at the right middle (Guan) position. Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Stomach Fire",
+      "B": "Stomach Yin deficiency",
+      "C": "Stomach Qi deficiency",
+      "D": "Retention of Food in the Stomach"
+    },
+    "correct": "B",
+    "explanation": "Stomach Yin deficiency deprives the Stomach of the fluids it needs to rot and ripen food, so there is hunger without desire to eat, fullness after small meals and a dull, slightly burning discomfort. Lack of fluids produces dry stools and a dry mouth and throat that worsen in the afternoon, and the thirst is for small sips because there is no Full Heat. A peeled center (the Stomach area of the tongue) and a floating-empty pulse at the right middle position confirm Stomach Yin deficiency. The discriminating findings are the peeled center and sipping thirst, as opposed to an intense thirst for cold drinks with a thick yellow coating.",
+    "distractorExplanations": {
+      "A": "Stomach Fire gives intense burning pain, excessive hunger, strong thirst for cold drinks, bleeding gums, a red tongue with a thick dry yellow coating and a full-rapid pulse; the learner who reads 'burning' as Full Heat overlooks the mild discomfort and peeled coating.",
+      "C": "Stomach Qi deficiency causes epigastric discomfort with tiredness, a pale tongue and a weak pulse, but without dryness signs or a peeled center.",
+      "D": "Retention of Food is acute and Full, with sour regurgitation, foul belching, a thick coating and a slippery-full pulse; this course is chronic and the coating is peeled."
+    },
+    "learningObjective": "Differentiate Stomach Yin deficiency from Stomach Fire by the quality of thirst, the tongue coating and the pulse.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "stomach-yin-deficiency",
+      "stomach-fire",
+      "peeled-tongue"
+    ],
+    "distinction": {
+      "between": [
+        "stomach-yin-deficiency",
+        "stomach-fire"
+      ],
+      "key": "Thirst for small sips with a peeled tongue center and a floating-empty right middle pulse marks Stomach Yin deficiency; intense thirst for cold drinks with a thick dry yellow coating and a full-rapid pulse marks Stomach Fire."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Stomach patterns: Stomach-Yin deficiency"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Zang-Fu organs: Stomach"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IIf-0045",
+    "domain": "II",
+    "subdomain": "II-f",
+    "task": "II-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 30-year-old man reports sudden, severe epigastric pain that began three hours after he had several iced drinks and a bowl of ice cream on a hot day. He has vomited clear, watery fluid, feels chilly, wants only warm drinks, and finds that a hot-water bottle eases the pain. He has no sour regurgitation or foul belching. The tongue has a thick white coating. The pulse is deep, slow and tight. Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Stomach Qi deficiency",
+      "B": "Retention of Food in the Stomach",
+      "C": "Stomach deficient and Cold",
+      "D": "Cold invading the Stomach"
+    },
+    "correct": "D",
+    "explanation": "Cold taken in directly through iced food and drink invades the Stomach, contracts and obstructs its Qi, and causes sudden, severe pain. Cold impairs the Stomach's descending function, so clear fluid is vomited, and the patient feels chilly, prefers warm drinks and finds the pain relieved by warmth. A thick white coating and a deep, slow, tight pulse confirm interior Full Cold. The discriminating findings are the sudden onset after cold intake and the tight pulse, which distinguish Full Cold from Empty Cold.",
+    "distractorExplanations": {
+      "A": "Stomach Qi deficiency is chronic, with mild discomfort, tiredness, a pale tongue and a weak pulse; it does not produce sudden, severe pain with a tight pulse.",
+      "B": "Retention of Food follows overeating and shows sour regurgitation, foul belching, a thick greasy coating and a slippery pulse; these are absent.",
+      "C": "Stomach deficient and Cold (Empty Cold) also prefers warmth, but it is chronic, with dull pain that improves after eating, tiredness, a pale tongue and a deep, weak pulse; the learner who sees only 'cold and prefers warmth' misses the acute onset and tight pulse of Full Cold."
+    },
+    "learningObjective": "Explain why sudden epigastric pain after cold intake with a tight pulse indicates Full Cold in the Stomach rather than Empty Cold.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": true,
+    "concepts": [
+      "cold-invading-stomach",
+      "stomach-deficient-cold",
+      "tight-pulse",
+      "full-cold"
+    ],
+    "distinction": {
+      "between": [
+        "cold-invading-stomach",
+        "stomach-deficient-cold"
+      ],
+      "key": "Sudden severe pain after cold intake with a thick white coating and a deep-tight pulse marks Cold invading the Stomach; chronic dull pain with a pale tongue and a deep-weak pulse marks Stomach deficient and Cold."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Stomach patterns: Cold invading the Stomach"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Zang-Fu organs: Stomach"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IIf-0046",
+    "domain": "II",
+    "subdomain": "II-f",
+    "task": "II-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 42-year-old woman reports epigastric fullness and pain for two days, beginning the night after a large holiday banquet. She has sour regurgitation, foul belching, nausea and a poor appetite, and the pain eases after she vomits. She has slept poorly, and her stools are loose and foul-smelling. The tongue has a thick, greasy coating. The pulse is full and slippery. Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Retention of Food in the Stomach",
+      "B": "Stomach Fire",
+      "C": "Liver Qi invading the Stomach",
+      "D": "Stomach Qi deficiency"
+    },
+    "correct": "A",
+    "explanation": "Overeating overwhelms the Stomach's capacity to rot and ripen, so undigested food accumulates and obstructs the descent of Stomach Qi. The stagnant food produces fullness and pain, sour regurgitation, foul belching, nausea and vomiting that relieves the pain because it removes the obstruction; it also disturbs sleep and produces loose, foul stools. A thick, greasy coating and a full, slippery pulse confirm a Full condition. The discriminating finding is the clear dietary trigger with relief from vomiting.",
+    "distractorExplanations": {
+      "B": "Stomach Fire shows burning pain, intense thirst, excessive hunger, bleeding gums and a red tongue with a dry yellow coating; this patient has a poor appetite and a greasy coating.",
+      "C": "Liver Qi invading the Stomach also causes belching and sour regurgitation, but it is triggered by emotional stress and has hypochondriac distension and a wiry pulse; the learner who links sour regurgitation only with the Liver misses the banquet trigger and the slippery pulse.",
+      "D": "Stomach Qi deficiency is chronic, with mild discomfort, tiredness and a weak pulse; this presentation is acute and Full."
+    },
+    "learningObjective": "Identify Retention of Food in the Stomach from acute epigastric fullness after overeating with relief from vomiting.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "retention-of-food",
+      "liver-qi-invading-stomach",
+      "rebellious-stomach-qi",
+      "greasy-coating"
+    ],
+    "distinction": {
+      "between": [
+        "retention-of-food",
+        "liver-qi-invading-stomach"
+      ],
+      "key": "Sour regurgitation after overeating with relief from vomiting, a thick greasy coating and a slippery pulse marks Retention of Food; emotional triggering with hypochondriac distension and a wiry pulse marks Liver Qi invading the Stomach."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Stomach patterns: Retention of Food in the Stomach"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Zang-Fu organs: Stomach"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IIf-0047",
+    "domain": "II",
+    "subdomain": "II-f",
+    "task": "II-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 34-year-old man reports diarrhea with mucus and blood for five days. He has abdominal pain that is not relieved by the bowel movement, urgency, foul-smelling stools and a burning sensation in the anus. He also has a low fever, a feeling of heaviness and scanty dark urine. The tongue is red with a sticky yellow coating. The pulse is slippery and rapid. Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Damp-Heat in the Spleen",
+      "B": "Cold-Damp invading the Spleen",
+      "C": "Large Intestine Damp-Heat",
+      "D": "Liver Qi invading the Spleen"
+    },
+    "correct": "C",
+    "explanation": "Damp-Heat lodged in the Large Intestine obstructs its function of conducting the stools and injures the vessels of the bowel, producing diarrhea with mucus (Dampness) and blood (Heat), urgency, foul stools and anal burning. Because the obstruction remains in the bowel, the pain is not relieved by defecation. Fever, heaviness and scanty dark urine show Damp-Heat, and the red tongue with a sticky yellow coating and the slippery, rapid pulse confirm it. The discriminating findings are mucus and blood in the stools with anal burning, which localize the Damp-Heat to the Large Intestine.",
+    "distractorExplanations": {
+      "A": "Damp-Heat in the Spleen centers on epigastric and abdominal fullness, nausea, poor appetite and loose offensive stools, sometimes with jaundice; it does not typically produce blood and mucus with anal burning. The learner who sees Damp-Heat with loose stools may stop at the Spleen.",
+      "B": "Cold-Damp invading the Spleen produces loose watery stools without odor or burning, absence of thirst, a sticky white coating and a slow pulse.",
+      "D": "Liver Qi invading the Spleen causes stress-triggered abdominal pain relieved after the bowel movement with alternating stools and a wiry pulse; there is no fever, blood or burning."
+    },
+    "learningObjective": "Differentiate Large Intestine Damp-Heat from Damp-Heat in the Spleen in acute diarrhea.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "large-intestine-damp-heat",
+      "damp-heat-in-spleen",
+      "sticky-yellow-coating"
+    ],
+    "distinction": {
+      "between": [
+        "large-intestine-damp-heat",
+        "damp-heat-in-spleen"
+      ],
+      "key": "Mucus and blood in the stools with anal burning and pain unrelieved by defecation mark Large Intestine Damp-Heat; epigastric fullness, nausea and poor appetite mark Damp-Heat in the Spleen."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Large Intestine patterns: Damp-Heat in the Large Intestine"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Zang-Fu organs: Large Intestine"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IIf-0048",
+    "domain": "II",
+    "subdomain": "II-f",
+    "task": "II-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 29-year-old woman reports burning, painful urination with urgency and frequency for three days. Her urine is dark yellow and cloudy. She has a slight fever, a feeling of heaviness in the lower abdomen, and thirst without a desire to drink. She has no mouth ulcers or mental restlessness. The tongue has a thick, sticky yellow coating on the root. The pulse is slippery and rapid, especially at the left rear (Chi) position. Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Kidney Yin deficiency with Empty Fire",
+      "B": "Bladder Damp-Heat",
+      "C": "Full Heat in the Small Intestine",
+      "D": "Kidney Qi not firm"
+    },
+    "correct": "B",
+    "explanation": "Damp-Heat in the Bladder obstructs its Qi transformation, causing burning, painful, urgent and frequent urination with dark, cloudy urine; the cloudiness reflects Dampness. Fever and thirst without a desire to drink show Heat combined with Dampness, and heaviness in the lower abdomen reflects Dampness in the Lower Burner. The thick, sticky yellow coating on the root and the slippery, rapid pulse at the left rear position confirm Damp-Heat in the Bladder. The discriminating finding is cloudy urine with a sticky yellow root coating.",
+    "distractorExplanations": {
+      "A": "Kidney Yin deficiency with Empty Fire can produce scanty dark urine, but without burning and urgency, and with night sweats, a coatless red tongue and a floating-empty pulse; this presentation is acute and Full.",
+      "C": "Full Heat in the Small Intestine derives from Heart Fire and shows mouth and tongue ulcers, mental restlessness and a red, swollen tip with an overflowing pulse at the left front; these are absent, and the sticky coating indicates Dampness.",
+      "D": "Kidney Qi not firm causes frequent pale urine with dribbling, a pale tongue and a weak pulse; burning and cloudy dark urine indicate Damp-Heat."
+    },
+    "learningObjective": "Explain how Damp-Heat in the Bladder produces burning, cloudy, urgent urination.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "comprehension",
+    "vignette": true,
+    "concepts": [
+      "bladder-damp-heat",
+      "small-intestine-full-heat",
+      "sticky-yellow-coating"
+    ],
+    "distinction": {
+      "between": [
+        "bladder-damp-heat",
+        "small-intestine-full-heat"
+      ],
+      "key": "Cloudy urine with a sticky yellow coating on the tongue root marks Bladder Damp-Heat; mouth ulcers, restlessness and a red tongue tip mark Full Heat in the Small Intestine."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Bladder patterns: Damp-Heat in the Bladder"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Zang-Fu organs: Bladder"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IIf-0049",
+    "domain": "II",
+    "subdomain": "II-f",
+    "task": "II-1-f",
+    "theory": "Zang Fu",
+    "stem": "Timidity, lack of courage and initiative, indecisiveness, being easily startled and frequent sighing, accompanied by a pale tongue and a weak pulse, are most characteristic of which pattern?",
+    "options": {
+      "A": "Gallbladder Damp-Heat",
+      "B": "Liver Qi stagnation",
+      "C": "Kidney Yang deficiency",
+      "D": "Gallbladder deficiency"
+    },
+    "correct": "D",
+    "explanation": "In Zang Fu theory the Gallbladder controls decisiveness and gives a person courage and initiative. When Gallbladder Qi is deficient, the person is timid, lacks initiative, cannot make decisions and is easily startled; sighing is also described. The pale tongue and weak pulse show a deficient rather than Full condition. The discriminating features are the mental-emotional signs of indecision and lack of courage with deficiency findings.",
+    "distractorExplanations": {
+      "A": "Gallbladder Damp-Heat is a Full pattern with hypochondriac pain, a bitter taste, nausea, possible jaundice, a sticky yellow coating and a slippery-wiry pulse; it does not center on timidity.",
+      "B": "Liver Qi stagnation also features sighing, but with distension, irritability, mood swings and a wiry pulse; a weak pulse and pale tongue rule it out. The learner who links sighing only to Liver Qi stagnation would choose it.",
+      "C": "Kidney Yang deficiency is linked to fear through Five Element correspondence, but the pattern is defined by Cold, backache, abundant clear urine and a deep, slow pulse, none of which is given; a learner equating timidity with fear would pick it."
+    },
+    "learningObjective": "Identify the mental-emotional signs that characterize Gallbladder deficiency.",
+    "difficulty": "foundational",
+    "cognitiveLevel": "recall",
+    "vignette": false,
+    "concepts": [
+      "gallbladder-deficiency",
+      "liver-qi-stagnation",
+      "gallbladder-decisiveness"
+    ],
+    "distinction": {
+      "between": [
+        "gallbladder-deficiency",
+        "liver-qi-stagnation"
+      ],
+      "key": "Timidity and indecision with a weak pulse mark Gallbladder deficiency; sighing with distension, irritability and a wiry pulse marks Liver Qi stagnation."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Gall-Bladder patterns: Gall-Bladder deficient"
+      },
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Functions of the Gall-Bladder: controls decisiveness"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IIf-0050",
+    "domain": "II",
+    "subdomain": "II-f",
+    "task": "II-1-f",
+    "theory": "Zang Fu",
+    "stem": "An 81-year-old woman reports constipation for two years, passing small, dry, pellet-like stools every three to four days with great difficulty. Her mouth, throat and skin are dry, she is thin, and she has occasional dizziness. She has no abdominal distension, anal burning or thirst for cold drinks. The tongue is pale and dry. The pulse is thin (thready). Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Large Intestine Dryness",
+      "B": "Heat in the Large Intestine",
+      "C": "Liver Qi stagnation",
+      "D": "Spleen Qi deficiency"
+    },
+    "correct": "A",
+    "explanation": "In the elderly, declining Blood and fluids leave the Large Intestine without moisture, so stools become dry, small and difficult to pass. A dry mouth, throat and skin, a thin body and dizziness reflect a general insufficiency of fluids and Blood. A pale, dry tongue and a thin pulse confirm a deficiency of fluids without Heat. The discriminating finding is dry stools with dryness elsewhere and no Heat signs.",
+    "distractorExplanations": {
+      "B": "Heat in the Large Intestine also dries the stools, but with anal burning, thirst for cold drinks, a red tongue with a dry yellow coating and a full-rapid pulse; the learner who equates dry stools with Heat misses the pale tongue and thin pulse.",
+      "C": "Liver Qi stagnation causes constipation with small, bitty stools, abdominal distension, irritability and a wiry pulse; there is no distension and the pulse is thin.",
+      "D": "Spleen Qi deficiency causes difficult bowel movements with stools that are not dry, fatigue after defecation, a pale swollen tongue and a weak pulse; the dryness signs point to a lack of fluids."
+    },
+    "learningObjective": "Differentiate Large Intestine Dryness from Heat in the Large Intestine in chronic constipation.",
+    "difficulty": "intermediate",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "large-intestine-dryness",
+      "large-intestine-heat",
+      "thin-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "large-intestine-dryness",
+        "large-intestine-heat"
+      ],
+      "key": "Dry stools with a pale dry tongue and a thin pulse mark Large Intestine Dryness; dry stools with anal burning, thirst, a yellow coating and a full-rapid pulse mark Heat in the Large Intestine."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Large Intestine patterns: Large Intestine dry"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Zang-Fu organs: Large Intestine"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IIf-0051",
+    "domain": "II",
+    "subdomain": "II-f",
+    "task": "II-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 37-year-old woman reports abdominal pain with loose stools for eighteen months. Episodes flare when she is stressed or angry, the pain eases after the bowel movement, and her stools alternate between loose and constipated. She also has abdominal distension, flatulence, irritability, tiredness and a poor appetite. The tongue is slightly red on the sides with a thin white coating. The pulse is wiry on the left and weak on the right. Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Liver Qi stagnation",
+      "B": "Spleen Qi deficiency",
+      "C": "Liver Qi invading the Spleen",
+      "D": "Large Intestine Damp-Heat"
+    },
+    "correct": "C",
+    "explanation": "Stagnant Liver Qi overacts on the Spleen along the controlling (Ke) cycle and disrupts its transformation and transportation. The Liver side shows as stress-triggered episodes, distension, flatulence, irritability, red tongue sides and a wiry left pulse; the Spleen side shows as tiredness, poor appetite, loose stools and a weak right pulse. Pain that eases after the bowel movement and stools that alternate between loose and constipated are typical of this disharmony. The discriminating finding is the split pulse, wiry on the left and weak on the right, showing that both organs are involved.",
+    "distractorExplanations": {
+      "A": "Liver Qi stagnation alone explains the distension and emotional triggering but not the tiredness, poor appetite and weak right pulse; the learner who sees only the stress trigger stops here.",
+      "B": "Spleen Qi deficiency alone explains the tiredness and loose stools but not the emotional triggering, red tongue sides or wiry left pulse.",
+      "D": "Large Intestine Damp-Heat is acute, with mucus and blood in the stools, anal burning, a sticky yellow coating and a slippery-rapid pulse; none of these is present."
+    },
+    "learningObjective": "Analyze a combined Liver-Spleen disharmony using the split left-right pulse and the emotional trigger.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "liver-qi-invading-spleen",
+      "spleen-qi-deficiency",
+      "liver-qi-stagnation",
+      "overacting-cycle"
+    ],
+    "distinction": {
+      "between": [
+        "liver-qi-invading-spleen",
+        "spleen-qi-deficiency"
+      ],
+      "key": "Emotional triggering, red tongue sides and a wiry left pulse added to Spleen deficiency signs mark Liver Qi invading the Spleen rather than Spleen Qi deficiency alone."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Combined patterns: Rebellious Liver-Qi invading the Spleen"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Zang-Fu organs: complicated syndromes"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IIf-0052",
+    "domain": "II",
+    "subdomain": "II-f",
+    "task": "II-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 52-year-old woman reports insomnia for one year, with difficulty falling asleep and frequent waking. She has palpitations, mental restlessness, poor memory, dizziness, tinnitus, a sore lower back, night sweats, heat in the palms and soles, and scanty dark urine. The tongue is red with no coating and a redder tip. The pulse is rapid, weak at both rear (Chi) positions and relatively overflowing at both front (Cun) positions. Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Kidney Yin deficiency",
+      "B": "Heart and Kidney not harmonized",
+      "C": "Liver and Kidney Yin deficiency",
+      "D": "Heart and Spleen deficiency"
+    },
+    "correct": "B",
+    "explanation": "Kidney Yin fails to rise to nourish the Heart, and Heart Fire fails to descend to warm the Kidney, so Water and Fire lose their communication. Kidney Yin deficiency gives dizziness, tinnitus, a sore lower back, night sweats, five-palm heat and scanty dark urine; Empty Heat in the Heart gives insomnia, palpitations, mental restlessness and poor memory. The red, coatless tongue with a redder tip and a pulse weak at the rear but relatively overflowing at the front show deficiency below with Heat above. The discriminating findings are the Heart signs (palpitations, insomnia, redder tip, front pulses) joined to Kidney Yin deficiency.",
+    "distractorExplanations": {
+      "A": "Kidney Yin deficiency alone explains the back pain, tinnitus and night sweats but not the palpitations, insomnia, redder tongue tip and overflowing front pulses; the learner who stops at the root misses the Heart.",
+      "C": "Liver and Kidney Yin deficiency adds dry eyes, blurred vision, numbness of the limbs and scanty menstruation, showing Liver rather than Heart involvement.",
+      "D": "Heart and Spleen deficiency (Heart Blood with Spleen Qi deficiency) also causes insomnia, palpitations and poor memory, but with a pale tongue, poor appetite, fatigue and a thin-weak pulse, and no Heat signs."
+    },
+    "learningObjective": "Analyze the combined pattern of Heart and Kidney not harmonized by linking Heart Empty Heat signs to Kidney Yin deficiency.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "heart-kidney-not-harmonized",
+      "kidney-yin-deficiency",
+      "empty-heat"
+    ],
+    "distinction": {
+      "between": [
+        "heart-kidney-not-harmonized",
+        "kidney-yin-deficiency"
+      ],
+      "key": "Palpitations, insomnia, a redder tongue tip and relatively overflowing front pulses added to Kidney Yin signs mark Heart and Kidney not harmonized."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Combined patterns: Heart and Kidneys not harmonized"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Zang-Fu organs: complicated syndromes"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IIf-0053",
+    "domain": "II",
+    "subdomain": "II-f",
+    "task": "II-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 66-year-old man reports loose stools for two years, with urgent diarrhea just before dawn that contains undigested food. He has a poor appetite, abdominal distension after meals that is worse after cold food, and tiredness. His abdomen and lower back feel cold and his limbs are cold. He passes abundant clear urine and his ankles are slightly puffy. The tongue is pale, swollen, wet and teeth-marked. The pulse is deep, weak and slow. Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Spleen Qi deficiency",
+      "B": "Kidney Yang deficiency",
+      "C": "Cold-Damp invading the Spleen",
+      "D": "Spleen and Kidney Yang deficiency"
+    },
+    "correct": "D",
+    "explanation": "Kidney Yang is the root of Spleen Yang; when both fail, food is not transformed (undigested food in the stools, poor appetite, tiredness) and the Lower Burner is cold. Diarrhea just before dawn, the classic 'cock's crow' diarrhea, occurs at the hour when Yang should be rising but the Kidney fire is too weak. A cold abdomen, back and limbs, abundant clear urine, slight edema, a pale, swollen, wet, teeth-marked tongue and a deep, weak, slow pulse confirm combined Yang deficiency. The discriminating finding is the coexistence of Spleen signs (undigested food, poor appetite, teeth marks) with Kidney signs (dawn diarrhea, cold back, clear urine).",
+    "distractorExplanations": {
+      "A": "Spleen Qi deficiency causes tiredness and loose stools but without marked Cold, dawn diarrhea, a cold back or a slow pulse; the learner who reads loose stools as a Spleen problem alone misses the Yang and Kidney signs.",
+      "B": "Kidney Yang deficiency alone explains the cold back, abundant clear urine and dawn diarrhea, but not the poor appetite, undigested food, distension after meals and teeth-marked tongue, which show that the Spleen has also failed to transform and transport.",
+      "C": "Cold-Damp invading the Spleen is usually acute, with heaviness, a thick sticky white coating and a slippery pulse, rather than a two-year course with a deep, weak pulse and Kidney signs."
+    },
+    "learningObjective": "Analyze chronic dawn diarrhea as a combined Spleen and Kidney Yang deficiency.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "spleen-kidney-yang-deficiency",
+      "kidney-yang-deficiency",
+      "spleen-qi-deficiency",
+      "teeth-marked-tongue"
+    ],
+    "distinction": {
+      "between": [
+        "spleen-kidney-yang-deficiency",
+        "kidney-yang-deficiency"
+      ],
+      "key": "Dawn diarrhea with a cold back and clear urine marks Kidney Yang deficiency; add poor appetite, undigested food, distension after meals and a teeth-marked tongue and the Spleen is involved as well."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Combined patterns: Spleen- and Kidney-Yang deficiency"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Zang-Fu organs: complicated syndromes"
+      }
+    ],
+    "validation": {
+      "status": "needs_revision",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose D (medium)"
+        },
+        "coherence": {
+          "ok": false,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "B is arguable because daybreak diarrhea is the classic Kidney Yang deficiency sign; the Spleen signs (poor appetite, undigested food, teeth marks) make D best but test-takers may split."
+        },
+        "factual": {
+          "ok": false,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IIf-0054",
+    "domain": "II",
+    "subdomain": "II-f",
+    "task": "II-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 58-year-old woman reports dry, gritty eyes and blurred vision for two years. She also has dizziness, a low-pitched tinnitus, a sore and weak lower back and knees, numbness of the limbs, night sweats and a dry throat at night. She has no headache, irritability or palpitations. The tongue is red with no coating. The pulse is thin (thready) and rapid. Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Liver and Kidney Yin deficiency",
+      "B": "Liver Blood deficiency",
+      "C": "Heart and Kidney not harmonized",
+      "D": "Liver Yang rising"
+    },
+    "correct": "A",
+    "explanation": "The Liver and Kidney share a common source, Liver Blood and Kidney Essence nourishing each other, so Yin deficiency of one readily involves the other. Liver Yin deficiency fails to moisten the eyes and nourish the sinews, giving dry, gritty eyes, blurred vision and numbness; Kidney Yin deficiency gives a low-pitched tinnitus, dizziness and a sore, weak back and knees. Night sweats, a dry throat at night, a red coatless tongue and a thin, rapid pulse show Yin deficiency with Empty Heat. The discriminating findings are the eye symptoms (Liver) and the back and ear symptoms (Kidney) together with Yin-deficiency Heat signs.",
+    "distractorExplanations": {
+      "B": "Liver Blood deficiency also causes blurred vision, dizziness and numbness, but with a pale tongue, a pale complexion and no night sweats or Heat; the red coatless tongue and Kidney signs rule it out.",
+      "C": "Heart and Kidney not harmonized presents Kidney Yin signs with palpitations, insomnia and a redder tongue tip; this patient has no Heart signs.",
+      "D": "Liver Yang rising, which can develop from this pattern, adds headache, irritability, a red face and a wiry pulse; none of these is present."
+    },
+    "learningObjective": "Analyze Liver and Kidney Yin deficiency by assigning eye, ear and lower back findings to their organs.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "liver-kidney-yin-deficiency",
+      "liver-blood-deficiency",
+      "empty-heat"
+    ],
+    "distinction": {
+      "between": [
+        "liver-kidney-yin-deficiency",
+        "liver-blood-deficiency"
+      ],
+      "key": "Eye and limb symptoms with night sweats, Kidney signs and a red coatless tongue mark Liver and Kidney Yin deficiency; the same eye symptoms with a pale tongue and no Heat mark Liver Blood deficiency."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Combined patterns: Liver- and Kidney-Yin deficiency"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Zang-Fu organs: complicated syndromes"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose A (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IIf-0055",
+    "domain": "II",
+    "subdomain": "II-f",
+    "task": "II-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 61-year-old man reports a dry cough with occasional blood-streaked sputum for one year. He is breathless on exertion and has a hoarse voice, a dry throat at night, a sore lower back, night sweats, an afternoon malar flush and a thin body. The tongue is red and peeled. The pulse is thin (thready) and rapid, weakest at the right front (Cun) and both rear (Chi) positions. Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Lung Yin deficiency",
+      "B": "Kidney failing to receive Qi",
+      "C": "Lung and Kidney Yin deficiency",
+      "D": "Dryness injuring the Lung"
+    },
+    "correct": "C",
+    "explanation": "Kidney Yin is the root of the Yin of all organs, and the Lung and Kidney are linked through the generating (Sheng) cycle, Metal generating Water, and through respiration. Lung Yin deficiency produces the dry cough, blood-streaked sputum, hoarse voice and dry throat; Kidney Yin deficiency adds the sore lower back and weakens the Kidney's grasp of Qi, contributing to breathlessness on exertion. Night sweats, an afternoon malar flush, a red peeled tongue and a thin, rapid pulse show Empty Heat. The discriminating finding is Kidney involvement (sore back, weak rear pulses) added to Lung Yin deficiency.",
+    "distractorExplanations": {
+      "A": "Lung Yin deficiency alone explains the dry cough and Empty Heat but not the sore lower back and weak rear pulses; the learner who stops at the chief complaint misses the Kidney.",
+      "B": "Kidney failing to receive Qi is a Qi or Yang deficiency with difficult inhalation, cold limbs, a pale tongue and a deep, weak pulse; here the tongue is red and peeled and there are Heat signs.",
+      "D": "Dryness injuring the Lung is a recent exterior condition with a thin dry coating and no night sweats or back pain; this course is chronic and the coating is peeled."
+    },
+    "learningObjective": "Analyze Lung and Kidney Yin deficiency by identifying Kidney signs alongside a chronic Yin-deficient cough.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "lung-kidney-yin-deficiency",
+      "lung-yin-deficiency",
+      "generating-cycle"
+    ],
+    "distinction": {
+      "between": [
+        "lung-kidney-yin-deficiency",
+        "lung-yin-deficiency"
+      ],
+      "key": "A sore lower back and weak rear pulses added to a dry cough with Empty Heat mark Lung and Kidney Yin deficiency rather than Lung Yin deficiency alone."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Combined patterns: Lung- and Kidney-Yin deficiency"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Zang-Fu organs: complicated syndromes"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose C (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IIf-0056",
+    "domain": "II",
+    "subdomain": "II-f",
+    "task": "II-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 45-year-old man reports fits of coughing for three weeks that are set off by arguments or frustration. He coughs up scanty, sticky yellow sputum, occasionally streaked with blood, and has pain in the chest and hypochondrium. He is irritable, with a red face, red eyes, a bitter taste and thirst. The tongue is red with redder sides and a dry yellow coating. The pulse is wiry and rapid. Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Phlegm-Heat in the Lung",
+      "B": "Liver Fire insulting the Lung",
+      "C": "Liver Fire blazing",
+      "D": "Wind-Heat invading the Lung"
+    },
+    "correct": "B",
+    "explanation": "Liver Fire rises and insults the Lung, Wood rebelling against Metal in the reverse direction of the controlling cycle. Rising Fire obstructs the descent of Lung Qi and scorches fluids, causing paroxysmal coughing with scanty, sticky yellow and sometimes blood-streaked sputum. Emotional triggering, hypochondriac and chest pain, irritability, a red face and eyes, a bitter taste, redder tongue sides and a wiry, rapid pulse show that the Fire originates in the Liver. The discriminating findings are the anger-triggered cough with Liver signs and a wiry rather than slippery pulse.",
+    "distractorExplanations": {
+      "A": "Phlegm-Heat in the Lung produces profuse, thick yellow sputum, chest oppression, a thick sticky yellow coating and a slippery-rapid pulse; scanty sputum, red sides and a wiry pulse point to the Liver. The learner who sees yellow sputum and stops at the Lung would choose it.",
+      "C": "Liver Fire blazing explains the red face, red eyes, bitter taste and irritability but does not account for the cough; when Liver Fire specifically disturbs the Lung, the combined diagnosis is more precise.",
+      "D": "Wind-Heat is an acute exterior pattern with fever, aversion to cold, a sore throat and a floating-rapid pulse; there are no exterior signs."
+    },
+    "learningObjective": "Analyze a cough caused by Liver Fire insulting the Lung by recognizing Liver signs and the emotional trigger.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "liver-fire-insulting-lung",
+      "phlegm-heat-in-lung",
+      "insulting-cycle",
+      "wiry-pulse"
+    ],
+    "distinction": {
+      "between": [
+        "liver-fire-insulting-lung",
+        "phlegm-heat-in-lung"
+      ],
+      "key": "An anger-triggered cough with scanty sputum, redder tongue sides and a wiry-rapid pulse marks Liver Fire insulting the Lung; profuse yellow sputum with a thick sticky coating and a slippery pulse marks Phlegm-Heat."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Combined patterns: Liver-Fire insulting the Lungs"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Zang-Fu organs: complicated syndromes"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose B (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  },
+  {
+    "id": "FOM-IIf-0057",
+    "domain": "II",
+    "subdomain": "II-f",
+    "task": "II-1-f",
+    "theory": "Zang Fu",
+    "stem": "A 12-year-old boy is brought in for a cough with thin, white, watery sputum that has persisted for two years and flares every winter. He is short of breath on exertion, has a weak voice, sweats easily and catches colds often. He also has a poor appetite, abdominal distension after eating, loose stools and tiredness. The tongue is pale and teeth-marked with a thin white coating. The pulse is weak, especially at the right front (Cun) and middle (Guan) positions. Which of the following is the most appropriate pattern diagnosis?",
+    "options": {
+      "A": "Lung Qi deficiency",
+      "B": "Spleen Qi deficiency",
+      "C": "Phlegm-Damp obstructing the Lung",
+      "D": "Lung and Spleen Qi deficiency"
+    },
+    "correct": "D",
+    "explanation": "The Spleen (Earth) generates the Lung (Metal), and the Gu Qi produced by the Spleen is the basis of Lung Qi and Wei Qi. When both are deficient, Lung signs (a weak cough with thin, watery sputum, breathlessness on exertion, a weak voice, spontaneous sweating, frequent colds) coexist with Spleen signs (poor appetite, distension after eating, loose stools, tiredness). The pale, teeth-marked tongue and a weak pulse at the right front (Lung) and right middle (Spleen) positions confirm involvement of both organs. The discriminating finding is the combination of respiratory and digestive deficiency signs with weakness at both right-side positions.",
+    "distractorExplanations": {
+      "A": "Lung Qi deficiency alone explains the cough, weak voice and sweating but not the poor appetite, loose stools, teeth marks and weak right middle pulse.",
+      "B": "Spleen Qi deficiency alone explains the digestive signs and tiredness but not the chronic cough, spontaneous sweating and frequent colds.",
+      "C": "Phlegm-Damp obstructing the Lung produces profuse sticky sputum, chest oppression, a thick sticky coating and a slippery pulse; here the sputum is thin and watery and the coating thin."
+    },
+    "learningObjective": "Analyze a combined Lung and Spleen Qi deficiency by linking respiratory and digestive signs through the generating cycle.",
+    "difficulty": "advanced",
+    "cognitiveLevel": "analysis",
+    "vignette": true,
+    "concepts": [
+      "lung-spleen-qi-deficiency",
+      "lung-qi-deficiency",
+      "spleen-qi-deficiency",
+      "generating-cycle"
+    ],
+    "distinction": {
+      "between": [
+        "lung-spleen-qi-deficiency",
+        "lung-qi-deficiency"
+      ],
+      "key": "Poor appetite, loose stools, teeth marks and a weak right middle pulse added to a weak cough with sweating mark Lung and Spleen Qi deficiency rather than Lung Qi deficiency alone."
+    },
+    "references": [
+      {
+        "source": "Maciocia, The Foundations of Chinese Medicine, 3rd ed.",
+        "locator": "Combined patterns: Lung- and Spleen-Qi deficiency"
+      },
+      {
+        "source": "Cheng Xinnong, Chinese Acupuncture and Moxibustion, 4th ed.",
+        "locator": "Differentiation of syndromes according to the theory of Zang-Fu organs: complicated syndromes"
+      }
+    ],
+    "validation": {
+      "status": "ai_reviewed",
+      "passes": {
+        "schema": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "uniqueness": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "distractors": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "relevance": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "difficulty": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "duplication": {
+          "ok": true,
+          "by": "auto",
+          "date": "2026-10-20T04:11:00.193Z"
+        },
+        "blindSolve": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent solver chose D (high)"
+        },
+        "coherence": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "no coherence concern raised by independent reviewer"
+        },
+        "factual": {
+          "ok": true,
+          "by": "ai",
+          "date": "2026-10-20T04:11:00.193Z",
+          "note": "independent reviewer agreed with key and raised no concern"
+        }
+      }
+    },
+    "lastReviewedAt": "2026-10-20T04:11:00.193Z",
+    "version": 1,
+    "createdAt": "2026-10-20T04:11:00.193Z"
+  }
+]

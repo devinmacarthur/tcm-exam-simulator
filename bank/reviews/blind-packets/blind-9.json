@@ -1,0 +1,398 @@
+[
+  {
+    "id": "FOM-IC-0001",
+    "subdomain": "I-C",
+    "stem": "A patient reports sweating during the day that appears with the slightest exertion, along with a weak voice, shortness of breath, and frequent colds. This type of sweating is most consistent with which pattern?",
+    "options": {
+      "A": "Lung Yin deficiency",
+      "B": "Damp-Heat in the Spleen",
+      "C": "Lung Qi deficiency",
+      "D": "Stomach Fire"
+    }
+  },
+  {
+    "id": "FOM-IC-0002",
+    "subdomain": "I-C",
+    "stem": "A patient reports sweating during sleep that stops on waking, together with a sensation of heat in the palms, the soles, and the center of the chest. These findings are most consistent with which pattern?",
+    "options": {
+      "A": "Yin deficiency with Empty Heat",
+      "B": "Qi deficiency",
+      "C": "Yang deficiency",
+      "D": "Full Heat"
+    }
+  },
+  {
+    "id": "FOM-IC-0003",
+    "subdomain": "I-C",
+    "stem": "A 34-year-old patient reports sweating that is confined to the head and forehead, a heavy sensation in the body, a sticky taste in the mouth, and epigastric fullness. The tongue has a sticky yellow coating, and the pulse is slippery and rapid. Which pattern is most consistent with these findings?",
+    "options": {
+      "A": "Kidney Yin deficiency",
+      "B": "Lung Qi deficiency",
+      "C": "Liver Blood deficiency",
+      "D": "Damp-Heat in the Spleen and Stomach"
+    }
+  },
+  {
+    "id": "FOM-IC-0004",
+    "subdomain": "I-C",
+    "stem": "A patient describes headaches felt on the sides of the head, at the temples, and around the ears. According to channel differentiation of headache, this location corresponds to which channel level?",
+    "options": {
+      "A": "Tai Yang",
+      "B": "Shao Yang",
+      "C": "Yang Ming",
+      "D": "Jue Yin"
+    }
+  },
+  {
+    "id": "FOM-IC-0005",
+    "subdomain": "I-C",
+    "stem": "A patient describes abdominal pain with a distending quality that shifts location, comes and goes, and eases after belching or passing gas. This quality of pain most commonly indicates:",
+    "options": {
+      "A": "Qi stagnation",
+      "B": "Blood stasis",
+      "C": "Blood deficiency",
+      "D": "Dampness"
+    }
+  },
+  {
+    "id": "FOM-IC-0006",
+    "subdomain": "I-C",
+    "stem": "During inquiry about pain, which description is most characteristic of Blood stasis?",
+    "options": {
+      "A": "A distending pain that moves and fluctuates with mood",
+      "B": "A dull pain that is relieved by pressure and rest",
+      "C": "A fixed, stabbing pain that is worse at night",
+      "D": "A heavy, aching pain that is worse in damp weather"
+    }
+  },
+  {
+    "id": "FOM-IC-0007",
+    "subdomain": "I-C",
+    "stem": "A patient reports a dull epigastric ache that eases when the area is pressed and improves with a hot-water bottle. These two features of the pain suggest a condition best described as:",
+    "options": {
+      "A": "excess and Heat",
+      "B": "excess and Cold",
+      "C": "deficiency and Heat",
+      "D": "deficiency and Cold"
+    }
+  },
+  {
+    "id": "FOM-IC-0008",
+    "subdomain": "I-C",
+    "stem": "A 52-year-old patient reports dizziness for several months, with a heavy, muzzy feeling in the head as if it were wrapped in cloth, nausea, and a sensation of oppression in the chest. Symptoms are worse after rich meals. The tongue is swollen with a sticky white coating, and the pulse is slippery. Which pattern is most consistent with these findings?",
+    "options": {
+      "A": "Liver Yang rising",
+      "B": "Turbid Phlegm obstructing the head",
+      "C": "Qi and Blood deficiency",
+      "D": "Kidney Essence deficiency"
+    }
+  },
+  {
+    "id": "FOM-IC-0009",
+    "subdomain": "I-C",
+    "stem": "A patient reports feeling thirsty but having little wish to drink, together with a sticky taste in the mouth and a sensation of heaviness in the body. Which pattern best explains this combination?",
+    "options": {
+      "A": "Damp-Heat",
+      "B": "Stomach Fire",
+      "C": "Lung Dryness",
+      "D": "Spleen Yang deficiency"
+    }
+  },
+  {
+    "id": "FOM-IC-0010",
+    "subdomain": "I-C",
+    "stem": "A patient reports a persistently dry mouth and throat. Which follow-up question would best help differentiate Full Heat from Yin deficiency?",
+    "options": {
+      "A": "Is the dryness worse in a heated room?",
+      "B": "Do you also have a stuffy or runny nose?",
+      "C": "Do you crave large cold drinks or prefer small sips?",
+      "D": "Did the dryness begin after a change in diet?"
+    }
+  },
+  {
+    "id": "FOM-IC-0011",
+    "subdomain": "I-C",
+    "stem": "A patient reports a persistent bitter taste in the mouth that is most noticeable on waking. With no other information, this taste most commonly points to:",
+    "options": {
+      "A": "Dampness in the Spleen",
+      "B": "Heat in the Liver and Gallbladder",
+      "C": "Kidney Yang deficiency",
+      "D": "Retention of Food in the Stomach"
+    }
+  },
+  {
+    "id": "FOM-IC-0012",
+    "subdomain": "I-C",
+    "stem": "A patient reports a frequent feeling of hunger. Which follow-up question would best help differentiate Stomach Fire from Stomach Yin deficiency?",
+    "options": {
+      "A": "Do you feel bloated after eating?",
+      "B": "Do you have a sour taste in your mouth?",
+      "C": "Does the hunger come on mainly in the early morning?",
+      "D": "When hungry, do you want to eat a lot or very little?"
+    }
+  },
+  {
+    "id": "FOM-IC-0013",
+    "subdomain": "I-C",
+    "stem": "A 66-year-old patient reports loose stools with undigested food that occur each day just before dawn, along with a cold sensation in the lower back and knees and frequent pale urination. This presentation most suggests:",
+    "options": {
+      "A": "Kidney Yang deficiency",
+      "B": "Large Intestine Damp-Heat",
+      "C": "Liver Qi stagnation",
+      "D": "Stomach Yin deficiency"
+    }
+  },
+  {
+    "id": "FOM-IC-0014",
+    "subdomain": "I-C",
+    "stem": "A 41-year-old patient reports bowel movements that alternate between constipation with small, pellet-like stools and loose stools. The changes follow periods of work stress and come with abdominal distension, frequent flatulence, and abdominal pain that eases after a bowel movement. The tongue sides are slightly red, and the pulse is wiry on the left and weak on the right. Which pattern is most consistent?",
+    "options": {
+      "A": "Large Intestine Damp-Heat",
+      "B": "Spleen Yang deficiency",
+      "C": "Liver Qi overacting on the Spleen",
+      "D": "Kidney Yang deficiency"
+    }
+  },
+  {
+    "id": "FOM-IC-0015",
+    "subdomain": "I-C",
+    "stem": "A patient reports loose stools for two weeks. Which follow-up question would best help differentiate Large Intestine Damp-Heat from Spleen Qi deficiency?",
+    "options": {
+      "A": "Did the loose stools begin after emotional stress?",
+      "B": "Is there burning at the anus and a strong stool odor?",
+      "C": "Has your appetite been poorer than usual lately?",
+      "D": "Do your arms and legs feel heavy?"
+    }
+  },
+  {
+    "id": "FOM-IC-0016",
+    "subdomain": "I-C",
+    "stem": "A 30-year-old woman reports difficult bowel movements with dry stools every three to four days since giving birth two months ago, when she lost a considerable amount of blood. She also reports dizziness, blurred vision, and a pale, dull complexion. The tongue is pale and thin, and the pulse is thin (thready) and choppy. Which pattern is most consistent?",
+    "options": {
+      "A": "Heat in the Intestines",
+      "B": "Kidney Yin deficiency",
+      "C": "Spleen Qi deficiency",
+      "D": "Blood deficiency"
+    }
+  },
+  {
+    "id": "FOM-IC-0017",
+    "subdomain": "I-C",
+    "stem": "A 60-year-old patient reports frequent urination. Which follow-up question would best help differentiate Kidney Yang deficiency from Bladder Damp-Heat?",
+    "options": {
+      "A": "What color is the urine, and does it burn or hurt?",
+      "B": "Have you been drinking more fluids than usual?",
+      "C": "Is the urge more frequent when you feel anxious?",
+      "D": "Is the urge stronger in the morning or afternoon?"
+    }
+  },
+  {
+    "id": "FOM-IC-0018",
+    "subdomain": "I-C",
+    "stem": "A 27-year-old patient reports painful ulcers on the tongue and inside the cheeks, mental restlessness, and insomnia, together with scanty, dark urine that burns on urination. The tip of the tongue is red with a thin yellow coating, and the pulse is rapid and overflowing at the left cun (distal) position. Which pattern best accounts for both the mouth and the urinary symptoms?",
+    "options": {
+      "A": "Bladder Damp-Heat",
+      "B": "Stomach Fire",
+      "C": "Heart Fire transmitting to the Small Intestine",
+      "D": "Kidney Yin deficiency with Empty Heat"
+    }
+  },
+  {
+    "id": "FOM-IC-0019",
+    "subdomain": "I-C",
+    "stem": "A 48-year-old patient with chronic insomnia also reports palpitations. Which follow-up question would best help differentiate Heart Blood deficiency from Heart and Kidney Yin deficiency (Heart and Kidney not harmonized)?",
+    "options": {
+      "A": "Do you dream a great deal during the night?",
+      "B": "Is it hard to fall asleep, or do you wake hot and sweaty?",
+      "C": "Do you sleep worse after eating a large meal?",
+      "D": "Do you feel anxious when you are trying to sleep?"
+    }
+  },
+  {
+    "id": "FOM-IC-0020",
+    "subdomain": "I-C",
+    "stem": "A 25-year-old patient reports waking very early and being unable to fall asleep again, dream-disturbed sleep, being easily startled by noises, and timidity with difficulty making decisions. There are also palpitations and a lack of initiative. The tongue is pale, and the pulse is weak. Which pattern is most consistent?",
+    "options": {
+      "A": "Heart and Gallbladder deficiency",
+      "B": "Liver Fire blazing",
+      "C": "Phlegm-Heat harassing the Heart",
+      "D": "Kidney Yang deficiency"
+    }
+  },
+  {
+    "id": "FOM-IC-0021",
+    "subdomain": "I-C",
+    "stem": "A 45-year-old patient reports a strong desire to sleep after meals, heaviness of the limbs, loose stools, and poor appetite. The tongue is pale and swollen with a sticky white coating, and the pulse is soggy. Which pattern most likely accounts for the somnolence?",
+    "options": {
+      "A": "Heart Blood deficiency",
+      "B": "Liver Qi stagnation",
+      "C": "Kidney Yin deficiency",
+      "D": "Spleen Qi deficiency with Dampness"
+    }
+  },
+  {
+    "id": "FOM-IC-0022",
+    "subdomain": "I-C",
+    "stem": "A patient reports ringing in the ears. Which follow-up question would best help differentiate an excess pattern such as Liver Fire from a deficiency pattern such as Kidney deficiency?",
+    "options": {
+      "A": "Is the ringing in one ear or in both ears?",
+      "B": "Is the ringing more bothersome in noisy places?",
+      "C": "Did it start suddenly and loud, or slowly and soft?",
+      "D": "Do your ears also feel itchy inside?"
+    }
+  },
+  {
+    "id": "FOM-IC-0023",
+    "subdomain": "I-C",
+    "stem": "A patient reports dry eyes, blurred vision, and floaters that worsen with prolonged reading and in the evening. These eye symptoms most commonly indicate:",
+    "options": {
+      "A": "Liver Fire blazing",
+      "B": "Liver Blood deficiency",
+      "C": "Wind-Heat invading the eyes",
+      "D": "Liver and Gallbladder Damp-Heat"
+    }
+  },
+  {
+    "id": "FOM-IC-0024",
+    "subdomain": "I-C",
+    "stem": "A patient reports menstrual periods that consistently arrive about a week early, with heavy, bright red, thick flow. These findings most commonly indicate:",
+    "options": {
+      "A": "Blood deficiency",
+      "B": "Cold in the Uterus",
+      "C": "Qi stagnation",
+      "D": "Blood Heat"
+    }
+  },
+  {
+    "id": "FOM-IC-0025",
+    "subdomain": "I-C",
+    "stem": "A 32-year-old woman reports that her menstrual cycle is irregular, sometimes arriving early and sometimes late. Before each period she experiences breast distension, irritability, and frequent sighing, which ease once bleeding starts. The tongue is normal in color, and the pulse is wiry. Which pattern is most consistent?",
+    "options": {
+      "A": "Liver Qi stagnation",
+      "B": "Kidney Yang deficiency",
+      "C": "Spleen Qi deficiency",
+      "D": "Blood Heat"
+    }
+  },
+  {
+    "id": "FOM-IC-0026",
+    "subdomain": "I-C",
+    "stem": "A 22-year-old woman reports painful periods. Which follow-up question would best help differentiate an excess pattern from a deficiency pattern of dysmenorrhea?",
+    "options": {
+      "A": "How old were you when your periods first began?",
+      "B": "Do you have food cravings before your period?",
+      "C": "Is the pain before the flow or after, and does pressure help?",
+      "D": "How many days does your bleeding usually last?"
+    }
+  },
+  {
+    "id": "FOM-IC-0027",
+    "subdomain": "I-C",
+    "stem": "A 36-year-old woman reports a dull, dragging lower abdominal ache that begins toward the end of menstruation and continues for a day or two afterward, relieved by pressure and rest. Her flow is scanty and pale, and she feels tired and dizzy. The tongue is pale, and the pulse is thin (thready) and weak. Which pattern is most consistent?",
+    "options": {
+      "A": "Blood stasis in the Uterus",
+      "B": "Qi and Blood deficiency",
+      "C": "Liver Qi stagnation",
+      "D": "Damp-Heat in the Lower Burner"
+    }
+  },
+  {
+    "id": "FOM-IC-0028",
+    "subdomain": "I-C",
+    "stem": "A 39-year-old woman reports an increase in vaginal discharge. Which follow-up question would best help differentiate Damp-Heat in the Lower Burner from Spleen deficiency with Dampness?",
+    "options": {
+      "A": "Does the discharge increase around mid-cycle?",
+      "B": "Has the discharge been present for over a year?",
+      "C": "Do you feel more tired in the late afternoon?",
+      "D": "What color is the discharge, and does it smell?"
+    }
+  },
+  {
+    "id": "FOM-IC-0029",
+    "subdomain": "I-C",
+    "stem": "A mother brings her 4-year-old son, who has had poor appetite, abdominal distension and pain that worsen when the abdomen is pressed, sour-smelling breath, and restless sleep since a birthday party two days ago. His stools are foul-smelling. The tongue has a thick, sticky coating, and the pulse is slippery. Which pattern is most consistent?",
+    "options": {
+      "A": "Retention of Food",
+      "B": "Spleen Qi deficiency",
+      "C": "Wind-Cold invading the Lung",
+      "D": "Kidney Essence deficiency"
+    }
+  },
+  {
+    "id": "FOM-IC-0030",
+    "subdomain": "I-C",
+    "stem": "When taking a child's history, the parents report that the child began walking and teething late and that the fontanelle closed later than expected. These developmental findings most directly reflect:",
+    "options": {
+      "A": "Spleen Qi deficiency",
+      "B": "Liver Blood deficiency",
+      "C": "Kidney Essence deficiency",
+      "D": "Lung Qi deficiency"
+    }
+  },
+  {
+    "id": "FOM-IC-0031",
+    "subdomain": "I-C",
+    "stem": "A 29-year-old patient has had a cough, sneezing, and aversion to cold for two days. Which follow-up question would best help differentiate Wind-Cold from Wind-Heat?",
+    "options": {
+      "A": "Have you been feeling more tired than usual?",
+      "B": "Is your throat sore, and is any phlegm yellow?",
+      "C": "Did the cough begin after recent air travel?",
+      "D": "Is the cough worse when you lie down at night?"
+    }
+  },
+  {
+    "id": "FOM-IC-0032",
+    "subdomain": "I-C",
+    "stem": "A patient reports alternating episodes of feeling cold and then feeling hot, with a bitter taste and a sense of fullness in the hypochondrium. In Six Stage differentiation, this pattern of chills and fever indicates which stage?",
+    "options": {
+      "A": "Tai Yang",
+      "B": "Yang Ming",
+      "C": "Tai Yin",
+      "D": "Shao Yang"
+    }
+  },
+  {
+    "id": "FOM-IC-0033",
+    "subdomain": "I-C",
+    "stem": "A 44-year-old patient reports a fever that rises each afternoon. Which follow-up question would best help differentiate Yin deficiency from Damp-Heat as the cause?",
+    "options": {
+      "A": "Does your body feel heavy, with a sticky taste?",
+      "B": "Is the fever higher on cloudy, cool days?",
+      "C": "Do you feel thirsty when the fever comes?",
+      "D": "Does the fever begin soon after you eat lunch?"
+    }
+  },
+  {
+    "id": "FOM-IC-0034",
+    "subdomain": "I-C",
+    "stem": "A 37-year-old patient reports feeling cold. Which follow-up question would best help differentiate an exterior invasion of Wind-Cold from interior Yang deficiency?",
+    "options": {
+      "A": "Do your hands and feet feel cold on most days?",
+      "B": "Do you prefer warm drinks over cold drinks?",
+      "C": "Did it start suddenly, and do more layers fail to warm you?",
+      "D": "Has your appetite been lower than usual lately?"
+    }
+  },
+  {
+    "id": "FOM-IC-0035",
+    "subdomain": "I-C",
+    "stem": "A 58-year-old patient reports a feeling of oppression and fullness in the chest, a chronic cough with copious white sputum that is easy to expectorate, and heaviness of the body that is worse in damp weather. The tongue is swollen with a sticky white coating, and the pulse is slippery. Which pattern is most consistent?",
+    "options": {
+      "A": "Lung Yin deficiency",
+      "B": "Damp-Phlegm in the Lung",
+      "C": "Wind-Heat invading the Lung",
+      "D": "Lung Qi deficiency"
+    }
+  },
+  {
+    "id": "FOM-IC-0036",
+    "subdomain": "I-C",
+    "stem": "A 40-year-old patient reports epigastric pain and distension that reliably appear after arguments at work. The pain is accompanied by belching, sour regurgitation, and irritability, and it eases somewhat after belching. The pulse is wiry. Which pattern is most consistent?",
+    "options": {
+      "A": "Stomach Yin deficiency",
+      "B": "Retention of Food in the Stomach",
+      "C": "Cold invading the Stomach",
+      "D": "Liver Qi invading the Stomach"
+    }
+  }
+]
